@@ -4,11 +4,11 @@ Schemas are implemented in `src/cfb_intel/schemas.py` with Pydantic.
 
 ## Player
 
-Stable identity, roster attributes, source URLs, status, and `last_updated`.
+Stable identity, roster attributes, source URLs, status, embedded `stats`, and `last_updated`.
 
 ## PlayerStats
 
-Season/team row with passing, rushing, receiving, defensive, kicking, and punting fields. Stats collection is scaffolded for phase 3.
+Season/team row with passing, rushing, receiving, defensive, kicking, and punting fields. Rows are exported separately in `player_stats.json` and embedded into each matching player profile under `stats`.
 
 ## NewsItem
 
@@ -21,4 +21,3 @@ Derived from injury-tagged news metadata. Status is conservative and defaults to
 ## Team
 
 Team metadata, official site, roster URL, source URLs, and timestamp.
-

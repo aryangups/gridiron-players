@@ -78,6 +78,7 @@ class Player(ExportModel):
     birth_date: str | None = None
     recruiting_stars: int | None = Field(default=None, ge=1, le=5)
     status: PlayerStatus = PlayerStatus.unknown
+    stats: list[dict[str, object]] = Field(default_factory=list)
     source_urls: list[HttpUrl] = Field(default_factory=list)
     last_updated: datetime = Field(default_factory=utc_now)
 

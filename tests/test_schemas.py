@@ -4,8 +4,15 @@ from cfb_intel.schemas import InjuryUpdate, NewsItem, Player, PlayerStats
 
 
 def test_player_schema_validation():
-    player = Player(player_id="p1", full_name="Arch Manning", team="Texas", source_urls=["https://example.com"])
+    player = Player(
+        player_id="p1",
+        full_name="Arch Manning",
+        team="Texas",
+        stats=[{"season": 2025, "passing_yards": 100}],
+        source_urls=["https://example.com"],
+    )
     assert player.full_name == "Arch Manning"
+    assert player.stats[0]["season"] == 2025
 
 
 def test_stats_schema_validation():
@@ -34,4 +41,3 @@ def test_injury_schema_validation():
         reported_at=datetime.now(timezone.utc),
     )
     assert injury.injury_status == "unknown"
-

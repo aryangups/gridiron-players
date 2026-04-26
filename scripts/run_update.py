@@ -26,14 +26,13 @@ def main() -> int:
     configure_logging()
     args = parse_args()
     if args.all or not any([args.rosters, args.stats, args.news, args.injuries]):
-        summary = run_update(rosters=True, news=True, injuries=True)
+        summary = run_update(rosters=True, stats=True, news=True, injuries=True)
     else:
-        run_rosters = args.rosters or args.news or args.injuries
-        summary = run_update(rosters=run_rosters, news=args.news or args.injuries, injuries=args.injuries)
+        run_rosters = args.rosters or args.stats or args.news or args.injuries
+        summary = run_update(rosters=run_rosters, stats=args.stats, news=args.news or args.injuries, injuries=args.injuries)
     print(summary)
     return 0
 
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

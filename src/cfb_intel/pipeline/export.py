@@ -10,7 +10,7 @@ from typing import Any
 from pydantic import BaseModel
 
 from cfb_intel.config import EXPORT_DIR
-from cfb_intel.schemas import InjuryUpdate, NewsItem, Player, Team
+from cfb_intel.schemas import InjuryUpdate, NewsItem, Player, PlayerStats, Team
 from cfb_intel.storage.sqlite_store import write_sqlite
 
 
@@ -56,13 +56,21 @@ def build_player_index(players: list[Player], news: list[NewsItem], injuries: li
     }
 
 
-def export_all(players: list[Player], teams: list[Team], news: list[NewsItem], injuries: list[InjuryUpdate]) -> None:
+def export_all(
+    players: list[Player],
+    teams: list[Team],
+    news: list[NewsItem],
+    injuries: list[InjuryUpdate],
+    stats: list[PlayerStats] | None = None,
+) -> None:
+    stats = stats or []
     EXPORT_DIR.mkdir(parents=True, exist_ok=True)
     _dump_json(EXPORT_DIR / "players.json", players)
     _dump_csv(EXPORT_DIR / "players.csv", players)
     _dump_json(EXPORT_DIR / "teams.json", teams)
+    _dump_json(EXPORT_DIR / "player_stats.json", stats)
     _dump_json(EXPORT_DIR / "news.json", news)
     _dump_json(EXPORT_DIR / "injuries.json", injuries)
     index = build_player_index(players, news, injuries)
     (EXPORT_DIR / "player_index.json").write_text(json.dumps(index, indent=2), encoding="utf-8")
-    write_sqlite(EXPORT_DIR / "cfb_intel.sqlite", players=players, teams=teams, news=news, injuries=injuries)
+    write_sqlite(EXPORT_DIR / "cfb_intel.sqlite", players=players, teams=teams, stats=stats, news=news, injuries=injuries)

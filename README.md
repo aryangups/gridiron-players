@@ -7,6 +7,7 @@ The pipeline now defaults to a full-FBS run using ESPN's public college football
 ## What It Collects
 
 - Player roster profiles for the ESPN FBS group, with ESPN roster/profile URLs as provenance.
+- Historical player season stats from ESPN's public athlete stats endpoint when available.
 - Team metadata for the full ESPN FBS group.
 - Public news metadata from Google News RSS for every collected team when accessible.
 - Injury updates extracted conservatively from news items tagged as injury.
@@ -80,6 +81,7 @@ Generated files:
 - `data/exports/players.json`
 - `data/exports/players.csv`
 - `data/exports/teams.json`
+- `data/exports/player_stats.json`
 - `data/exports/news.json`
 - `data/exports/injuries.json`
 - `data/exports/player_index.json`
@@ -95,6 +97,15 @@ Example player:
   "conference": "SEC",
   "position": "QB",
   "status": "active",
+  "stats": [
+    {
+      "season": 2025,
+      "team": "Texas Longhorns",
+      "passing_yards": 939,
+      "passing_tds": 9,
+      "source_url": "https://site.web.api.espn.com/apis/common/v3/sports/football/college-football/athletes/..."
+    }
+  ],
   "source_urls": ["https://texassports.com/sports/football/roster"],
   "last_updated": "2026-04-26T01:00:00Z"
 }
@@ -133,7 +144,7 @@ Example news record:
 
 - ESPN endpoints are public but unofficial and may change; the adapter is isolated and can be disabled.
 - Official school-site roster scraping is not enabled by default because each site needs separate robots.txt and terms review.
-- Stats adapters are placeholders for phase 3.
+- Player stats are only present when ESPN exposes public stats for that athlete. Players without public stats keep `stats: []`.
 - News matching is heuristic and exposes `confidence_score`.
 - Google News RSS may return zero items or fail depending on network and rate limits.
 

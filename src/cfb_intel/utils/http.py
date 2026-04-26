@@ -58,6 +58,9 @@ class PoliteHttpClient:
                 if response.status_code in {403, 429}:
                     LOGGER.warning("source declined request", extra={"cfb_url": url, "cfb_status": response.status_code})
                     return HttpResult(url=url, status_code=response.status_code, text=response.text)
+                if response.status_code == 404:
+                    LOGGER.info("source has no record", extra={"cfb_url": url, "cfb_status": response.status_code})
+                    return HttpResult(url=url, status_code=response.status_code, text=response.text)
                 response.raise_for_status()
                 cache_path.write_text(response.text, encoding="utf-8")
                 return HttpResult(url=url, status_code=response.status_code, text=response.text)

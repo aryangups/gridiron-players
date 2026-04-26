@@ -13,6 +13,7 @@ REQUIRED = [
     "players.json",
     "players.csv",
     "teams.json",
+    "player_stats.json",
     "news.json",
     "injuries.json",
     "player_index.json",
@@ -33,6 +34,7 @@ def main() -> int:
             raise AssertionError(f"missing export file: {name}")
     players = _load_json("players.json")
     news = _load_json("news.json")
+    stats = _load_json("player_stats.json")
     _load_json("teams.json")
     _load_json("injuries.json")
     index = _load_json("player_index.json")
@@ -53,6 +55,11 @@ def main() -> int:
             if not item.get(key):
                 raise AssertionError(f"news missing {key}: {item}")
 
+    for row in stats:
+        for key in ["player_id", "season", "team", "source_url", "last_updated"]:
+            if not row.get(key):
+                raise AssertionError(f"stats row missing {key}: {row}")
+
     with sqlite3.connect(EXPORTS / "cfb_intel.sqlite") as conn:
         conn.execute("SELECT name FROM sqlite_master WHERE type='table'").fetchall()
 
@@ -61,6 +68,7 @@ def main() -> int:
             {
                 "players": len(players),
                 "news": len(news),
+                "stats": len(stats),
                 "indexed_players": len(index.get("players", [])),
                 "status": "ok",
             },
@@ -72,4 +80,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

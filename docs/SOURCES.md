@@ -2,7 +2,7 @@
 
 ## Current Full-FBS Source
 
-- ESPN public site/core endpoints: full ESPN FBS group team list and roster metadata. Enabled by `ENABLE_ESPN=true`.
+- ESPN public site/core endpoints: full ESPN FBS group team list, roster metadata, and public athlete historical stats. Enabled by `ENABLE_ESPN=true` and `ENABLE_PLAYER_STATS=true`.
 - Google News RSS: public RSS metadata only for each collected team. Disabled by setting `ENABLE_GOOGLE_NEWS_RSS=false`.
 
 The ESPN adapter uses public JSON endpoints that power ESPN's college football pages. They are not a contracted API and may change, so the source is isolated in `src/cfb_intel/sources/espn.py` and can be disabled without changing the rest of the pipeline.
