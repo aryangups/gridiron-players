@@ -2,8 +2,21 @@ name: Run scraper
 
 on:
   workflow_dispatch:
+    inputs:
+      run_type:
+        description: "Scraper run type"
+        required: true
+        default: "full"
+        type: choice
+        options:
+          - full
+          - quick
   schedule:
-    - cron: "0 8 * * *"
+    # Full run candidates. The workflow checks America/New_York time so this stays 5 PM across DST changes.
+    - cron: "0 21 * * *"
+    - cron: "0 22 * * *"
+    # Quick run without player stats: roster/news/injury refresh every 5 hours.
+    - cron: "0 */5 * * *"
 
 permissions:
   contents: write
@@ -29,13 +42,34 @@ jobs:
       - name: Install dependencies
         run: python -m pip install -r requirements.txt
 
-      - name: Run scraper
+      - name: Determine run type
+        id: run-type
+        shell: bash
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            echo "type=${{ inputs.run_type }}" >> "$GITHUB_OUTPUT"
+          elif [[ "${{ github.event.schedule }}" == "0 */5 * * *" ]]; then
+            echo "type=quick" >> "$GITHUB_OUTPUT"
+          elif [[ "$(TZ=America/New_York date +%H)" == "17" ]]; then
+            echo "type=full" >> "$GITHUB_OUTPUT"
+          else
+            echo "type=skip" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Run full scraper
+        if: steps.run-type.outputs.type == 'full'
         run: python scripts/run_update.py --all
 
+      - name: Run quick scraper
+        if: steps.run-type.outputs.type == 'quick'
+        run: python scripts/run_update.py --rosters --news --injuries
+
       - name: Validate scraper results
+        if: steps.run-type.outputs.type != 'skip'
         run: python scripts/validate_data.py
 
       - name: Commit scraper results
+        if: steps.run-type.outputs.type != 'skip'
         id: commit
         shell: bash
         run: |
@@ -52,7 +86,7 @@ jobs:
           fi
 
       - name: Send success email
-        if: success() && env.SMTP_SERVER != '' && env.SMTP_USERNAME != '' && env.SMTP_PASSWORD != ''
+        if: success() && steps.run-type.outputs.type != 'skip' && env.SMTP_SERVER != '' && env.SMTP_USERNAME != '' && env.SMTP_PASSWORD != ''
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: ${{ env.SMTP_SERVER }}
