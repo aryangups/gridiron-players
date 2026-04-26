@@ -1,0 +1,32 @@
+name: Update college football player data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run update
+        run: python scripts/run_update.py --all
+      - name: Validate exports
+        run: python scripts/validate_data.py
+      - name: Commit data updates
+        run: |
+          git config user.name github-actions
+          git config user.email actions@github.com
+          git add data/exports data/processed logs
+          git commit -m "Update college football player data" || echo "No changes"
+          git push
+

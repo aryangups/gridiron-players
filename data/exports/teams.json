@@ -1,0 +1,67 @@
+[
+  {
+    "team_id": "alabama",
+    "team_name": "Alabama",
+    "abbreviation": "ALA",
+    "conference": "SEC",
+    "division": null,
+    "official_site": "https://rolltide.com",
+    "roster_url": "https://rolltide.com/sports/football/roster",
+    "source_urls": [
+      "https://rolltide.com/sports/football/roster"
+    ],
+    "last_updated": "2026-04-26T02:30:49.385044+00:00"
+  },
+  {
+    "team_id": "georgia",
+    "team_name": "Georgia",
+    "abbreviation": "UGA",
+    "conference": "SEC",
+    "division": null,
+    "official_site": "https://georgiadogs.com",
+    "roster_url": "https://georgiadogs.com/sports/football/roster",
+    "source_urls": [
+      "https://georgiadogs.com/sports/football/roster"
+    ],
+    "last_updated": "2026-04-26T02:30:49.385044+00:00"
+  },
+  {
+    "team_id": "ohio-state",
+    "team_name": "Ohio State",
+    "abbreviation": "OSU",
+    "conference": "Big Ten",
+    "division": null,
+    "official_site": "https://ohiostatebuckeyes.com",
+    "roster_url": "https://ohiostatebuckeyes.com/sports/football/roster",
+    "source_urls": [
+      "https://ohiostatebuckeyes.com/sports/football/roster"
+    ],
+    "last_updated": "2026-04-26T02:30:49.385044+00:00"
+  },
+  {
+    "team_id": "michigan",
+    "team_name": "Michigan",
+    "abbreviation": "MICH",
+    "conference": "Big Ten",
+    "division": null,
+    "official_site": "https://mgoblue.com",
+    "roster_url": "https://mgoblue.com/sports/football/roster",
+    "source_urls": [
+      "https://mgoblue.com/sports/football/roster"
+    ],
+    "last_updated": "2026-04-26T02:30:49.385044+00:00"
+  },
+  {
+    "team_id": "texas",
+    "team_name": "Texas",
+    "abbreviation": "TEX",
+    "conference": "SEC",
+    "division": null,
+    "official_site": "https://texassports.com",
+    "roster_url": "https://texassports.com/sports/football/roster",
+    "source_urls": [
+      "https://texassports.com/sports/football/roster"
+    ],
+    "last_updated": "2026-04-26T02:30:49.385044+00:00"
+  }
+]

@@ -1,0 +1,104 @@
+{
+  "players": [
+    {
+      "player_id": "cfb_747e3de2fa296b27",
+      "name": "Jalen Milroe",
+      "team": "Alabama",
+      "position": "QB",
+      "conference": "SEC",
+      "latest_news_count": 0,
+      "injury_status": "unknown",
+      "last_updated": "2026-04-26T02:30:49.386044+00:00"
+    },
+    {
+      "player_id": "cfb_6731ff5dae50763f",
+      "name": "Ryan Williams",
+      "team": "Alabama",
+      "position": "WR",
+      "conference": "SEC",
+      "latest_news_count": 0,
+      "injury_status": "unknown",
+      "last_updated": "2026-04-26T02:30:49.386044+00:00"
+    },
+    {
+      "player_id": "cfb_247609c1a10236b7",
+      "name": "Gunner Stockton",
+      "team": "Georgia",
+      "position": "QB",
+      "conference": "SEC",
+      "latest_news_count": 0,
+      "injury_status": "unknown",
+      "last_updated": "2026-04-26T02:30:49.386044+00:00"
+    },
+    {
+      "player_id": "cfb_20eaadc85f1cd065",
+      "name": "Malaki Starks",
+      "team": "Georgia",
+      "position": "DB",
+      "conference": "SEC",
+      "latest_news_count": 0,
+      "injury_status": "unknown",
+      "last_updated": "2026-04-26T02:30:49.386044+00:00"
+    },
+    {
+      "player_id": "cfb_c3fc22ee852891c3",
+      "name": "Julian Sayin",
+      "team": "Ohio State",
+      "position": "QB",
+      "conference": "Big Ten",
+      "latest_news_count": 0,
+      "injury_status": "unknown",
+      "last_updated": "2026-04-26T02:30:49.386044+00:00"
+    },
+    {
+      "player_id": "cfb_36922ec43ed43e8f",
+      "name": "Jeremiah Smith",
+      "team": "Ohio State",
+      "position": "WR",
+      "conference": "Big Ten",
+      "latest_news_count": 0,
+      "injury_status": "unknown",
+      "last_updated": "2026-04-26T02:30:49.386044+00:00"
+    },
+    {
+      "player_id": "cfb_7c29df62c65225d2",
+      "name": "Bryce Underwood",
+      "team": "Michigan",
+      "position": "QB",
+      "conference": "Big Ten",
+      "latest_news_count": 0,
+      "injury_status": "unknown",
+      "last_updated": "2026-04-26T02:30:49.386044+00:00"
+    },
+    {
+      "player_id": "cfb_f8ae963fc2bf8878",
+      "name": "Mason Graham",
+      "team": "Michigan",
+      "position": "DL",
+      "conference": "Big Ten",
+      "latest_news_count": 0,
+      "injury_status": "unknown",
+      "last_updated": "2026-04-26T02:30:49.386044+00:00"
+    },
+    {
+      "player_id": "cfb_41766f23f3b092bd",
+      "name": "Arch Manning",
+      "team": "Texas",
+      "position": "QB",
+      "conference": "SEC",
+      "latest_news_count": 0,
+      "injury_status": "unknown",
+      "last_updated": "2026-04-26T02:30:49.386044+00:00"
+    },
+    {
+      "player_id": "cfb_9d871dce45f4a67d",
+      "name": "Anthony Hill Jr.",
+      "team": "Texas",
+      "position": "LB",
+      "conference": "SEC",
+      "latest_news_count": 0,
+      "injury_status": "unknown",
+      "last_updated": "2026-04-26T02:30:49.386044+00:00"
+    }
+  ]
+}
