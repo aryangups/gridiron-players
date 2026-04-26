@@ -2,13 +2,13 @@
 
 Production-minded MVP for collecting and publishing public college football player intelligence as repo-native data files.
 
-The pipeline starts small with five configurable teams: Alabama, Georgia, Ohio State, Michigan, and Texas. It exports normalized player profiles, teams, news metadata, injury-derived updates, a search index, and SQLite snapshots. The source system is modular so future roster, stats, RSS, and official API adapters can be added without rewriting the pipeline.
+The pipeline now defaults to a full-FBS run using ESPN's public college football site endpoints for team and roster metadata. It exports normalized player profiles, teams, news metadata, injury-derived updates, a search index, and SQLite snapshots. The source system is modular so future official team-site, stats, RSS, and documented API adapters can be added without rewriting the pipeline.
 
 ## What It Collects
 
-- Player roster profiles from the MVP roster source with official roster URLs as provenance.
-- Team metadata for the configured teams.
-- Public news metadata from Google News RSS when accessible.
+- Player roster profiles for the ESPN FBS group, with ESPN roster/profile URLs as provenance.
+- Team metadata for the full ESPN FBS group.
+- Public news metadata from Google News RSS for every collected team when accessible.
 - Injury updates extracted conservatively from news items tagged as injury.
 - Source URLs and update timestamps on every export record.
 
@@ -61,15 +61,17 @@ Important flags:
 
 - `ENABLE_GOOGLE_NEWS_RSS=true`
 - `ENABLE_TEAM_RSS=true`
-- `ENABLE_ESPN=false`
+- `ENABLE_ESPN=true`
 - `ENABLE_SPORTS_REFERENCE=false`
 - `ENABLE_NCAA=false`
-- `REQUEST_DELAY_SECONDS=2`
+- `REQUEST_DELAY_SECONDS=0.5`
 - `MAX_NEWS_PER_PLAYER=10`
-- `MAX_TEAMS_INITIAL_RUN=10`
-- `FULL_RUN=false`
+- `MAX_TEAMS_INITIAL_RUN=200`
+- `FULL_RUN=true`
+- `ESPN_SEASON=2026`
+- `ESPN_FBS_GROUP_ID=80`
 
-Expand `MVP_TEAMS` in `config.py` to add teams. Keep source adapters disabled until each site is reviewed.
+Set `ENABLE_ESPN=false` to fall back to the five-team seed source. Keep new source adapters disabled until each site is reviewed.
 
 ## Exports
 
@@ -129,7 +131,8 @@ Example news record:
 
 ## Known Limitations
 
-- MVP roster collection is intentionally small and seed-based to avoid brittle scraping.
+- ESPN endpoints are public but unofficial and may change; the adapter is isolated and can be disabled.
+- Official school-site roster scraping is not enabled by default because each site needs separate robots.txt and terms review.
 - Stats adapters are placeholders for phase 3.
 - News matching is heuristic and exposes `confidence_score`.
 - Google News RSS may return zero items or fail depending on network and rate limits.

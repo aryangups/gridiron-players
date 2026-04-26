@@ -7,6 +7,8 @@ import logging
 import time
 from dataclasses import dataclass
 from pathlib import Path
+from urllib.parse import urlparse
+from urllib.robotparser import RobotFileParser
 
 import requests
 
@@ -38,6 +40,7 @@ class PoliteHttpClient:
         self.cache_dir = cache_dir or RAW_DIR / "cache"
         self.cache_dir.mkdir(parents=True, exist_ok=True)
         self.rate_limiter = RateLimiter(settings.request_delay_seconds if delay_seconds is None else delay_seconds)
+        self._robots_cache: dict[str, RobotFileParser] = {}
 
     def _cache_path(self, url: str) -> Path:
         digest = hashlib.sha256(url.encode("utf-8")).hexdigest()
@@ -65,3 +68,23 @@ class PoliteHttpClient:
                 time.sleep(2**attempt)
         return None
 
+    def allowed_by_robots(self, url: str) -> bool:
+        """Check robots.txt for HTML scraping adapters.
+
+        JSON/API adapters may have separate terms and endpoint rules, so this
+        helper is opt-in instead of globally blocking all requests.
+        """
+        parsed = urlparse(url)
+        if not parsed.scheme or not parsed.netloc:
+            return False
+        base = f"{parsed.scheme}://{parsed.netloc}"
+        if base not in self._robots_cache:
+            robot = RobotFileParser()
+            robot.set_url(f"{base}/robots.txt")
+            try:
+                robot.read()
+            except Exception as exc:
+                LOGGER.warning("robots.txt read failed", extra={"cfb_url": url, "cfb_error": str(exc)})
+                return False
+            self._robots_cache[base] = robot
+        return self._robots_cache[base].can_fetch(self.session.headers["User-Agent"], url)

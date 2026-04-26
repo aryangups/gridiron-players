@@ -1,67 +1,2074 @@
 [
   {
-    "team_id": "alabama",
-    "team_name": "Alabama",
-    "abbreviation": "ALA",
+    "team_id": "espn_2",
+    "team_name": "Auburn Tigers",
+    "abbreviation": "AUB",
     "conference": "SEC",
     "division": null,
-    "official_site": "https://rolltide.com",
-    "roster_url": "https://rolltide.com/sports/football/roster",
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2",
     "source_urls": [
-      "https://rolltide.com/sports/football/roster"
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2"
     ],
-    "last_updated": "2026-04-26T02:30:49.385044+00:00"
+    "last_updated": "2026-04-26T05:12:57.172433+00:00"
   },
   {
-    "team_id": "georgia",
-    "team_name": "Georgia",
+    "team_id": "espn_5",
+    "team_name": "UAB Blazers",
+    "abbreviation": "UAB",
+    "conference": "American",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/5",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/5/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/5"
+    ],
+    "last_updated": "2026-04-26T05:12:57.172433+00:00"
+  },
+  {
+    "team_id": "espn_6",
+    "team_name": "South Alabama Jaguars",
+    "abbreviation": "USA",
+    "conference": "Sun Belt - West",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/6",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/6/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/6"
+    ],
+    "last_updated": "2026-04-26T05:12:57.172433+00:00"
+  },
+  {
+    "team_id": "espn_8",
+    "team_name": "Arkansas Razorbacks",
+    "abbreviation": "ARK",
+    "conference": "SEC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/8",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/8/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/8"
+    ],
+    "last_updated": "2026-04-26T05:12:57.188292+00:00"
+  },
+  {
+    "team_id": "espn_9",
+    "team_name": "Arizona State Sun Devils",
+    "abbreviation": "ASU",
+    "conference": "Big 12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/9",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/9/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/9"
+    ],
+    "last_updated": "2026-04-26T05:12:57.188292+00:00"
+  },
+  {
+    "team_id": "espn_12",
+    "team_name": "Arizona Wildcats",
+    "abbreviation": "ARIZ",
+    "conference": "Big 12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/12",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/12/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/12"
+    ],
+    "last_updated": "2026-04-26T05:12:57.188292+00:00"
+  },
+  {
+    "team_id": "espn_16",
+    "team_name": "Sacramento State Hornets",
+    "abbreviation": "SAC",
+    "conference": "MAC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/16",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/16/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/16"
+    ],
+    "last_updated": "2026-04-26T05:12:57.204237+00:00"
+  },
+  {
+    "team_id": "espn_21",
+    "team_name": "San Diego State Aztecs",
+    "abbreviation": "SDSU",
+    "conference": "Pac-12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/21",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/21/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/21"
+    ],
+    "last_updated": "2026-04-26T05:12:57.208886+00:00"
+  },
+  {
+    "team_id": "espn_23",
+    "team_name": "San José State Spartans",
+    "abbreviation": "SJSU",
+    "conference": "Mountain West",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/23",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/23/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/23"
+    ],
+    "last_updated": "2026-04-26T05:12:57.208886+00:00"
+  },
+  {
+    "team_id": "espn_24",
+    "team_name": "Stanford Cardinal",
+    "abbreviation": "STAN",
+    "conference": "ACC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/24",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/24/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/24"
+    ],
+    "last_updated": "2026-04-26T05:12:57.220185+00:00"
+  },
+  {
+    "team_id": "espn_25",
+    "team_name": "California Golden Bears",
+    "abbreviation": "CAL",
+    "conference": "ACC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/25",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/25/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/25"
+    ],
+    "last_updated": "2026-04-26T05:12:57.220185+00:00"
+  },
+  {
+    "team_id": "espn_26",
+    "team_name": "UCLA Bruins",
+    "abbreviation": "UCLA",
+    "conference": "Big Ten",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/26",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/26/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/26"
+    ],
+    "last_updated": "2026-04-26T05:12:57.220185+00:00"
+  },
+  {
+    "team_id": "espn_30",
+    "team_name": "USC Trojans",
+    "abbreviation": "USC",
+    "conference": "Big Ten",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/30",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/30/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/30"
+    ],
+    "last_updated": "2026-04-26T05:12:57.236148+00:00"
+  },
+  {
+    "team_id": "espn_36",
+    "team_name": "Colorado State Rams",
+    "abbreviation": "CSU",
+    "conference": "Pac-12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/36",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/36/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/36"
+    ],
+    "last_updated": "2026-04-26T05:12:57.236148+00:00"
+  },
+  {
+    "team_id": "espn_38",
+    "team_name": "Colorado Buffaloes",
+    "abbreviation": "COLO",
+    "conference": "Big 12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/38",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/38/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/38"
+    ],
+    "last_updated": "2026-04-26T05:12:57.236148+00:00"
+  },
+  {
+    "team_id": "espn_41",
+    "team_name": "UConn Huskies",
+    "abbreviation": "CONN",
+    "conference": "FBS Indep.",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/41",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/41/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/41"
+    ],
+    "last_updated": "2026-04-26T05:12:57.236148+00:00"
+  },
+  {
+    "team_id": "espn_48",
+    "team_name": "Delaware Blue Hens",
+    "abbreviation": "DEL",
+    "conference": "CUSA",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/48",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/48/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/48"
+    ],
+    "last_updated": "2026-04-26T05:12:57.257065+00:00"
+  },
+  {
+    "team_id": "espn_52",
+    "team_name": "Florida State Seminoles",
+    "abbreviation": "FSU",
+    "conference": "ACC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/52",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/52/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/52"
+    ],
+    "last_updated": "2026-04-26T05:12:57.257065+00:00"
+  },
+  {
+    "team_id": "espn_55",
+    "team_name": "Jacksonville State Gamecocks",
+    "abbreviation": "JVST",
+    "conference": "CUSA",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/55",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/55/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/55"
+    ],
+    "last_updated": "2026-04-26T05:12:57.257065+00:00"
+  },
+  {
+    "team_id": "espn_57",
+    "team_name": "Florida Gators",
+    "abbreviation": "FLA",
+    "conference": "SEC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/57",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/57/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/57"
+    ],
+    "last_updated": "2026-04-26T05:12:57.268118+00:00"
+  },
+  {
+    "team_id": "espn_58",
+    "team_name": "South Florida Bulls",
+    "abbreviation": "USF",
+    "conference": "American",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/58",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/58/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/58"
+    ],
+    "last_updated": "2026-04-26T05:12:57.268118+00:00"
+  },
+  {
+    "team_id": "espn_59",
+    "team_name": "Georgia Tech Yellow Jackets",
+    "abbreviation": "GT",
+    "conference": "ACC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/59",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/59/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/59"
+    ],
+    "last_updated": "2026-04-26T05:12:57.268118+00:00"
+  },
+  {
+    "team_id": "espn_61",
+    "team_name": "Georgia Bulldogs",
     "abbreviation": "UGA",
     "conference": "SEC",
     "division": null,
-    "official_site": "https://georgiadogs.com",
-    "roster_url": "https://georgiadogs.com/sports/football/roster",
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/61",
     "source_urls": [
-      "https://georgiadogs.com/sports/football/roster"
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/61/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/61"
     ],
-    "last_updated": "2026-04-26T02:30:49.385044+00:00"
+    "last_updated": "2026-04-26T05:12:57.284090+00:00"
   },
   {
-    "team_id": "ohio-state",
-    "team_name": "Ohio State",
-    "abbreviation": "OSU",
+    "team_id": "espn_62",
+    "team_name": "Hawai'i Rainbow Warriors",
+    "abbreviation": "HAW",
+    "conference": "Mountain West",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/62",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/62/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/62"
+    ],
+    "last_updated": "2026-04-26T05:12:57.284090+00:00"
+  },
+  {
+    "team_id": "espn_66",
+    "team_name": "Iowa State Cyclones",
+    "abbreviation": "ISU",
+    "conference": "Big 12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/66",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/66/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/66"
+    ],
+    "last_updated": "2026-04-26T05:12:57.284090+00:00"
+  },
+  {
+    "team_id": "espn_68",
+    "team_name": "Boise State Broncos",
+    "abbreviation": "BOIS",
+    "conference": "Pac-12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/68",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/68/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/68"
+    ],
+    "last_updated": "2026-04-26T05:12:57.300296+00:00"
+  },
+  {
+    "team_id": "espn_77",
+    "team_name": "Northwestern Wildcats",
+    "abbreviation": "NU",
     "conference": "Big Ten",
     "division": null,
-    "official_site": "https://ohiostatebuckeyes.com",
-    "roster_url": "https://ohiostatebuckeyes.com/sports/football/roster",
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/77",
     "source_urls": [
-      "https://ohiostatebuckeyes.com/sports/football/roster"
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/77/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/77"
     ],
-    "last_updated": "2026-04-26T02:30:49.385044+00:00"
+    "last_updated": "2026-04-26T05:12:57.300296+00:00"
   },
   {
-    "team_id": "michigan",
-    "team_name": "Michigan",
+    "team_id": "espn_84",
+    "team_name": "Indiana Hoosiers",
+    "abbreviation": "IU",
+    "conference": "Big Ten",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/84",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/84/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/84"
+    ],
+    "last_updated": "2026-04-26T05:12:57.308957+00:00"
+  },
+  {
+    "team_id": "espn_87",
+    "team_name": "Notre Dame Fighting Irish",
+    "abbreviation": "ND",
+    "conference": "FBS Indep.",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/87",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/87/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/87"
+    ],
+    "last_updated": "2026-04-26T05:12:57.308957+00:00"
+  },
+  {
+    "team_id": "espn_96",
+    "team_name": "Kentucky Wildcats",
+    "abbreviation": "UK",
+    "conference": "SEC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/96",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/96/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/96"
+    ],
+    "last_updated": "2026-04-26T05:12:57.316094+00:00"
+  },
+  {
+    "team_id": "espn_97",
+    "team_name": "Louisville Cardinals",
+    "abbreviation": "LOU",
+    "conference": "ACC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/97",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/97/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/97"
+    ],
+    "last_updated": "2026-04-26T05:12:57.316094+00:00"
+  },
+  {
+    "team_id": "espn_98",
+    "team_name": "Western Kentucky Hilltoppers",
+    "abbreviation": "WKU",
+    "conference": "CUSA",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/98",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/98/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/98"
+    ],
+    "last_updated": "2026-04-26T05:12:57.316094+00:00"
+  },
+  {
+    "team_id": "espn_99",
+    "team_name": "LSU Tigers",
+    "abbreviation": "LSU",
+    "conference": "SEC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/99",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/99/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/99"
+    ],
+    "last_updated": "2026-04-26T05:12:57.332260+00:00"
+  },
+  {
+    "team_id": "espn_103",
+    "team_name": "Boston College Eagles",
+    "abbreviation": "BC",
+    "conference": "ACC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/103",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/103/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/103"
+    ],
+    "last_updated": "2026-04-26T05:12:57.332260+00:00"
+  },
+  {
+    "team_id": "espn_113",
+    "team_name": "Massachusetts Minutemen",
+    "abbreviation": "MASS",
+    "conference": "MAC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/113",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/113/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/113"
+    ],
+    "last_updated": "2026-04-26T05:12:57.332260+00:00"
+  },
+  {
+    "team_id": "espn_120",
+    "team_name": "Maryland Terrapins",
+    "abbreviation": "MD",
+    "conference": "Big Ten",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/120",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/120/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/120"
+    ],
+    "last_updated": "2026-04-26T05:12:57.332260+00:00"
+  },
+  {
+    "team_id": "espn_127",
+    "team_name": "Michigan State Spartans",
+    "abbreviation": "MSU",
+    "conference": "Big Ten",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/127",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/127/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/127"
+    ],
+    "last_updated": "2026-04-26T05:12:57.348147+00:00"
+  },
+  {
+    "team_id": "espn_130",
+    "team_name": "Michigan Wolverines",
     "abbreviation": "MICH",
     "conference": "Big Ten",
     "division": null,
-    "official_site": "https://mgoblue.com",
-    "roster_url": "https://mgoblue.com/sports/football/roster",
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/130",
     "source_urls": [
-      "https://mgoblue.com/sports/football/roster"
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/130/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/130"
     ],
-    "last_updated": "2026-04-26T02:30:49.385044+00:00"
+    "last_updated": "2026-04-26T05:12:57.348147+00:00"
   },
   {
-    "team_id": "texas",
-    "team_name": "Texas",
+    "team_id": "espn_135",
+    "team_name": "Minnesota Golden Gophers",
+    "abbreviation": "MINN",
+    "conference": "Big Ten",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/135",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/135/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/135"
+    ],
+    "last_updated": "2026-04-26T05:12:57.348147+00:00"
+  },
+  {
+    "team_id": "espn_142",
+    "team_name": "Missouri Tigers",
+    "abbreviation": "MIZ",
+    "conference": "SEC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/142",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/142/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/142"
+    ],
+    "last_updated": "2026-04-26T05:12:57.363926+00:00"
+  },
+  {
+    "team_id": "espn_145",
+    "team_name": "Ole Miss Rebels",
+    "abbreviation": "MISS",
+    "conference": "SEC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/145",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/145/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/145"
+    ],
+    "last_updated": "2026-04-26T05:12:57.363926+00:00"
+  },
+  {
+    "team_id": "espn_150",
+    "team_name": "Duke Blue Devils",
+    "abbreviation": "DUKE",
+    "conference": "ACC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/150",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/150/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/150"
+    ],
+    "last_updated": "2026-04-26T05:12:57.363926+00:00"
+  },
+  {
+    "team_id": "espn_151",
+    "team_name": "East Carolina Pirates",
+    "abbreviation": "ECU",
+    "conference": "American",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/151",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/151/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/151"
+    ],
+    "last_updated": "2026-04-26T05:12:57.379675+00:00"
+  },
+  {
+    "team_id": "espn_152",
+    "team_name": "NC State Wolfpack",
+    "abbreviation": "NCSU",
+    "conference": "ACC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/152",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/152/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/152"
+    ],
+    "last_updated": "2026-04-26T05:12:57.379675+00:00"
+  },
+  {
+    "team_id": "espn_153",
+    "team_name": "North Carolina Tar Heels",
+    "abbreviation": "UNC",
+    "conference": "ACC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/153",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/153/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/153"
+    ],
+    "last_updated": "2026-04-26T05:12:57.379675+00:00"
+  },
+  {
+    "team_id": "espn_154",
+    "team_name": "Wake Forest Demon Deacons",
+    "abbreviation": "WAKE",
+    "conference": "ACC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/154",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/154/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/154"
+    ],
+    "last_updated": "2026-04-26T05:12:57.379675+00:00"
+  },
+  {
+    "team_id": "espn_158",
+    "team_name": "Nebraska Cornhuskers",
+    "abbreviation": "NEB",
+    "conference": "Big Ten",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/158",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/158/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/158"
+    ],
+    "last_updated": "2026-04-26T05:12:57.395651+00:00"
+  },
+  {
+    "team_id": "espn_164",
+    "team_name": "Rutgers Scarlet Knights",
+    "abbreviation": "RUTG",
+    "conference": "Big Ten",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/164",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/164/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/164"
+    ],
+    "last_updated": "2026-04-26T05:12:57.395651+00:00"
+  },
+  {
+    "team_id": "espn_166",
+    "team_name": "New Mexico State Aggies",
+    "abbreviation": "NMSU",
+    "conference": "CUSA",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/166",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/166/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/166"
+    ],
+    "last_updated": "2026-04-26T05:12:57.395651+00:00"
+  },
+  {
+    "team_id": "espn_167",
+    "team_name": "New Mexico Lobos",
+    "abbreviation": "UNM",
+    "conference": "Mountain West",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/167",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/167/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/167"
+    ],
+    "last_updated": "2026-04-26T05:12:57.411570+00:00"
+  },
+  {
+    "team_id": "espn_183",
+    "team_name": "Syracuse Orange",
+    "abbreviation": "SYR",
+    "conference": "ACC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/183",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/183/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/183"
+    ],
+    "last_updated": "2026-04-26T05:12:57.413747+00:00"
+  },
+  {
+    "team_id": "espn_189",
+    "team_name": "Bowling Green Falcons",
+    "abbreviation": "BGSU",
+    "conference": "MAC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/189",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/189/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/189"
+    ],
+    "last_updated": "2026-04-26T05:12:57.413747+00:00"
+  },
+  {
+    "team_id": "espn_193",
+    "team_name": "Miami (OH) RedHawks",
+    "abbreviation": "M-OH",
+    "conference": "MAC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/193",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/193/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/193"
+    ],
+    "last_updated": "2026-04-26T05:12:57.427745+00:00"
+  },
+  {
+    "team_id": "espn_194",
+    "team_name": "Ohio State Buckeyes",
+    "abbreviation": "OSU",
+    "conference": "Big Ten",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/194",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/194/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/194"
+    ],
+    "last_updated": "2026-04-26T05:12:57.588378+00:00"
+  },
+  {
+    "team_id": "espn_195",
+    "team_name": "Ohio Bobcats",
+    "abbreviation": "OHIO",
+    "conference": "MAC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/195",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/195/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/195"
+    ],
+    "last_updated": "2026-04-26T05:12:57.588378+00:00"
+  },
+  {
+    "team_id": "espn_197",
+    "team_name": "Oklahoma State Cowboys",
+    "abbreviation": "OKST",
+    "conference": "Big 12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/197",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/197/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/197"
+    ],
+    "last_updated": "2026-04-26T05:12:57.604144+00:00"
+  },
+  {
+    "team_id": "espn_201",
+    "team_name": "Oklahoma Sooners",
+    "abbreviation": "OU",
+    "conference": "SEC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/201",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/201/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/201"
+    ],
+    "last_updated": "2026-04-26T05:12:57.609140+00:00"
+  },
+  {
+    "team_id": "espn_202",
+    "team_name": "Tulsa Golden Hurricane",
+    "abbreviation": "TLSA",
+    "conference": "American",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/202",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/202/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/202"
+    ],
+    "last_updated": "2026-04-26T05:12:57.609140+00:00"
+  },
+  {
+    "team_id": "espn_204",
+    "team_name": "Oregon State Beavers",
+    "abbreviation": "ORST",
+    "conference": "Pac-12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/204",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/204/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/204"
+    ],
+    "last_updated": "2026-04-26T05:12:57.620182+00:00"
+  },
+  {
+    "team_id": "espn_213",
+    "team_name": "Penn State Nittany Lions",
+    "abbreviation": "PSU",
+    "conference": "Big Ten",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/213",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/213/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/213"
+    ],
+    "last_updated": "2026-04-26T05:12:57.623901+00:00"
+  },
+  {
+    "team_id": "espn_218",
+    "team_name": "Temple Owls",
+    "abbreviation": "TEM",
+    "conference": "American",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/218",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/218/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/218"
+    ],
+    "last_updated": "2026-04-26T05:12:57.623901+00:00"
+  },
+  {
+    "team_id": "espn_221",
+    "team_name": "Pittsburgh Panthers",
+    "abbreviation": "PITT",
+    "conference": "ACC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/221",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/221/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/221"
+    ],
+    "last_updated": "2026-04-26T05:12:57.635986+00:00"
+  },
+  {
+    "team_id": "espn_228",
+    "team_name": "Clemson Tigers",
+    "abbreviation": "CLEM",
+    "conference": "ACC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/228",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/228/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/228"
+    ],
+    "last_updated": "2026-04-26T05:12:57.635986+00:00"
+  },
+  {
+    "team_id": "espn_235",
+    "team_name": "Memphis Tigers",
+    "abbreviation": "MEM",
+    "conference": "American",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/235",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/235/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/235"
+    ],
+    "last_updated": "2026-04-26T05:12:57.635986+00:00"
+  },
+  {
+    "team_id": "espn_238",
+    "team_name": "Vanderbilt Commodores",
+    "abbreviation": "VAN",
+    "conference": "SEC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/238",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/238/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/238"
+    ],
+    "last_updated": "2026-04-26T05:12:57.635986+00:00"
+  },
+  {
+    "team_id": "espn_239",
+    "team_name": "Baylor Bears",
+    "abbreviation": "BAY",
+    "conference": "Big 12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/239",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/239/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/239"
+    ],
+    "last_updated": "2026-04-26T05:12:57.651753+00:00"
+  },
+  {
+    "team_id": "espn_242",
+    "team_name": "Rice Owls",
+    "abbreviation": "RICE",
+    "conference": "American",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/242",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/242/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/242"
+    ],
+    "last_updated": "2026-04-26T05:12:57.651753+00:00"
+  },
+  {
+    "team_id": "espn_245",
+    "team_name": "Texas A&M Aggies",
+    "abbreviation": "TA&M",
+    "conference": "SEC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/245",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/245/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/245"
+    ],
+    "last_updated": "2026-04-26T05:12:57.651753+00:00"
+  },
+  {
+    "team_id": "espn_248",
+    "team_name": "Houston Cougars",
+    "abbreviation": "HOU",
+    "conference": "Big 12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/248",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/248/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/248"
+    ],
+    "last_updated": "2026-04-26T05:12:57.669873+00:00"
+  },
+  {
+    "team_id": "espn_249",
+    "team_name": "North Texas Mean Green",
+    "abbreviation": "UNT",
+    "conference": "American",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/249",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/249/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/249"
+    ],
+    "last_updated": "2026-04-26T05:12:57.669873+00:00"
+  },
+  {
+    "team_id": "espn_251",
+    "team_name": "Texas Longhorns",
     "abbreviation": "TEX",
     "conference": "SEC",
     "division": null,
-    "official_site": "https://texassports.com",
-    "roster_url": "https://texassports.com/sports/football/roster",
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/251",
     "source_urls": [
-      "https://texassports.com/sports/football/roster"
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/251/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/251"
     ],
-    "last_updated": "2026-04-26T02:30:49.385044+00:00"
+    "last_updated": "2026-04-26T05:12:57.669873+00:00"
+  },
+  {
+    "team_id": "espn_252",
+    "team_name": "BYU Cougars",
+    "abbreviation": "BYU",
+    "conference": "Big 12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/252",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/252/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/252"
+    ],
+    "last_updated": "2026-04-26T05:12:57.683835+00:00"
+  },
+  {
+    "team_id": "espn_254",
+    "team_name": "Utah Utes",
+    "abbreviation": "UTAH",
+    "conference": "Big 12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/254",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/254/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/254"
+    ],
+    "last_updated": "2026-04-26T05:12:57.683835+00:00"
+  },
+  {
+    "team_id": "espn_256",
+    "team_name": "James Madison Dukes",
+    "abbreviation": "JMU",
+    "conference": "Sun Belt - East",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/256",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/256/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/256"
+    ],
+    "last_updated": "2026-04-26T05:12:57.683835+00:00"
+  },
+  {
+    "team_id": "espn_258",
+    "team_name": "Virginia Cavaliers",
+    "abbreviation": "UVA",
+    "conference": "ACC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/258",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/258/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/258"
+    ],
+    "last_updated": "2026-04-26T05:12:57.699921+00:00"
+  },
+  {
+    "team_id": "espn_259",
+    "team_name": "Virginia Tech Hokies",
+    "abbreviation": "VT",
+    "conference": "ACC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/259",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/259/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/259"
+    ],
+    "last_updated": "2026-04-26T05:12:57.699921+00:00"
+  },
+  {
+    "team_id": "espn_264",
+    "team_name": "Washington Huskies",
+    "abbreviation": "WASH",
+    "conference": "Big Ten",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/264",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/264/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/264"
+    ],
+    "last_updated": "2026-04-26T05:12:57.709383+00:00"
+  },
+  {
+    "team_id": "espn_265",
+    "team_name": "Washington State Cougars",
+    "abbreviation": "WSU",
+    "conference": "Pac-12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/265",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/265/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/265"
+    ],
+    "last_updated": "2026-04-26T05:12:57.709383+00:00"
+  },
+  {
+    "team_id": "espn_275",
+    "team_name": "Wisconsin Badgers",
+    "abbreviation": "WIS",
+    "conference": "Big Ten",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/275",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/275/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/275"
+    ],
+    "last_updated": "2026-04-26T05:12:57.715924+00:00"
+  },
+  {
+    "team_id": "espn_276",
+    "team_name": "Marshall Thundering Herd",
+    "abbreviation": "MRSH",
+    "conference": "Sun Belt - East",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/276",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/276/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/276"
+    ],
+    "last_updated": "2026-04-26T05:12:57.715924+00:00"
+  },
+  {
+    "team_id": "espn_277",
+    "team_name": "West Virginia Mountaineers",
+    "abbreviation": "WVU",
+    "conference": "Big 12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/277",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/277/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/277"
+    ],
+    "last_updated": "2026-04-26T05:12:57.715924+00:00"
+  },
+  {
+    "team_id": "espn_278",
+    "team_name": "Fresno State Bulldogs",
+    "abbreviation": "FRES",
+    "conference": "Pac-12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/278",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/278/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/278"
+    ],
+    "last_updated": "2026-04-26T05:12:57.731862+00:00"
+  },
+  {
+    "team_id": "espn_290",
+    "team_name": "Georgia Southern Eagles",
+    "abbreviation": "GASO",
+    "conference": "Sun Belt - East",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/290",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/290/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/290"
+    ],
+    "last_updated": "2026-04-26T05:12:57.731862+00:00"
+  },
+  {
+    "team_id": "espn_295",
+    "team_name": "Old Dominion Monarchs",
+    "abbreviation": "ODU",
+    "conference": "Sun Belt - East",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/295",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/295/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/295"
+    ],
+    "last_updated": "2026-04-26T05:12:57.731862+00:00"
+  },
+  {
+    "team_id": "espn_309",
+    "team_name": "Louisiana Ragin' Cajuns",
+    "abbreviation": "UL",
+    "conference": "Sun Belt - West",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/309",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/309/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/309"
+    ],
+    "last_updated": "2026-04-26T05:12:57.731862+00:00"
+  },
+  {
+    "team_id": "espn_324",
+    "team_name": "Coastal Carolina Chanticleers",
+    "abbreviation": "CCU",
+    "conference": "Sun Belt - East",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/324",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/324/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/324"
+    ],
+    "last_updated": "2026-04-26T05:12:57.750648+00:00"
+  },
+  {
+    "team_id": "espn_326",
+    "team_name": "Texas State Bobcats",
+    "abbreviation": "TXST",
+    "conference": "Pac-12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/326",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/326/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/326"
+    ],
+    "last_updated": "2026-04-26T05:12:57.750648+00:00"
+  },
+  {
+    "team_id": "espn_328",
+    "team_name": "Utah State Aggies",
+    "abbreviation": "USU",
+    "conference": "Pac-12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/328",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/328/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/328"
+    ],
+    "last_updated": "2026-04-26T05:12:57.760530+00:00"
+  },
+  {
+    "team_id": "espn_333",
+    "team_name": "Alabama Crimson Tide",
+    "abbreviation": "ALA",
+    "conference": "SEC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/333",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/333/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/333"
+    ],
+    "last_updated": "2026-04-26T05:12:57.763402+00:00"
+  },
+  {
+    "team_id": "espn_338",
+    "team_name": "Kennesaw State Owls",
+    "abbreviation": "KENN",
+    "conference": "CUSA",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/338",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/338/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/338"
+    ],
+    "last_updated": "2026-04-26T05:12:57.763402+00:00"
+  },
+  {
+    "team_id": "espn_344",
+    "team_name": "Mississippi State Bulldogs",
+    "abbreviation": "MSST",
+    "conference": "SEC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/344",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/344/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/344"
+    ],
+    "last_updated": "2026-04-26T05:12:57.763402+00:00"
+  },
+  {
+    "team_id": "espn_349",
+    "team_name": "Army Black Knights",
+    "abbreviation": "ARMY",
+    "conference": "American",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/349",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/349/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/349"
+    ],
+    "last_updated": "2026-04-26T05:12:57.779640+00:00"
+  },
+  {
+    "team_id": "espn_356",
+    "team_name": "Illinois Fighting Illini",
+    "abbreviation": "ILL",
+    "conference": "Big Ten",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/356",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/356/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/356"
+    ],
+    "last_updated": "2026-04-26T05:12:57.783867+00:00"
+  },
+  {
+    "team_id": "espn_2005",
+    "team_name": "Air Force Falcons",
+    "abbreviation": "AFA",
+    "conference": "Mountain West",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2005",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2005/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2005"
+    ],
+    "last_updated": "2026-04-26T05:12:57.789914+00:00"
+  },
+  {
+    "team_id": "espn_2006",
+    "team_name": "Akron Zips",
+    "abbreviation": "AKR",
+    "conference": "MAC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2006",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2006/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2006"
+    ],
+    "last_updated": "2026-04-26T05:12:57.793943+00:00"
+  },
+  {
+    "team_id": "espn_2026",
+    "team_name": "App State Mountaineers",
+    "abbreviation": "APP",
+    "conference": "Sun Belt - East",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2026",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2026/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2026"
+    ],
+    "last_updated": "2026-04-26T05:12:57.799739+00:00"
+  },
+  {
+    "team_id": "espn_2032",
+    "team_name": "Arkansas State Red Wolves",
+    "abbreviation": "ARST",
+    "conference": "Sun Belt - West",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2032",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2032/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2032"
+    ],
+    "last_updated": "2026-04-26T05:12:57.803769+00:00"
+  },
+  {
+    "team_id": "espn_2050",
+    "team_name": "Ball State Cardinals",
+    "abbreviation": "BALL",
+    "conference": "MAC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2050",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2050/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2050"
+    ],
+    "last_updated": "2026-04-26T05:12:57.807800+00:00"
+  },
+  {
+    "team_id": "espn_2084",
+    "team_name": "Buffalo Bulls",
+    "abbreviation": "BUFF",
+    "conference": "MAC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2084",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2084/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2084"
+    ],
+    "last_updated": "2026-04-26T05:12:57.813335+00:00"
+  },
+  {
+    "team_id": "espn_2116",
+    "team_name": "UCF Knights",
+    "abbreviation": "UCF",
+    "conference": "Big 12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2116",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2116/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2116"
+    ],
+    "last_updated": "2026-04-26T05:12:57.813335+00:00"
+  },
+  {
+    "team_id": "espn_2117",
+    "team_name": "Central Michigan Chippewas",
+    "abbreviation": "CMU",
+    "conference": "MAC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2117",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2117/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2117"
+    ],
+    "last_updated": "2026-04-26T05:12:57.813335+00:00"
+  },
+  {
+    "team_id": "espn_2132",
+    "team_name": "Cincinnati Bearcats",
+    "abbreviation": "CIN",
+    "conference": "Big 12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2132",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2132/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2132"
+    ],
+    "last_updated": "2026-04-26T05:12:57.827226+00:00"
+  },
+  {
+    "team_id": "espn_2199",
+    "team_name": "Eastern Michigan Eagles",
+    "abbreviation": "EMU",
+    "conference": "MAC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2199",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2199/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2199"
+    ],
+    "last_updated": "2026-04-26T05:12:57.827226+00:00"
+  },
+  {
+    "team_id": "espn_2226",
+    "team_name": "Florida Atlantic Owls",
+    "abbreviation": "FAU",
+    "conference": "American",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2226",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2226/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2226"
+    ],
+    "last_updated": "2026-04-26T05:12:57.827226+00:00"
+  },
+  {
+    "team_id": "espn_2229",
+    "team_name": "Florida International Panthers",
+    "abbreviation": "FIU",
+    "conference": "CUSA",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2229",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2229/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2229"
+    ],
+    "last_updated": "2026-04-26T05:12:57.827226+00:00"
+  },
+  {
+    "team_id": "espn_2247",
+    "team_name": "Georgia State Panthers",
+    "abbreviation": "GAST",
+    "conference": "Sun Belt - East",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2247",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2247/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2247"
+    ],
+    "last_updated": "2026-04-26T05:12:57.843388+00:00"
+  },
+  {
+    "team_id": "espn_2294",
+    "team_name": "Iowa Hawkeyes",
+    "abbreviation": "IOWA",
+    "conference": "Big Ten",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2294",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2294/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2294"
+    ],
+    "last_updated": "2026-04-26T05:12:57.843388+00:00"
+  },
+  {
+    "team_id": "espn_2305",
+    "team_name": "Kansas Jayhawks",
+    "abbreviation": "KU",
+    "conference": "Big 12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2305",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2305/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2305"
+    ],
+    "last_updated": "2026-04-26T05:12:57.843388+00:00"
+  },
+  {
+    "team_id": "espn_2306",
+    "team_name": "Kansas State Wildcats",
+    "abbreviation": "KSU",
+    "conference": "Big 12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2306",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2306/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2306"
+    ],
+    "last_updated": "2026-04-26T05:12:57.859368+00:00"
+  },
+  {
+    "team_id": "espn_2309",
+    "team_name": "Kent State Golden Flashes",
+    "abbreviation": "KENT",
+    "conference": "MAC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2309",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2309/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2309"
+    ],
+    "last_updated": "2026-04-26T05:12:57.859368+00:00"
+  },
+  {
+    "team_id": "espn_2335",
+    "team_name": "Liberty Flames",
+    "abbreviation": "LIB",
+    "conference": "CUSA",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2335",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2335/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2335"
+    ],
+    "last_updated": "2026-04-26T05:12:57.859368+00:00"
+  },
+  {
+    "team_id": "espn_2348",
+    "team_name": "Louisiana Tech Bulldogs",
+    "abbreviation": "LT",
+    "conference": "CUSA",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2348",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2348/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2348"
+    ],
+    "last_updated": "2026-04-26T05:12:57.875133+00:00"
+  },
+  {
+    "team_id": "espn_2390",
+    "team_name": "Miami Hurricanes",
+    "abbreviation": "MIA",
+    "conference": "ACC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2390",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2390/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2390"
+    ],
+    "last_updated": "2026-04-26T05:12:57.875133+00:00"
+  },
+  {
+    "team_id": "espn_2393",
+    "team_name": "Middle Tennessee Blue Raiders",
+    "abbreviation": "MTSU",
+    "conference": "CUSA",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2393",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2393/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2393"
+    ],
+    "last_updated": "2026-04-26T05:12:57.875133+00:00"
+  },
+  {
+    "team_id": "espn_2426",
+    "team_name": "Navy Midshipmen",
+    "abbreviation": "NAVY",
+    "conference": "American",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2426",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2426/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2426"
+    ],
+    "last_updated": "2026-04-26T05:12:57.875133+00:00"
+  },
+  {
+    "team_id": "espn_2429",
+    "team_name": "Charlotte 49ers",
+    "abbreviation": "CLT",
+    "conference": "American",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2429",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2429/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2429"
+    ],
+    "last_updated": "2026-04-26T05:12:57.891153+00:00"
+  },
+  {
+    "team_id": "espn_2433",
+    "team_name": "UL Monroe Warhawks",
+    "abbreviation": "ULM",
+    "conference": "Sun Belt - West",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2433",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2433/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2433"
+    ],
+    "last_updated": "2026-04-26T05:12:57.891153+00:00"
+  },
+  {
+    "team_id": "espn_2439",
+    "team_name": "UNLV Rebels",
+    "abbreviation": "UNLV",
+    "conference": "Mountain West",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2439",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2439/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2439"
+    ],
+    "last_updated": "2026-04-26T05:12:57.891153+00:00"
+  },
+  {
+    "team_id": "espn_2440",
+    "team_name": "Nevada Wolf Pack",
+    "abbreviation": "NEV",
+    "conference": "Mountain West",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2440",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2440/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2440"
+    ],
+    "last_updated": "2026-04-26T05:12:57.906930+00:00"
+  },
+  {
+    "team_id": "espn_2449",
+    "team_name": "North Dakota State Bison",
+    "abbreviation": "NDSU",
+    "conference": "Mountain West",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2449",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2449/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2449"
+    ],
+    "last_updated": "2026-04-26T05:12:57.909644+00:00"
+  },
+  {
+    "team_id": "espn_2459",
+    "team_name": "Northern Illinois Huskies",
+    "abbreviation": "NIU",
+    "conference": "Mountain West",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2459",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2459/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2459"
+    ],
+    "last_updated": "2026-04-26T05:12:57.909644+00:00"
+  },
+  {
+    "team_id": "espn_2483",
+    "team_name": "Oregon Ducks",
+    "abbreviation": "ORE",
+    "conference": "Big Ten",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2483",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2483/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2483"
+    ],
+    "last_updated": "2026-04-26T05:12:57.909644+00:00"
+  },
+  {
+    "team_id": "espn_2509",
+    "team_name": "Purdue Boilermakers",
+    "abbreviation": "PUR",
+    "conference": "Big Ten",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2509",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2509/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2509"
+    ],
+    "last_updated": "2026-04-26T05:12:57.923144+00:00"
+  },
+  {
+    "team_id": "espn_2534",
+    "team_name": "Sam Houston Bearkats",
+    "abbreviation": "SHSU",
+    "conference": "CUSA",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2534",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2534/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2534"
+    ],
+    "last_updated": "2026-04-26T05:12:57.923144+00:00"
+  },
+  {
+    "team_id": "espn_2567",
+    "team_name": "SMU Mustangs",
+    "abbreviation": "SMU",
+    "conference": "ACC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2567",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2567/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2567"
+    ],
+    "last_updated": "2026-04-26T05:12:57.923144+00:00"
+  },
+  {
+    "team_id": "espn_2572",
+    "team_name": "Southern Miss Golden Eagles",
+    "abbreviation": "USM",
+    "conference": "Sun Belt - West",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2572",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2572/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2572"
+    ],
+    "last_updated": "2026-04-26T05:12:57.942339+00:00"
+  },
+  {
+    "team_id": "espn_2579",
+    "team_name": "South Carolina Gamecocks",
+    "abbreviation": "SC",
+    "conference": "SEC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2579",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2579/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2579"
+    ],
+    "last_updated": "2026-04-26T05:12:57.942339+00:00"
+  },
+  {
+    "team_id": "espn_2623",
+    "team_name": "Missouri State Bears",
+    "abbreviation": "MOST",
+    "conference": "CUSA",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2623",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2623/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2623"
+    ],
+    "last_updated": "2026-04-26T05:12:57.942339+00:00"
+  },
+  {
+    "team_id": "espn_2628",
+    "team_name": "TCU Horned Frogs",
+    "abbreviation": "TCU",
+    "conference": "Big 12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2628",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2628/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2628"
+    ],
+    "last_updated": "2026-04-26T05:12:57.954885+00:00"
+  },
+  {
+    "team_id": "espn_2633",
+    "team_name": "Tennessee Volunteers",
+    "abbreviation": "TENN",
+    "conference": "SEC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2633",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2633/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2633"
+    ],
+    "last_updated": "2026-04-26T05:12:57.954885+00:00"
+  },
+  {
+    "team_id": "espn_2636",
+    "team_name": "UTSA Roadrunners",
+    "abbreviation": "UTSA",
+    "conference": "American",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2636",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2636/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2636"
+    ],
+    "last_updated": "2026-04-26T05:12:57.954885+00:00"
+  },
+  {
+    "team_id": "espn_2638",
+    "team_name": "UTEP Miners",
+    "abbreviation": "UTEP",
+    "conference": "Mountain West",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2638",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2638/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2638"
+    ],
+    "last_updated": "2026-04-26T05:12:57.971089+00:00"
+  },
+  {
+    "team_id": "espn_2641",
+    "team_name": "Texas Tech Red Raiders",
+    "abbreviation": "TTU",
+    "conference": "Big 12",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2641",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2641/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2641"
+    ],
+    "last_updated": "2026-04-26T05:12:57.971089+00:00"
+  },
+  {
+    "team_id": "espn_2649",
+    "team_name": "Toledo Rockets",
+    "abbreviation": "TOL",
+    "conference": "MAC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2649",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2649/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2649"
+    ],
+    "last_updated": "2026-04-26T05:12:57.971089+00:00"
+  },
+  {
+    "team_id": "espn_2653",
+    "team_name": "Troy Trojans",
+    "abbreviation": "TROY",
+    "conference": "Sun Belt - West",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2653",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2653/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2653"
+    ],
+    "last_updated": "2026-04-26T05:12:57.971089+00:00"
+  },
+  {
+    "team_id": "espn_2655",
+    "team_name": "Tulane Green Wave",
+    "abbreviation": "TULN",
+    "conference": "American",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2655",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2655/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2655"
+    ],
+    "last_updated": "2026-04-26T05:12:57.990983+00:00"
+  },
+  {
+    "team_id": "espn_2711",
+    "team_name": "Western Michigan Broncos",
+    "abbreviation": "WMU",
+    "conference": "MAC",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2711",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2711/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2711"
+    ],
+    "last_updated": "2026-04-26T05:12:57.990983+00:00"
+  },
+  {
+    "team_id": "espn_2751",
+    "team_name": "Wyoming Cowboys",
+    "abbreviation": "WYO",
+    "conference": "Mountain West",
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/2751",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2751/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/2751"
+    ],
+    "last_updated": "2026-04-26T05:12:57.990983+00:00"
+  },
+  {
+    "team_id": "espn_3144",
+    "team_name": "SOUTH All-Stars",
+    "abbreviation": "SOU",
+    "conference": null,
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/3144",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/3144/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/3144"
+    ],
+    "last_updated": "2026-04-26T05:12:58.003369+00:00"
+  },
+  {
+    "team_id": "espn_3145",
+    "team_name": "NORTH All-Stars",
+    "abbreviation": "NOR",
+    "conference": null,
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/3145",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/3145/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/3145"
+    ],
+    "last_updated": "2026-04-26T05:12:58.003369+00:00"
+  },
+  {
+    "team_id": "espn_3146",
+    "team_name": "East All-Stars",
+    "abbreviation": "EAST",
+    "conference": null,
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/3146",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/3146/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/3146"
+    ],
+    "last_updated": "2026-04-26T05:12:58.003369+00:00"
+  },
+  {
+    "team_id": "espn_3147",
+    "team_name": "West All-Stars",
+    "abbreviation": "WEST",
+    "conference": null,
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/3147",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/3147/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/3147"
+    ],
+    "last_updated": "2026-04-26T05:12:58.003369+00:00"
+  },
+  {
+    "team_id": "espn_3193",
+    "team_name": "American",
+    "abbreviation": "AMER",
+    "conference": null,
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/3193",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/3193/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/3193"
+    ],
+    "last_updated": "2026-04-26T05:12:58.003369+00:00"
+  },
+  {
+    "team_id": "espn_3194",
+    "team_name": "National",
+    "abbreviation": "NAT",
+    "conference": null,
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/3194",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/3194/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/3194"
+    ],
+    "last_updated": "2026-04-26T05:12:58.003369+00:00"
+  },
+  {
+    "team_id": "espn_3197",
+    "team_name": "NORTH FLORIDA STARS",
+    "abbreviation": "UNF",
+    "conference": null,
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/3197",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/3197/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/3197"
+    ],
+    "last_updated": "2026-04-26T05:12:58.003369+00:00"
+  },
+  {
+    "team_id": "espn_3198",
+    "team_name": "SOUTH FLORIDA STARS",
+    "abbreviation": "SFX",
+    "conference": null,
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/3198",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/3198/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/3198"
+    ],
+    "last_updated": "2026-04-26T05:12:58.003369+00:00"
+  },
+  {
+    "team_id": "espn_125290",
+    "team_name": "Team Gaither",
+    "abbreviation": "GAIT",
+    "conference": null,
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/125290",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/125290/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/125290"
+    ],
+    "last_updated": "2026-04-26T05:12:58.003369+00:00"
+  },
+  {
+    "team_id": "espn_125291",
+    "team_name": "Team Robinson",
+    "abbreviation": "ROB",
+    "conference": null,
+    "division": null,
+    "official_site": null,
+    "roster_url": "https://www.espn.com/college-football/team/roster/_/id/125291",
+    "source_urls": [
+      "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/125291/roster",
+      "https://www.espn.com/college-football/team/roster/_/id/125291"
+    ],
+    "last_updated": "2026-04-26T05:12:58.003369+00:00"
   }
 ]

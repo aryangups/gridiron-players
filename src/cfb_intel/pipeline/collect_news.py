@@ -2,8 +2,9 @@
 
 from __future__ import annotations
 
-from cfb_intel.schemas import NewsItem, Player
-from cfb_intel.sources import get_sources
+from cfb_intel.config import settings
+from cfb_intel.schemas import NewsItem, Player, Team
+from cfb_intel.sources.rss_news import GoogleNewsRssSource
 from cfb_intel.utils.text import normalize_name
 
 
@@ -38,10 +39,10 @@ def match_news_to_players(news_items: list[NewsItem], players: list[Player]) -> 
     return matched
 
 
-def collect_news(players: list[Player]) -> dict[str, list[NewsItem]]:
+def collect_news(players: list[Player], teams: list[Team] | None = None) -> dict[str, list[NewsItem]]:
     news_items: list[NewsItem] = []
-    for source in get_sources("news"):
-        result = source.run()
+    if settings.enable_google_news_rss:
+        team_names = sorted({team.team_name for team in teams or []}) or sorted({player.team for player in players})
+        result = GoogleNewsRssSource(team_names=team_names).run()
         news_items.extend(result.get("news", []))
     return {"news": match_news_to_players(news_items, players)}
-

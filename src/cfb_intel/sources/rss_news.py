@@ -22,17 +22,19 @@ class GoogleNewsRssSource(Source):
     source_url = "https://news.google.com/rss"
     kind = "news"
 
-    def __init__(self) -> None:
+    def __init__(self, team_names: list[str] | None = None) -> None:
         self.client = PoliteHttpClient(delay_seconds=settings.request_delay_seconds)
+        self.team_names = team_names
 
     def fetch(self) -> list[tuple[str, str, str]]:
         payloads: list[tuple[str, str, str]] = []
-        for team in settings.active_teams:
-            query = quote_plus(f'"{team.team_name}" football player OR roster OR injury OR transfer')
+        team_names = self.team_names or [team.team_name for team in settings.active_teams]
+        for team_name in team_names:
+            query = quote_plus(f'"{team_name}" football player OR roster OR injury OR transfer')
             url = f"https://news.google.com/rss/search?q={query}&hl=en-US&gl=US&ceid=US:en"
             result = self.client.get(url)
             if result and result.status_code == 200:
-                payloads.append((team.team_name, url, result.text))
+                payloads.append((team_name, url, result.text))
         return payloads
 
     def parse(self, raw: list[tuple[str, str, str]]) -> list[dict[str, object]]:
@@ -69,4 +71,3 @@ class GoogleNewsRssSource(Source):
                 )
             )
         return {"news": news}
-

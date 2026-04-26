@@ -61,15 +61,17 @@ MVP_TEAMS: list[TeamSeed] = [
 
 @dataclass(frozen=True)
 class Settings:
-    enable_espn: bool = _bool("ENABLE_ESPN", False)
+    enable_espn: bool = _bool("ENABLE_ESPN", True)
     enable_sports_reference: bool = _bool("ENABLE_SPORTS_REFERENCE", False)
     enable_ncaa: bool = _bool("ENABLE_NCAA", False)
     enable_google_news_rss: bool = _bool("ENABLE_GOOGLE_NEWS_RSS", True)
     enable_team_rss: bool = _bool("ENABLE_TEAM_RSS", True)
-    request_delay_seconds: float = _float("REQUEST_DELAY_SECONDS", 2.0)
+    request_delay_seconds: float = _float("REQUEST_DELAY_SECONDS", 0.5)
     max_news_per_player: int = _int("MAX_NEWS_PER_PLAYER", 10)
-    max_teams_initial_run: int = _int("MAX_TEAMS_INITIAL_RUN", 10)
-    full_run: bool = _bool("FULL_RUN", False)
+    max_teams_initial_run: int = _int("MAX_TEAMS_INITIAL_RUN", 200)
+    full_run: bool = _bool("FULL_RUN", True)
+    espn_season: int = _int("ESPN_SEASON", 2026)
+    espn_fbs_group_id: int = _int("ESPN_FBS_GROUP_ID", 80)
     demo_mode: bool = _bool("DEMO_MODE", False)
     contact_email: str = os.getenv("CFB_INTEL_CONTACT_EMAIL", "example@example.com")
     teams: list[TeamSeed] = field(default_factory=lambda: MVP_TEAMS)
@@ -86,4 +88,3 @@ class Settings:
 
 
 settings = Settings()
-

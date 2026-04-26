@@ -9,5 +9,4 @@
 7. Add tests with mocked HTTP responses.
 8. Update `docs/SOURCES.md`.
 
-Source failures must be non-fatal. If a site returns 403 or 429, log and skip it.
-
+Source failures must be non-fatal. If a site returns 403 or 429, log and skip it. HTML scraping adapters should call `PoliteHttpClient.allowed_by_robots()` before fetching pages.

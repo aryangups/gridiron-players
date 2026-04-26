@@ -20,7 +20,7 @@ def run_update(*, rosters: bool = True, news: bool = True, injuries: bool = True
     players = dedupe_players(normalize_players(list(roster_result.get("players", []))))
     teams: list[Team] = list(roster_result.get("teams", []))
 
-    news_items: list[NewsItem] = collect_news(players).get("news", []) if news else []
+    news_items: list[NewsItem] = collect_news(players, teams).get("news", []) if news else []
     injury_items: list[InjuryUpdate] = extract_injuries(news_items) if injuries else []
 
     export_all(players, teams, news_items, injury_items)
@@ -33,4 +33,3 @@ def run_update(*, rosters: bool = True, news: bool = True, injuries: bool = True
     }
     LOGGER.info("update complete", extra={f"cfb_{key}": value for key, value in summary.items()})
     return summary
-
