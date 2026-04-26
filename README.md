@@ -8,6 +8,7 @@ The pipeline now defaults to a full-FBS run using ESPN's public college football
 
 - Player roster profiles for the ESPN FBS group, with ESPN roster/profile URLs as provenance.
 - Historical player season stats from ESPN's public athlete stats endpoint when available.
+- ESPN college football scoreboard, game status, and player box-score stats from public game summary endpoints.
 - Team metadata for the full ESPN FBS group.
 - Public news metadata from Google News RSS for every collected team when accessible.
 - Injury updates extracted conservatively from news items tagged as injury.
@@ -82,6 +83,11 @@ Generated files:
 - `data/exports/players.csv`
 - `data/exports/teams.json`
 - `data/exports/player_stats.json`
+- `data/exports/espn_cfb_games.json`
+- `data/exports/espn_cfb_player_game_stats.json`
+- `data/exports/espn_cfb_player_season_totals.json`
+- `data/exports/espn_cfb_scoreboard.json`
+- `data/exports/espn_cfb.sqlite`
 - `data/exports/news.json`
 - `data/exports/injuries.json`
 - `data/exports/player_index.json`
@@ -131,6 +137,20 @@ Example news record:
 
 [.github/workflows/update-data.yml](.github/workflows/update-data.yml) runs every 12 hours and on manual dispatch. It installs dependencies, runs `python scripts/run_update.py --all`, validates exports, and commits changes under `data/exports`, `data/processed`, and `logs` only when data changed.
 
+[.github/workflows/espn-cfb-live.yml](.github/workflows/espn-cfb-live.yml) runs every 10 minutes and polls ESPN's public college football scoreboard/summary endpoints for current game updates. Manual runs can backfill a specific season/week, for example:
+
+```bash
+python scripts/run_espn_cfb_update.py --season 2025 --weeks 2 --use-cache
+```
+
+For a wider historical backfill:
+
+```bash
+python scripts/run_espn_cfb_update.py --season 2025 --weeks regular --use-cache
+```
+
+This writes game-level box-score rows to `espn_cfb_player_game_stats.json`, aggregates numeric player season totals to `espn_cfb_player_season_totals.json`, and attaches recent matching ESPN game stat rows to each profile in `players.json` under `game_stats`.
+
 ## Add A Source
 
 1. Create a module under `src/cfb_intel/sources/`.
@@ -145,6 +165,7 @@ Example news record:
 - ESPN endpoints are public but unofficial and may change; the adapter is isolated and can be disabled.
 - Official school-site roster scraping is not enabled by default because each site needs separate robots.txt and terms review.
 - Player stats are only present when ESPN exposes public stats for that athlete. Players without public stats keep `stats: []`.
+- Game-level ESPN CFB stats are box-score rows. They cover players with recorded game stats, not every roster player.
 - News matching is heuristic and exposes `confidence_score`.
 - Google News RSS may return zero items or fail depending on network and rate limits.
 

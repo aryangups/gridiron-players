@@ -1,0 +1,65 @@
+name: ESPN CFB API updates
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Run mode"
+        required: true
+        default: "current"
+        type: choice
+        options:
+          - current
+          - week
+      season:
+        description: "Season for week mode"
+        required: false
+        default: "2025"
+      weeks:
+        description: "Week list for week mode, for example 2 or 1,2,3"
+        required: false
+        default: "2"
+  schedule:
+    - cron: "*/10 * * * *"
+
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+jobs:
+  espn-cfb-api:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Run current ESPN CFB update
+        if: github.event_name == 'schedule' || inputs.mode == 'current'
+        run: python scripts/run_espn_cfb_update.py
+
+      - name: Run ESPN CFB week backfill
+        if: github.event_name == 'workflow_dispatch' && inputs.mode == 'week'
+        run: python scripts/run_espn_cfb_update.py --season "${{ inputs.season }}" --weeks "${{ inputs.weeks }}" --use-cache
+
+      - name: Commit ESPN CFB API results
+        shell: bash
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/exports logs
+          if git diff --cached --quiet; then
+            echo "No ESPN CFB API changes to commit"
+          else
+            git commit -m "Update ESPN CFB API results"
+            git push
+          fi

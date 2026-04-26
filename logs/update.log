@@ -5306,3 +5306,10 @@
 {"timestamp": "2026-04-26T07:16:05.852411+00:00", "level": "INFO", "logger": "cfb_intel.pipeline.update_all", "message": "update complete", "players": 13576, "teams": 148, "stats_rows": 18601, "news_items": 1470, "injury_items": 187}
 {"timestamp": "2026-04-26T10:47:38.559832+00:00", "level": "INFO", "logger": "cfb_intel.pipeline.update_all", "message": "update complete", "players": 13791, "teams": 148, "stats_rows": 18601, "news_items": 1470, "injury_items": 187}
 {"timestamp": "2026-04-26T15:44:43.980691+00:00", "level": "INFO", "logger": "cfb_intel.pipeline.update_all", "message": "update complete", "players": 13791, "teams": 148, "stats_rows": 18601, "news_items": 1470, "injury_items": 179}
+{"timestamp": "2026-04-26T20:14:28.151357+00:00", "level": "INFO", "logger": "cfb_intel.pipeline.espn_cfb_live", "message": "ESPN CFB summaries processed", "games": 50, "stat_rows": 4362}
+{"timestamp": "2026-04-26T20:14:37.018915+00:00", "level": "INFO", "logger": "cfb_intel.pipeline.espn_cfb_live", "message": "ESPN CFB summaries processed", "games": 100, "stat_rows": 8606}
+{"timestamp": "2026-04-26T20:14:46.320996+00:00", "level": "INFO", "logger": "cfb_intel.pipeline.espn_cfb_live", "message": "ESPN CFB summaries processed", "games": 150, "stat_rows": 12794}
+{"timestamp": "2026-04-26T20:14:54.001420+00:00", "level": "INFO", "logger": "cfb_intel.pipeline.espn_cfb_live", "message": "ESPN CFB summaries processed", "games": 200, "stat_rows": 16867}
+{"timestamp": "2026-04-26T20:15:01.234070+00:00", "level": "INFO", "logger": "cfb_intel.pipeline.espn_cfb_live", "message": "ESPN CFB summaries processed", "games": 250, "stat_rows": 21044}
+{"timestamp": "2026-04-26T20:15:09.501778+00:00", "level": "INFO", "logger": "cfb_intel.pipeline.espn_cfb_live", "message": "ESPN CFB summaries processed", "games": 300, "stat_rows": 25248}
+{"timestamp": "2026-04-26T20:15:16.974586+00:00", "level": "INFO", "logger": "cfb_intel.pipeline.espn_cfb_live", "message": "ESPN CFB summaries processed", "games": 350, "stat_rows": 29268}

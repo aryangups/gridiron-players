@@ -19,6 +19,12 @@ REQUIRED = [
     "player_index.json",
     "cfb_intel.sqlite",
 ]
+OPTIONAL_JSON = [
+    "espn_cfb_games.json",
+    "espn_cfb_player_game_stats.json",
+    "espn_cfb_player_season_totals.json",
+    "espn_cfb_scoreboard.json",
+]
 
 
 def _load_json(name: str):
@@ -63,6 +69,13 @@ def main() -> int:
     with sqlite3.connect(EXPORTS / "cfb_intel.sqlite") as conn:
         conn.execute("SELECT name FROM sqlite_master WHERE type='table'").fetchall()
 
+    optional_counts = {}
+    for name in OPTIONAL_JSON:
+        path = EXPORTS / name
+        if path.exists():
+            payload = _load_json(name)
+            optional_counts[name] = len(payload.get("games", [])) if isinstance(payload, dict) else len(payload)
+
     print(
         json.dumps(
             {
@@ -70,6 +83,7 @@ def main() -> int:
                 "news": len(news),
                 "stats": len(stats),
                 "indexed_players": len(index.get("players", [])),
+                "optional_exports": optional_counts,
                 "status": "ok",
             },
             indent=2,

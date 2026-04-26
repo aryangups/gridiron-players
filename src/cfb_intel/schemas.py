@@ -79,6 +79,7 @@ class Player(ExportModel):
     recruiting_stars: int | None = Field(default=None, ge=1, le=5)
     status: PlayerStatus = PlayerStatus.unknown
     stats: list[dict[str, object]] = Field(default_factory=list)
+    game_stats: list[dict[str, object]] = Field(default_factory=list)
     source_urls: list[HttpUrl] = Field(default_factory=list)
     last_updated: datetime = Field(default_factory=utc_now)
 
@@ -125,6 +126,52 @@ class PlayerStats(ExportModel):
     punts: int | None = None
     punt_yards: int | None = None
     average_punt: float | None = None
+    source_url: HttpUrl
+    last_updated: datetime = Field(default_factory=utc_now)
+
+
+class EspnCfbGame(ExportModel):
+    game_id: str
+    season: int
+    season_type: int | None = None
+    week: int | None = None
+    game_date: datetime
+    name: str
+    short_name: str | None = None
+    status: str
+    status_detail: str | None = None
+    status_state: str | None = None
+    completed: bool = False
+    period: int | None = None
+    clock: float | None = None
+    home_team_id: str | None = None
+    home_team: str | None = None
+    home_score: int | None = None
+    away_team_id: str | None = None
+    away_team: str | None = None
+    away_score: int | None = None
+    venue: str | None = None
+    source_url: HttpUrl
+    last_updated: datetime = Field(default_factory=utc_now)
+
+
+class EspnCfbPlayerGameStat(ExportModel):
+    stat_id: str
+    game_id: str
+    season: int
+    season_type: int | None = None
+    week: int | None = None
+    game_date: datetime
+    player_id: str
+    espn_athlete_id: str
+    player_name: str
+    team_id: str
+    team: str
+    opponent: str | None = None
+    home_away: str | None = None
+    jersey: str | None = None
+    stat_type: str
+    stats: dict[str, int | float | str | None] = Field(default_factory=dict)
     source_url: HttpUrl
     last_updated: datetime = Field(default_factory=utc_now)
 

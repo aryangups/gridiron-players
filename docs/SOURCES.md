@@ -3,9 +3,17 @@
 ## Current Full-FBS Source
 
 - ESPN public site/core endpoints: full ESPN FBS group team list, roster metadata, and public athlete historical stats. Enabled by `ENABLE_ESPN=true` and `ENABLE_PLAYER_STATS=true`.
+- ESPN public college football scoreboard and summary endpoints: current/past game metadata and player box-score rows. These are collected by `scripts/run_espn_cfb_update.py` and exported separately from the slower roster/news pipeline.
 - Google News RSS: public RSS metadata only for each collected team. Disabled by setting `ENABLE_GOOGLE_NEWS_RSS=false`.
 
 The ESPN adapter uses public JSON endpoints that power ESPN's college football pages. They are not a contracted API and may change, so the source is isolated in `src/cfb_intel/sources/espn.py` and can be disabled without changing the rest of the pipeline.
+
+The ESPN game-stat adapter uses:
+
+- `https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard`
+- `https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=...`
+
+The scheduled workflow polls the current scoreboard window every 10 minutes. Historical backfills should be run intentionally by week or season because every game summary requires a separate request.
 
 ## Fallback MVP Source
 
