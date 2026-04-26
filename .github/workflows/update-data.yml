@@ -2,8 +2,6 @@ name: Update college football player data
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 */12 * * *"
 
 permissions:
   contents: write
@@ -29,4 +27,3 @@ jobs:
           git add data/exports data/processed logs
           git commit -m "Update college football player data" || echo "No changes"
           git push
-
