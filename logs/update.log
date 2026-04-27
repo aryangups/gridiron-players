@@ -5314,3 +5314,4 @@
 {"timestamp": "2026-04-26T20:15:09.501778+00:00", "level": "INFO", "logger": "cfb_intel.pipeline.espn_cfb_live", "message": "ESPN CFB summaries processed", "games": 300, "stat_rows": 25248}
 {"timestamp": "2026-04-26T20:15:16.974586+00:00", "level": "INFO", "logger": "cfb_intel.pipeline.espn_cfb_live", "message": "ESPN CFB summaries processed", "games": 350, "stat_rows": 29268}
 {"timestamp": "2026-04-26T20:40:28.550716+00:00", "level": "INFO", "logger": "cfb_intel.pipeline.update_all", "message": "update complete", "players": 13589, "teams": 146, "stats_rows": 18601, "news_items": 1440, "injury_items": 173}
+{"timestamp": "2026-04-27T02:33:35.705211+00:00", "level": "INFO", "logger": "cfb_intel.pipeline.update_all", "message": "update complete", "players": 13586, "teams": 146, "stats_rows": 18601, "news_items": 1450, "injury_items": 180}
