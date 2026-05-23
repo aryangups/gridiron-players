@@ -10722,3 +10722,4 @@
 {"timestamp": "2026-05-23T02:45:16.198063+00:00", "level": "INFO", "logger": "cfb_intel.pipeline.update_all", "message": "update complete", "players": 13554, "teams": 146, "stats_rows": 18246, "news_items": 1450, "injury_items": 164}
 {"timestamp": "2026-05-23T07:34:24.055536+00:00", "level": "INFO", "logger": "cfb_intel.pipeline.update_all", "message": "update complete", "players": 13554, "teams": 146, "stats_rows": 18246, "news_items": 1450, "injury_items": 157}
 {"timestamp": "2026-05-23T11:13:35.788178+00:00", "level": "INFO", "logger": "cfb_intel.pipeline.update_all", "message": "update complete", "players": 13554, "teams": 146, "stats_rows": 18246, "news_items": 1450, "injury_items": 164}
+{"timestamp": "2026-05-23T16:05:37.680326+00:00", "level": "INFO", "logger": "cfb_intel.pipeline.update_all", "message": "update complete", "players": 13554, "teams": 146, "stats_rows": 18246, "news_items": 1450, "injury_items": 166}
