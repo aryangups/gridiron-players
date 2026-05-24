@@ -16028,3 +16028,4 @@
 {"timestamp": "2026-05-23T22:25:43.375073+00:00", "level": "INFO", "logger": "cfb_intel.utils.http", "message": "source has no record", "url": "https://site.web.api.espn.com/apis/common/v3/sports/football/college-football/athletes/5265482/stats", "status": 404}
 {"timestamp": "2026-05-23T22:28:52.133906+00:00", "level": "INFO", "logger": "cfb_intel.pipeline.update_all", "message": "update complete", "players": 13554, "teams": 146, "stats_rows": 18062, "news_items": 1450, "injury_items": 166}
 {"timestamp": "2026-05-24T02:57:00.247681+00:00", "level": "INFO", "logger": "cfb_intel.pipeline.update_all", "message": "update complete", "players": 13554, "teams": 146, "stats_rows": 18062, "news_items": 1450, "injury_items": 174}
+{"timestamp": "2026-05-24T07:53:04.127516+00:00", "level": "INFO", "logger": "cfb_intel.pipeline.update_all", "message": "update complete", "players": 13554, "teams": 146, "stats_rows": 18062, "news_items": 1450, "injury_items": 174}
