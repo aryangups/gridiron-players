@@ -1,16 +1,29 @@
 [
   {
-    "injury_id": "injury_67c08ab3e29ba2a1",
+    "injury_id": "injury_a457c06fb9ef2554",
     "player_id": null,
     "player_name": "Unknown",
     "team": "Akron Zips",
     "injury_status": "unknown",
     "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeUpPQU9TT1N6c0g3UWctRkgtcUhpRzJ2SnRkekRWdHZzTmpfU1BzcXdoTk1VUUJCY1dXZGx2VlZZUW5UNmROQmc1b0NXZnRFLUI2Nm5YUGhnZW0xbnJBOE12d1FReG1HanZuWml3dDhOS1FyMEM5c1JHb2s0MU10X1I5czVYZmpxRlQtT3I3ODNTX1Z6MnpNblFsWDJqUHJ4QjBMMS1UWlZ...",
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQUnZlQXVHTWVGVjBvaTVlWS1KSDFnM180US0xR003MEFYRERLRzJvWVZYWHVaNjc2Ukk1NUNQY2o0OHJOUTgtYjJJdHBKMzI5OVEyaFJrMU4wZWlFVVB2UUJrcGhXMi1oSlM2M1dWMy1sUUxrRERRd1g3V0lOXzRWcjg0LXlaUkRoelN6UWR5Tld1WnJjWVpVbWtDT3k4VG5FT08yRldCUTM...",
+    "source_name": "Hustle Belt",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUnZlQXVHTWVGVjBvaTVlWS1KSDFnM180US0xR003MEFYRERLRzJvWVZYWHVaNjc2Ukk1NUNQY2o0OHJOUTgtYjJJdHBKMzI5OVEyaFJrMU4wZWlFVVB2UUJrcGhXMi1oSlM2M1dWMy1sUUxrRERRd1g3V0lOXzRWcjg0LXlaUkRoelN6UWR5Tld1WnJjWVpVbWtDT3k4VG5FT08yRldCUTMtUzUtUVlSdjVR?oc=5",
+    "reported_at": "2025-11-04T08:00:00+00:00",
+    "last_updated": "2026-07-03T08:04:53.800276+00:00"
+  },
+  {
+    "injury_id": "injury_b92dd9dd8d1dd2ff",
+    "player_id": "espn_5225259",
+    "player_name": "Alex Fox",
+    "team": "Akron Zips",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUlBjcnlLN2lUcThlWXBvNUI4VTlWejNkcGRIcHNHMGpXMWVJOEZqM0Z2OFBNOTRrdmYtOWxfSjRGNGROSXBrNXI5WDltMDRXcXpSZGpEenBoS192cTRZZHVGWFI1OGxTdGhYQ2E0dGZKVEhJcFoxaWR5S09Zc2xwUlhKcGNTcWpMTjgxOUtKenFSYkgxLWNWLVlGVGZtZWJKVW5qNjhtRE9...",
     "source_name": "Akron Beacon Journal",
-    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeUpPQU9TT1N6c0g3UWctRkgtcUhpRzJ2SnRkekRWdHZzTmpfU1BzcXdoTk1VUUJCY1dXZGx2VlZZUW5UNmROQmc1b0NXZnRFLUI2Nm5YUGhnZW0xbnJBOE12d1FReG1HanZuWml3dDhOS1FyMEM5c1JHb2s0MU10X1I5czVYZmpxRlQtT3I3ODNTX1Z6MnpNblFsWDJqUHJ4QjBMMS1UWlZTaHNQODJtMGtNTjhMQUZyNFhSU1dtX09IUzZiOWhsU2c3RHJqU3pQN0E?oc=5",
-    "reported_at": "2025-12-17T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.381441+00:00"
+    "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUlBjcnlLN2lUcThlWXBvNUI4VTlWejNkcGRIcHNHMGpXMWVJOEZqM0Z2OFBNOTRrdmYtOWxfSjRGNGROSXBrNXI5WDltMDRXcXpSZGpEenBoS192cTRZZHVGWFI1OGxTdGhYQ2E0dGZKVEhJcFoxaWR5S09Zc2xwUlhKcGNTcWpMTjgxOUtKenFSYkgxLWNWLVlGVGZtZWJKVW5qNjhtRE9rZmd0VnBOeE5IV2Rlc0I2M1Awakd1aThkUWJRNzFYOUVVSzBhaHZ0VkNXMGdGVHh0MmE0aktYdzdTWQ?oc=5",
+    "reported_at": "2025-10-04T07:00:00+00:00",
+    "last_updated": "2026-07-03T08:04:53.800330+00:00"
   },
   {
     "injury_id": "injury_1f9bcd77e86a4024",
@@ -23,20 +36,7 @@
     "source_name": "Bama Hammer",
     "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEEzV244dkRnd0c4ZDhSOUNOZTVleXZ1ME1qSGIzSzlhcENVNTItcUhkT01sS0FmeTJpbGRQMWJIMmhQeEl2MWdieFRKbjROc2YxMm1xN0w4VUdDUU5oaFdRUzZ2b2pWZzRISTVhSmhfSmgyQkhiMkNwVGFoS0hrMkVRb1JiMXdmc0tZOGpLYVo0eWlJMU5JS24xMA?oc=5",
     "reported_at": "2026-06-30T03:42:31+00:00",
-    "last_updated": "2026-07-03T02:39:23.381500+00:00"
-  },
-  {
-    "injury_id": "injury_d3368971e971b3a4",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "American",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUzZ6eW8wSjVKQXl4dTdlNGRLa01SLUpMWUUxbnZzNUN2cDVRVzBORTRWTGlRUG5PYW5SbGE2Nmd3MjhpTDdyRWlnVEtwMURqMHhTaEJLejlCcVJNbDhmTnBLWngzbUNfZ1pPcWxDMGQzaGgtSEV1cndDbWU3T1Myc0NSZmZsSV9KcDV5SXZCMlhRUjBvMHZoQ01yUUFscFFXUTlSMTI4R1Z...",
-    "source_name": "Newswise",
-    "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUzZ6eW8wSjVKQXl4dTdlNGRLa01SLUpMWUUxbnZzNUN2cDVRVzBORTRWTGlRUG5PYW5SbGE2Nmd3MjhpTDdyRWlnVEtwMURqMHhTaEJLejlCcVJNbDhmTnBLWngzbUNfZ1pPcWxDMGQzaGgtSEV1cndDbWU3T1Myc0NSZmZsSV9KcDV5SXZCMlhRUjBvMHZoQ01yUUFscFFXUTlSMTI4R1ZyR0FwX2lydUg0dURlTkFKN1hLWmFqbkZnaC14NGVHdGtFbFhKQ05DTVRLY1hOcFI5TFkzdUdTRDdKUdIB4wFBVV95cUxQUzZ6eW8wSjVKQXl4dTdlNGRLa01SLUpMWUUxbnZzNUN2cDVRVzBORTRWTGlRUG5PYW5SbGE2Nmd3MjhpTDdyRWlnVEtwMURqMHhTaEJLejlCcVJNbDhmTnBLWngzbUNfZ1pPcWxDMGQzaGgtSEV1cndDbWU3T1Myc0NSZmZsSV9KcDV5SXZCMlhRUjBvMHZoQ01yUUFscFFXUTlSMTI4R1ZyR0FwX2lydUg0dURlTkFKN1hLWmFqbkZnaC14NGVHdGtFbFhKQ05DTVRLY1hOcFI5TFkzdUdTRDdKUQ?oc=5",
-    "reported_at": "2026-06-30T22:20:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.381533+00:00"
+    "last_updated": "2026-07-03T08:04:53.800366+00:00"
   },
   {
     "injury_id": "injury_bd639c8e3e75fe78",
@@ -49,7 +49,7 @@
     "source_name": "Yahoo Sports",
     "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRkxjSjNvTmtEZTZNLVNVVE5zTTY5REZ1dnhqam55RjJMZUFIbnZKbnNERENqV1VWSU5GWnZuUEp1R1RmWmxvbVVOdVhtWDVNM0I0MG9CeXpoLUQzRUExMndvaThzS2RHeUlwWlpMUktRZHZCX2ZYMDFCWi1JSFN4SVhBZw?oc=5",
     "reported_at": "2025-11-06T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.381566+00:00"
+    "last_updated": "2026-07-03T08:04:53.800403+00:00"
   },
   {
     "injury_id": "injury_899a9ddb2cfb07ee",
@@ -62,7 +62,7 @@
     "source_name": "Action Network",
     "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcEJxcW1NdzgyNFZvLUZFaHlNcDFuY2tKM0wyV180SHRfXzBlOUl1OG1RQkd5Sm5oZDcwMkdsbGxlUlBHZ1U4a1IwWDVPMWI2WEVHdmxmeWJUUGkxQnlHc0RrR2JJOTd2UlZUVzJmLUJHTk9XcEFmYy11empzdGFKemhySTEzQVZVWXZ4WHVXYzBVQ2FxaldGcm42eXA2VGF4NUFwdU5BQW1nMW9uTDJQTjg0RHU5RVVUdXZnbkY5MzZCamg5bXJTME9ZUnhKeUpxUHc?oc=5",
     "reported_at": "2025-12-29T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.381591+00:00"
+    "last_updated": "2026-07-03T08:04:53.800428+00:00"
   },
   {
     "injury_id": "injury_f69ac6b5140d0f5a",
@@ -75,7 +75,7 @@
     "source_name": "militaryfamilies.com",
     "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaXdkeTlhSzhLdHNlbktMTmdabUtqT3p0Rk9FeFRNOHRpTklIaEcyYWlvdFNvSFh6ZGRxZzJSMTgtb0kwVXRYYm1EeEN6Q2RVMlBsWlhiQkE4TVJ3amRrTVBGLXlsVFRPSVdrYmE3NkpvSGZNM1FENDd5RHZZTmNTNkF6OExmSXFQb3prS2d4R0R0aWVEb000WWY4cThDV0pPbi1LVFRn?oc=5",
     "reported_at": "2025-12-19T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.381630+00:00"
+    "last_updated": "2026-07-03T08:04:53.800474+00:00"
   },
   {
     "injury_id": "injury_b54db44289e00c27",
@@ -88,7 +88,7 @@
     "source_name": "Fly War Eagle",
     "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUndsbVpaLTQ2ZFFQX1d6NDNMY2p3blJvTE9mZEFvTHNEM2o2bG1GbzZ1eEFoT25MdkFJUkFrZDAzY2xlM01vQmZqQllOWnpUaWs0SjBKNjE2QWkzX21MRlI4ejRaSW5vdS0zY0tKUkNPVC1MVm1oblhTaTAwUWtiMkEzSlZ3MWVkaVhZS2szeVpkN1dKdmFUOFI3dmN3NVNicWkwQ1MxaEZuaDBBRDdKZldHTmloaXMtWnc?oc=5",
     "reported_at": "2026-06-30T11:00:11+00:00",
-    "last_updated": "2026-07-03T02:39:23.381657+00:00"
+    "last_updated": "2026-07-03T08:04:53.800502+00:00"
   },
   {
     "injury_id": "injury_fa04b9a12bfc8a3c",
@@ -101,7 +101,7 @@
     "source_name": "AL.com",
     "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa2l4aElvSlBkVUVoaTZfbHlSbVk5Q1RZSGtVUWVuVXJiWlNBZTktZFZTQ05zRE1Xb0VPQmNYdFdCLW5EN1RDMXB0ZjE2YTJ5eGViSmhJQk9aSzl4N2RSNE1PbWRIY2hrLUM2d0p0Q2JuaFVmSkFzMDBJOTZtWmJtbTN1RzFfOU9vRXh4OTlBZnFMdDRCeU9UeGtKUXVmWHZiUWVOLWh2c2xtU1ZmOVFYQTQ1a1hPckR5VTBTSTdlWjFzUlBpUG1ydWpuX3FhWUs4UlVld3JCRQ?oc=5",
     "reported_at": "2026-06-20T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.381683+00:00"
+    "last_updated": "2026-07-03T08:04:53.800527+00:00"
   },
   {
     "injury_id": "injury_aa1efa64c468cf37",
@@ -114,7 +114,7 @@
     "source_name": "KSL Sports",
     "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMF9MWGh1dUtfRjI5NVl2Ynl3NkJYQTNUWVBsaFdkLTRUNHJnd1drbmRyeG51d2FLTWpPaE9hYld3RlFmR3BuZnNfdXRCaDNxUFF3LUkxVkhNMlBaZjdJRVozRmlHQU9LajVCMDBLaXJ0S2JiYmFzSlJxUzVjRnpaTUpib0tJVjA?oc=5",
     "reported_at": "2026-06-15T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.381709+00:00"
+    "last_updated": "2026-07-03T08:04:53.800555+00:00"
   },
   {
     "injury_id": "injury_fa04b9a12bfc8a3c",
@@ -127,7 +127,7 @@
     "source_name": "AL.com",
     "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa2l4aElvSlBkVUVoaTZfbHlSbVk5Q1RZSGtVUWVuVXJiWlNBZTktZFZTQ05zRE1Xb0VPQmNYdFdCLW5EN1RDMXB0ZjE2YTJ5eGViSmhJQk9aSzl4N2RSNE1PbWRIY2hrLUM2d0p0Q2JuaFVmSkFzMDBJOTZtWmJtbTN1RzFfOU9vRXh4OTlBZnFMdDRCeU9UeGtKUXVmWHZiUWVOLWh2c2xtU1ZmOVFYQTQ1a1hPckR5VTBTSTdlWjFzUlBpUG1ydWpuX3FhWUs4UlVld3JCRQ?oc=5",
     "reported_at": "2026-06-20T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.381735+00:00"
+    "last_updated": "2026-07-03T08:04:53.800582+00:00"
   },
   {
     "injury_id": "injury_6f78d9db1b21a6f9",
@@ -140,7 +140,7 @@
     "source_name": "IndyStar",
     "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPc1ZzeEplUkJtRWdDcVJvbHpXNFpLQmdYUUh6UVp0TjdoRW0wX1h6OURWR0p4U2t1WEs1YkVHWDJDa2lhSkNnemlnUUdvVkUwVlZTTWhkcUtOV1otVEhwZ2xZYm5aV0RlcTBsN2RjQXdOTUZneFBRMEFjZGt5Uk1EWTBpek5ybXNVaGpoTGFuVXdsb2hkZXc0NXd1TWVLUkkzbnlWQzc2UVhrU3N0OUJfeXFHa216c3d2TzBvQXBqMEhFbFVuT2JXdDFxZWg4dXh2S0xMYmJMa3N5S244ZEYtOWhLS2huTDFJU3dENFZMYnJuMUNmc0d6VHBGUTA5dG9ZUEVrOWdTOA?oc=5",
     "reported_at": "2025-08-30T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.381760+00:00"
+    "last_updated": "2026-07-03T08:04:53.800607+00:00"
   },
   {
     "injury_id": "injury_728c940877551833",
@@ -153,7 +153,7 @@
     "source_name": "CBS Sports",
     "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzJ1R2RDeXZBLUYxRjgzZE5iZEl4ZDNOTUNyYzdMNGQ2MmQzMXVmakJpdXA3NnRpTkhOMHJCYmlxTkhubk9QcWg4YU1rMFp1WnppQVRDNkZvUUZWdXJBZlpKWjV1czRqVWs5WXFzNVJlcklxYnZaUW9hRDNyZ1dLcVU5a2RSVjFNV3gtR1l1RU01R0tjbUZxZ0VYLXNFRC10?oc=5",
     "reported_at": "2026-06-19T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.381784+00:00"
+    "last_updated": "2026-07-03T08:04:53.800633+00:00"
   },
   {
     "injury_id": "injury_931d7b5ad5bed6a0",
@@ -166,7 +166,7 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMXVka2xaYkdEZTZ6U3c4RTRESXRsOGZKODV3Z01RZm1ELTUzNk5UVzhMa0s4bjFjM3U5WDFZQ2hCR3hwb2d2ZGNXbE1CRDByMlcwQVo3Nm02Mmkwa2h1TUdTeVNqMU5GbjhwbmVUZV9CN0U3cGhSUWRlcUdIX1NaYnhHNHFoeUN5SXhGNkp3d3prZUQtZEJHQjNuUWFoUTI1SFZ4dzdtYmgtdTd0enlydHFocGc4QlFGVFdHX3V3?oc=5",
     "reported_at": "2026-06-30T16:42:11+00:00",
-    "last_updated": "2026-07-03T02:39:23.381808+00:00"
+    "last_updated": "2026-07-03T08:04:53.800657+00:00"
   },
   {
     "injury_id": "injury_cb9d4b95f1b32897",
@@ -179,7 +179,7 @@
     "source_name": "Hustle Belt",
     "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTW5YbXJLZFdLUUZOU2cwSUNfSUhDSWFLVWlYVEQxTmM3bEpoXzYwME0zZTdwT2lrRlc0dldENll1Q0pGcG9TaF85MWJyTUhGU1p6ZHF2LU5uLWVKNlZaQXlBZnBOakt0UGxFRkwtZFhEa29lVERoRTVsUjVrU1lUMGdLZUpQc0NrWmhNUzBuM1JITVFMZVdqdkV6UDdHWkxOOHIzNVdBSlBnMzVTYzB4dWlRT1JyTFhIV3lxNE4wVmphZw?oc=5",
     "reported_at": "2026-01-19T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.381843+00:00"
+    "last_updated": "2026-07-03T08:04:53.800692+00:00"
   },
   {
     "injury_id": "injury_fc49af4f45aba2a1",
@@ -192,7 +192,7 @@
     "source_name": "Inside NU",
     "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSy1FX0oyRldObUV1YVJwemZKM0hfaUpQNUhFbGpqeFRsOVN5alV1bXVzT1JZeGtRa3NCajdWWVBSUDNyMmwwc05EeGdYUmY4YXdodlJwX0RsWjhNYTNsUzdDTXhsN1lYRjVUclRmVkpscGt2RTJya2h2WU9PT3hNT1pZWEFva0swcldDM3NiZzFSaGtxT1J1dDlnZGE5VHpHNGxqdmdBSUtKS0dJVUpuWEN1RFlnZXVEZkYxZ3QtMFRXam8yM2FtbUl6ZjFmeF9RYmJnekhXWUlleU9GZzdBZ1BaUW9XdVF0YjFqTQ?oc=5",
     "reported_at": "2025-12-26T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.381884+00:00"
+    "last_updated": "2026-07-03T08:04:53.800727+00:00"
   },
   {
     "injury_id": "injury_d9a2ffd3825848a4",
@@ -205,7 +205,7 @@
     "source_name": "Charlotte Observer",
     "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rcW5acnRUSlkzLVFlY19JbURLSWpjMDYtaGJLQWtrYWxlOHJZelgxRmRJaDRCcGE1SnpfLUVTdU14N2NiLWlDVXJtQVd1MGljeVJablBZZmthU0VlbkFNUG9XZHBqY3Z3YV9kYnBtQ3U0ZnhqX0xLTi130gF6QVVfeXFMUG1Wd0Y0b21SWUJIVVFlbld4SmE1VUlwZmRscW0yb1hnN2tOWTk2ODZCNlNMeHcyaTlzRndQQ0lfWmV1OTEyTmtEbm5acWxjQzhfZ2hnUl9KWUdWMjZzcldWZXJNeDVCMHpSYVVmMG1WNUJkaWh0bGxUeHc?oc=5",
     "reported_at": "2026-04-27T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.381910+00:00"
+    "last_updated": "2026-07-03T08:04:53.800752+00:00"
   },
   {
     "injury_id": "injury_6a72d88c25db5997",
@@ -218,7 +218,7 @@
     "source_name": "Cincinnati Enquirer",
     "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUDRFQ09tT1pQN0ZsMlpjWjBINzY3NldPbjdlU3JNSzRqVFVycHptYVNLMlBOVHpDTzc0dktjWG9mNmFfa284RmUwbzV5M28waDUxcjkxX05SM1FwNV8wMi1WSjlHX3FpempITmlnTVI1WV9EalVudllVN1lJZUZDazFKUkJHbllfVy1nTzBGdVl5RXBYSFZwWU1EWXZ0SXRubGtsMU96cm41VGpSckpVMmJHY2RnbktGazBSYy1PVHFuRjFQck5fbmM3Wmk5TkhOdlNIWHBlaXpnUjBrZnl1c3dxZUo0ZHptaHNnOHhpRGlDdlFjbm5PcG5kYzdUUQ?oc=5",
     "reported_at": "2026-06-12T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.381938+00:00"
+    "last_updated": "2026-07-03T08:04:53.800781+00:00"
   },
   {
     "injury_id": "injury_a3074432a6e22f29",
@@ -231,7 +231,7 @@
     "source_name": "roundtable.io",
     "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSXZpRk1CMU5UZEQzdk1LZUl5dXUtWkdhRFIyaXk5TjVFY21jQXJ6MkQ5VTdOQ3A4cjU1VlR3Vm1BVm80eEpPclFfN01GUmc4MGU0R0c2Y0dDVk9EbXM0SmNfQnlBTG1HRWJfaXZCYmpKaGdHdVpwTXl1SlhCMDhZbW92SWtoZmZOUTV2UmNJVmQybDlUV0h2cEJNNEcxZjQtWlE1Um0xbGhRZw?oc=5",
     "reported_at": "2026-06-29T23:20:44+00:00",
-    "last_updated": "2026-07-03T02:39:23.381965+00:00"
+    "last_updated": "2026-07-03T08:04:53.800809+00:00"
   },
   {
     "injury_id": "injury_afb4accdda9c82a3",
@@ -244,7 +244,7 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcU96UHpKZGpzemo5VV9lSU9QTVpLMVdiMmNUNzBuNUt0WUp0UnRtUDlRQUJ3dUg1MXAwZkhRTG5oaGRaQ21VU2JLWmEzemd4MWFqWi1PNHBkc3BaOTBaU3h4TDN6c2RrRXVkZHU4NnJSWnFlQl93NkE4MXJnbjVhNnZJS1VOUjBUNHJRQk4xZzhRSHJvbUd0TTgzckJKYVJzalRJSFpSYXoxRnN2V1k3NGFWV0ZHYWNjdnFZY1BDSTlvNTAwVGtVNlZmay00YkE5bUNnVjNrMGEydw?oc=5",
     "reported_at": "2026-06-11T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.381989+00:00"
+    "last_updated": "2026-07-03T08:04:53.800833+00:00"
   },
   {
     "injury_id": "injury_6f3190eec66348fd",
@@ -257,7 +257,7 @@
     "source_name": "University of South Carolina Athletics",
     "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMkNDbWE1Z2s1VW9fbWpNYU1ybG9lOUNoUGVYSjgtbDA3V1ptcmpWUGhKNkZHTC10QkVkX2RaVVZtaVRkQS1UeTlDLU1Hbk8wbHE4TlJjNDNJRFFkZW1SRHo2eTF1UWxxYVdWSWZCcjZ3YWpTR2x3enkxTVRrWFJNOXlrYmMwRmlMVlVUQUxn?oc=5",
     "reported_at": "2025-11-21T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.382010+00:00"
+    "last_updated": "2026-07-03T08:04:53.800876+00:00"
   },
   {
     "injury_id": "injury_74749452dd1af372",
@@ -270,7 +270,7 @@
     "source_name": "On3",
     "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVzNSVXJvV3g5LWxxYTdNMzRMZTYtYTFGOVcwS0pua2pCM2xGS2VtVU9ObXU0WGhfQjFfVUM0MUl3UHJyMEt4X2NKQm13d2Q5QlJkRXRpekdoYmtTZS1TSmhmdGxtanJMT1hyRlB2bzNCYWJ5YmNqVk1PMXZpZXVRU256NFF6SEtJb3J2QzR3Rmp3ZlRHVUNrRTFob29TdG9VeEhrWQ?oc=5",
     "reported_at": "2026-07-02T07:23:21+00:00",
-    "last_updated": "2026-07-03T02:39:23.382032+00:00"
+    "last_updated": "2026-07-03T08:04:53.800906+00:00"
   },
   {
     "injury_id": "injury_a369bebe9f53bcd1",
@@ -283,7 +283,7 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMlcwZFVHWjlheHFVZDFfN3BtSHpacTBxZndOZjlXMHdEdUt4QXc0LVZFNTdyY2NHbEpPMmlkTFp3MzVqSS00bHYwb0hLMTJjOGJMOUs1VU5VWkY3VXZ3U09VZ3pLaDIwSFhsZGJteVlsb1lxdFR3cVFzZjM3cjZ1c2toRmxFeVJGNTdlOUt3?oc=5",
     "reported_at": "2026-07-02T14:00:05+00:00",
-    "last_updated": "2026-07-03T02:39:23.382065+00:00"
+    "last_updated": "2026-07-03T08:04:53.800940+00:00"
   },
   {
     "injury_id": "injury_c99b1884ae229f17",
@@ -296,7 +296,7 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdDdBd0RWNWpnTUQ5MFkycDBNNGxnb0c4SHM0V2dKVzIwei1OZHJ0U21wd1NwWXBWLTNqOVpHMUVHaUZ1ZHhtWlMxM3lZUlZJRkdud09hMXZRa2FSSUM4MHlFMGZIaVJQRE5wNU5qcXlSVnlDdGtaQXc0X3dRa0pHa2l5OUU3Q2tkc19HdjY4cU4xOWs?oc=5",
     "reported_at": "2026-06-29T12:00:03+00:00",
-    "last_updated": "2026-07-03T02:39:23.382087+00:00"
+    "last_updated": "2026-07-03T08:04:53.800964+00:00"
   },
   {
     "injury_id": "injury_fc4218d9751b3393",
@@ -309,7 +309,7 @@
     "source_name": "MontanaSports.com",
     "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOXozUVI4S2Y0OVRsa1lBbTV6b3FvZG1BYWhjYlIxcnVfV0F0c3R1d2JZVHBVdkllc3lpYXFUN1VnZnZldzJncy1mLW1oUmNJNVhrZkstVEw4TDc2Z2dPVnVRaHlIZDVQVmhXOHdOcElXNU9iUlVnMy1PS1Y2YUJ6SnhsWVpFRGJfUGdFdXhvNHJncFg4Z3BSTmkzZUlhaEp6ZldiUFJFY2RtM2N5S25pR2ZRc3U5ajRxUHptWTFMd3F0cWtxMGV0alJON3ZWTGg3bGRmazkxYWhfWVV2RGkzdnRaMXZkdi1JZ05qQllydzRDdXZXV0J3?oc=5",
     "reported_at": "2026-06-18T21:43:27+00:00",
-    "last_updated": "2026-07-03T02:39:23.382112+00:00"
+    "last_updated": "2026-07-03T08:04:53.800989+00:00"
   },
   {
     "injury_id": "injury_50dab30dc3188a38",
@@ -322,7 +322,7 @@
     "source_name": "Daily Breeze",
     "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYnpKTGdJVEh5bHdxaTVHODF5NERYWVZxTzRNTnBFc0ZzTHNmZG1UZ1BSMVRSdThkVHN2dXB4eldiRzB1ejdWNTVVT1h1aW1hVzkzTmtNZ3JlWVp5QV9kZGQ2TkgwcEg0OXpaaGg4TVNDeWlDeXZtVEZRdkdsMlZFQXhVU3kxSklEU1NwaHV4U2ZWajBacm13bmZPOA?oc=5",
     "reported_at": "2024-02-02T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.382137+00:00"
+    "last_updated": "2026-07-03T08:04:53.801014+00:00"
   },
   {
     "injury_id": "injury_739bbc95395a4a9c",
@@ -335,7 +335,7 @@
     "source_name": "247Sports",
     "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRmRqdHliVGxvX2U1TVVzSDVSRUpIdTVFYThWaml2QmlfcTZ4UkhvMWl4ZzgzN3k0X0lpUXNYNGtEUlY4aTMtMjRrdmdtRmV3TDQtM3BPT19rQnB1TkJYMm9udFBhNGJQM2E3MHZTYk1HSnNObzlpZlJ3b1NKVWd2TFprVWx0NnQ4WG1GQWFuU05wSnpqUXdad04xMVFwb1YxQzRfVjNSXzVxUGU3QzRneXhpelF5a280VEFYVFY3OVZfSW9mVXR4ZTlFbkd3MmxSbHgw?oc=5",
     "reported_at": "2025-12-26T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.382161+00:00"
+    "last_updated": "2026-07-03T08:04:53.801039+00:00"
   },
   {
     "injury_id": "injury_81798ed296bb616c",
@@ -348,7 +348,7 @@
     "source_name": "MLive.com",
     "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd1V1ZXdkbjF2SXBIX0hCZFlMcmpkU3NGM1BNNDg2RTlzb1lnN2FoVTdKMDRzanJFWVhiQnJTZ2JjYndKVEd5NkN6OWRlWk04dldGYkNkLVFheHhhVlBqTm12a0FuNWN4U2V4X2ZmWjZMNG5RbmU3MGR1Y0ZnaTRzMGR6cVVrUUV1aHB1QjF3cXZONGFMVm5EVWJsS1FEVHRnNEFtR1owYjB6VEnSAb8BQVVfeXFMT3dSb1FKZG9tUkMycmpVMkVoTmgyeHFRVGJVMDhkaGl3dGlScWdJTEd4amctaFpRQVVveWhWaFZfWXNLXzVYcWNjWFItdzdoZkZ4TEJkdzRMMmxoOEhBZENSU21yYlc5YjROZHRPZDJsYXdNdW5YSm1Dd0lBYnUtelB3amZrYWQzRVkxWjlfNlNkSkp6Q1JqRl81SXF1aUJXell4N2xwNmo0a01GMGZUNjlsX1RSRzA3MnFUZjRSd3c?oc=5",
     "reported_at": "2026-04-13T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.382185+00:00"
+    "last_updated": "2026-07-03T08:04:53.801063+00:00"
   },
   {
     "injury_id": "injury_64c8bc590f140bc3",
@@ -361,7 +361,7 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ianZ4b1BnSnc5TW9oMzBHRTNXX3F6Z1JDMU1mUXNHWjRDa2tiVGpCdEpVTTZ5NFI4enpfMWRWQV9TaklWY01zb3dDUUR5a3BCSmVFNE5Mak1XUTU2Zmc5NmExOGNsZ0wxWV9RczIzeFBDWUk?oc=5",
     "reported_at": "2026-05-20T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.382217+00:00"
+    "last_updated": "2026-07-03T08:04:53.801096+00:00"
   },
   {
     "injury_id": "injury_ad98fb776b29bc0b",
@@ -374,7 +374,7 @@
     "source_name": "On3",
     "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb1phUlZrTmFHQ1RJWGRJbXJMSmViV216LTg0TlBneVZodjQyRDJjX3VidC1ZZWNCVHBreENic0NxUkd5TXlvQlBocE4tN1lWWmt1cVl3YnM1TjZ3MHZZY1FTNGxvUEVlUHZBaG9Wa3M3RjFOamExSDJ1Smk3amVfQnZ2eXpUcEQ0T1JEUmgtRkRwa3Bpc3hOZEZuM3dYRnRLdVlEc2JTWmYwaTdzWFMxRXRIWEVWY1RZMURMNEYwN1VVb0hEUVE?oc=5",
     "reported_at": "2026-06-28T13:09:01+00:00",
-    "last_updated": "2026-07-03T02:39:23.382266+00:00"
+    "last_updated": "2026-07-03T08:04:53.801122+00:00"
   },
   {
     "injury_id": "injury_6398733e8a1c2c9e",
@@ -387,7 +387,7 @@
     "source_name": "Florida Gators",
     "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXhXS2VjcnRDakI3aVlNNzBrd2ZrV1JEUVJfYkhlQmR2NDdmbXNEbERQOW1haHpBSFAtSWI4cEFDMGxjX25leml5VldndE1pWEJobUgzeEtqbGZWMHlJUVU4TEpfanJaWmtfZG1xazRqWFZsUFg1YUNfdDcwTzQ2eUFOUWY5UlZ2S0NReDRaUjI1QVNhbXFNWERLMnRlZklieS1yYmVjWDRKZ2E2cGc?oc=5",
     "reported_at": "2026-04-11T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.382305+00:00"
+    "last_updated": "2026-07-03T08:04:53.801151+00:00"
   },
   {
     "injury_id": "injury_5c891cb2b338d398",
@@ -400,7 +400,20 @@
     "source_name": "On3",
     "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYng3Vks2UFA1eVBOSTN4SnBlLXdrQmE1ZG9CbFhTdHhoMklmYi1walN0WUZ1UDFrTFctcWFfeXJIT2hqNFJwc2dvdmNGd05Tb1llOG9jOVNQUkx6ZFJCNkhzQndrTXd3VlI0SDYxNUlReDB0Nk9kZXp3QmhlRy15eFB3eGNQMEZRdExVbmdxLUJwSHJPMjN0b1FqZVRxYzNvTjRiUXRUX09zSUtSQjRCbktJV2hVeGVqajBYTjk5VjlndkthNEx5dmtPalpnbjdWZWRoQg?oc=5",
     "reported_at": "2025-09-06T21:17:53+00:00",
-    "last_updated": "2026-07-03T02:39:23.382333+00:00"
+    "last_updated": "2026-07-03T08:04:53.801178+00:00"
+  },
+  {
+    "injury_id": "injury_743069f81bf96488",
+    "player_id": null,
+    "player_name": "Unknown",
+    "team": "Florida State Seminoles",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPTG4wdzBXd0tJVFlxQ29BWGYzNUcyZWdvUDlWcGdEZ2psS2djUE9aVU83RkxPUHE2V1RWU2RxTkxMRG9neUpkaExrTkRVOXA0VkVwR3FON1U2SXo0N045RDliUW8zcHBHaGFmYjk3dzlCanJSbUhEblliTHktMjJyWXhfUHkwZWZsaVFyMi0yOEQ0dVNnNmpiekl2QVUtWkd0a3dCbkt1MmQ...",
+    "source_name": "FSU Wire",
+    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTG4wdzBXd0tJVFlxQ29BWGYzNUcyZWdvUDlWcGdEZ2psS2djUE9aVU83RkxPUHE2V1RWU2RxTkxMRG9neUpkaExrTkRVOXA0VkVwR3FON1U2SXo0N045RDliUW8zcHBHaGFmYjk3dzlCanJSbUhEblliTHktMjJyWXhfUHkwZWZsaVFyMi0yOEQ0dVNnNmpiekl2QVUtWkd0a3dCbkt1MmQtZG52MjE1VVE4R2Y2ZW5TdW1UMHoxQXpZSlhJOGdaM013?oc=5",
+    "reported_at": "2026-07-02T20:45:00+00:00",
+    "last_updated": "2026-07-03T08:04:53.801203+00:00"
   },
   {
     "injury_id": "injury_5054061c06c41bbf",
@@ -413,7 +426,7 @@
     "source_name": "On3",
     "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOUt4TUo4R2ItQmxEMjNrN1BOTHFPcExjNU8tSFY5NU9zWGdzU1lzeExVeGdORGQ3TmR4MFdkMHJNV2Z3bnA4cEY5Tk84MEpQMTRMRklQaVNTSXAxZUtwUVNyWVBwV3VRMHBfOU9IVGpscG8xX0xjSFJhQUZ2UjdMZkIyNzFkTTF1TzdRR01GdjJSTldUZEVIOUVHMDlZTlBHRFo3eHBWYzEwYjBkdXFCSkZ3MGtEdHhCWHdoUURRZFU2Ukk?oc=5",
     "reported_at": "2026-07-02T12:27:28+00:00",
-    "last_updated": "2026-07-03T02:39:23.382359+00:00"
+    "last_updated": "2026-07-03T08:04:53.801225+00:00"
   },
   {
     "injury_id": "injury_ae7cc987c4d63c7f",
@@ -426,7 +439,7 @@
     "source_name": "Fresno Bee",
     "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRDZOX05BWU81RGxrd2FuZ3lpLXptOWhOSzFHMGtmVnZtU1ozOWstQ1BGQl96QW1HdktuenBCOV9Xd1RfSFVyM2dGWnNEcnBZei1RVU5qNk5oMk1scXVGVHl4TFNzQ2laNC04MEZjTEQ1UF9pOE41aGNaazJzZGR5U0RjVDJJMG9Xa2RraTFiczYyVWxLZ1R4YVZIS1VCWFJkTkwzOEphbFlmWUnSAasBQVVfeXFMTzdlakRNQmxQZnhlWDM3VWtfX05IMVIxWUZ1OTJRd0FwVWxtVDBicWx1Y3RDSDQ4bWxfZUJaMHdmbjYwb3plY09fcHlmQlpoNjYtWGp3SUdWTlV5ZTZPeGZDLUprcGtXQWNEa0g5b2ZVd25BYTlFMEFQT0lkZS1vU3FvREg3NU0tZUZQWDRZR2x0bkx0a1pKanZzS01KYy04amwxRVpVa1habDdR?oc=5",
     "reported_at": "2025-12-31T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.382386+00:00"
+    "last_updated": "2026-07-03T08:04:53.801251+00:00"
   },
   {
     "injury_id": "injury_09ecc278fd4ad2d6",
@@ -439,7 +452,7 @@
     "source_name": "On3",
     "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWczVDlRaTBCNU9VTEZ6M09QR3QwWmFoeVVvejNxbG1zVkVsOFkyWG82a3BPT29ZQ0prSm51ak11RmQ1XzhqNXhhOGhDSDlnV3lTVnNIQm5BbXVGTWo3ZmhJSU9Jek51bGRKYVYzYVdDdWwweHE4enRKNDIySFJFM2VpTjRVV3hPX3FLLS1jNzZaSUhZLXA3SlFldi1UMUFjODJhZ29rMUxJdw?oc=5",
     "reported_at": "2026-06-27T20:10:03+00:00",
-    "last_updated": "2026-07-03T02:39:23.382413+00:00"
+    "last_updated": "2026-07-03T08:04:53.801277+00:00"
   },
   {
     "injury_id": "injury_caba4a6d033c2560",
@@ -452,7 +465,7 @@
     "source_name": "DawgNation",
     "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbkdLcTNkVHlzTkhuUnBUTFBhWFY2cmxXREFFWkdQV2VkMEQ1eVdKX1o2cVdUdTFPMG1ndl9Sa01XbkR2YXBqZ0hoc19RXzZVa252SHl2VEJyRE9oc3ZoSXZsU0xYb1RlTXlaeGUybWhWRjBZYUhNd3VmRVNaX0FBNWFGRk5ZRnREMzF6QU1lOTBtTl9rM3RZQUdqYmVZaWJnUWFOZ2N4N3BIMnd5MjNoNkZwdUVfNXJoVXJwUEk1ZFlJQXY2aFhiSWtjVmxWYXVacFJQWGppRk4yVXRWUUZHN1pma29IMWdQTlhNQ3U0WVoxX1dNX3ZZ?oc=5",
     "reported_at": "2026-06-11T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.382435+00:00"
+    "last_updated": "2026-07-03T08:04:53.801299+00:00"
   },
   {
     "injury_id": "injury_5572e77fa186e1b0",
@@ -465,7 +478,7 @@
     "source_name": "A to Z Sports",
     "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTXhxY0h0c0tCb3NwanBWVndJSGVIUUl2UUxDQ1BkeVZtUW5jSHZraERBUm5lc3RkbldMRThpNzNzQUtQd0otVzJJWnBkN3U0cVJQR2E3c3ktZzM5b1o2cVVTdm90RkRfWXhqN2VDR3JGN2had1lOZlFYbnRuQmR1VElTT3lSME1IYjJjVDEyVHpDSTFIZHRSTEE2R0hmSGFGcFJBeW5wZXl2bW1PczhzM1VqTkxVbEotNk1VNHNBTS1mdHE4M0x6QUpUQ3FwbHdkbW5DN0ZxVzRyenctQWFpYVRaeHo?oc=5",
     "reported_at": "2026-06-29T15:51:04+00:00",
-    "last_updated": "2026-07-03T02:39:23.382457+00:00"
+    "last_updated": "2026-07-03T08:04:53.801320+00:00"
   },
   {
     "injury_id": "injury_1e5ee8361e02897c",
@@ -478,7 +491,7 @@
     "source_name": "247Sports",
     "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWDhUbGI5Z1Yzb1BuRVA3VmxaLU01c2ItNk1aVHdiTWpXcGk5cHdZSHhiMGt3NXY1Mk5oOTVIdElFOTdKUzBRTnBIZU9RQ0d1aG1XUjN1anJYUE1GREhfeHoyTlNIM0h3U2VGQWd1N1ZLc1laNDNtdW12bUEtSzB4cUVrcENUbFY2R0kzWGFvODlCNW92UkRobHhfVkdaNjg0UWpGOVRJSWEzZXNROGlyay11LUx1UWJkVVhlM0xoMHY0RkFWX1JEUUJ5bEozSmFlUzljc24zc202ekpGTVZoeFktcHU4MFF2alZfandR?oc=5",
     "reported_at": "2026-06-30T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.382478+00:00"
+    "last_updated": "2026-07-03T08:04:53.801343+00:00"
   },
   {
     "injury_id": "injury_447ee50c823c4a1c",
@@ -491,20 +504,7 @@
     "source_name": "College Football News",
     "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaTI5NDlDY25KQk1TRlpGMXRtX3pNcldhNVpOTEdsZ1NLMFc2V2pXZTNtbXFKSFpCLXh4VGxWNGJLZGxMMmxaSHlPTjJtREJ5aG9FVkh5alBvanZIWTZwcDh1MjdPQ2FXdVN2TGlPOTdSazFvXzhzTDJiX3BvajVRRDdKWEF1Q1pScDc5UVBxczY?oc=5",
     "reported_at": "2026-06-17T18:32:02+00:00",
-    "last_updated": "2026-07-03T02:39:23.382499+00:00"
-  },
-  {
-    "injury_id": "injury_82360eab994f05a4",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "Georgia Southern Eagles",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZjV0aDhPWllXazQxMERDTVU3bm5fNVVJWkpFeXp0cGNrNTg3YUx0YVFXOEMyR3BBMWRKYUEybkQzbUJ0RWpvS2VsZi1hTkpIRXpmOHJ6bFFsV09MdWFNMUl1NFk5Q3NWUUFZekRfOGVaaDNIeHVJdkFFSFpZVkJzRDF2T0hGdXdiVHU0aE9McFlac05QZWpDa3JBdlp6RUNuek9uNDZRcE5...",
-    "source_name": "georgiastatesports.com",
-    "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZjV0aDhPWllXazQxMERDTVU3bm5fNVVJWkpFeXp0cGNrNTg3YUx0YVFXOEMyR3BBMWRKYUEybkQzbUJ0RWpvS2VsZi1hTkpIRXpmOHJ6bFFsV09MdWFNMUl1NFk5Q3NWUUFZekRfOGVaaDNIeHVJdkFFSFpZVkJzRDF2T0hGdXdiVHU0aE9McFlac05QZWpDa3JBdlp6RUNuek9uNDZRcE5CdjFOYVVkenBodTJQNE1hbTdQTENIX0hZRVktT3lkSFpkUUhXLUxFdHNfbmxWWHEtNmlfekNsZzNEWlI?oc=5",
-    "reported_at": "2026-02-19T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.382521+00:00"
+    "last_updated": "2026-07-03T08:04:53.801365+00:00"
   },
   {
     "injury_id": "injury_38db442b26b7a513",
@@ -517,7 +517,7 @@
     "source_name": "ESPN",
     "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTVVZRGczRzBzbVBjeXljSFF2WHBhbkpza1hGUDNRdnZNaFNZUzY5N3FKb18wVXNkQVowYzRlc3JpUjQ3akhhLU9Lbkl3ZllGZlRaR2lzMVNsV2FXSmkxTmdZYzhXQ0RXclQ0STZ5MURaM3drSWlnSXJTNmlwNEJ3Sk5jd1R5Qkhj?oc=5",
     "reported_at": "2026-01-27T02:26:57+00:00",
-    "last_updated": "2026-07-03T02:39:23.382541+00:00"
+    "last_updated": "2026-07-03T08:04:53.801387+00:00"
   },
   {
     "injury_id": "injury_710876076fbc3cc3",
@@ -530,7 +530,7 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGsxV3JMNUVqZWdSUlJWeUFGMW1vNEtWbktGQy01WjZOWXhrUEk5VzJsTUlHMHpMbk5ERmJwWXZuUWZOUnczdmVaTGNQZVNvcFlFTVBfYW5GazdObkdrMms5R21KMnFrbTJOYjlPOXVWZWhNQlVCdkVUSDB5RTBxNUVxc3NLdFFMbGMzZFgxSnZLeER3bE4wRFZKckNpV1VQOFlQUTRhUGNpdFJYNHJtQUw3SQ?oc=5",
     "reported_at": "2026-05-31T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.382563+00:00"
+    "last_updated": "2026-07-03T08:04:53.801408+00:00"
   },
   {
     "injury_id": "injury_442694ef5019c8c0",
@@ -543,7 +543,7 @@
     "source_name": "wvtm",
     "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa0MtUDBlcmFjRjZIZUNjclpObTRxNGc1eEUwbkIxcFUteHBwcVB1RHFBbklHdjFQRXVObmNEYXRENWlybTNtRWJwVC1VNGVuTUVJelgzQWFNd28zRU1ySUVIWmREaExHVGFyYzlUbTFxSVBXMVNSX0NJWXVUdTVrZTMxc0dqNXgwWGFla3ZMLTh2Z0F3?oc=5",
     "reported_at": "2025-12-26T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.382584+00:00"
+    "last_updated": "2026-07-03T08:04:53.801431+00:00"
   },
   {
     "injury_id": "injury_03c7c4d8505ca080",
@@ -556,7 +556,7 @@
     "source_name": "USC Athletics",
     "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNmVRQWo0NTF5MzRDV3VjeWU4TjhOSWgzX2NraHlteW1oSzZpM1I2OXM4NTdHNGhLaGhYdzhvM2FoTy1ZaW9TSTdSa3lDTEcxSzZUVnM0azQtemMzT2puVFlEbmtPN0ZUSnFyYUQtYzBJTmIxaU5FakR5YjJfZlpmTXVNLTRDaFE1a3BVanB4bUt3aFZZempCdzU3UXlaMVZBem1SOGRBeW5xT1FmYmtOeXM4SzJWVGpwbzF1V0pyM2ZGWVNIUDl5TFhfaGFGQ19VVHc?oc=5",
     "reported_at": "2025-09-06T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.382606+00:00"
+    "last_updated": "2026-07-03T08:04:53.801454+00:00"
   },
   {
     "injury_id": "injury_b50ab32b1fd0caf3",
@@ -569,7 +569,7 @@
     "source_name": "WJCL",
     "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ1pycjhyOGpSUUNKcXF4NDVITDBZdUt5VHR4RV9nUVFzTTJJUEhjNjFTbHdDcEk2VUhaNy1sdDI3ZUtYN1JFZUc0cEVpYUJnSEdTclZRVENyMUJBdVRJRlF5OUtpRWhXT2stcFhtYUpDMkppbnA4RUR3MUcwcUlmZjJvdmd1d0pFN1lKR0h3ZWFXR01WNWtIVDJ1Wm56dklTUW1uYmQ4bVRPUW5KUlU0VS12TGZicDlZa0pBem1aQm9RY3VrRmJDWS13?oc=5",
     "reported_at": "2026-01-01T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.382628+00:00"
+    "last_updated": "2026-07-03T08:04:53.801477+00:00"
   },
   {
     "injury_id": "injury_5f0d3b988ce14d43",
@@ -582,20 +582,20 @@
     "source_name": "Savannah Morning News",
     "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR193bzluY0JrRUdKN0lqM3VyckpLcFBsWDVYaFMxQVliNzZZM3FHX1JneGhnSFdESl9vVVBCT2VYcFJpcTZYcUhNcnR2Rk9oN3hkemZ2bHQ4bVphNXBPbXBsenBOb05FTnRNX1FoSDMxdFg5aVZmLUdNejdWODVpUTJfTVhUazVqbVFtRkpzV0N0bUl4VkNNQmZwb09JUkxJM1NLOV8wbE1lWENzUGJLRDE5ZUg5QzNnb19Lc083WkRxR0FKc2xIM1lOc0x1SHM?oc=5",
     "reported_at": "2025-12-09T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.382649+00:00"
+    "last_updated": "2026-07-03T08:04:53.801499+00:00"
   },
   {
-    "injury_id": "injury_7b2f431f4e380f10",
+    "injury_id": "injury_bca278cc8ba87dc3",
     "player_id": null,
     "player_name": "Unknown",
     "team": "Georgia Southern Eagles",
     "injury_status": "unknown",
     "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMlUwX2s4V2diVEFyMEp0bU1fOUUzRjZxaDRoOGtlcVVNSTdDSzloOENJbXQwNEVWMm9IM2VEUzJHVXRIVnFHS21lTXllQ0JYRnJKbmFic25oY3d6TEF0bUtGUU1ZODdMT0NaOFkzZnh0MWxYbXBfTVc3THREV1JsbTkzcVhRREpTRDAtOWFPZkxuOXMzdHZJX3ZBRkMxcDZmWnhCRG1kdmk...",
-    "source_name": "UGA Wire",
-    "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMlUwX2s4V2diVEFyMEp0bU1fOUUzRjZxaDRoOGtlcVVNSTdDSzloOENJbXQwNEVWMm9IM2VEUzJHVXRIVnFHS21lTXllQ0JYRnJKbmFic25oY3d6TEF0bUtGUU1ZODdMT0NaOFkzZnh0MWxYbXBfTVc3THREV1JsbTkzcVhRREpTRDAtOWFPZkxuOXMzdHZJX3ZBRkMxcDZmWnhCRG1kdmk3c1Q4VGFpbjVYZVdSWHozSnpKM1E5OC0zWnIwaEFOY0pZTlRfSGpDYUdCNUNLSzM0OUFiWEdocVQzZ1ZZcWxxTndj?oc=5",
-    "reported_at": "2026-01-24T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.382670+00:00"
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOQlIxVTBmb1J5N29YM292bjJSb0diZFZodDd4WWhhRVZIVjJhUGE5Mm1EOENWaWVYRV9QRWw2STBIN3hGNG9ZbHE0VDMtVG1acDg3ZE5IcFBPenBuN0dhaDQ1dEkwcTA3QzUybmdSeHI2RzN2SnF2OEtNWWloRHdJUFAyejBqOEpmaXBZQzZpeU5ndzVZTEV5RjdtRDU5a3dZT1gtanQwNzV...",
+    "source_name": "FOX Sports",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQlIxVTBmb1J5N29YM292bjJSb0diZFZodDd4WWhhRVZIVjJhUGE5Mm1EOENWaWVYRV9QRWw2STBIN3hGNG9ZbHE0VDMtVG1acDg3ZE5IcFBPenBuN0dhaDQ1dEkwcTA3QzUybmdSeHI2RzN2SnF2OEtNWWloRHdJUFAyejBqOEpmaXBZQzZpeU5ndzVZTEV5RjdtRDU5a3dZT1gtanQwNzVna3JLRlk1MjFmdw?oc=5",
+    "reported_at": "2025-09-06T07:00:00+00:00",
+    "last_updated": "2026-07-03T08:04:53.801520+00:00"
   },
   {
     "injury_id": "injury_7d7b6f97f7e56d69",
@@ -608,7 +608,7 @@
     "source_name": "On3",
     "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONURRWTBMSUJISFZMbTJfZ2sxd0pJS0NtTzZBcHFjb3pQNjlfaWFIUkVtQ1FHWm9wVDZLSlhOZVBsbTFNUnBQZkpBWERGWGczTUM3RkpCeEFSRHZlaTdzSHNESC1DOTJBOWEya3Q5aUh2VG91VXZNSnhJZGFRZ29mWUM3N0JYbS01X01hN29lRGs3bnlYazh1NW16RWxfYWhpSTZ3ZUhvT2g4UjRrcXVQRUJkMEJucFROQUgyMF9US0M1bnpsT2o2U053?oc=5",
     "reported_at": "2026-06-19T09:14:56+00:00",
-    "last_updated": "2026-07-03T02:39:23.382691+00:00"
+    "last_updated": "2026-07-03T08:04:53.801542+00:00"
   },
   {
     "injury_id": "injury_35f410e6a0a3664f",
@@ -621,7 +621,20 @@
     "source_name": "On3",
     "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3c2ZnJGdUtUUlo4c2h6WS02V29WMW5oWDVKX3B6dHlNLVBVbHNHbHMtX0VoN2xEMUx2VlM2ZmttRDdiUlViVDdYb3I0dTRWRU5ncDdIZmtuaUxTLVFzNzJXQ2V4ZEI0WHh0Q2ZFdUNSNmVfWHNPMFZrMnlocmZDOEdrOFI4ZDkyQ0l6dnpLZUQ0dnVXSG55eEtNRUdRN21xeHRyWlpSeGdRVmdDYm9pOWdhRWJsaDNhc25OMi03MF9oV3R3djBPMHFtUDdLZHdVMkljY3RRcnc?oc=5",
     "reported_at": "2026-06-19T09:14:55+00:00",
-    "last_updated": "2026-07-03T02:39:23.382715+00:00"
+    "last_updated": "2026-07-03T08:04:53.801567+00:00"
+  },
+  {
+    "injury_id": "injury_6a317374fe4e4b40",
+    "player_id": null,
+    "player_name": "Unknown",
+    "team": "Georgia Tech Yellow Jackets",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQXFvaTB6OFRyZndJaUlkUms3TEpucWtNTmZlcUVZa1pxeDltT3hBNkM4bmx0bl9UQ2JQY1JDdDJpUGhlRUEzYi1teE15akEyZXdrZjQtb2g1Y3lLUmkxOENlWDJlSWN1WUNSTEoxOUtvMjRWSXhYSE5NM2VEZjZwdWo3Uk1aaTZMSFNJ?oc=5\" target=\"_blank\">Georgia Tech Foo...",
+    "source_name": "College Football News",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQXFvaTB6OFRyZndJaUlkUms3TEpucWtNTmZlcUVZa1pxeDltT3hBNkM4bmx0bl9UQ2JQY1JDdDJpUGhlRUEzYi1teE15akEyZXdrZjQtb2g1Y3lLUmkxOENlWDJlSWN1WUNSTEoxOUtvMjRWSXhYSE5NM2VEZjZwdWo3Uk1aaTZMSFNJ?oc=5",
+    "reported_at": "2026-07-03T05:53:57+00:00",
+    "last_updated": "2026-07-03T08:04:53.801589+00:00"
   },
   {
     "injury_id": "injury_548bcd145820c9c2",
@@ -634,7 +647,7 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeVBhYzMxOG9DNFpwQzRLc1hVNnVDekRTbWFwSDgzVUE3QlVtdjBQeFBaYUVKdTBKbXp5UWZGY2pxbUJaQV9sdTNkY2FHQkx2QTQ1S1VLN3BRcXc4UGNZWVJNWnZsSmtkYVdxNXlFU2hOaTFibkdLVjhyb3lpUEhRX1N2VDlBdHRUcWpuZzItbFJVdjMzR0xYNmhKbFo0QkFrMWszQnVUQ1Vla2dXVVlacU1RR1BzNGdqazVDZk13VG9iV1FCalE?oc=5",
     "reported_at": "2026-06-30T16:22:27+00:00",
-    "last_updated": "2026-07-03T02:39:23.382740+00:00"
+    "last_updated": "2026-07-03T08:04:53.801613+00:00"
   },
   {
     "injury_id": "injury_68d205faded71979",
@@ -647,7 +660,7 @@
     "source_name": "FOX Sports",
     "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1lWUE5DYWVPaHpYaXVmOUd6N3otRmZCRUh4ZFQ5QmJwSU9mR091aDVYZmpBbU5XQ0M0Z1dIbkt3WG5XVl8tRE53NUtuaWNQWC1fbDh6V2xVX1FSa0NqeXYwXzlJc1dfR0RZQUk4M28wazBZMTZwYmlyeVB6ZDlRZHFrTzBXZDhfWTIyZFhJLTdrY1NDd0xrUWpIbUFNaEJ5andwOU1JV0pKdjZtbmpiYkZfb2plRnpWV0tfb1YxUXNDcGJrZGR3V2h30gHKAUFVX3lxTE1tZk9yVFFuV2ZXcUZIalFFbWVlTXFHQTRPN2Fvd2ZyS1JZUDROODV5cG1PYURWNlVuODNQWF9LemcwOGhQTHZLZkFFdHdwc1kwcUZpMXF4ZjVQcnEzM082X2M3YU1Pb0poOWJaNGdSQVV0TUZxbkNrb0EyWlJ4bUp2eDNxUER5d05wZVVpM3hqVW1WamlGSlNaRFI4WW9Gd0g1X2lKOWVBYU5jOEVQQVRFanZlcGYwcVNHVGl4cksxZmZwOXJNYXRqTlE?oc=5",
     "reported_at": "2025-08-24T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.382765+00:00"
+    "last_updated": "2026-07-03T08:04:53.801639+00:00"
   },
   {
     "injury_id": "injury_ff15c43d46359775",
@@ -660,7 +673,7 @@
     "source_name": "Hawaii Sports Radio Network",
     "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMDFJZkU1UW9RSkFlZHNZU0ItT3lJcGo1VjJranpBdjNqVjlXelA2akZvYmJrVm1wMFZJb0lqbG1DNDMyRk5FUEhVem94bXdGaXBRNWlJd1hBYTlvMlZxdVFVMldzRVA2T1Bsc2dYNk95QVk0cHYySmFoSHgyVXFHMC12S2FhN3gtazBlNUxFeDZPdlI5eEExMWFSNC0zY0dheDY3ZWxyZk41Zw?oc=5",
     "reported_at": "2026-01-12T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.382786+00:00"
+    "last_updated": "2026-07-03T08:04:53.801660+00:00"
   },
   {
     "injury_id": "injury_23771c41fbce38d5",
@@ -673,7 +686,7 @@
     "source_name": "Nittany Lions Wire",
     "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTUkxM3pnUkpPOVI2UXZNTUJmNVJRcEMxNktRQmQyT2hZU252RkZMbHM4d2RZWGhyTm4tbVU3UE9yTlpxNnVRa1BRSm1HcVlVaFV6YktXYTRMaW1zajdTeHJOeEFpTy1ZV01Wb1g3TDhhZC1JNEdrMnJBMll0QUlucVdjRlBPVkM3dVppS2FXZEsydVBQR09CcGZLLU5YcnR2OVQwVVhYVXhKWUpKdXU1UVV4QlFJbWtGQ1VVRDRya3h0NFF4eUZFYkZGZXNUNGpicVl5RnVpSEdiSVc1MkNiX1lQS3F0UTZ4U0hTV3FORmdBMXF1TENwQXpB?oc=5",
     "reported_at": "2026-06-01T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.382813+00:00"
+    "last_updated": "2026-07-03T08:04:53.801689+00:00"
   },
   {
     "injury_id": "injury_bdcb62e43908294e",
@@ -686,7 +699,7 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZFNVbER4eHoyNWJlNkhpWmR2ZThuYXE2UXVJRFIxY3RoWjk0S2FGNk8zeUtsU1dmUXpzZXR1THBjWkdoa1NXMWZUbkZYaHhlU20tY2VyMHRRQnlZMS1wUXJZcjNBdDNUTVFhd3BLRG8wUDVvODdKT1lGTlN2V1VKRzMtQ1h0amVTcHFSaVJQbWVWMVJpamZpTTRFSEo?oc=5",
     "reported_at": "2026-06-30T21:14:57+00:00",
-    "last_updated": "2026-07-03T02:39:23.382835+00:00"
+    "last_updated": "2026-07-03T08:04:53.801711+00:00"
   },
   {
     "injury_id": "injury_2b1a281f302dba67",
@@ -699,7 +712,7 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbHBWanFsQi13WkNZeVhBN3ZwME95SXdRTUpTdVlJNXVhS3BDRXJuV0h5Nm1CU2NNc3RsbV9HYjVhSHBtakdTY01iSG5yWGN5ZGVBSHJ0NjF5TmZMem5zRk4zSG5Ua3M2RF9BV1dmNVpaZk1jb0ZBaDFpSzBRdDJGM0pkTFBxWjdpSUZhVFJRZWhhOW5QMHQ4Qi1qamYwd045Z3dSU2lGenFOT3g1bkl6MzdFUEtfaWhYMnlZM2dQWFcwMm8?oc=5",
     "reported_at": "2026-06-28T07:23:05+00:00",
-    "last_updated": "2026-07-03T02:39:23.382861+00:00"
+    "last_updated": "2026-07-03T08:04:53.801737+00:00"
   },
   {
     "injury_id": "injury_62fe0604d15de4c1",
@@ -712,7 +725,7 @@
     "source_name": "Dear Old Gold",
     "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVThBNnZtZ0dxRlV1TkRoZnF6N25QazRzX0Z4Y3hRMjI1aDBPeERZVUxsVVBFVGFnTHY2dG04c3o0VGxwRU9nZ3BNZEw4WlJvUFhCcExEWHFtTW0tcm43M25VamJ3OXBvYm9VZ3k1WS1ycXpIRlowZnZLUVVGbnZ4X2hFdW1YVnFzaG1PZ0NrV24tVTR1WDZ5T2duY0lLNDNENXpwTkh5dw?oc=5",
     "reported_at": "2026-02-01T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.382884+00:00"
+    "last_updated": "2026-07-03T08:04:53.801761+00:00"
   },
   {
     "injury_id": "injury_94d7d058bdc9b850",
@@ -725,7 +738,7 @@
     "source_name": "On3",
     "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ0NRRVY3YTRwby1MQmpWMXota1VNWEhrVEI0MzRnMk5qSlFsQjhNZXBuRzVPR19zWDJmNUltbWozMm8wOGR1MU1EQ0NTV1EyVmI3ZEN3WEFwRTVfREIwVVhiS0dxbUQ3TDlPRUxjNUJNSkpidHhrSm5nNzI4S2c3aHBlVXJqZmpXajFCT0xWaVFvVnJXRGtLUll1R3dONWY3azhWMlU0dHIzM3hUVXcxcDdyMFc3bEV4ZThvQ3gtb2RZS1VO?oc=5",
     "reported_at": "2026-06-27T16:37:50+00:00",
-    "last_updated": "2026-07-03T02:39:23.382911+00:00"
+    "last_updated": "2026-07-03T08:04:53.801788+00:00"
   },
   {
     "injury_id": "injury_ab9e3a0b76e2636a",
@@ -738,7 +751,7 @@
     "source_name": "El Paso Times",
     "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQkRMOGtnaUNDS0lUUFdmNFZCUXBIYXNhWmdQRWZlV1JYcHFzT0twNTEtMHZFSHpLblBjTWVJT1IzMjNnV0k3azBxdnpsSmxnTEoxTDFrWU4wLTRpbFlpNllLMlFJWjVJajFpR1VkUjdTNndtbFRvMVBkd2NuUGt3bnY1TFdVakszR3k1TkxHYlRkZzBxZnBxVG1Rci1BVEZQNlRfcjJwcDZFSTVGQXNVTFRJM3REZ1NzbDlUSEV1QkFva2ZyX1ExSDE3MEJIT2loaTdYREZTRVMyOTZqSE1N?oc=5",
     "reported_at": "2025-11-07T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.382935+00:00"
+    "last_updated": "2026-07-03T08:04:53.801811+00:00"
   },
   {
     "injury_id": "injury_365f38fceb8396d9",
@@ -751,7 +764,7 @@
     "source_name": "FOX Sports",
     "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZkxPSlYyWVpHUGo2c1VDa0V2OF9Kbi1oS0Ffak9HRUl5N1NBVGxEN0FMdEcxZXE5XzZqekJid3lWcjltMzVuLVgta3ZuNTZGRkszdnVPVmdrTk8yaDNQTjBtMEo3aTJVeW4zU0M0c0xUY0kzQk9vRUwydnJycVFVTVJ5S1ZyRW9ObGRvbHFHUEtIWG9ucWc?oc=5",
     "reported_at": "2025-12-21T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.382966+00:00"
+    "last_updated": "2026-07-03T08:04:53.801840+00:00"
   },
   {
     "injury_id": "injury_cc2ac59b2a16f75b",
@@ -764,7 +777,7 @@
     "source_name": "On3",
     "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcHRENWhSWERWN1J1QmVjZlpheUE1OFFzYVY4SkxNWUNXMTQ3bS1PSFNqMUpUVXJwYTJuU1Y3aXp4dmREb3ZLMnFDaWRGSFNyaGM3QWVlb052LXBMdWI5RkJVQ2dEMjc5ZG1QNHd1MmRwdGt0MVdkdkN0Tzg4NHNkY1d5amY5MW9fN0VnZTYtOTFLNUdXLTZ6TG9iRG5JMTJ0VEhQTzJLSzJCR1lHOHVkWlg0VnZLMUN4QzBIdkp3?oc=5",
     "reported_at": "2026-06-19T10:45:53+00:00",
-    "last_updated": "2026-07-03T02:39:23.383000+00:00"
+    "last_updated": "2026-07-03T08:04:53.801897+00:00"
   },
   {
     "injury_id": "injury_0abdcdadac1f8040",
@@ -777,7 +790,7 @@
     "source_name": "El Paso Times",
     "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLVBURHJJT3NjTTNEY25EdzlQdENEblpWaVcxYURyaXFnTFl0cFpzOVVXZXZjYlZmNU1yZWxPbi1ldzRsTnd4SjdtRV9hSFdBRGN4Q0RIejVub21Rd1d5b0gwMVJPS1JsOGNSNkJJM2JPbnAyVHVINUdtbVBxaE14b0VpcXlMai1sek40UmNzSVFTQ2FBX0NxLVlaWFQtVlFUakNPWVFiMkhGcXNEamN2cE14eWtnajMwSS1WakRMeVl5S2QtMk1HTVNQdm9DYWcyaDdNRTNSdXRIWm1M?oc=5",
     "reported_at": "2025-10-28T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383026+00:00"
+    "last_updated": "2026-07-03T08:04:53.801925+00:00"
   },
   {
     "injury_id": "injury_38b5cad0861a707a",
@@ -790,7 +803,7 @@
     "source_name": "Hindustan Times",
     "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU0VMQjZDTGF4WFk0NjhjZWlFVmRFM3BRc1Rpek1FN0VTQmdET3luQkRERDdWZnFCdG1OSFpiSTdScmZ1N2s0OWVuTUdtWTVpS0RQeG1qLTB3MG52ZXlaem1ta3daVnRTMldsY25zZHc2bEdZX0h1TXkySmlzeW50ekZ4M1dXd2pVTV9WaXlCTlV5SVdlUERYZzVRU3Q2Tm1PTE44c1JTMC1kWnZVbFJ6SmdOUlkzTk5RTFBwaEtHYUdPNTJsby1VNnVQTmxRYV9zVEJB0gHYAUFVX3lxTE5mamkwZzJsZ2hWMlZIU0ZMZ0VuM1dpR210ejg5SzdWMW9PYXNIdWxWOVhpam1pWjFiVnRYTWN3M1dyX3pTT2FxWmJNOHE5aE5QalRkc1AwWjlBUTVSN1ByaHUyLUR5OXdRdHhhNHhLbHZ5MkJpLTl5VFppU3hjV3FjY0h2WGhVbVdGLWtGMEVTQlBGWU4wbU5aYlR2MGl3ekp1V3Z5bG0yb0NyLUdhQ25zSUJNRlhrTFZ4eGRaaGJqSzRxbFhlam5QRFhUUy1abTZxZmRSU0hkUA?oc=5",
     "reported_at": "2025-11-16T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383049+00:00"
+    "last_updated": "2026-07-03T08:04:53.801950+00:00"
   },
   {
     "injury_id": "injury_3f5a2b66f1cde073",
@@ -803,7 +816,7 @@
     "source_name": "Stadium Rant",
     "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYU9xREZ0WVJXb29HN0toVzEtMHhpaVRsUlhuQ0tzSElWc3AtaFVVZV8zNm9HS1RETEl4SnltcThyOUhRVFV0VTZYMDFkZGRfWEZOY2NHRG1XMWlkTU1sUVp5LS1GQVRldzdNU0x5R0l6VHBtdTIxR3RIWEo2cmNDWA?oc=5",
     "reported_at": "2026-07-01T15:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383075+00:00"
+    "last_updated": "2026-07-03T08:04:53.801979+00:00"
   },
   {
     "injury_id": "injury_68d2dfd98ae42411",
@@ -816,20 +829,7 @@
     "source_name": "College Football News",
     "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEFMVGE5OHRuY0I1SHJDczJqb0NDbG5vS3dvQWM5a0hYekc3VTVzTnhYSkZqY2QyOTBXR0x3MGJoUTY5MEVfQ3lKOWVHQVljbFNCbXJBZ3JReWJhNHlmazY0eF9PRW5DbDRHVG0xMUpETV9MdFI2YlNlRmJPdVhEWW03X2Y?oc=5",
     "reported_at": "2026-06-29T05:22:52+00:00",
-    "last_updated": "2026-07-03T02:39:23.383102+00:00"
-  },
-  {
-    "injury_id": "injury_0b355dcd0b5847e5",
-    "player_id": "espn_4921451",
-    "player_name": "Jr Sia",
-    "team": "Utah State Aggies",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQRmtLUEZNekNwUjZDX2w3MWwtLVdMcmFUU0JGczBRM09FNnpjNE5IMFJ3WjZPcTRZalkzOXc2T1lCb3VXMkRsSTYtWnR2TG9YcHNjV193dmRrSHhyb2hoMUo3dXFYZTQ3a2xIdURqWjV0Y1ZlVFpWalJZc09CbHBxMVVBUjlUSzhaZ3d6ZGVaU0tIVWVkNFFkLW9SQzh6T3g2QTFSUWhQXzN...",
-    "source_name": "Sports Illustrated",
-    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRmtLUEZNekNwUjZDX2w3MWwtLVdMcmFUU0JGczBRM09FNnpjNE5IMFJ3WjZPcTRZalkzOXc2T1lCb3VXMkRsSTYtWnR2TG9YcHNjV193dmRrSHhyb2hoMUo3dXFYZTQ3a2xIdURqWjV0Y1ZlVFpWalJZc09CbHBxMVVBUjlUSzhaZ3d6ZGVaU0tIVWVkNFFkLW9SQzh6T3g2QTFSUWhQXzNMRVQzUXFPS1dVLXZYVDk2WkxFQno4MzVVV1hYaHo3aXlzbnk0ZjA?oc=5",
-    "reported_at": "2025-09-06T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383132+00:00"
+    "last_updated": "2026-07-03T08:04:53.802008+00:00"
   },
   {
     "injury_id": "injury_3de7583d1d1a3e5d",
@@ -842,7 +842,20 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRER4NHNsRDNuYjRXalpjVGhYQVRVVzhFQ2tYaXlIUnpmak9PbkhNVnFQUFNjejRBWXhjMVpjSTBnSUphU2ZtWFpwcTR5aVhiMEh1cTBLSFhiNnczQkd6T2ZWbjgzcS1wbjJtWlV1ajE1Vmw5SnBrTEhDU3VPaVJ6WndNdDhqMk10MHBTaGZiSEJaamlQcXhwOEVhZTVqWUcwUkhPOGlmTGVhSW9vMW53cF9wck5FenZvQlFTazRGSDhWUFY5ekMtcW8yQlk4LWc?oc=5",
     "reported_at": "2025-08-30T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383158+00:00"
+    "last_updated": "2026-07-03T08:04:53.802045+00:00"
+  },
+  {
+    "injury_id": "injury_4cbb0abaca82e490",
+    "player_id": "espn_5306269",
+    "player_name": "Carlito Hall",
+    "team": "Marshall Thundering Herd",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxORUJZNDQ0Qi1sRjllYnFkZm1xbkd3VVZPZXRWNUtseVNMbG42YlBlM0RkbXJUQmhQM29wRVBhQXFNaEFKR081ZEhnXzhHV2lRLVphSThOUjVWY0FWOE1DdUp5WV9nWmFhT3FnX1NMV1lDQzlhMkNDLS1YUVlkM2NITGlsd0czdlpMbmV5REJqcHBKNlg1cE9wcURrMFVKR1BIYkppN045eHB...",
+    "source_name": "UGA Wire",
+    "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORUJZNDQ0Qi1sRjllYnFkZm1xbkd3VVZPZXRWNUtseVNMbG42YlBlM0RkbXJUQmhQM29wRVBhQXFNaEFKR081ZEhnXzhHV2lRLVphSThOUjVWY0FWOE1DdUp5WV9nWmFhT3FnX1NMV1lDQzlhMkNDLS1YUVlkM2NITGlsd0czdlpMbmV5REJqcHBKNlg1cE9wcURrMFVKR1BIYkppN045eHBaZkZXbXVPQmQwRjhZaWRnT0JSWWVfSk9pSXF0bzVXb3FwV0Z6SEQ1WVFiRkt1NnU3YkZYZEllOVMwSFo?oc=5",
+    "reported_at": "2025-08-26T07:00:00+00:00",
+    "last_updated": "2026-07-03T08:04:53.802069+00:00"
   },
   {
     "injury_id": "injury_94615276632f2dda",
@@ -855,7 +868,7 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOXYtbk84TGJKY1pBaXo5b2RWdktsWXZJdmNmTGpzNXdCNGRVUDlVY1MzaUcyOGtLTFVObGpYanFZZ3hKT0pncVMyVlBoMUU5b1NBUEdiSFlLZEJkZFZFVXJ2Qnl5TDFubzd4M3JVa0J1SVp3RUhYNl9oT0hHVTYxRUJBNmJtN0Z1RmpxdUdQVDZ5RktWc3VPdW9UbU9ZQ3hOaUVtcDVYVDJjeWFXWHctVC11WE5TZTIyUzdjNWF1YjdzZndPeEplbWR6SG5sNktJenJLZG03aHQxUlE?oc=5",
     "reported_at": "2026-06-09T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383181+00:00"
+    "last_updated": "2026-07-03T08:04:53.802092+00:00"
   },
   {
     "injury_id": "injury_9d23a89438ac4ebc",
@@ -868,7 +881,7 @@
     "source_name": "Trojans Wire",
     "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQnNKTzIyaUJ0em81ZmNna0dLTXZGSkVUdTlTaWR3c0Fpd3diYWxhNVlPSWJRemFqTUhvVkNKZWFwYjVpci14OVFtYmVFckxVejZ2VjJlRndsUmc4R0pWdEx6cGtrT3RNWnItOXpxY0tjbDhGMG9mWmluY3JHZzA5SnpTc3VWNUE5dHhaUnZfRDRKQzVpT25yLWtLODV3LTBJS2lXT3BTQ3EwaUpMdjUwVnRMUnFhalF3cG04cHRvdUNqVjJpWVB1a0I5bVRpNDJTV0dYeEZzSEphN3hKUFFHdVhuR2FBUQ?oc=5",
     "reported_at": "2026-06-14T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383203+00:00"
+    "last_updated": "2026-07-03T08:04:53.802115+00:00"
   },
   {
     "injury_id": "injury_e1d55b3710efbf34",
@@ -881,7 +894,7 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd2g4SEVwbjdSV1M3UTJiY0FmME5DNkx1dDkzRzAyRF8zU01XblQxZW52dEhjV3ZIYzkzU195bDZwM212SE1WNzhxY214RFZLX2d0UXFIVVdyRUkxZXJ0Z1JRc3BQTTNjWjJDaTQyak5sTXNKMjV6R2NpMWNfQS00VDdhcUVXcXF1TlVVYXQwcjNldGYzZFJRZFdwQQ?oc=5",
     "reported_at": "2025-09-14T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383228+00:00"
+    "last_updated": "2026-07-03T08:04:53.802139+00:00"
   },
   {
     "injury_id": "injury_a457c06fb9ef2554",
@@ -894,20 +907,7 @@
     "source_name": "Hustle Belt",
     "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUnZlQXVHTWVGVjBvaTVlWS1KSDFnM180US0xR003MEFYRERLRzJvWVZYWHVaNjc2Ukk1NUNQY2o0OHJOUTgtYjJJdHBKMzI5OVEyaFJrMU4wZWlFVVB2UUJrcGhXMi1oSlM2M1dWMy1sUUxrRERRd1g3V0lOXzRWcjg0LXlaUkRoelN6UWR5Tld1WnJjWVpVbWtDT3k4VG5FT08yRldCUTMtUzUtUVlSdjVR?oc=5",
     "reported_at": "2025-11-04T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383267+00:00"
-  },
-  {
-    "injury_id": "injury_c33b433b7c557a07",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "Massachusetts Minutemen",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPa01wb0E3N0RvZHE4VHFsck1TOElFbXpyTEdCVExMc3Y4b0ZwLXJxZl9fUE9xT1NqbUR2RE5HOFBIVmgybkExbDB6VTBVR0dSUGxaVFVpMEFVaUJQUVlRRGxtODlHOFhhZTI0cVV4NVJmWm1WU185UmJ3YmtmQVExdV9hVmszTGt5R2lpRE9tNmRMZ1lRcjRwNUt6ZEdJSUwwSnoxbFQ1ck5...",
-    "source_name": "Sports Illustrated",
-    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa01wb0E3N0RvZHE4VHFsck1TOElFbXpyTEdCVExMc3Y4b0ZwLXJxZl9fUE9xT1NqbUR2RE5HOFBIVmgybkExbDB6VTBVR0dSUGxaVFVpMEFVaUJQUVlRRGxtODlHOFhhZTI0cVV4NVJmWm1WU185UmJ3YmtmQVExdV9hVmszTGt5R2lpRE9tNmRMZ1lRcjRwNUt6ZEdJSUwwSnoxbFQ1ck5oMy1YRDZhVzBmZUxRbklJck9DRDhVRV9nWmlEV2c?oc=5",
-    "reported_at": "2026-03-28T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383296+00:00"
+    "last_updated": "2026-07-03T08:04:53.802161+00:00"
   },
   {
     "injury_id": "injury_437e84f1e07f3d5e",
@@ -920,7 +920,7 @@
     "source_name": "The Daily Helmsman",
     "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSTFfYmd0aVRLbzhLeUpNSWtKODV6bFU3dnhNRUNFN192N2owRnZUQ0NJYjB2aXB3dFU0S3pqTU9jdkx1SjVzWG5UcnRST0FoS0hkOUtPSDBDLTBNV19ISDJ3U01aeU9rQlp5SDh6VmFBc0V3NmNLV1JDODhrZ3dsLU9CTjdvVzl3SlVDTHhudml2aFNVNzdiT3RwRkdYazZFd0dkNXUtM1BRdGo4dXNUQUU5YktCblJyNHo2RFd4TXRyUmtkajc3SU1IcjNTai1XTkhMV0J0Ti11Mk5BMUxnM3dwYTU?oc=5",
     "reported_at": "2026-05-19T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383320+00:00"
+    "last_updated": "2026-07-03T08:04:53.802187+00:00"
   },
   {
     "injury_id": "injury_f59067547b8b0028",
@@ -933,7 +933,7 @@
     "source_name": "Hustle Belt",
     "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYnZUYThtMzVLMkQ0b19qX1p4OG5EdHRfbFRtVWI3Y0NnOWZhaG9BblBlTXRNNUVObmp4R3l5VnFtcGhaSFhZS3hNQnNvd21HUndlUXptak5ENkQya2lPMjVpYVRfZDZxWjJTZ2FiMjdsNVItSXIzWUlhc0h1TDhBYWRoeWJWYWFHcHRxbEZLbw?oc=5",
     "reported_at": "2025-10-18T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383345+00:00"
+    "last_updated": "2026-07-03T08:04:53.802213+00:00"
   },
   {
     "injury_id": "injury_2d65f4438073c12a",
@@ -946,7 +946,7 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSWttWmhCQll2MXBEZVZ5b3pKVnZLVXM4eURTcTFEU0ZGd05yc3NUcldoeWdtdlJVV0lMS0FZUXZNazhOWjc0NDU0d0ZMSjAtdHRhN1JkajF5b1M0R1FfZUltZWV3TXNnREZGbFlvbzV4cUZlN1Y0TDFJazNqeUk5X3M1MUxpeTMyVjQ2VXg1cF8xNlYyTVZCb09hbl93R2FKQ2hvbnUzUnJEZ2hDNGJWaTNraDFmUUNUNFdJMFBZdnpIa2RvYXlER1VMRTB1TGUxV3JxSA?oc=5",
     "reported_at": "2026-03-19T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383367+00:00"
+    "last_updated": "2026-07-03T08:04:53.802235+00:00"
   },
   {
     "injury_id": "injury_0687cda2d283d15b",
@@ -959,7 +959,7 @@
     "source_name": "ESPN",
     "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjdlZkdjMEdnbFVDUTlsMVdNeXZEQTR5amtlekN6TGhVQjNaOGRiVE10b2dtWW1MYkdfeUpuX212eXJJdmZiVTAwMW5iNnFsa0FKLVRsY05OUDFlWHp4bjc2YmhrZHhaeWJpVUhnM19mbjNRODhWWmtobGY1S01hOUpPbF9RYTljVGdtMGs3bmZSeEdIWk1rbFd1TzFBVzY1ckQ5STZ2Zw?oc=5",
     "reported_at": "2026-07-02T15:47:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383390+00:00"
+    "last_updated": "2026-07-03T08:04:53.802259+00:00"
   },
   {
     "injury_id": "injury_240225b5a1d8a171",
@@ -972,7 +972,7 @@
     "source_name": "Detroit Free Press",
     "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMk9wZlBnX2licWZLVEtScmpLVGpBa3dEY0hseUZ0T1VybkNidVFGZHNKM01RUzA1cG0xV0VTOGV3dVI4RjJvRUgwRENKTGlLTzNoVHhYNVFwWGpFR0laWFlYVGhucllZcmpxaURnNS1EbExxdTZORmxzWUlZU3ktSUNtX0NBWTZPOS1LVjhWd2trLVN1eGRQaXFHVTRfNmVKSTdReXlmTlZJZFh5MkVLUU43d2RZS1YzY0lFOEFtUGVBVm9PR25sbXNCakRoLVpvT2tKMk5RWUtxYVU?oc=5",
     "reported_at": "2026-07-01T21:19:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383421+00:00"
+    "last_updated": "2026-07-03T08:04:53.802292+00:00"
   },
   {
     "injury_id": "injury_2fe33b87255f3dc3",
@@ -985,7 +985,7 @@
     "source_name": "On3",
     "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUHZsX3pHUmpMVHdVTC15RzU2ZzN1R1B5ZWFndzJIaHEtdkxCaWtld1l2RVpvbHVwZmNCbnFyOEVXSHlJTjRVVjdQU29CM196VjFJZ0lEdkF4UTU1dDNBTU5sZGpndzljMUxsSUdTMzFXMGt2M0w3YVFzU01XNk01X1J5VG4xRWhSR0RDMXpHSXRla0hGNkpBMHlkbTR2M2VJNndzeXZ3QnliTTlnV2g2OFc3Qjk5cFlpY3hDZ2VvX3A?oc=5",
     "reported_at": "2026-07-01T15:55:38+00:00",
-    "last_updated": "2026-07-03T02:39:23.383442+00:00"
+    "last_updated": "2026-07-03T08:04:53.802315+00:00"
   },
   {
     "injury_id": "injury_a262705a6cbd19e3",
@@ -997,8 +997,8 @@
     "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPSkNlcHF0bi14WV9xUlMxdU5hRGlYcEhWWFpHZERKY1ZOcGRmcW1zOGptcTlVOUtTaUxZOURxVUtONGpaQnBJaW1ubXFQUmVJaENXZmF6UDZqMEl5OW5SY0tTOVdubWJXek1CU0Nud1E1YmFfWHZHRFRISmluRHdRVVVSUUZGZw?oc=5\" target=\"_blank\">Missouri Football Prev...",
     "source_name": "College Football News",
     "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSkNlcHF0bi14WV9xUlMxdU5hRGlYcEhWWFpHZERKY1ZOcGRmcW1zOGptcTlVOUtTaUxZOURxVUtONGpaQnBJaW1ubXFQUmVJaENXZmF6UDZqMEl5OW5SY0tTOVdubWJXek1CU0Nud1E1YmFfWHZHRFRISmluRHdRVVVSUUZGZw?oc=5",
-    "reported_at": "2026-06-17T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383479+00:00"
+    "reported_at": "2026-06-17T06:13:59+00:00",
+    "last_updated": "2026-07-03T08:04:53.802354+00:00"
   },
   {
     "injury_id": "injury_a603b916ba04ae19",
@@ -1010,8 +1010,8 @@
     "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGhPUkhycnNWYzBDY1JGakJQZUdKTnF6akFIbjZPMzMxMGF3aWZwa20wNkRlaExDUlc1RTRTTzZyTXRUZzVDTDRiM0RtS2NuOEdVcDA2eFZBWnFCQXVpck1YQzJWQzMyc05mV0Z2U3JGSEpEaXNhdjNpc3U3anNLVzJYRl9lVkZGLXBTZWNKZi00dkJvaHBhODl1SDlCUGRvcHduZmUzTXl...",
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGhPUkhycnNWYzBDY1JGakJQZUdKTnF6akFIbjZPMzMxMGF3aWZwa20wNkRlaExDUlc1RTRTTzZyTXRUZzVDTDRiM0RtS2NuOEdVcDA2eFZBWnFCQXVpck1YQzJWQzMyc05mV0Z2U3JGSEpEaXNhdjNpc3U3anNLVzJYRl9lVkZGLXBTZWNKZi00dkJvaHBhODl1SDlCUGRvcHduZmUzTXlJeFNZMTRUaDNMbXpkRFU?oc=5",
-    "reported_at": "2026-07-01T00:14:12+00:00",
-    "last_updated": "2026-07-03T02:39:23.383505+00:00"
+    "reported_at": "2026-07-01T00:12:00+00:00",
+    "last_updated": "2026-07-03T08:04:53.802380+00:00"
   },
   {
     "injury_id": "injury_30d1c65d37e6f699",
@@ -1024,7 +1024,7 @@
     "source_name": "On3",
     "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOEljR3BxTWwzY1c1Nk1Pd3E2ZXNPX3lpMjNheFUyWGVYVlJYaTdPTWJxb2loMmJldXlvd0V0LXhIU0kxZEVxX3FOTExYcGJCbVNSSjhXQ0ZjYVoxd0hMaWppVHNuemQ3NjNtNmFuQ3R5NnJkcThFQ1dZOHRQNTA1Y21QeVVWR3Jab0ZJNHU0SFdjTkVMODRTYmcteG9aUlVaY1pBNVVVZDVKcmc4c1JIdnhUdW0?oc=5",
     "reported_at": "2026-06-30T17:57:34+00:00",
-    "last_updated": "2026-07-03T02:39:23.383528+00:00"
+    "last_updated": "2026-07-03T08:04:53.802403+00:00"
   },
   {
     "injury_id": "injury_c579f74ae4a2412f",
@@ -1037,7 +1037,7 @@
     "source_name": "CCX Media -",
     "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zSGMyVEQwdVRJSWVyRjVPNWtwUVdydlZCRFFMOG5IUGhHdDFWR3VFZnJPU2Z6X20zeGNqcWszSDMtN01EaHJBdS1rWGVTLXQ2blNSM2otTFRhcXU3dE9ScXEyWG9ud01pMmZHdW1VbG9zLUp6cnBrQw?oc=5",
     "reported_at": "2025-12-15T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383556+00:00"
+    "last_updated": "2026-07-03T08:04:53.802429+00:00"
   },
   {
     "injury_id": "injury_e28d9bd91fb56070",
@@ -1050,7 +1050,7 @@
     "source_name": "The Pajaronian",
     "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeUtobGVYM3lGZEtGbmRIVE1Uci1UZ1NGTGdSbXNhUkFOVzVHLVpxMFN6T2JJZ0I0bmFkQkNsX3J3ZDNKSFZld0NSNGF5Z1dJYWEtRDB2S19CcmxZQmVKSGJ2bE5uUU1BUnQ3dHN6ZkY3bmVJOHRsaEdWbm9nazJaajE1XzZicjBKYXRMZTdiZk4zRi13b0E?oc=5",
     "reported_at": "2026-01-16T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383577+00:00"
+    "last_updated": "2026-07-03T08:04:53.802453+00:00"
   },
   {
     "injury_id": "injury_2de7a60456b4f2b5",
@@ -1063,7 +1063,33 @@
     "source_name": "The562.org",
     "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYThmOWQ1azlaNnVOS0NacS1SRGdmS2NpcXZXUHhRTTBsdmJzQXBwNnBWOVlEZ3hOSXhmaW5MaFNhSzdUTWVwdnlvd2xnWGhnYUVxNFo1dm9EeUVWRFhNY3FGa2diMXBZSjJzSGxHYWItQS1QNGgxc2p5b1QzWFI2aFl4OVV0dGVyMVdETklacjVpamh6T2hhcnBNZV9nVG8yTzBjUkxJTlhYaF8zWXc?oc=5",
     "reported_at": "2026-01-18T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383601+00:00"
+    "last_updated": "2026-07-03T08:04:53.802477+00:00"
+  },
+  {
+    "injury_id": "injury_00f85d536a1af59b",
+    "player_id": null,
+    "player_name": "Unknown",
+    "team": "National",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQeTAtYzNfNkgtZnpnN3lScmVaMEZGbTRJeGVDRDRYcldKZGdRRGhLblBabGhjY0lMbmFITVk3S3VNM1pBazNTUGJNdGRTbkNtNUs0clpUdC1nMFpLLU1nd1VGUmRqV1A0UklMN1hydkZCVVppeXpHQTJxNEtQZVBoWHB6R2lEbEtSd2pwOU5EOFZDZV95X2pCM0U3U3hQUGFQemh6QlEycXR...",
+    "source_name": "The Guardian",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeTAtYzNfNkgtZnpnN3lScmVaMEZGbTRJeGVDRDRYcldKZGdRRGhLblBabGhjY0lMbmFITVk3S3VNM1pBazNTUGJNdGRTbkNtNUs0clpUdC1nMFpLLU1nd1VGUmRqV1A0UklMN1hydkZCVVppeXpHQTJxNEtQZVBoWHB6R2lEbEtSd2pwOU5EOFZDZV95X2pCM0U3U3hQUGFQemh6QlEycXRsYlVI?oc=5",
+    "reported_at": "2026-07-02T23:09:00+00:00",
+    "last_updated": "2026-07-03T08:04:53.802501+00:00"
+  },
+  {
+    "injury_id": "injury_c5811f3019054744",
+    "player_id": null,
+    "player_name": "Unknown",
+    "team": "National",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQeFFVUnQwbjVaU3k0WjhlOFluTFRrWldpYVRWRDVSWjVISWw1WVk1VXNLZkJnQUMydExYelZ4eDFuSXRkYVBHWDFHRFN5dmpUZk9wZXpSLS15ZDc4cG5MdnFhc3JOaE8tMkpUWGNZRGxvYmx2YnhDeTZ1Sno5aXpCazNlX0VhdTcyU1RIam1zQzBrVzk0RHV1d0ZkekREWWxE?oc=5\" targ...",
+    "source_name": "The New York Times",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeFFVUnQwbjVaU3k0WjhlOFluTFRrWldpYVRWRDVSWjVISWw1WVk1VXNLZkJnQUMydExYelZ4eDFuSXRkYVBHWDFHRFN5dmpUZk9wZXpSLS15ZDc4cG5MdnFhc3JOaE8tMkpUWGNZRGxvYmx2YnhDeTZ1Sno5aXpCazNlX0VhdTcyU1RIam1zQzBrVzk0RHV1d0ZkekREWWxE?oc=5",
+    "reported_at": "2026-06-30T07:00:00+00:00",
+    "last_updated": "2026-07-03T08:04:53.802524+00:00"
   },
   {
     "injury_id": "injury_22f263168c4bb61a",
@@ -1076,7 +1102,7 @@
     "source_name": "Nevada Sports Net",
     "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa3lMLS1QV21HdEVoNS1wTkZPLVZoUlRJd0NSejJXMkVVbnQ0WS12Ym5oN0l5eGNia3AzUEJtcEo2dW0wSzdkcXdFLVhzRmpQVXZTSzZlMjVtTnpiZ0RpTUNiUHRxNHZFZElyaFJZdXJjZ2R4WUwtRDVXMUNnYkpRUkpoUmlkMGlLNmxselhJakpXT2tNNzR1alVSRzNTRGFXaFpHV1JRdll5TVYyanZKVWItRQ?oc=5",
     "reported_at": "2026-05-18T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383635+00:00"
+    "last_updated": "2026-07-03T08:04:53.802557+00:00"
   },
   {
     "injury_id": "injury_524d3bbf7ee7269a",
@@ -1089,7 +1115,7 @@
     "source_name": "Albuquerque Journal",
     "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXVHX0xBb1RmenN2N2NYdWNhMlJ3VElVbHFhYUZlVkZ5aWYzZWtFMFhtOU9jQ3NwUGFTcG1LRzlQV1AwOVgta1hVWnVBWmU1VUJNMUVhbGt0YVhxMlp6SkNpdFZkS2ozU2gxcHJzS1VHYWltWHVNVFg2ZFdMb01NSEgyeHA5eV93WWZrOUJPT1FGZkY4Y0xkU2hQRy1Fd1ozVnNFNlhvTTVhdTJ3R21FZ3N0dW1tdUVJOU9JSDJianY?oc=5",
     "reported_at": "2025-12-28T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383659+00:00"
+    "last_updated": "2026-07-03T08:04:53.802581+00:00"
   },
   {
     "injury_id": "injury_33bb736441f222aa",
@@ -1102,7 +1128,20 @@
     "source_name": "Mike Farrell Sports",
     "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZC1EWFVtRlRrbjlGQzZOM0VNNjlyU2ctb3EyakdhY19VV0JyeFh4Mm9uLTJ0dTZRRURFdVp6SnNiMGZyWDdlbVBlbXF3aDZQSjU2SHlrdmtHVkhOUTU0ck1pVzVXanRzSDJrUWNmdjF3dUtRUGZTZmc0UUdGdmQ3Z09JTUp5SEktUUVjMEpKRVFyUURVOGc?oc=5",
     "reported_at": "2026-02-19T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383694+00:00"
+    "last_updated": "2026-07-03T08:04:53.802618+00:00"
+  },
+  {
+    "injury_id": "injury_94615276632f2dda",
+    "player_id": null,
+    "player_name": "Unknown",
+    "team": "Northern Illinois Huskies",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOXYtbk84TGJKY1pBaXo5b2RWdktsWXZJdmNmTGpzNXdCNGRVUDlVY1MzaUcyOGtLTFVObGpYanFZZ3hKT0pncVMyVlBoMUU5b1NBUEdiSFlLZEJkZFZFVXJ2Qnl5TDFubzd4M3JVa0J1SVp3RUhYNl9oT0hHVTYxRUJBNmJtN0Z1RmpxdUdQVDZ5RktWc3VPdW9UbU9ZQ3hOaUVtcDVYVDJ...",
+    "source_name": "Sports Illustrated",
+    "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOXYtbk84TGJKY1pBaXo5b2RWdktsWXZJdmNmTGpzNXdCNGRVUDlVY1MzaUcyOGtLTFVObGpYanFZZ3hKT0pncVMyVlBoMUU5b1NBUEdiSFlLZEJkZFZFVXJ2Qnl5TDFubzd4M3JVa0J1SVp3RUhYNl9oT0hHVTYxRUJBNmJtN0Z1RmpxdUdQVDZ5RktWc3VPdW9UbU9ZQ3hOaUVtcDVYVDJjeWFXWHctVC11WE5TZTIyUzdjNWF1YjdzZndPeEplbWR6SG5sNktJenJLZG03aHQxUlE?oc=5",
+    "reported_at": "2026-06-09T07:00:00+00:00",
+    "last_updated": "2026-07-03T08:04:53.802639+00:00"
   },
   {
     "injury_id": "injury_b54db44289e00c27",
@@ -1115,33 +1154,20 @@
     "source_name": "Fly War Eagle",
     "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUndsbVpaLTQ2ZFFQX1d6NDNMY2p3blJvTE9mZEFvTHNEM2o2bG1GbzZ1eEFoT25MdkFJUkFrZDAzY2xlM01vQmZqQllOWnpUaWs0SjBKNjE2QWkzX21MRlI4ejRaSW5vdS0zY0tKUkNPVC1MVm1oblhTaTAwUWtiMkEzSlZ3MWVkaVhZS2szeVpkN1dKdmFUOFI3dmN3NVNicWkwQ1MxaEZuaDBBRDdKZldHTmloaXMtWnc?oc=5",
     "reported_at": "2026-06-30T11:00:11+00:00",
-    "last_updated": "2026-07-03T02:39:23.383729+00:00"
+    "last_updated": "2026-07-03T08:04:53.802678+00:00"
   },
   {
-    "injury_id": "injury_0c56be84a919ecc5",
+    "injury_id": "injury_1ada519de76e18b9",
     "player_id": "espn_4915980",
     "player_name": "John Mateer",
     "team": "Oklahoma Sooners",
     "injury_status": "unknown",
     "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd1VOcFd3ekZod29rZGloYVoyc1JNMkNUVnh1anFxLWFsd1h5Z0FNZDRmVVd2NW9KSE9JdE1zbVRrXzMwMzRNWTdlbG0zUGQ3cGVJREJHSjU4WGRHUmtZb01hbnZMRHBYbWJ1RE1vek1JN0FBWDFiSFpaQUFTUGIybC0tWkVrbUZkXzBSR1dZVVJHd0xaaExGUkxYbERGRFFDakZndUxhZDQ...",
-    "source_name": "College Sports Wire",
-    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd1VOcFd3ekZod29rZGloYVoyc1JNMkNUVnh1anFxLWFsd1h5Z0FNZDRmVVd2NW9KSE9JdE1zbVRrXzMwMzRNWTdlbG0zUGQ3cGVJREJHSjU4WGRHUmtZb01hbnZMRHBYbWJ1RE1vek1JN0FBWDFiSFpaQUFTUGIybC0tWkVrbUZkXzBSR1dZVVJHd0xaaExGUkxYbERGRFFDakZndUxhZDQ1SXVyNzN3TFZpckY2ZG5oT0QzNHhaelpNZUphZnJVNEtobzFCbHc1MTBwWUJ5TlNXNThp?oc=5",
-    "reported_at": "2026-06-29T16:18:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383752+00:00"
-  },
-  {
-    "injury_id": "injury_a4e8f4e804ef95bc",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "Oklahoma Sooners",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlFha0hGYXJWLWpyOXdlbS1LY29YVEtXSlo5eXB0UklzeDA2T0xJOGVkbTdGX0ZnOGxFNHNYWW5HUi1LUUR6NTdodGo4WVN2WXl5cDlrQ1gzakxMNW9CbXdmb0RuWDNPUm51bmVfY2VxdkpQNUluTTBqVGhTemQzU2Ytay1saUxJQXFQaDBiV2Q?oc=5\" target=\"_blank\">Oklahoma...",
-    "source_name": "Yahoo Sports",
-    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlFha0hGYXJWLWpyOXdlbS1LY29YVEtXSlo5eXB0UklzeDA2T0xJOGVkbTdGX0ZnOGxFNHNYWW5HUi1LUUR6NTdodGo4WVN2WXl5cDlrQ1gzakxMNW9CbXdmb0RuWDNPUm51bmVfY2VxdkpQNUluTTBqVGhTemQzU2Ytay1saUxJQXFQaDBiV2Q?oc=5",
-    "reported_at": "2026-06-06T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383775+00:00"
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQbS1SSDE5aW5ZVTBDdEVaOXVtdzdTd3BTd1puSkxnUHBlZmRkS2ZqM0dwY0NGdHJoVnBPekJHRXRfQmpGQ3JrbFc2SnZTTzJlLWpaSGMtU2h5WXNrNnpuLVIxRk9heW54N1lIRF9ybzJYakEybmlCN29qZ1I1S3FQckFLLXRKVTVfeDZFaGo2Q29mdkI0X21vZjVnQVdEclhhZk1PVElXNzB...",
+    "source_name": "On3",
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbS1SSDE5aW5ZVTBDdEVaOXVtdzdTd3BTd1puSkxnUHBlZmRkS2ZqM0dwY0NGdHJoVnBPekJHRXRfQmpGQ3JrbFc2SnZTTzJlLWpaSGMtU2h5WXNrNnpuLVIxRk9heW54N1lIRF9ybzJYakEybmlCN29qZ1I1S3FQckFLLXRKVTVfeDZFaGo2Q29mdkI0X21vZjVnQVdEclhhZk1PVElXNzBESC1TZVBCSzJOZlVYYnRhX0ltWmR3?oc=5",
+    "reported_at": "2026-06-29T13:36:13+00:00",
+    "last_updated": "2026-07-03T08:04:53.802705+00:00"
   },
   {
     "injury_id": "injury_bdef035829a7d43c",
@@ -1154,7 +1180,7 @@
     "source_name": "ESPN",
     "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV2RxMGhnMEg2SDZSa0I3Z3ctWmx6VXZaZFVRQmJvYU5ocmdVRi1PYzdsODRJdFkzb2NDRzdsYklERE10OFlaUGlldWhfSUthYUZISUFvWHpEMmFGY0JJSlpMVFlZZVZqZlVCMmtEQ0FNdlBjaHBDdWZDdHMtZ05yYUFORFRjaEkwd1FFLTdKRWJ0QQ?oc=5",
     "reported_at": "2025-12-17T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383801+00:00"
+    "last_updated": "2026-07-03T08:04:53.802737+00:00"
   },
   {
     "injury_id": "injury_68eed4392cdb4edd",
@@ -1167,7 +1193,7 @@
     "source_name": "Underdog Dynasty",
     "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdjNvajdSZ0g0VW1uc2FkREMxdjlCUklyXzMyRlNnbEJURzhSNkxOXzlLcmdTMVJrTWpmR3cyOGdmcWtHeVBLS2pfNC1HVjlnTUN2UDhDd2U1YUFmdGNDQVM5dEFZRkVCN0JQODh4OGZaRlAtbkVzcUFuWXdSaHpkeXQ3WHRiQlZVOG82UDVnY2owR0dzQzBGX3NRcDNqREpCQUNGblpGSkR2bDNrZVFVbWxBSGZqQ3RBREhWcTJFVFhHajg?oc=5",
     "reported_at": "2025-12-16T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383823+00:00"
+    "last_updated": "2026-07-03T08:04:53.802760+00:00"
   },
   {
     "injury_id": "injury_b2f0753c7d63ca05",
@@ -1180,7 +1206,20 @@
     "source_name": "CBS Sports",
     "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ3Y3YmxGUmdxUVVORFItOWpITHZMRTltY1FYQ0d2dk8zaW5NazFadXZSRnY0eVc5dkUyU09xQ2VhQlVKM2VwY2ZhdVNEQUVTSlQ1RXp0eFIxRFVaenFUX2VSbVp2T2oyV3lmU2hKZk1iZ1pzaXA0c1ZZeGNTSHA0alBRRVdjLXVpWFc1NEdtYUdIWkFlSnZweGp5b2R0alI1NHdJSUVIM25QUGdR?oc=5",
     "reported_at": "2025-12-15T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383845+00:00"
+    "last_updated": "2026-07-03T08:04:53.802784+00:00"
+  },
+  {
+    "injury_id": "injury_9ac306430fc72b61",
+    "player_id": null,
+    "player_name": "Unknown",
+    "team": "Ole Miss Rebels",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQLTdEdEFsd2tuTXpxdVc3YmpQY1hQNHlWN0M0dHVwYTQzTGhWRVRyaTRYMEkzSzhyWTJ3VThIN3hndDBEdnpwbzBNZzlMZUxEc19meTNSRlkxX3RHRTI2YVRWVmM1VnBGTjQtWTBac0RKbGxxOHdYZ0VDSVkxQmp0Z2JB?oc=5\" target=\"_blank\">LSU-Ole Miss Buyouts Offer a...",
+    "source_name": "HottyToddy.com",
+    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLTdEdEFsd2tuTXpxdVc3YmpQY1hQNHlWN0M0dHVwYTQzTGhWRVRyaTRYMEkzSzhyWTJ3VThIN3hndDBEdnpwbzBNZzlMZUxEc19meTNSRlkxX3RHRTI2YVRWVmM1VnBGTjQtWTBac0RKbGxxOHdYZ0VDSVkxQmp0Z2JB?oc=5",
+    "reported_at": "2026-07-02T22:08:23+00:00",
+    "last_updated": "2026-07-03T08:04:53.802810+00:00"
   },
   {
     "injury_id": "injury_8fa19fc1e52c5926",
@@ -1193,7 +1232,7 @@
     "source_name": "On3",
     "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdEt0NC1zQTdqZFh1b2VSMUM4QkpxOUZMU2lTMEZ4SF96UVVINGV4aUtNa25lN2tGY2szaGFRZEtkcW1wOUM1ZkxvX2c0ZjF4REtTbzBMTFEwb2dkNlphOXdHdHYzeTB1OURuZTJtbWpHRURzanIxQ3VsckZqaDFpdVZQNkI2R3JPTFJlMlF5Zk1IdkdiQnJPY2hzYkpESUwtZ2JBZWVUV1FRT2I5LWp5TnlZbjc?oc=5",
     "reported_at": "2026-07-02T17:43:30+00:00",
-    "last_updated": "2026-07-03T02:39:23.383870+00:00"
+    "last_updated": "2026-07-03T08:04:53.802834+00:00"
   },
   {
     "injury_id": "injury_001a7bc97c288cba",
@@ -1206,7 +1245,7 @@
     "source_name": "On3",
     "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUHpRbkg1YzEwWTBxUG04a1dLZEdyb1RoT0hhZFU2X0RQY0xJRWxIQUVIaVRGX0JQNFU4NHlkU0x3U00zSkZ2WUFJdkhEd1FnUGVlMUZnQi1XLTlXREhfUVIxRFJaell4WWdEQk5JbXdjaTR3c3JUVzJmWWNfRlNTWFFEU3VpdlJWVGlIOF9feVM5OWNhbU83Q3dRNTZiVXNoOFlpMngwN1JNUQ?oc=5",
     "reported_at": "2026-07-02T20:30:05+00:00",
-    "last_updated": "2026-07-03T02:39:23.383892+00:00"
+    "last_updated": "2026-07-03T08:04:53.802876+00:00"
   },
   {
     "injury_id": "injury_7598f7e2f310ef74",
@@ -1219,20 +1258,20 @@
     "source_name": "A to Z Sports",
     "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeko2bEM5U0xHLWQyZm84SWZ3MFNnZzNwQU9pdG9zMldYQll1bDhLTWhqdUlFZjdLYjh6U2Z3eWNnUzNLMFlKTkg5cVFJakg4ZE81TG1SUXBiQnYySk1CUGI0bzlBcHV5cGNnXzJzVGdNWERraE9uR2hHMHdVTFI2SUVrQjFoTHJsUWZDWi01Z2VId3F4dFpJcmZYdFZaMlN3SmI4QXNoM205MDB4cDZCRUIybEdpQ0FOaHdSRUVMVWgzSTEwYnltVklfSEc3eTFvNDloSnF3UXBDZlE?oc=5",
     "reported_at": "2026-07-02T11:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383916+00:00"
+    "last_updated": "2026-07-03T08:04:53.802906+00:00"
   },
   {
-    "injury_id": "injury_def0e2ec930525f0",
+    "injury_id": "injury_1f0d1001a5eb3ec5",
     "player_id": null,
     "player_name": "Unknown",
     "team": "Oregon State Beavers",
     "injury_status": "unknown",
     "body_part": null,
     "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQmlNaWVzczNSM0VjQ1RBYkdQQlVzb3JHNWpSNjV4X3NTM0VSUzFaUGxscEVwRnpyWlFHWUhnNHE4NUxfT3d2X3dhZEQ5b1lfcXp4dlFlQ2hXSkhHdTU5TGRWcVdoSldWRm5rMlJpOTYyMlEzQWMtdVY3dy1YbzNrU0hadmp2U2pFS2NPMFZlTUZ0SlI2a2hkNnpwOTgwMWszRlU5cDFTUnV...",
-    "source_name": "The Daily Barometer",
+    "source_name": "Orange Media Network",
     "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQmlNaWVzczNSM0VjQ1RBYkdQQlVzb3JHNWpSNjV4X3NTM0VSUzFaUGxscEVwRnpyWlFHWUhnNHE4NUxfT3d2X3dhZEQ5b1lfcXp4dlFlQ2hXSkhHdTU5TGRWcVdoSldWRm5rMlJpOTYyMlEzQWMtdVY3dy1YbzNrU0hadmp2U2pFS2NPMFZlTUZ0SlI2a2hkNnpwOTgwMWszRlU5cDFTUnVTdU5mdmphOHhRcC1DUEtXb1QxaDE2UmRQNDlyOEJhZlJzcVR1NkxZcnk2S042LUc?oc=5",
     "reported_at": "2026-01-21T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383942+00:00"
+    "last_updated": "2026-07-03T08:04:53.802933+00:00"
   },
   {
     "injury_id": "injury_3d1a1d7803379dcf",
@@ -1245,7 +1284,7 @@
     "source_name": "The Daily Collegian",
     "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLTRLYmhwb2h3SmlxcE9kMmh2dEhRbnJ1N2JIRHVmbjhwRW1STEpINEZ4bmNkaVB1cHpxTWhhcW5SbDcwX2xMVlRuM3dEV3VsQUtsQ0VLMlh3dy1EdG9WTmh5NTV6S0lhd2pxemxpMVJ1b1RiV29EZVFzMnpkX2xvT1BkRzRtNmlfd3l1NDYzekQxRkppaVRRRlhrOVg5amR0cXV0YTZQWHNwWUhkWGVPRS1GbnVWcUVkWnZyRFVBUkd6SGRjTm9SQkE3blQxU0dmZnc?oc=5",
     "reported_at": "2026-07-02T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.383966+00:00"
+    "last_updated": "2026-07-03T08:04:53.802959+00:00"
   },
   {
     "injury_id": "injury_df6d58c61d72140e",
@@ -1258,7 +1297,7 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOV9sOTAyZG9ZZzBLcHhuRzgyNWFTNnBlbmFhTmNuSGtFRWJ0a3dUWGhnTnotdERobFZBdXg4UlZnQjBmVWRrajdPV1BBS0pCbDdPSjlqR0ZWclh6Qm9zUlEyX1BIcWtpTDB6Qy1POS05VTZ1VVNzWjVxUkY1OURzbTJ5TVJBM3BwQi1DekhuRzZ0X0hMaE4yRUpxM2Q2MHZUNDRtOWNFTjR2ZkpnUG5zTzN3?oc=5",
     "reported_at": "2026-06-29T19:29:36+00:00",
-    "last_updated": "2026-07-03T02:39:23.383994+00:00"
+    "last_updated": "2026-07-03T08:04:53.802989+00:00"
   },
   {
     "injury_id": "injury_db3877d93011903e",
@@ -1271,7 +1310,7 @@
     "source_name": "Nittany Lions Wire",
     "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPclQ1Zm14T0JNV0tnV3hydXhEd0dQOGhSV1NRR0hnSDc1Y3lSYU5WdHVrXzRGQ2M1YkFPbkh2ekVZN2lLNDJQYkFVR2s1am9va1NmOFlubnJpLTk0MkR6dTNtN25Wb1lBVFFSY1o4VkFoX1dKaFpKQkZCVGxTbEpwczFoa1dxTnhBd3RpSllnVWpTTkNRSTF2aTRIeS1zYl9DQXJzUHpoZXpYMzZ2TFdjWTNsakRpUkUwa3pYNEt2R2VNSjNldUQ0UkdPVlQ4NW5JS3BDLVdhWEdyeHFET3RDaUpWbXJ0akloNm8tOTYwbFZKblE?oc=5",
     "reported_at": "2026-06-12T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384017+00:00"
+    "last_updated": "2026-07-03T08:04:53.803012+00:00"
   },
   {
     "injury_id": "injury_61376bea092e4ad6",
@@ -1284,7 +1323,7 @@
     "source_name": "Houston Chronicle",
     "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc1BUeFl6QUFfX0lxWnVmenAzcGpuYXdKdzF4WG16TjlkR0x0Sl9Ed0I2d21tVUNWVTYtTUd0aGwwSzEtTk83bVR6di1fTTQtOWxwMFJTZWRLT21CUGVtUkR3ZGJJMGQ0NVR1LXpGaG9IWHJhVUdiSTZTWlF3TFRoQ3hHbTB5Sy1aZlRUWnlUNk9xaHZJdXVXTHVlQl9VWEhMOUtXandB?oc=5",
     "reported_at": "2026-01-02T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384042+00:00"
+    "last_updated": "2026-07-03T08:04:53.803039+00:00"
   },
   {
     "injury_id": "injury_2de7a60456b4f2b5",
@@ -1297,7 +1336,7 @@
     "source_name": "The562.org",
     "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYThmOWQ1azlaNnVOS0NacS1SRGdmS2NpcXZXUHhRTTBsdmJzQXBwNnBWOVlEZ3hOSXhmaW5MaFNhSzdUTWVwdnlvd2xnWGhnYUVxNFo1dm9EeUVWRFhNY3FGa2diMXBZSjJzSGxHYWItQS1QNGgxc2p5b1QzWFI2aFl4OVV0dGVyMVdETklacjVpamh6T2hhcnBNZV9nVG8yTzBjUkxJTlhYaF8zWXc?oc=5",
     "reported_at": "2026-01-18T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384072+00:00"
+    "last_updated": "2026-07-03T08:04:53.803071+00:00"
   },
   {
     "injury_id": "injury_79dc58251612bf59",
@@ -1310,7 +1349,7 @@
     "source_name": "NJ.com",
     "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdEVuclhwY1pBWmN6NUUzaEFDV0FKUVl3T1ppUXItQzNpR0hIT1FnVXc2bDNma0NmY195LV9NVGtHdEpDQWNFajI1Vm9qOU5TMVlxLUZTY2E3YnY2VndlbmFkanJRaGxIZzB1UUh1Vks5VFZXWllJUjN1aTV3bVpHRk5SZXJfamhMVTFWZElwa1QxQ0tWVFI5dFNZdFJ1eGc2cEQyS2xR?oc=5",
     "reported_at": "2025-12-08T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384093+00:00"
+    "last_updated": "2026-07-03T08:04:53.803093+00:00"
   },
   {
     "injury_id": "injury_46b34e89db4da56f",
@@ -1323,7 +1362,7 @@
     "source_name": "Mansfield News Journal",
     "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdk91WlVqTGM0ZG5FX0NxWGplVlpWQzkzaExwUUsxVkt3QUxZSUZXM1VOUHVqVDAwOWh5eHVPQlN6bDZodzVpQnZMMVJveUFuZVJIZm81MC1IblRBWG1sWUJVSkluLXBpcE1wRUpjb3h1N0lEOVByc0swRXNyUDYzUi1ZbGM2bUxnTDAyM3RzZXVzRzRNWmNIck03RHFURWlJaHlaR0lqcFYyd3ZZaVhFXzRqTXZmdTlSd2pSUFVhdW1UU0d1N1E2d3BxSWR1OW43bi1GWGp5Z2hlMS1zSmZaREVGTFFkc2s?oc=5",
     "reported_at": "2026-03-02T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384115+00:00"
+    "last_updated": "2026-07-03T08:04:53.803115+00:00"
   },
   {
     "injury_id": "injury_cc7ebb5687419878",
@@ -1336,7 +1375,7 @@
     "source_name": "Sacramento Bee",
     "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBORENwS2J2bU00dHl5YlBSMm52SXc3X2daZUtRcl9SV3dBbDBuV1plM3BvTUk3bDU3V3VlOW1LTE1MMV83bFVKOTVsZjlrZVd6RXFLYmlZb3B4NHhRcE5Lend1QnZKSkdET0lWbVpsemXSAXBBVV95cUxQcWZwNnZwemIzcU41UG1PUWl5b3ktZms2Q2Q5M19Eem00cXlxVXdwR1ljbGR1UnN6LXdmWGZTd3pVc2pqRFo1a0JIUWpkYkNBYnFMaTdXQlRpekJtVi1tZnJ3clNNRWZnNFRwYlI2RXl6?oc=5",
     "reported_at": "2026-01-16T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384138+00:00"
+    "last_updated": "2026-07-03T08:04:53.803139+00:00"
   },
   {
     "injury_id": "injury_d19a45716a3229b1",
@@ -1349,7 +1388,7 @@
     "source_name": "Sun Sentinel",
     "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03TjJVbzNISnV4SGxKX0g1R01UTDE2S0oyUDl0YnVkVElHTDVKdTVKYnRGejd5MTNJQTMwRXloTVRJdndrMlF3U25JbDhzWXJEVW9QVWtmbjc0Z0hJTHg0RmF4MnFjSjNvcUR4YTNZc2FQWTg?oc=5",
     "reported_at": "2025-12-29T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384170+00:00"
+    "last_updated": "2026-07-03T08:04:53.803167+00:00"
   },
   {
     "injury_id": "injury_a4322dd0ec57ed98",
@@ -1362,7 +1401,7 @@
     "source_name": "Miami Herald",
     "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZmdKVThtZ2ZJZC1Ed0thLU5rRl9OYl9rVW40RWtIMFEzSkRzZjlQQWtEakFhdGFoN2xMbVk1TnRjTmQwX2s5VnctRW1jN3pyd25sc1pDWXBjcmZOTmVXNjE1cGxxUmFHeUtfWkdWUVh6NHQtOEJDSEcyQ0R3Z1VkWXF30gGCAUFVX3lxTFAwbTlUYnBWbXVialNUZkVhNHdqdm5oZEdMcm9uVmZVdThUcU9teFdLUzRRdlVvcVJGbUpqa0dLdDRDUTJsODh2bl96TFEtb01EdGtWYi1sbW82ZU1Mbk5SMEhHQ2dNLXlDNVE1MVZaWGlXY1VZZjZpQVNvSWFSSDQ2U2c?oc=5",
     "reported_at": "2018-12-27T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384199+00:00"
+    "last_updated": "2026-07-03T08:04:53.803194+00:00"
   },
   {
     "injury_id": "injury_3e5984883c8c2e07",
@@ -1375,7 +1414,7 @@
     "source_name": "Miami Herald",
     "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcUxUSlpQQm50U3hyTlVud3IyblZieVhfdzZrdkVidlJjX2xWX2N5Q3FQRHBocEk5X0hka3BIS1I2ZGl2eVpCa05JY3B4RWNvaTRSOWdSZm5KVG9aVHd3MXdLVUstcUxtbkZhd2N2VGg1TnFEdlNZTThOb1dJRExENjYwZ0xJTENGQWltNzlSZi1RR1I10gGUAUFVX3lxTE9vWUM3V2c0bF9yeXhTNVB4VU1lYkVLMVZlUnlaNkxEbkZjSTVQb3Npd2pPS0p2eDIxS0ctMWlsTDF5bGhSeGRSOUdXYWtLV2hfZDhkcUlib0NSQmtnNzlNWXJoZ29ScG1tQ3N1eUV1UC1OZFRleFlodzBBUXE2cUxJeEI0NW5FVUhiY2NhS283dnVBMXc?oc=5",
     "reported_at": "2019-01-02T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384222+00:00"
+    "last_updated": "2026-07-03T08:04:53.803216+00:00"
   },
   {
     "injury_id": "injury_dc291a114fe94c33",
@@ -1388,20 +1427,7 @@
     "source_name": "ESPN",
     "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON2E3TkRicUlkcjZDX3JYMUg1Tm1SU2lyOUtmMC10WUpTbXo1VGJ6Y09CTVpiQjcwaHJvdTJ3SjNQalc4aU5qQUZ0dm1wYkZ1RkxYRk9vNjZvQl9YaWh1eUJ6VnFrYlpZbTN0UGtLMDNTdlZkSi1fdWpxY1BJTTUyR3VQb1dfdXRuak1sRlkxRExyQnZ0ZUlya2lwUldNTzUxZTd5bll6a1gyYk1oNllsVHZyQzBFNFhFc1o0?oc=5",
     "reported_at": "2026-05-18T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384262+00:00"
-  },
-  {
-    "injury_id": "injury_6b61cf306563d262",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "San Diego State Aztecs",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPN044NC10TkRNNHVvWFY1MVY0XzJJZkFUemZnYlBLbEVJYWxVM004aVB0N3lXTXFUblBiRU8tdmJJNjN2eEc5QS1CNlpTX1RXbVhsbjljQng5ZFpOc0tTMW0zWDNLVTZhQy1aN09VQklkbXEzWmlZaUl3NDVJd0hVTUhBSUNQTkpXUVllSk4tV0pRMjRld0JMVUs2LTJOcGE0VFRfVEVRZXN...",
-    "source_name": "The Daily Aztec",
-    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN044NC10TkRNNHVvWFY1MVY0XzJJZkFUemZnYlBLbEVJYWxVM004aVB0N3lXTXFUblBiRU8tdmJJNjN2eEc5QS1CNlpTX1RXbVhsbjljQng5ZFpOc0tTMW0zWDNLVTZhQy1aN09VQklkbXEzWmlZaUl3NDVJd0hVTUhBSUNQTkpXUVllSk4tV0pRMjRld0JMVUs2LTJOcGE0VFRfVEVRZXNxR1ln?oc=5",
-    "reported_at": "2026-05-03T18:07:25+00:00",
-    "last_updated": "2026-07-03T02:39:23.384293+00:00"
+    "last_updated": "2026-07-03T08:04:53.803241+00:00"
   },
   {
     "injury_id": "injury_a8ed1b2b4e19c3ab",
@@ -1414,7 +1440,20 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbkVNRWdqc0xFVXFJRWp5T1hHMHBtMExpSHkxRWJGZFNTLTcwQ3I3UFh4cDVadUpuR3FaZk84SFBlVDdWSUpaSlZiRUExUUxtUXVBUVd2eVZRTzRxeXptTnhiZmd5QU9uQ2RxdVpoQ1FKRFBDZEpHQXJBSVJPbm5WajRrT0d6Qm5FWF9Lam85VE9RWml0V2t4Y1FLaXVaNm9Bd1pLcUZn?oc=5",
     "reported_at": "2026-05-23T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384316+00:00"
+    "last_updated": "2026-07-03T08:04:53.803267+00:00"
+  },
+  {
+    "injury_id": "injury_6b61cf306563d262",
+    "player_id": null,
+    "player_name": "Unknown",
+    "team": "San Diego State Aztecs",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPN044NC10TkRNNHVvWFY1MVY0XzJJZkFUemZnYlBLbEVJYWxVM004aVB0N3lXTXFUblBiRU8tdmJJNjN2eEc5QS1CNlpTX1RXbVhsbjljQng5ZFpOc0tTMW0zWDNLVTZhQy1aN09VQklkbXEzWmlZaUl3NDVJd0hVTUhBSUNQTkpXUVllSk4tV0pRMjRld0JMVUs2LTJOcGE0VFRfVEVRZXN...",
+    "source_name": "The Daily Aztec",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN044NC10TkRNNHVvWFY1MVY0XzJJZkFUemZnYlBLbEVJYWxVM004aVB0N3lXTXFUblBiRU8tdmJJNjN2eEc5QS1CNlpTX1RXbVhsbjljQng5ZFpOc0tTMW0zWDNLVTZhQy1aN09VQklkbXEzWmlZaUl3NDVJd0hVTUhBSUNQTkpXUVllSk4tV0pRMjRld0JMVUs2LTJOcGE0VFRfVEVRZXNxR1ln?oc=5",
+    "reported_at": "2026-05-03T18:07:25+00:00",
+    "last_updated": "2026-07-03T08:04:53.803291+00:00"
   },
   {
     "injury_id": "injury_044e76db077c9add",
@@ -1427,7 +1466,7 @@
     "source_name": "College Football News",
     "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSWdnYThtZk9JcHFoWHZDNE1JaXFRWEJoVS1GWEFBb2FmRUZYQ2tHcmw1UHJadE1SSm5XaTRTVGZBMHhtVHhIQ1VNTGcyc2JsYmZVaGNCcjVGRGNud2FyUllUVk1rYkdvbGlvYnBPV0tjN21MX2p4YVdISnc5aXdFWTloZW51Ukl2WFJrMQ?oc=5",
     "reported_at": "2026-07-02T19:04:08+00:00",
-    "last_updated": "2026-07-03T02:39:23.384343+00:00"
+    "last_updated": "2026-07-03T08:04:53.803318+00:00"
   },
   {
     "injury_id": "injury_81a39ea67b36035f",
@@ -1440,7 +1479,7 @@
     "source_name": "Yahoo Sports",
     "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uZjd4eTVDY1d6TDlzMG41M0ZOTVQ2aElOa2llS0lKdkRNdUpQOG85dzVSNE1HeEpUellkTlkyVGNpWXJ2clRFYmt0dFBzeHZNdWpQTGJtcFZnbDh1OUFsaA?oc=5",
     "reported_at": "2026-06-14T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384365+00:00"
+    "last_updated": "2026-07-03T08:04:53.803340+00:00"
   },
   {
     "injury_id": "injury_f603c2e055628dae",
@@ -1453,7 +1492,7 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNmFDMlVFcjNZUEJwdDU1N0g0clFjQ0htdnJUVXRkcS15ZUZhUTJEQk1BQl9Nd3BmdVBXOEd0aVpXcTJIR2RWNnBMOGNmWk0xb29GbUxUZUZoeUU5MDREUFF1Ymw4RnFhMS1qTm9RRzh4UHNONWVIUHZkOUtLNDlYWElSbUZzQzNOaWhFZGoxdFNXZ29GNWFHWlVBc3pGRndZWEJWTmV3aWg5TEJST2l2MkZtTEM?oc=5",
     "reported_at": "2026-06-25T15:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384387+00:00"
+    "last_updated": "2026-07-03T08:04:53.803364+00:00"
   },
   {
     "injury_id": "injury_be43198aa7a311aa",
@@ -1466,7 +1505,7 @@
     "source_name": "Auburn Wire",
     "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTWllT2FjWmRxX2Qzd29QQ1k0NDZXZU5YcWtLSXEtZXV6bk95eTFmV2d0RjBRTmJxeWpVcUplQUtMVVJhVm81NDJ3NGNsaEhnbjdScDJmd1F5VHVzZURqcWlMZUdrQXJ4UHhsVUVlVjZkbnZqZTlnV2V6cHg1QWVvUi1jMGt4VFNyMVdCaFVoRGYwYUVQV1R1OVpURUxBOEFLUDNPWURGU2F5N1lKT294aDhaRjl1Slk2MEFVMDJOQjlBU3N4dnp0SkFOMDlNVUhQdmNkdm1TcjY?oc=5",
     "reported_at": "2025-09-08T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384409+00:00"
+    "last_updated": "2026-07-03T08:04:53.803386+00:00"
   },
   {
     "injury_id": "injury_60eae5b485d1ff27",
@@ -1479,7 +1518,7 @@
     "source_name": "FOX Sports",
     "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVHRaQVFYT3JHemZHbHdORzVGVHdrTmUwendkaDVTcnA4TXhkT200M0pPVFlRR21walBKc3ZER2xkODJVZU9aMU9Ga09GbU0tc3lQbU84bDVLNGtFMzR3NG14X0VXVTRoRDRzYWtRU3N0ZWlUNUdZZ3pBNHlDZFJIUWVnbjlReVZpMUlSOG9BUGZMRklvRUNuZXl4T0paeDY2ZE9NMHBSak9HWldFM29hcXZwbU14NnVYVzM4ZktMTFNfSHBQVXFJZGZ3bnZtQdIBzgFBVV95cUxQRXRtUm5TMjZGV1VPV0EwTWZZVjJaZElrZ0diNHY1elA3cmpCQkN3cjRQMEpreW1HNWRMWklVRFpveDJxOHFrMzNPY0ZjQ2kwcVhSTTExV0JSYXA2eVo3b0ZiX05rZ05JMzJoaWdhUGZrTmg3dVgzZWhNWXVldFhIVVV1aUlSNk01WkF3YVpwbEQzb0pPdmVsNEtkMWF2NEZOLVVvVEZ6TDFpQkVSVFhuSFRSNTlYZ2trWDl2MWNWZnU3VkMwdW1RUWh0NUREZw?oc=5",
     "reported_at": "2025-08-10T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384431+00:00"
+    "last_updated": "2026-07-03T08:04:53.803408+00:00"
   },
   {
     "injury_id": "injury_8610674b2667fdf4",
@@ -1492,7 +1531,7 @@
     "source_name": "ESPN",
     "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UZzlueWg3MG1YVmc4c2VjbFRtQk9ncWFKRGFxMW5oQ01oMmFqZWp3enB0WVozZVRsZ1ZnVi1YV2x0MEVYMkFtU01GZEN3TGZFSVVxQTJyYkFraFgxUU1sTDlhOWdPV1FKNFZPUVg0Q2c4X21UM2pOVkpn?oc=5",
     "reported_at": "2025-07-25T07:10:52+00:00",
-    "last_updated": "2026-07-03T02:39:23.384453+00:00"
+    "last_updated": "2026-07-03T08:04:53.803431+00:00"
   },
   {
     "injury_id": "injury_8c946d43c460f28f",
@@ -1505,7 +1544,7 @@
     "source_name": "On3",
     "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPemFiTE9RSWt6TkRJM0ZwTm1yNHRidEVaemM5bmFxZXFOdC1JWlVPaHRDUTR5ald0X0E4eU9iZGw3b1pYMDRUQmRQZUlCUEJ6VkxvcWFHWFFGSi1LdXNRSFA0bXl0M3E5aFRLMTRocnBmeHl2ODgyVDNkLW5GUGJEQXJPVVF4LUxaYUY3aS0zUXBBNHBob1FmUHJwaDlFZlZGMFhsTnI4QzN2cUVhZGc1UVZkTlVOc1J3Zm9ONVo1aW8yUVZHM29OdmdSWQ?oc=5",
     "reported_at": "2026-06-19T16:15:56+00:00",
-    "last_updated": "2026-07-03T02:39:23.384474+00:00"
+    "last_updated": "2026-07-03T08:04:53.803453+00:00"
   },
   {
     "injury_id": "injury_9485a2e93f29dc5d",
@@ -1518,7 +1557,7 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRC01WUZCSFkwX29XNGlCWDh4WFBxOVQwQlNOd3pDemhwTmZxRzJjM0o3UW1KeHhycnlyeEN5UEk1Zm43STk4MWR0dzRoaHFSRjh6UWVqNGxIR2hGRzlGc1VpQnZnQnBiR190d3hTb0huV1lZUWRzX095RS1ib2xXLW10a203dzE2bHZYdUhKVUtNckxRSDlzRGtST2M3Y3p0Um05bjhHZ1FDZXJCYTg4?oc=5",
     "reported_at": "2026-01-06T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384495+00:00"
+    "last_updated": "2026-07-03T08:04:53.803474+00:00"
   },
   {
     "injury_id": "injury_f73b0816a0f9b651",
@@ -1531,137 +1570,137 @@
     "source_name": "Auburn Wire",
     "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTVA4RVRNQ0NpbVVMTVdwOFk5T3BoRWNwdVdHa3FMTVlSM2JoR2xJb0NxRU1vYTFFVnFXSjFUWUhYQVFVMWNPZF96NHZpZWdLeExhYXpRSmlXRVYxNzFiTlFuak02aVFSX052M0V2R0NWaUVWVXdwUEx1V0hudW9KTzcxTkhWUWlvck9vdHVHUTBsMXpPZms4c3pBYndHYlp2Tkpvb0FuY3pWTEpoYzgwMlhvQzNxV0xja3F2MTdHRjlaQVZqZlJJcEItUUR1QUFyWFZIbjd3?oc=5",
     "reported_at": "2025-09-13T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384516+00:00"
+    "last_updated": "2026-07-03T08:04:53.803496+00:00"
   },
   {
-    "injury_id": "injury_7a2131c2be958fe7",
+    "injury_id": "injury_acf46b8f09c602ca",
     "player_id": null,
     "player_name": "Unknown",
     "team": "South Carolina Gamecocks",
     "injury_status": "unknown",
     "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPWk1EcFBMR3V5VXlVcTFRN0FCQjloM0hIbkNmbS1VekUwd01kVTEzTTU4Z0dFNlZXMlRxakxBRDhDSFF5Q3k5X2hpcDZCMHNKMGFJSzhNMnpkM2FTcU1UOWFLWG0zQkszQ0owUmxOYTNkMksyWEJTMXhXbEdHRkM5UWJyM1ZjYmZJY3E1dk9HbnhBTWRXU3o5RHJBMGJpZ3VVQXZ1N2tBbXR...",
-    "source_name": "Sports Illustrated",
-    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWk1EcFBMR3V5VXlVcTFRN0FCQjloM0hIbkNmbS1VekUwd01kVTEzTTU4Z0dFNlZXMlRxakxBRDhDSFF5Q3k5X2hpcDZCMHNKMGFJSzhNMnpkM2FTcU1UOWFLWG0zQkszQ0owUmxOYTNkMksyWEJTMXhXbEdHRkM5UWJyM1ZjYmZJY3E1dk9HbnhBTWRXU3o5RHJBMGJpZ3VVQXZ1N2tBbXRoYS1oQk82aktwdDlWak5yX3JpenZ3NVlIVjJOal9EcFlsNUQ?oc=5",
-    "reported_at": "2026-01-14T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384537+00:00"
-  },
-  {
-    "injury_id": "injury_965fd759da8eeb70",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "South Carolina Gamecocks",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYWJnTXppU1Q2dEdJNTVfRjRlTGVqZk5SRlh3d3BTZHdLaDRmVk1GcWdCR255Qkt1WkNLbHNwSUltaW53RWVwNFlQZ2tzRzRiMDJZcGMzbzh6UWIxWkhIaHFYUWpaVXpQYjZjdzkyQXVSaENkWTY1b1FLNWlxcDdIczhyY1VhamY2MzZ2cG10Q3FPV1QzVExOc0xPRVZMek1jTnkyNnhWZXh...",
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPakxaTk9NUU0yWS1vVnJSSU9xdnlzb21MUnpNNnBma2RxeGFmS01uWjIxRnZDdVhwZjR0OVZMYm9DVXRHQW9UTmExRl9wZU9WenZyOEpGZk96QVFyLXJJSElycGRwSVlUMHVjV2FDMlVHMzE2QjlwWUxFY3RPeUJaazdaZkZWOWQwZGp6dzQ5OHVhcTBTM21EQVhObnMxQWItRUY3VHV1NzZ...",
     "source_name": "On3",
-    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYWJnTXppU1Q2dEdJNTVfRjRlTGVqZk5SRlh3d3BTZHdLaDRmVk1GcWdCR255Qkt1WkNLbHNwSUltaW53RWVwNFlQZ2tzRzRiMDJZcGMzbzh6UWIxWkhIaHFYUWpaVXpQYjZjdzkyQXVSaENkWTY1b1FLNWlxcDdIczhyY1VhamY2MzZ2cG10Q3FPV1QzVExOc0xPRVZMek1jTnkyNnhWZXhfWDg4ZWlmcnNndnRrbTlzM1JWV2gwcC1rRzZ3VFU3d1ZOQmUxUzF6?oc=5",
-    "reported_at": "2026-06-24T18:50:31+00:00",
-    "last_updated": "2026-07-03T02:39:23.384558+00:00"
+    "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPakxaTk9NUU0yWS1vVnJSSU9xdnlzb21MUnpNNnBma2RxeGFmS01uWjIxRnZDdVhwZjR0OVZMYm9DVXRHQW9UTmExRl9wZU9WenZyOEpGZk96QVFyLXJJSElycGRwSVlUMHVjV2FDMlVHMzE2QjlwWUxFY3RPeUJaazdaZkZWOWQwZGp6dzQ5OHVhcTBTM21EQVhObnMxQWItRUY3VHV1NzZaYnlmWURpcEFpWmpGTmdPaWJFamtfaFZPNGprWE5RMG1wT0ktLVIxNHFZM3FfaVQ?oc=5",
+    "reported_at": "2026-07-03T05:26:08+00:00",
+    "last_updated": "2026-07-03T08:04:53.803518+00:00"
   },
   {
-    "injury_id": "injury_52ce9ce0001824a6",
+    "injury_id": "injury_e17cc238f731fc3a",
     "player_id": null,
     "player_name": "Unknown",
     "team": "South Carolina Gamecocks",
     "injury_status": "unknown",
     "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOeFQ5M1hRQTJlVEs1bHhVNHI1N2U5alowWERxYlB6d1NYbmVYVEpTdGNhNGsxUjZkOHc4ZW1TZGlOQlJUa0N3U1hxRmlhZGRZcXVjUE96OXQ3UExKcHRDNGluT1RYSDdpSDRiT1ZQSjhrUnFHVU9qOWhoY2RtaVZDdUlCN1pHaDAzQVFCanhnS3VsU0tJUEoyTk9uMkNXTGlYdDBfbWJyY0d...",
-    "source_name": "Fly War Eagle",
-    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeFQ5M1hRQTJlVEs1bHhVNHI1N2U5alowWERxYlB6d1NYbmVYVEpTdGNhNGsxUjZkOHc4ZW1TZGlOQlJUa0N3U1hxRmlhZGRZcXVjUE96OXQ3UExKcHRDNGluT1RYSDdpSDRiT1ZQSjhrUnFHVU9qOWhoY2RtaVZDdUlCN1pHaDAzQVFCanhnS3VsU0tJUEoyTk9uMkNXTGlYdDBfbWJyY0dZUFFjZTBWdUYxOUJCeWNoSFFFTw?oc=5",
-    "reported_at": "2026-06-21T12:00:01+00:00",
-    "last_updated": "2026-07-03T02:39:23.384579+00:00"
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLWVGWWtmMEVHcHdWU1JINnFMRzlFQTdSYWstRTI4ZGcwTFhNelVqWU9uZzZWRGJGQzVyaUcwWUpxaFowZXZUSjVpWHZkanJBOF9NTHJ0UUNjN1ZUTl84b2V5dGRhSG1CMGlEZEhncjJZVWZUeHRNMzVZbTdlT3BJR0NGcldWY1JGa1c1WGhLMjFxNGNraUpITHFZckllbG9FVmdfQVdlWHY...",
+    "source_name": "ESPN",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLWVGWWtmMEVHcHdWU1JINnFMRzlFQTdSYWstRTI4ZGcwTFhNelVqWU9uZzZWRGJGQzVyaUcwWUpxaFowZXZUSjVpWHZkanJBOF9NTHJ0UUNjN1ZUTl84b2V5dGRhSG1CMGlEZEhncjJZVWZUeHRNMzVZbTdlT3BJR0NGcldWY1JGa1c1WGhLMjFxNGNraUpITHFZckllbG9FVmdfQVdlWHYzU013NXJlSHhDa2k0OTRQb3Nz?oc=5",
+    "reported_at": "2026-07-01T22:44:00+00:00",
+    "last_updated": "2026-07-03T08:04:53.803539+00:00"
   },
   {
-    "injury_id": "injury_9b76f4438b973da8",
+    "injury_id": "injury_30222e6f6638dd48",
     "player_id": null,
     "player_name": "Unknown",
     "team": "South Carolina Gamecocks",
     "injury_status": "unknown",
     "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAJBVV95cUxPbmxpcW1UdTZUUFF3aHFmcGc3NUx4NGVsSERGN2dsWnVoWTdweHlnbmlmLTNzb1o1TTRjU1JlTHBhQklCS1JfenRJcVpWQmp1M2ZpQWpvQ3I5el9SYkI5QmY4MnRMUkFXMS1wcU9ibUVwcWJFMlJmdVlicGZsQ05ROF9NTFhta3dteUtXd24zU2VKWldEVlh5Wk5PSTF5WkU0a3lSS1pKZ2g...",
-    "source_name": "WLTX",
-    "source_url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPbmxpcW1UdTZUUFF3aHFmcGc3NUx4NGVsSERGN2dsWnVoWTdweHlnbmlmLTNzb1o1TTRjU1JlTHBhQklCS1JfenRJcVpWQmp1M2ZpQWpvQ3I5el9SYkI5QmY4MnRMUkFXMS1wcU9ibUVwcWJFMlJmdVlicGZsQ05ROF9NTFhta3dteUtXd24zU2VKWldEVlh5Wk5PSTF5WkU0a3lSS1pKZ2gwTGUwVko0TWVJck1zZ19lVnpKTW1mRU1SVXl4MGc2NWNWN09mbzlvajVORkI4S09yYTB1anpRTmw4eTA0QW1SZkFtVm9ESlhma0ZFWWc1cm9Nbl9WY1JmMXhmWlZNWHY0M1puOWZnYVJyems1cmdkY3d0OE5ISnc1M1FTWGtBSzgyeEc3b1JTVFU3Tg?oc=5",
-    "reported_at": "2026-03-30T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384601+00:00"
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQdmNDVTBJQndKTHljZ1MzQkJYeEVUcGVJalYtbTh2YjdDRTBKX3JTMEhOTXZwSXJlQ0U1ZTltbWpGbTFjUVl6bHdHZXVoX0FwRGpKekdQeXlxM0dEWXNqdjl5N0JYOUNlbFpqOWk4S1dIYjlzRGNCZ2ZMRDlfb0x5Ni1VVG9McXB3eEVodGtoZi01bEY5M1BRT1hlZ2c?oc=5\" target=\"_...",
+    "source_name": "University of South Carolina Athletics",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdmNDVTBJQndKTHljZ1MzQkJYeEVUcGVJalYtbTh2YjdDRTBKX3JTMEhOTXZwSXJlQ0U1ZTltbWpGbTFjUVl6bHdHZXVoX0FwRGpKekdQeXlxM0dEWXNqdjl5N0JYOUNlbFpqOWk4S1dIYjlzRGNCZ2ZMRDlfb0x5Ni1VVG9McXB3eEVodGtoZi01bEY5M1BRT1hlZ2c?oc=5",
+    "reported_at": "2026-07-01T11:01:09+00:00",
+    "last_updated": "2026-07-03T08:04:53.803560+00:00"
   },
   {
-    "injury_id": "injury_f3bef981cf730ab0",
+    "injury_id": "injury_5ee04fac8bbef074",
     "player_id": null,
     "player_name": "Unknown",
     "team": "South Carolina Gamecocks",
     "injury_status": "unknown",
     "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGZRX1hIR3NxV0Zoc09JeVR2cFpDaWdvTWdZdzIxZnBRSU15Mm1QNXNPaGtTUWpETnJYUFRPaVpOOHRFdWY2RElvejFqb0t4Z1NwNGpoQlRQUFBIVnJCcVR3STIyV0xGalg3SUlKaE1FUlh6UWxjenFsQlRSS2R2Uy02S3Q3OFhKYTJTa3RfWlRueEZIYXg3S3hadVRFQmgtSGk2Tk92azF...",
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPYVhTMHk0WmJodTlhZ3FWeF90c3I0VVhZdjk1TFNaWjNYU054OFZZYWM1dTNTaGJPazFYVkY0cVMxelVWNlYyRjBSSzZ0YW1VWkVzWFhNalJaRkYxMkNWSUQwTnBJTm1QR2hNRUYzaXZVNG5ma1NlakRFSC1SQm0wdFNmeWpfd3BYUU04UGI1YzFXbVdUc3E1SENsQTY0NlhheWN4SG40U2x...",
+    "source_name": "WBTV",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYVhTMHk0WmJodTlhZ3FWeF90c3I0VVhZdjk1TFNaWjNYU054OFZZYWM1dTNTaGJPazFYVkY0cVMxelVWNlYyRjBSSzZ0YW1VWkVzWFhNalJaRkYxMkNWSUQwTnBJTm1QR2hNRUYzaXZVNG5ma1NlakRFSC1SQm0wdFNmeWpfd3BYUU04UGI1YzFXbVdUc3E1SENsQTY0NlhheWN4SG40U2xzc3hYODBj?oc=5",
+    "reported_at": "2026-06-15T07:00:00+00:00",
+    "last_updated": "2026-07-03T08:04:53.803582+00:00"
+  },
+  {
+    "injury_id": "injury_97b9e403725c9512",
+    "player_id": null,
+    "player_name": "Unknown",
+    "team": "South Carolina Gamecocks",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOUgyNXV3ZVVwSFNIN0dpMVIza09UUkFUUUxBREowTDkyNWZXb1dLdzBueEtUV3ZNVzFKRV9XQjFJcURpeDd1YmJaVVJnVjZlTm1EVHFkQkpTNzNkSEMzNF9ISVdJeXRveThUbnphaWVsZXJtTGFYRGxzLW1Hb3NFeEJ0QzFaVnBRTVF1cHRkN1pyZjhNbXlMTG1hUXIxNjF0SzZGWUR1ZXZ...",
+    "source_name": "USA Today",
+    "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOUgyNXV3ZVVwSFNIN0dpMVIza09UUkFUUUxBREowTDkyNWZXb1dLdzBueEtUV3ZNVzFKRV9XQjFJcURpeDd1YmJaVVJnVjZlTm1EVHFkQkpTNzNkSEMzNF9ISVdJeXRveThUbnphaWVsZXJtTGFYRGxzLW1Hb3NFeEJ0QzFaVnBRTVF1cHRkN1pyZjhNbXlMTG1hUXIxNjF0SzZGWUR1ZXZaNVFoZVlfWnhlUm8wa3lpUmdrUWpNbzdzM3RRVTdBRGIwenozZWdaUjR3U0VDMGZBazRXWnEzbkdGSm42alBaZ1E?oc=5",
+    "reported_at": "2026-07-01T22:22:00+00:00",
+    "last_updated": "2026-07-03T08:04:53.803604+00:00"
+  },
+  {
+    "injury_id": "injury_4c432a81ac1dc690",
+    "player_id": null,
+    "player_name": "Unknown",
+    "team": "South Carolina Gamecocks",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS0pvOG1fcm83ZXE4QkxGZ1hsZmw2a1c3STVYMGluSl9BN1MxRWhiMktIQXZGcHdBcjMxZDZ6dmU4eVdwZGw2RlNlcUNaRkt2aXNvaHBVVGVMeWVsRno0d3VrRC1pLVJ6Tm4tNjZObERaRGNOTGl0QUtySHlLUlk2VmdNOGhXZW1mdzJoNW83cV9tbnNyUTFvRE5ZS3ZEUEFqWUJKajRPUHl...",
     "source_name": "On3",
-    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGZRX1hIR3NxV0Zoc09JeVR2cFpDaWdvTWdZdzIxZnBRSU15Mm1QNXNPaGtTUWpETnJYUFRPaVpOOHRFdWY2RElvejFqb0t4Z1NwNGpoQlRQUFBIVnJCcVR3STIyV0xGalg3SUlKaE1FUlh6UWxjenFsQlRSS2R2Uy02S3Q3OFhKYTJTa3RfWlRueEZIYXg3S3hadVRFQmgtSGk2Tk92azFzWGhub2FyOV83MkotS2ZPVk1xQWNCSjE?oc=5",
-    "reported_at": "2026-06-23T11:00:12+00:00",
-    "last_updated": "2026-07-03T02:39:23.384622+00:00"
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS0pvOG1fcm83ZXE4QkxGZ1hsZmw2a1c3STVYMGluSl9BN1MxRWhiMktIQXZGcHdBcjMxZDZ6dmU4eVdwZGw2RlNlcUNaRkt2aXNvaHBVVGVMeWVsRno0d3VrRC1pLVJ6Tm4tNjZObERaRGNOTGl0QUtySHlLUlk2VmdNOGhXZW1mdzJoNW83cV9tbnNyUTFvRE5ZS3ZEUEFqWUJKajRPUHlWZw?oc=5",
+    "reported_at": "2026-07-02T23:47:29+00:00",
+    "last_updated": "2026-07-03T08:04:53.803626+00:00"
   },
   {
-    "injury_id": "injury_8b6f9207b03a079c",
+    "injury_id": "injury_7452a02b637d4490",
     "player_id": null,
     "player_name": "Unknown",
     "team": "South Carolina Gamecocks",
     "injury_status": "unknown",
     "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNaXhMajJfc3M5eXJxOVc3M3RBV3FFZVhxYTNheHBzU2d1QkJzZFlZanNuSlc0YnFyczI1YzRRTlRHR21iNndjVzkxdEpXQk14SnlnV2dPZ2dmSU5TbG0ycER2dTRsR0hCWV9uSG9NcWZYVUpiS2lxdk9Dc0FZaU5xU0owUjg2SjB6cnVJMnN4czlwN0hBYmYyUHVlcjZBM3NCNDlXVXI2TG8...",
-    "source_name": "Sports Illustrated",
-    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaXhMajJfc3M5eXJxOVc3M3RBV3FFZVhxYTNheHBzU2d1QkJzZFlZanNuSlc0YnFyczI1YzRRTlRHR21iNndjVzkxdEpXQk14SnlnV2dPZ2dmSU5TbG0ycER2dTRsR0hCWV9uSG9NcWZYVUpiS2lxdk9Dc0FZaU5xU0owUjg2SjB6cnVJMnN4czlwN0hBYmYyUHVlcjZBM3NCNDlXVXI2TG8wZV9WaTVPUng4aXNZRjFuRHhlU0hEV3dIQjVRRzNfMi1POA?oc=5",
-    "reported_at": "2025-12-17T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384643+00:00"
-  },
-  {
-    "injury_id": "injury_e4712cc3e70e0732",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "South Carolina Gamecocks",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc2pLc0JGRVl1SFI1aGdwRnNsbG1qd0RoWDZzSk4zWHk1MjJqZnFjYU1XaE5fb1h1S0pnMUsya1oxNWFqSHJrZWxoU0hnTFBWZ1VJdHJQVmt2UGVtdVhnMW9vOE1ScThWYTJQbW5Dd0VQQWlNWl93SjNqMXN2WnloaFE0RFdRVm1OcnhvX3JPZ0N5ODE4QXhLblNWZTZCZEpycnhBMUdrdm5...",
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQQXVOQ241NVRXQ0xSYkY1a1BEQTRlSkpYSTFtZjdLcnQ3Nm42bzh5dER5b1FyUVdnV3VvSXhvd2hSb2lhbmprMnZ4ZGdod1JsNTZ1WTZxdG85M05zZXpPTGU0Skl3TTRZdEVpdG9adlpuSUdORzVfQWJOaEVZa2FDZG9lUU5MR3pmQ1ZEWVdlekFqdjVBQ3p5ZVNHTVlycEtQc3NIS0FBOEx...",
     "source_name": "On3",
-    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc2pLc0JGRVl1SFI1aGdwRnNsbG1qd0RoWDZzSk4zWHk1MjJqZnFjYU1XaE5fb1h1S0pnMUsya1oxNWFqSHJrZWxoU0hnTFBWZ1VJdHJQVmt2UGVtdVhnMW9vOE1ScThWYTJQbW5Dd0VQQWlNWl93SjNqMXN2WnloaFE0RFdRVm1OcnhvX3JPZ0N5ODE4QXhLblNWZTZCZEpycnhBMUdrdm5Vb3VlNTdrNjRTRXBjUjhGZEJPa19nVE5vQUtNWUo0UWRDU1VBVW4yNUE?oc=5",
-    "reported_at": "2026-06-10T19:44:42+00:00",
-    "last_updated": "2026-07-03T02:39:23.384664+00:00"
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQXVOQ241NVRXQ0xSYkY1a1BEQTRlSkpYSTFtZjdLcnQ3Nm42bzh5dER5b1FyUVdnV3VvSXhvd2hSb2lhbmprMnZ4ZGdod1JsNTZ1WTZxdG85M05zZXpPTGU0Skl3TTRZdEVpdG9adlpuSUdORzVfQWJOaEVZa2FDZG9lUU5MR3pmQ1ZEWVdlekFqdjVBQ3p5ZVNHTVlycEtQc3NIS0FBOExnVVRkcXRtRw?oc=5",
+    "reported_at": "2026-07-02T23:16:10+00:00",
+    "last_updated": "2026-07-03T08:04:53.803649+00:00"
   },
   {
-    "injury_id": "injury_7835f6a3a3ba6967",
+    "injury_id": "injury_f5a0220277552663",
     "player_id": null,
     "player_name": "Unknown",
     "team": "South Carolina Gamecocks",
     "injury_status": "unknown",
     "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2JVQklwNVR2ZEUtQkFyOXZPQTVjZW1aR0ZPN3B3RlRqbk10UVpJY0t1TlctbVFhRXFJblkyaXoyY1dWb0NsZVlyV18zMl9OUjBjZDlzbF9aTkxmWFdRRWlFZk9sZUFrdzlGYUpkR283TGUxZFVzeGhxOHFtMEdjSnRoS2h3T3ZCSTlJbmR5TEx4Zk1ENmplbHhxOFFrampNZFQzZzdFdWh...",
-    "source_name": "Sports Illustrated",
-    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2JVQklwNVR2ZEUtQkFyOXZPQTVjZW1aR0ZPN3B3RlRqbk10UVpJY0t1TlctbVFhRXFJblkyaXoyY1dWb0NsZVlyV18zMl9OUjBjZDlzbF9aTkxmWFdRRWlFZk9sZUFrdzlGYUpkR283TGUxZFVzeGhxOHFtMEdjSnRoS2h3T3ZCSTlJbmR5TEx4Zk1ENmplbHhxOFFrampNZFQzZzdFdWhrcHI5OWV4MFNDOG9paTg3X2JB?oc=5",
-    "reported_at": "2025-12-02T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384685+00:00"
-  },
-  {
-    "injury_id": "injury_73d42b5952fb5717",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "South Carolina Gamecocks",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPUDNZaVo1LVFXY2ZYLVhPXzhxdHJoQlBqSzhVWDhlbmVMMU5hNTZuRzlXeVpTR05NeXc0RjdPYXVjRDhOaWM4SFlFZ3ZiamdVeENRRkRiX1c3MU9UUFVpZlM2Z0pBOFdwVmQyakdBYmhVREE3Vnd4UGZqU3ZUMm5IYjlSYlpMa2FxeDd5M1JPczJ6Tzk4ZGpmdlAybw?oc=5\" target=\"_b...",
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVUtVN2pCRmthWkhBVjUxTWNUZDNza3dSQ2dnRTIzRDZaWFl2Sk5ic2x3Mi1kMWpXYVh6OGdOTnAyLS1HNjFkQVZZclBwV2JDZmVHTjZDT0U2MnFNdXB0UHdlOHpoeVphZ1diX3dRamFkNFhhSXFud1BRaHY3cUhrVmFtUF80YVl2ckdHLWtIYW5aQmhTRWc4eTkwM2pPVzhCQUlpQlJvWWV...",
     "source_name": "On3",
-    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUDNZaVo1LVFXY2ZYLVhPXzhxdHJoQlBqSzhVWDhlbmVMMU5hNTZuRzlXeVpTR05NeXc0RjdPYXVjRDhOaWM4SFlFZ3ZiamdVeENRRkRiX1c3MU9UUFVpZlM2Z0pBOFdwVmQyakdBYmhVREE3Vnd4UGZqU3ZUMm5IYjlSYlpMa2FxeDd5M1JPczJ6Tzk4ZGpmdlAybw?oc=5",
-    "reported_at": "2026-02-11T18:45:02+00:00",
-    "last_updated": "2026-07-03T02:39:23.384706+00:00"
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVUtVN2pCRmthWkhBVjUxTWNUZDNza3dSQ2dnRTIzRDZaWFl2Sk5ic2x3Mi1kMWpXYVh6OGdOTnAyLS1HNjFkQVZZclBwV2JDZmVHTjZDT0U2MnFNdXB0UHdlOHpoeVphZ1diX3dRamFkNFhhSXFud1BRaHY3cUhrVmFtUF80YVl2ckdHLWtIYW5aQmhTRWc4eTkwM2pPVzhCQUlpQlJvWWV3Tmoyd05nTFZzamVjNGw1U0Jj?oc=5",
+    "reported_at": "2026-07-02T17:00:57+00:00",
+    "last_updated": "2026-07-03T08:04:53.803671+00:00"
   },
   {
-    "injury_id": "injury_82461ed3efbbb640",
-    "player_id": "espn_4911915",
-    "player_name": "Jacarrius Peak",
-    "team": "NC State Wolfpack",
+    "injury_id": "injury_2d8e85f7897fb4d7",
+    "player_id": null,
+    "player_name": "Unknown",
+    "team": "South Carolina Gamecocks",
     "injury_status": "unknown",
     "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPejRtSGZMcS1OTDZrTHlSYXFTZXMyc0ZRUU1sVzBySi1KU3ZkWEhZQ3pWOHJTTjRLcUJEeXJHXzNPSkRMQ1JJdzFPbVNNbEo3NXBZZU9lWE1VTFlSMVVhWFVxSnBpZlBrNWRkWVRXTU5yVU9nYU5vakNFVmNzT2U1Y2NjR01SeU96dDczZVNMajJsSjhDZXlnZXZTeTVRRlgtVmUxYmN2Z3V...",
-    "source_name": "Sports Illustrated",
-    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPejRtSGZMcS1OTDZrTHlSYXFTZXMyc0ZRUU1sVzBySi1KU3ZkWEhZQ3pWOHJTTjRLcUJEeXJHXzNPSkRMQ1JJdzFPbVNNbEo3NXBZZU9lWE1VTFlSMVVhWFVxSnBpZlBrNWRkWVRXTU5yVU9nYU5vakNFVmNzT2U1Y2NjR01SeU96dDczZVNMajJsSjhDZXlnZXZTeTVRRlgtVmUxYmN2Z3VPT2pUTmt1VWFxSVl6QzlDVlZPcUZMQWhFYUl1QmdYMnJ1cXlYN2E1Q1E?oc=5",
-    "reported_at": "2026-02-23T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384728+00:00"
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGNWRjFFNGo5S2F3QXlEOW5MSE1oWVFXd3ZmTVFxMDVBcEcxNWNnZzYyenRwRVBJTVkzRmpsVEZIaHlGMXJuM1J5WEp4UVE0NmU5bXpkNXFuWHVIM1FEN19VMWFJWHdVcnJJMlNicExRSDBOYUZVTU1KdXJKRkkzX2RqWkQxMlZRaXVfMl9mcUhpOEpUMFhIU2EwSGRXVHBtVm53RnZQQnh...",
+    "source_name": "On3",
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGNWRjFFNGo5S2F3QXlEOW5MSE1oWVFXd3ZmTVFxMDVBcEcxNWNnZzYyenRwRVBJTVkzRmpsVEZIaHlGMXJuM1J5WEp4UVE0NmU5bXpkNXFuWHVIM1FEN19VMWFJWHdVcnJJMlNicExRSDBOYUZVTU1KdXJKRkkzX2RqWkQxMlZRaXVfMl9mcUhpOEpUMFhIU2EwSGRXVHBtVm53RnZQQnh3NUFkRHc?oc=5",
+    "reported_at": "2026-07-02T14:48:52+00:00",
+    "last_updated": "2026-07-03T08:04:53.803694+00:00"
+  },
+  {
+    "injury_id": "injury_7aa4a3630346422b",
+    "player_id": "espn_4875127",
+    "player_name": "LaNorris Sellers",
+    "team": "South Carolina Gamecocks",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNSnRVdHc0RWtqRTVnLTZobVF2VnRkOU0tWk1zaGxTWWF3eDZ5ZUxnS0d2Q2dsd3g0T05iUmNkczZHbHFfSDNhenBvMzJzZ1FUcUdmZGtfOVBrU2JTQ2hKcHlaVzRzYXZ2UUtTNzJVcnZmc0JOXy1tOWNLYXE1OG56YzB6bGdUVkNQZVozcFRSclVSbkswM0xJZ2NNX0U3eXNqMktZ?oc=5\"...",
+    "source_name": "On3",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSnRVdHc0RWtqRTVnLTZobVF2VnRkOU0tWk1zaGxTWWF3eDZ5ZUxnS0d2Q2dsd3g0T05iUmNkczZHbHFfSDNhenBvMzJzZ1FUcUdmZGtfOVBrU2JTQ2hKcHlaVzRzYXZ2UUtTNzJVcnZmc0JOXy1tOWNLYXE1OG56YzB6bGdUVkNQZVozcFRSclVSbkswM0xJZ2NNX0U3eXNqMktZ?oc=5",
+    "reported_at": "2026-07-02T23:05:09+00:00",
+    "last_updated": "2026-07-03T08:04:53.803717+00:00"
   },
   {
     "injury_id": "injury_ef8177899aea9214",
@@ -1674,7 +1713,7 @@
     "source_name": "Underdog Dynasty",
     "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMEVpSm9hWE1waUMzMWtJUHZHdGJHNWN3eDFSUkM1SGpuTlFBSHFRR2VuWkNTQWtOM2k1elFpZnhzUUZGM3U3SVBnbmswVkhXVndCb2NvSllPM2U3OHEzTndoangtT0ZrWU9iaFJ4aG1wRmNwZXdqemZESHpVU2NkVktOVkM5T21BbE85QmowZmlHUGNFM2U4bTFqSXFtSVdnZVdDNHlkMzRpckQyWEE?oc=5",
     "reported_at": "2026-02-05T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384749+00:00"
+    "last_updated": "2026-07-03T08:04:53.803739+00:00"
   },
   {
     "injury_id": "injury_e039ba28637f9c06",
@@ -1687,7 +1726,7 @@
     "source_name": "On3",
     "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSU5sSVVqQjFJcEw5cWNzUzVfVi1Qd0FVSWhwTnlPUEV5UU91VEtydEZQV2NtaWpvVm5ZR21GZFhLcWZ3c0FoRnJvczZHZ2FKRWVHUXJOcFYwVl92ZDZuTE92OVhPRzNTMjdoVHJLY1BnWHdEWm11b1gxWE9Cbk5YX1dxNThsNkktcHU3MVVB?oc=5",
     "reported_at": "2026-05-19T21:53:23+00:00",
-    "last_updated": "2026-07-03T02:39:23.384778+00:00"
+    "last_updated": "2026-07-03T08:04:53.803768+00:00"
   },
   {
     "injury_id": "injury_0b76de487719c3a7",
@@ -1700,7 +1739,7 @@
     "source_name": "ESPN",
     "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PWnZKTnh5TjhIV3ZvZldiU1g5aVJ3Q3FpZFNubzBEV2M0aFhtOTBaUXliY2lfNkhRcUJtVUx6WjNlNVpkVnY5YlVPb3paNmdYNFVyckZtbWZPQXZta1VCOU43cnpnWGs3UTZHaA?oc=5",
     "reported_at": "2025-09-06T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384802+00:00"
+    "last_updated": "2026-07-03T08:04:53.803791+00:00"
   },
   {
     "injury_id": "injury_87f05b4e80f64c1f",
@@ -1713,7 +1752,7 @@
     "source_name": "OutSports",
     "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORUpaYlFlcno4Yk5Bb1p4QzI5UTE1N0R5Q1RUWkhvWkRkbF9iTlFFd3h3X3lvNDZHN283Zy1rRUFueGJpT0UxdHE0bzlnNm9qRW1VRS1GRm5EZ3lHN3ZZLWRRUWRmdF9hQnVFWnBuZUJkQjljaGpLWjlZVTV1MXB4d05PWXBXNWZGZnFSaUJOTVE1QS01a19fQ3diSWljU0dfc3pXTkltVG8?oc=5",
     "reported_at": "2025-09-09T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384827+00:00"
+    "last_updated": "2026-07-03T08:04:53.803813+00:00"
   },
   {
     "injury_id": "injury_8a35149748e39e29",
@@ -1726,7 +1765,7 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDFKV01oLVNBVUJqcmJNeXlObkIwb18zZlJSdWRkVTRFYWthOUpsTWVfX2ZDcHNVV3l2ZXNiYVlBT1NDMHdnaUl1Zy1PbnVfODlNYUdwNE9ZbWI2Wjl1eEVLVTBxY2tCN0RBRks1VFcwdndkbUpxc2tOQk1PSVJucGRtOGJBTlg1YkJMbVhoUEpaR3lWTVZQLU0yTnBnWXJQMVI2Y1pDOVVBV3FlM2g2MnVkUF9YS2dUR29BdmVCNUxJQQ?oc=5",
     "reported_at": "2026-07-02T23:41:15+00:00",
-    "last_updated": "2026-07-03T02:39:23.384850+00:00"
+    "last_updated": "2026-07-03T08:04:53.803836+00:00"
   },
   {
     "injury_id": "injury_7f98539adbc14440",
@@ -1739,20 +1778,7 @@
     "source_name": "College Football News",
     "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSVB5LWVqYWQ5RTZnTDM0QVpHRFNBQXJjWlI2akJRVnNSQXRwMjJlWmo3ZlhXX0pqbUZxN3VaeVFMNlNDdlIxWDdSc3NMTGI4LUFBTEp0SHlJNzdHY1JrMGEycHlLUHJyczMtZ1VGamEtYXJMcGhBYjN1V09POXdyRjJkekQyaGZ2amR6dQ?oc=5",
     "reported_at": "2026-06-26T21:10:19+00:00",
-    "last_updated": "2026-07-03T02:39:23.384871+00:00"
-  },
-  {
-    "injury_id": "injury_e1888b53a06d9cab",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "Southern Miss Golden Eagles",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQeU5UZUpCcFF3MnNXYko1dnh4QWdzTjREQ2tkcG5KYWZzR0w5Z0EtaGdUMXVQeEtuM0MyV1UxVUotWi1BLWtuakx2MXdvUWRjVHhqUUxlZGJxeUhVTVVRVE03NTJFNUJlRWJCdVJpbDI0UnRHbF9hTnBTMEd0TnZXMXhienRvdk1fSjNUWHF6WXFyU0d5QWhFRk13UFY3bjR0YW9EMG56a1A...",
-    "source_name": "On3",
-    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeU5UZUpCcFF3MnNXYko1dnh4QWdzTjREQ2tkcG5KYWZzR0w5Z0EtaGdUMXVQeEtuM0MyV1UxVUotWi1BLWtuakx2MXdvUWRjVHhqUUxlZGJxeUhVTVVRVE03NTJFNUJlRWJCdVJpbDI0UnRHbF9hTnBTMEd0TnZXMXhienRvdk1fSjNUWHF6WXFyU0d5QWhFRk13UFY3bjR0YW9EMG56a1A0ZHRrRVQ4UnhTOFAwb1NHTFY5aHZn?oc=5",
-    "reported_at": "2026-06-25T17:00:13+00:00",
-    "last_updated": "2026-07-03T02:39:23.384894+00:00"
+    "last_updated": "2026-07-03T08:04:53.803875+00:00"
   },
   {
     "injury_id": "injury_ef8628ab26713d79",
@@ -1765,7 +1791,7 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnhjWXdrNjRqSXNLaUd4c0ludlB4dDhjWk5LVk5KQWxEOVoxS1N2SXptcktieTJ6clQzRG9Fa1h2VDlUUGpEdnN6cDRaVXlLRDV3Q2JUZEtqajUzR1E4TWt3WlQzMi1pdF9BTVZQN3hwaEdJVlVCQ3NaRDJNSV9NTGstMktWNFZsWV9jOTAzMl81Zlozc3M0Q0ZVU1dJZkJFYkZLbS1FWmpheTg4WnZCOQ?oc=5",
     "reported_at": "2026-06-29T23:22:07+00:00",
-    "last_updated": "2026-07-03T02:39:23.384915+00:00"
+    "last_updated": "2026-07-03T08:04:53.803902+00:00"
   },
   {
     "injury_id": "injury_80ba72ad09c9c074",
@@ -1778,7 +1804,7 @@
     "source_name": "On3",
     "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYjlrY1N2am1fZkZUeWpWQzNfWE1GM0ZTbklyeXVTNkZrZ25JRnpkUlllVUJCRzNSb1pEc3VKMU9seHVvNnk3a25WY1FzenBHaE5QWF9NV0Q5TWprbVV1VG1CZHUxRkdsUXFHWWdGbU1ZSHdpc2NKLUtMeE03VDBtbVRYRTdNa3JxNUpXNlU4SE1FbVdQZWVYbnZtLUFnNExBeWRTTkdTb0F0ZnZLQ0U5NXJkMVIyeDdSbGsxQUQ0V0kxMmxwUjNj?oc=5",
     "reported_at": "2026-06-19T09:20:54+00:00",
-    "last_updated": "2026-07-03T02:39:23.384936+00:00"
+    "last_updated": "2026-07-03T08:04:53.803925+00:00"
   },
   {
     "injury_id": "injury_71ea767c5a64d0d5",
@@ -1791,7 +1817,7 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ0ZrZWwzZFhvRmtQY1dqN0xsMHRGNl9hTzJsUlI1SjJoYzQyMkdvcEIzbTNSemVaaHd6OFUwMjVucVVTN0dodkNaM2c4MXdGdVd1OS1UYmJHelVCUkREYlF3QVhOTXduNHZEY3ljWnFWdzdZVVZTVDA2eEdkYXhvOGVuVU0wX3B3WjRMVHpEc1VISUpUM1lCTWgyeXE5MjRXa21COWo4Ti0?oc=5",
     "reported_at": "2026-02-03T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384958+00:00"
+    "last_updated": "2026-07-03T08:04:53.803948+00:00"
   },
   {
     "injury_id": "injury_5a45e4add95f6399",
@@ -1804,7 +1830,7 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYVY4T3J2QkpkLV9ueS1UTE1NVm1rZEZ0ajFpMDM4Wi1rQmJKekdmVG1CZldhSk10Y0ljN3E5S0VzZlZ6ZDMwbE1fei00ZmdCV1ExUzhPRXRYM2ZqWGNveEZlNWpBcDFqVHA1RjE2WW5PVnk0MjlHbXpaYmIzSHA3VVFJQTFjLXd2VGxNNHBpMlktRWlKNGVROW9R?oc=5",
     "reported_at": "2026-02-02T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.384979+00:00"
+    "last_updated": "2026-07-03T08:04:53.803970+00:00"
   },
   {
     "injury_id": "injury_1941a3ed398f9ded",
@@ -1817,7 +1843,33 @@
     "source_name": "On3",
     "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMkQ1ZldadW1xRkdzQldZWjJ6ZWpBUmp3UlcwMXNLZUc5M0JyaVp5SUUxMGFOU2VkRGFSYzNJOFlrc0M1aWhuYTFINFBXUW5FMXhnU1RXaXhVTFlWRzNZSi1ySlQ3WkJ1TWlYQU00ZDR1RnhCTVZMc3g3MGV1UjlEYnN5NDR6bnJzS0QxallKZjFkV2xYbEM1Yk0zQTVkR0VEZmZ6NzlmLWQ4aTlwcGc1VjVJVmJTeUR3bTFwT21paWswck1aNUE3SEZn?oc=5",
     "reported_at": "2026-06-19T09:20:53+00:00",
-    "last_updated": "2026-07-03T02:39:23.385000+00:00"
+    "last_updated": "2026-07-03T08:04:53.803992+00:00"
+  },
+  {
+    "injury_id": "injury_155ebf2eb6ec94df",
+    "player_id": null,
+    "player_name": "Unknown",
+    "team": "Southern Miss Golden Eagles",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjIycUhUMkFUa3FTZE0xdDFCZ0NwT2RZeXRxUUttNVFGVDBtYjhfWmVsNGtyVXRTZm45ajRNaU9mT0pCUWVsdFBpN0RrMnRabmhoeDFtREZkNnN5S1BSMW5CZ3k3aVJYc2gyZ1ZwSzBmQ3dKOVpGTmJIdE5EenoyWTVaNGtyaVBzUW8tSV9EQUc5ZXgzbi1CQzRQVGI3WHlMNWV1YjVtZVh...",
+    "source_name": "Sports Illustrated",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjIycUhUMkFUa3FTZE0xdDFCZ0NwT2RZeXRxUUttNVFGVDBtYjhfWmVsNGtyVXRTZm45ajRNaU9mT0pCUWVsdFBpN0RrMnRabmhoeDFtREZkNnN5S1BSMW5CZ3k3aVJYc2gyZ1ZwSzBmQ3dKOVpGTmJIdE5EenoyWTVaNGtyaVBzUW8tSV9EQUc5ZXgzbi1CQzRQVGI3WHlMNWV1YjVtZVhlQUtjWjdRNXEwZmFZdFlqeUEtY1VTdHVzZw?oc=5",
+    "reported_at": "2026-06-20T07:00:00+00:00",
+    "last_updated": "2026-07-03T08:04:53.804014+00:00"
+  },
+  {
+    "injury_id": "injury_f0123e4fd567f420",
+    "player_id": null,
+    "player_name": "Unknown",
+    "team": "Southern Miss Golden Eagles",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdjNpcTh5WEktT2M4TXc0eUNIZ0ZETUpReHdtaWNSN1d5NWdZOXd3RlJLYXROcTFrc1ZncU9sTHBaUGRQRjdNdk1leDB2ZmNGdTBxVFBRbnVEMjVfUGUxTWoyTEY2Y0t6b1RlOVpFNE9GNlRwY09SWHlST1d1U1JWWWg3a1JiUGNuSlZEVV8xNTc4VU8wNnpQa2F6dGp2c2tGTXFfN3JmZUd...",
+    "source_name": "On3",
+    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdjNpcTh5WEktT2M4TXc0eUNIZ0ZETUpReHdtaWNSN1d5NWdZOXd3RlJLYXROcTFrc1ZncU9sTHBaUGRQRjdNdk1leDB2ZmNGdTBxVFBRbnVEMjVfUGUxTWoyTEY2Y0t6b1RlOVpFNE9GNlRwY09SWHlST1d1U1JWWWg3a1JiUGNuSlZEVV8xNTc4VU8wNnpQa2F6dGp2c2tGTXFfN3JmZUdUVlFQSGttVm1McFB3UHdRbnltWDNnYUNTQVNQeTNxQ0xPTGNsQjVPZjAyWkNubmZWdw?oc=5",
+    "reported_at": "2026-06-19T09:20:53+00:00",
+    "last_updated": "2026-07-03T08:04:53.804037+00:00"
   },
   {
     "injury_id": "injury_13c5d41b9ce345cd",
@@ -1830,20 +1882,20 @@
     "source_name": "WSTM",
     "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZUJfN0o5NHRYMG40eGxUOGJXWVhic1pkVVlqbUtCUV9CSHFocUN1SndWeEtRenhvcW9CQ2xHb25SczJEVlVGaEV2NFJqQTVLcF90em1KOExFbFFyUk9uMlpUeGxwSnZneTdkUFkyeXAwTWl4RV95SEp3T0tmTHlqSnVXUWVNWFR1Z0xXN3lkdnIxb19YWHBsZTliRTZha3Q2cDhqRW44eW81RW1pbHdSTXRWYUtZWGc3d2pzbGwzVXFMMVFlbGc?oc=5",
     "reported_at": "2026-04-26T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.385029+00:00"
+    "last_updated": "2026-07-03T08:04:53.804068+00:00"
   },
   {
-    "injury_id": "injury_e53df51d23e9cb26",
-    "player_id": "espn_5079552",
-    "player_name": "Nate Palmer",
+    "injury_id": "injury_1d68aeba1acdd049",
+    "player_id": null,
+    "player_name": "Unknown",
     "team": "TCU Horned Frogs",
     "injury_status": "unknown",
     "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNM29lNDVwV1R3a1VDN3lxTVh3Q29aLUtKUGZvMHZVY0hfU0dXZFhfZGwxeTZveVNTN0lTWUx0RWN2TjZXbjF3Zk9uZ0MwZnJGRVF3amYwbWQ0bEtMWUxsQ1ctU1RKYnZhQ1ctQ0ZuTGZONGR3ZXZCN0lwb092T1I0VkRoSXBsQXJ2VW1Bd3E3cmNPbUhMcS1YTXZQMmJVWFh1?oc=5\" targ...",
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWhCd2xMT0Q5OEJscDVZc3JXSXdzMm1ETVY1MlBNRkttX203YmE1b3MtNWRaeWcySlFWSkI4ZDZsWlVZTjlrYkZvYWhqUFJOTmxQRUt3THhWdnR2b2stdG5lZXp4ZWdvWE9JdDZoWjNIeUVCSFlYTGMwUTU5VWFEZ0V1U3RRSG9zaGo2Sw?oc=5\" target=\"_blank\">National Outle...",
     "source_name": "Sports Illustrated",
-    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM29lNDVwV1R3a1VDN3lxTVh3Q29aLUtKUGZvMHZVY0hfU0dXZFhfZGwxeTZveVNTN0lTWUx0RWN2TjZXbjF3Zk9uZ0MwZnJGRVF3amYwbWQ0bEtMWUxsQ1ctU1RKYnZhQ1ctQ0ZuTGZONGR3ZXZCN0lwb092T1I0VkRoSXBsQXJ2VW1Bd3E3cmNPbUhMcS1YTXZQMmJVWFh1?oc=5",
-    "reported_at": "2026-06-29T22:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.385053+00:00"
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWhCd2xMT0Q5OEJscDVZc3JXSXdzMm1ETVY1MlBNRkttX203YmE1b3MtNWRaeWcySlFWSkI4ZDZsWlVZTjlrYkZvYWhqUFJOTmxQRUt3THhWdnR2b2stdG5lZXp4ZWdvWE9JdDZoWjNIeUVCSFlYTGMwUTU5VWFEZ0V1U3RRSG9zaGo2Sw?oc=5",
+    "reported_at": "2026-06-13T07:00:00+00:00",
+    "last_updated": "2026-07-03T08:04:53.804095+00:00"
   },
   {
     "injury_id": "injury_7d00a459514e6e66",
@@ -1856,7 +1908,7 @@
     "source_name": "NFL.com",
     "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQelM4V1NhQldsbnRpVVNIeXBzRXl2N3h6VUFuUTZBaG0tM0stOUJlcW1GZjVVcm5QYzhXZHpEdWJmV0t5VlRYOEJHLXM2QkJjdTJZWXhzZXZlY3NNdE1ob1JRaU16U0djdEFBdklJQVlWWkt3R1VsZm0tM2lqNUtFYjlJN01PUm5zVXJKZDJyYkVucFlsa2V4VkltaV94Z09GUkd1TVQtcU84a1ZScGYwZmpVX3BwRDN3VFVQd3VuLTNBZHA5cFE?oc=5",
     "reported_at": "2026-02-21T23:58:32+00:00",
-    "last_updated": "2026-07-03T02:39:23.385079+00:00"
+    "last_updated": "2026-07-03T08:04:53.804119+00:00"
   },
   {
     "injury_id": "injury_fabb3bb0b6adac85",
@@ -1869,7 +1921,7 @@
     "source_name": "NFL.com",
     "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTTNjdm43b3Fud0h4ajZPZmtfVWVROUYwWnk4c1FCNV91djRMelEyVjEwUllaSk8wdWNIT2RSWk5hT1hUVEU5cmtEMjl3SVVaNE80U01WZlF4TkR3UDZURWZySzRlQ2N3REEtV0tLdE8xWTFJbXQ0RG5UMzhhY0RGaFpYOGttaktqZThtaVNxMklBdlBmZkdvVVZiVHN4YXhjcFFz?oc=5",
     "reported_at": "2026-02-23T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.385102+00:00"
+    "last_updated": "2026-07-03T08:04:53.804142+00:00"
   },
   {
     "injury_id": "injury_7d00a459514e6e66",
@@ -1882,7 +1934,7 @@
     "source_name": "NFL.com",
     "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQelM4V1NhQldsbnRpVVNIeXBzRXl2N3h6VUFuUTZBaG0tM0stOUJlcW1GZjVVcm5QYzhXZHpEdWJmV0t5VlRYOEJHLXM2QkJjdTJZWXhzZXZlY3NNdE1ob1JRaU16U0djdEFBdklJQVlWWkt3R1VsZm0tM2lqNUtFYjlJN01PUm5zVXJKZDJyYkVucFlsa2V4VkltaV94Z09GUkd1TVQtcU84a1ZScGYwZmpVX3BwRDN3VFVQd3VuLTNBZHA5cFE?oc=5",
     "reported_at": "2026-02-21T23:58:32+00:00",
-    "last_updated": "2026-07-03T02:39:23.385124+00:00"
+    "last_updated": "2026-07-03T08:04:53.804165+00:00"
   },
   {
     "injury_id": "injury_5474e218ba3e2824",
@@ -1895,7 +1947,7 @@
     "source_name": "Chattanooga Times Free Press",
     "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNzhMS1BpNy13bFpqZE1oQWNJcFJ1aXJ5SjQ4ckcxS0N1a3pMN1UwSVhRQlA1QTF0QVVOcmswd0dfSmc5NG83aHFMcHdDMUxQeU5WV0hZTDBJUFFjcXJhbnA3N05aYU50Sk85dzN3T1lDaFExaHVnRk54cEN0QW9PU3FIMXhCRkRCSG1IOVpMQ1Y2eDl5ZXNYNXJR?oc=5",
     "reported_at": "2026-06-15T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.385153+00:00"
+    "last_updated": "2026-07-03T08:04:53.804196+00:00"
   },
   {
     "injury_id": "injury_3dbf529b9bac4882",
@@ -1908,7 +1960,7 @@
     "source_name": "On3",
     "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObHB1MGM3OC1tSW5GWVNLTXpFMnBRTGVnbHlKaVFsZnR6VlBOV0VLc2FMMGtXU0d6cTFNZG9fT2t6REtpdWpncGVZQmtSMldocWhNSktuTk5QSHpiVTUxT0kyTHYtZzUzY2FmY0NCR0xwRDY3eDJraGhSRGtDTURRQjVWNXItSEl0OEh0UHpaUmlLWFVKS2hiNTBUYmZuQlYzTWJqajlBSWl6ODNDY2t4SFlxLUpZaGs?oc=5",
     "reported_at": "2026-07-01T12:46:01+00:00",
-    "last_updated": "2026-07-03T02:39:23.385175+00:00"
+    "last_updated": "2026-07-03T08:04:53.804219+00:00"
   },
   {
     "injury_id": "injury_8e92536c3a3608d3",
@@ -1921,7 +1973,7 @@
     "source_name": "A to Z Sports",
     "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUmVzd05kcjJnaHZUZzhOb3JnUWJ0SHpZNW5qanlRd21HajZNR09lNXZOTVlLVVpQN3Y0N1JoXzNLUEsxLVFRRl9pVzJVa1NaalkwMEFMZHJtYy0xQzVlZGFmVVBMLWVaMlZ2dnpod0d5TVc5cTBHdE5GN0VOeWFUaHEtMlk0V0JHSXdtb3Y5d05BTThxSS1lZTl0X3VETHM5cFdGa3lqMll3Y1JQZGRVd2FPWWg?oc=5",
     "reported_at": "2026-06-23T19:57:29+00:00",
-    "last_updated": "2026-07-03T02:39:23.385197+00:00"
+    "last_updated": "2026-07-03T08:04:53.804241+00:00"
   },
   {
     "injury_id": "injury_e9ad49c295ee0518",
@@ -1934,7 +1986,7 @@
     "source_name": "Austin American-Statesman",
     "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYzVpRWhnSXJteGxQSC1RdlBZdjkwckVSbWVVcC1UN1VmVFZGNkVxNTZHMmd1d3pNdzVaNGpYZlJwSXU2WFJBbWRyRk8wUjZkaFhvSjZBX25BTnFFcTdKaTRKVW5jS1VIdUotR1ktbEdPWl9ncnp0WjRaemp6S3ZyZDk3VU1xejZaYW5majh5WThCRTB4bmUtUWdIZVhTT1F1V3Q5aEY3OEdmSTRPVkYyTk1R?oc=5",
     "reported_at": "2026-04-15T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.385226+00:00"
+    "last_updated": "2026-07-03T08:04:53.804272+00:00"
   },
   {
     "injury_id": "injury_1cd1202f2d002bbc",
@@ -1947,7 +1999,7 @@
     "source_name": "sanmarcosrecord.com",
     "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPenR2WlhRNVM0WjFzSVdPb2VXZGM0aDlLYjRmd1NmY0pmbmpmSWhDLUdxdlFlSlMyZTNYa0hpeXFIZkh6dzJXejBwRGJtV19Pd3BVaGVvb2pNQnRpejllTnBBb1p0V3pIMGRSeW9LRjRIUTlxbS1obG9EWVdZUEpLbjloRFkyV05oZUptZmxCdW9HQQ?oc=5",
     "reported_at": "2026-06-09T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.385265+00:00"
+    "last_updated": "2026-07-03T08:04:53.804295+00:00"
   },
   {
     "injury_id": "injury_451c3c1d60dbf6ee",
@@ -1960,7 +2012,7 @@
     "source_name": "University of Toledo Athletics",
     "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVGVFWkFfVGEyTktQNVJoUThaMlYtNV9vVjBjblZYQWwzRVlELU9mYlBHdmczel9GX0hzZlJUczhoYjJXU3VCZEswc0ItaDU5emhSNmlYTDRwNHhkSTRkNVY1ZUNjNFhOVEMzeUpxZmx6dWxHRmJkVjY2NVZNRjVMZDlJYUFzNmppN28xQS1GRzg3NjhWbkxVNm1KWXdKTlBsWjlQRHdIaXBBVkllUlNsLVlVRndLQQ?oc=5",
     "reported_at": "2026-03-11T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.385300+00:00"
+    "last_updated": "2026-07-03T08:04:53.804328+00:00"
   },
   {
     "injury_id": "injury_856fb7655470fbb6",
@@ -1973,7 +2025,7 @@
     "source_name": "On3",
     "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOUtjekRNbHgtQ2JVWFNjU1FEeW5WT21TX05ubDlybVB1c2h1NmljSWZ6bHhvblU5V1pPSmtjQzZYUkVxd0lUUTRrckxNOEkyY3VVVWlmUTN3RzZYNF9Dcm5VTGZJUHAydXJsdHNiUUtOT3U1cFRNVDRzakJtTVludjl5b0tjQms3QThYVXNVVXNZZU13RkFYRGktNzBrVm13MW1XMW42UVR6YVhjSmJlcGloM0k2RnZJSHZOTA?oc=5",
     "reported_at": "2026-06-29T16:13:33+00:00",
-    "last_updated": "2026-07-03T02:39:23.385327+00:00"
+    "last_updated": "2026-07-03T08:04:53.804354+00:00"
   },
   {
     "injury_id": "injury_4db9a631cd30efee",
@@ -1986,7 +2038,7 @@
     "source_name": "roundtable.io",
     "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdFRwNFRFcWgtNlNBWWVNV1FtVWtFTTZHNHN5anhGLWZnejA3SjNTbWgwTnlmeWtES0VyTnNOQzNwdGxZeG1IY29QZmpwQWZWQWtiU28yQlpwQkFUeWZpLXBYZEYybEdPY1V2TEM2QTRLSmF0ZDgya3RLekJoREU4YjlBRmc2bXVUcm1Cc1RzX2ZkaVJ2TGFJTk1wN2lzOGVUVnpERG9qTXNJd1FuSFlPbjI1SkdlYkp6dVM3M1RXMA?oc=5",
     "reported_at": "2026-06-24T19:06:32+00:00",
-    "last_updated": "2026-07-03T02:39:23.385350+00:00"
+    "last_updated": "2026-07-03T08:04:53.804377+00:00"
   },
   {
     "injury_id": "injury_81a0ddb3a3e22d41",
@@ -1999,7 +2051,7 @@
     "source_name": "Yahoo Sports",
     "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVkpMXzVMd1V4aXM1WHhtSS1BS3pZV21wMmpkZy11V3V4V3FORDh3UGNOYm9LRUg4S1NoS1hmcktnRlVsVTVHSGV6SjNxYWF6Z3I5VVYwM1JtenZqbGRNRDNCTC1leGNUa3Radmh1aHdhNGw0OTFYQVV5VW1DMEZ2VUpOUWxBOEdzd2JOWFRabw?oc=5",
     "reported_at": "2026-07-01T00:12:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.385394+00:00"
+    "last_updated": "2026-07-03T08:04:53.804428+00:00"
   },
   {
     "injury_id": "injury_d004db577d28c6b4",
@@ -2012,7 +2064,7 @@
     "source_name": "On3",
     "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1RQNFpsaXV6UEc0MjVGS1lWRlFCV3UxTTZBbTJCYUJnNVNIcDZwVEhkUnlrODhzX0xxbG5zOFM1Vk84Wm9Kd1pCdXRiT090SUczWGZXUEhwdEUtMU5PQUJWMDhuRWZvb0lHTTZZckJzYUVCODRhdndrSEpGVXVrMkhzZ3psWDNLR09HeFBIaDZiSnFLUUoyRERJVXRMLXZ4NnByUE0xbw?oc=5",
     "reported_at": "2026-07-01T16:41:42+00:00",
-    "last_updated": "2026-07-03T02:39:23.385419+00:00"
+    "last_updated": "2026-07-03T08:04:53.804451+00:00"
   },
   {
     "injury_id": "injury_80f42ca3bc04f512",
@@ -2025,7 +2077,7 @@
     "source_name": "Yahoo Sports",
     "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUzFja2hCOWhUa1gtRFpOSm1Zb1hnMG5QYzNObVJIZ015azZMQXl3SjEzRTE5eFlSZHJTTDBEQmIzazNqaTBtbl9DZEpJV1NCcTd1OGoxU0ZheFgtaVdhZVQwTWUyeEVuUTVEdlhFc3NmaF9RYlMzZlhDaFRqbVRRUnhHc3Vpb1Y5SHZr?oc=5",
     "reported_at": "2025-12-10T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.385446+00:00"
+    "last_updated": "2026-07-03T08:04:53.804475+00:00"
   },
   {
     "injury_id": "injury_a3ee41bf205ecbce",
@@ -2038,7 +2090,7 @@
     "source_name": "On3",
     "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ2Q4bzlLeWVETGQzQV9RWmRVbkQxSDUxNC1DdW9ETXU5ZDRYR2lUV0tJSmc4UGlpS21ScVR0Qjh3Z2R5LUp4eVRqWGxXWEFXcFlpV3pPWFJmMDRaWjd1cGFXNDB1T1QtRTZWRTJadU1NYjRZTkNrTXVMbnFzcDA5RHFCMUdTcXdHeHdOQ2ZUZHpFZFJqN1dsaG1XZTZjTFJQUDUwOVNzLU1NTVV6cjhKUV9R?oc=5",
     "reported_at": "2026-06-29T02:31:40+00:00",
-    "last_updated": "2026-07-03T02:39:23.385470+00:00"
+    "last_updated": "2026-07-03T08:04:53.804500+00:00"
   },
   {
     "injury_id": "injury_564944813294edbb",
@@ -2051,7 +2103,7 @@
     "source_name": "Utah State University Athletics",
     "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOF9najZONkI3dTF0UUdOZmRDdXpjYUphRWRQSDA4SHVpbW1Jdk9UVnVsNkNfRUw2UDFmMzJObzh3TFVhOUtWOVhTOVAwNzBNVDJOQ2lob04zRzdodjExM0ZIcV9IS2JEdGhkU0tkUGxsQTJ6YU9HblNkb0lMeGZFZkZGRUprWHhiRU1qVUk1WWtVZ2JOeFhHQWV4LXBVaTlZVDlOQzlR?oc=5",
     "reported_at": "2026-05-27T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.385498+00:00"
+    "last_updated": "2026-07-03T08:04:53.804528+00:00"
   },
   {
     "injury_id": "injury_cc02055c648693e1",
@@ -2064,7 +2116,7 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONUo2WG5GSTRXd3l1c0wteUhGbVJFSWEyTGwwTjdjUVJTdW9LN3QwMnZVeVBCWDh4cERqdUZFMGs3RnE3Yk9VbmNFRnY5WDJZWkdkY04yN3A1M3BtQ2dmTmMwa19BTFVCSDd1eFhOaWhFSjFuRlpkOHZiTVkwWHZSWU00ZVVkakdyallzTHVHMk0yT3VwWDBTaWNYMXJ6SzVwTmIwYW5lTkNLbmJ0d3Zz?oc=5",
     "reported_at": "2026-03-04T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.385523+00:00"
+    "last_updated": "2026-07-03T08:04:53.804552+00:00"
   },
   {
     "injury_id": "injury_942a00aacf5baa34",
@@ -2077,20 +2129,33 @@
     "source_name": "facebook.com",
     "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSFYtWlVnam1FekZrMEhRM0cwTWdheFdLQVhaYkt2cUxGN1o1WkF5ZDdMblpGbTg5OUNsMkg1UTU5NUVkOWVzSzlqb3p0R2t4bE9pRmNkb2QxeHh3N2FGOXo4emx3UjdJS1k5YU40RjBWZ19UMFM3QkQzNDV6R3kybU1Qb0VHVWRmd21qZXh6bWVWOUlqaWR2cVJFT0wzR0hYTl9VMTdOTkI4dFFRX25NV3ZWaW5SbDJiaDJJVzJ3Y3l6SGUxa1VlaFlkempkc0hKajloQUxkY3ZYV3JNT2lZ?oc=5",
     "reported_at": "2026-06-15T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.385546+00:00"
+    "last_updated": "2026-07-03T08:04:53.804575+00:00"
   },
   {
-    "injury_id": "injury_ad6ed446ca2e236b",
+    "injury_id": "injury_9e043e5dea745fcb",
     "player_id": null,
     "player_name": "Unknown",
     "team": "Vanderbilt Commodores",
     "injury_status": "unknown",
     "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQNlN6NHJzd29CNWNJSWVXU1NEaW9qei1mYzE2a0FnNjhMcXFoN3BialdOUTQwSGUwT1V3cjhPYmNQa0IzLUVHOEthY2lubzl1aXlIUGIwZVZmVHphN0V0ZGxIdGczQVJRM2F4bkU5MXNkdVNwYUgwSTBrVTcxZ0pYdnlfWHJCU2JBYUxqM1l3eVpZMXZiZTM3RXRnVQ?oc=5\" target=\"_b...",
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPc1gzMkt1N19KSDFFdXlpZVJpaUVKV2VtNlFaZ3BzdXRvSlhhUFk0M0tYLTJCZjJPSkVPQkJQU2V2UXNraHR2cjVWUWRUV1FIMjRQMl9xUWhxbjZZd0JyLW90bVZWb1dRYmJvS2lNZFhGVEtNMEE3eHFBd3pndk12QXpoaURkTDdRRlV0VEs0R3BoRVZOWXJGZ2trbkhWOVhFcTVLQTJQY3h...",
     "source_name": "Sports Illustrated",
-    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNlN6NHJzd29CNWNJSWVXU1NEaW9qei1mYzE2a0FnNjhMcXFoN3BialdOUTQwSGUwT1V3cjhPYmNQa0IzLUVHOEthY2lubzl1aXlIUGIwZVZmVHphN0V0ZGxIdGczQVJRM2F4bkU5MXNkdVNwYUgwSTBrVTcxZ0pYdnlfWHJCU2JBYUxqM1l3eVpZMXZiZTM3RXRnVQ?oc=5",
-    "reported_at": "2026-07-02T13:59:18+00:00",
-    "last_updated": "2026-07-03T02:39:23.385570+00:00"
+    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc1gzMkt1N19KSDFFdXlpZVJpaUVKV2VtNlFaZ3BzdXRvSlhhUFk0M0tYLTJCZjJPSkVPQkJQU2V2UXNraHR2cjVWUWRUV1FIMjRQMl9xUWhxbjZZd0JyLW90bVZWb1dRYmJvS2lNZFhGVEtNMEE3eHFBd3pndk12QXpoaURkTDdRRlV0VEs0R3BoRVZOWXJGZ2trbkhWOVhFcTVLQTJQY3hUZEFDYTF4ZXRyLWpzZnZETS1uUTVXd3JtV0JjdnhDTlhIcmY?oc=5",
+    "reported_at": "2026-04-02T07:00:00+00:00",
+    "last_updated": "2026-07-03T08:04:53.804598+00:00"
+  },
+  {
+    "injury_id": "injury_bd48902a565fb7c5",
+    "player_id": "espn_5158948",
+    "player_name": "Jared Curtis",
+    "team": "Vanderbilt Commodores",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcVBWZnBjQ2VsenVxS2JGWUcyR0VPUlJFdnM2RGlMd0RGek9lSlpoNHZWbTc4czRucHFVajA3cFhHTkdFY0ZJaDJTcjc2VDRHWUhEZWNSOVA4THNxeUFYRENaYl9memNoTzZfWWZwRy1uSTdGMm9MXzNUYS1SbjlOM1NKY1RPcmhDMzkwNGdtOXpWSW9VQWxvZWVyMkRPNmJ4ZmNiM1dabnF...",
+    "source_name": "Sports Illustrated",
+    "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcVBWZnBjQ2VsenVxS2JGWUcyR0VPUlJFdnM2RGlMd0RGek9lSlpoNHZWbTc4czRucHFVajA3cFhHTkdFY0ZJaDJTcjc2VDRHWUhEZWNSOVA4THNxeUFYRENaYl9memNoTzZfWWZwRy1uSTdGMm9MXzNUYS1SbjlOM1NKY1RPcmhDMzkwNGdtOXpWSW9VQWxvZWVyMkRPNmJ4ZmNiM1dabnFra2V5ODZRQkxJVnV0UlNlLWI2VnA3UkFveTVHOUpNZFFYWm9KQjlnS3dNMlMwdjlKV0xkd1FkZjVtdnowNEEwZFZaWXY2OA?oc=5",
+    "reported_at": "2026-03-28T07:00:00+00:00",
+    "last_updated": "2026-07-03T08:04:53.804622+00:00"
   },
   {
     "injury_id": "injury_8b32ef5a6524cde4",
@@ -2103,7 +2168,7 @@
     "source_name": "Washington State Standard",
     "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcmdjMDlKRFdlTVJzQkdUVnFmU3pic1IwbDVOOEVBbUVoSG1sci1ELUU5cTF6aGhlRWwteFBwbGhSTmhJWVJPU3BQMmxpcG41dkp4YzlrbGZYM0xabUJQaG5zcTBBQ2RNa1lwcEJsWEZ4Z0dsN0ZfWnpKWllMVTVxZE5JY0dEdlRETFJmc2JVYlNRb0o3MThQZV9CWVU4UXRYQmlPemhObHlUTHNqWUVjNkFVdWtTakFOWVFv?oc=5",
     "reported_at": "2025-12-13T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.385613+00:00"
+    "last_updated": "2026-07-03T08:04:53.804660+00:00"
   },
   {
     "injury_id": "injury_3a6c329705a82101",
@@ -2116,7 +2181,7 @@
     "source_name": "On3",
     "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUHpPZng5RC1BZ1REdllhNWd6ZmdUZmgtWG95RXZ0dmJmYTJRbkl0NnktVlZlTzBCRk41RTdhMllsNnY3Tm9SYlBmZkNacmRhWHEtVEc0TkZtLXJJQkI4THJJXzg4YW1hWDJiQ3JHR1JpQ1NCbmNqcktsTk1Bb29CcW5vbXd1WTJSYlpIN21KbkFzTVliVmcyV2ZZM3dzZkR4MjdpNVRzdkVMaW9aRGcwMTBzOGdZR2xJMzNHVXNB?oc=5",
     "reported_at": "2026-06-30T10:08:55+00:00",
-    "last_updated": "2026-07-03T02:39:23.385639+00:00"
+    "last_updated": "2026-07-03T08:04:53.804686+00:00"
   },
   {
     "injury_id": "injury_62f58cacda5033b5",
@@ -2129,7 +2194,7 @@
     "source_name": "USA Today",
     "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZW5Gd3JzdzI3dTZUNUpPeDBfdGQ1WEhqWkxVajcxbk9MUi10Rk5PQTB3NlJPRWFhcGdUN3EwbGVvRkFsZ3BIU19pUFV2dWItbThvTDF2aHF1VmdMUVByTHpvZS1xMElDS3FnenVVc3R4YjMyY2N5RnZDY3FfLUpzbi1TTE5rTDU0N3hVdlMtSC1obXBzV2lUZXV3T0lwY1d5RElnZ2VUcEx4VGRBV2EyZV9aMlRpRmlaS0pHNzc0dktRVkpIVWRjbUJqVnk1WHJ5QldWM0VFWXlCN1h6?oc=5",
     "reported_at": "2025-12-23T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.385664+00:00"
+    "last_updated": "2026-07-03T08:04:53.804711+00:00"
   },
   {
     "injury_id": "injury_2a74e5a48defa1dc",
@@ -2142,7 +2207,7 @@
     "source_name": "Underdog Dynasty",
     "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjJHWnBMWDE1VzdFam5TcFRHeVk1SWtOdUYwWWhjc1BlNVpOSVhXMnltSDE2eUluSERRVHJqeVpDTHdwVURFZmJNV2xkdUw4UldjSGRCWVdwSDhwbFJQS1dIeDcxRlhFQW42ZUdLUVNoVHpacDdzRjlGUng3OGFOV254bkllenVsbXN6bHQ0bTl0SHdaWjlTSVhrTndJZHQzOVgxTWhXaFdaS0ZLX2h3bmo1MC1qMFJRM0w3NmVaMA?oc=5",
     "reported_at": "2025-12-23T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.385686+00:00"
+    "last_updated": "2026-07-03T08:04:53.804734+00:00"
   },
   {
     "injury_id": "injury_daeb25a6a01a210a",
@@ -2155,7 +2220,7 @@
     "source_name": "Oddschecker",
     "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNa0xWQ3YwWk5uTHJwWnMxdERLZEhJTXFRaUJwSkpFRkR0a01oMElVdWZGYnR1UldHUGp1THN2dXN3STZvNkNYb0JPTDFMZ1pJSW9HVnB1SWJOeW9QNzdmVS1EN2xNSzYydWVaS3RNc3hXdVQzaVZYUk1ZZ0x1TlcxTnBwTzR6T2hRUzFydXJtekNocmNPd0ZDN0sxVUlURlU2MWVEaTNjeXN0VDNYb1JyNDNmOWxQd05OTF9tT0hrSUxQcHlwVVZMODg2TmhLR1cxUEk5ZXZpeFRJb0VRR1VBRF8tdUJVZlR4Sm8tOHlPTDEzeVY4YmVrWmFWZVhDMFlaN2xMUm9taUowQQ?oc=5",
     "reported_at": "2025-12-23T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.385710+00:00"
+    "last_updated": "2026-07-03T08:04:53.804758+00:00"
   },
   {
     "injury_id": "injury_fd8da58d7c897e40",
@@ -2168,7 +2233,7 @@
     "source_name": "Springfield News-Leader",
     "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOTlZVFJYQk1MdlFCVHB1bUI3Y29WcjJvMkg5bGlfbXNYSVEtV0tKQVI2ME00TlJoQnA0Y1pKTm1vQWVPUHFtUm5tRy0yQ0Y5WGFlb0kyU1ZnTUpJcE1KcUx6NmFfOVNaWFJwRTNXV21xODZ6TjhtODBpMXN1SFVVSEpGd3hvZE55SFZNc20ybUdXOTBRMU1lMUR2Y3Q2U1c2UGR3cGtZWVBaSFBnUWZMdE01bG02dGhWVHE1MDg5ekJDSUQ1MVA2alp5Ym5wSnU4V0piejNn?oc=5",
     "reported_at": "2025-09-27T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.385732+00:00"
+    "last_updated": "2026-07-03T08:04:53.804779+00:00"
   },
   {
     "injury_id": "injury_38d950f6c469d9ee",
@@ -2181,7 +2246,7 @@
     "source_name": "CBS News",
     "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTIxbjdKSDdUUUg2MnN3RDVIZkkwdk1VcnZ6UEw0NzJQT0pzYkhma3BBNzNFRkdKVTNoUGRaQTJDWDQwVVZGVjFMY0ZmaUdYUU84dkJLLWZDeE9mZ3lnYkFyUVRwM0poOU9IaWVyTnVhYVZvblZmZ1dNNzVuUDRnaTVnbXNDSjhCclRJWWlJUDI4UlXSAZgBQVVfeXFMTWQ2bjR5VXduVnR3RWVmTkY4VmRscmNoTmZhUkUwM2pINllHM0VraUR0bGJnb1l6dFFSY1NUbHRxOEFPbXdFdVA3cG9Qcm9fSlFTWjFMZEx5Z3pzUkFzaUwzQi0tUTJibEJWRlJMQ25jM3V5RHJFQ3p3SVJSV3FYUXUtdWdtLVM4cGtfbWhXLWZTYTB5bUFSV2k?oc=5",
     "reported_at": "2025-11-11T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.385754+00:00"
+    "last_updated": "2026-07-03T08:04:53.804802+00:00"
   },
   {
     "injury_id": "injury_8ee584097f666860",
@@ -2194,7 +2259,7 @@
     "source_name": "MLive.com",
     "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjR5WXhQNDhGZzdqYXc2Mk5BQmN1eFdYRS1MUGNkR3hnLTM2TnJNR1JDcnJfNkdlVkgyQ2FhQXBmTVJycnpuNWZpZ0pfaUpHYldTaWhOMDJhSE5HUWk2QlVhbUR4UGcxTGtwdTRRVV9nSGhZckV4NUoyS1VsLUI4UkFYMkhPWFZTaGpqUjVMU3Z5TEN2TE9DcWl4ZHVyMExwckJhOTRwMEdTVEJEVWxUWi1pTENnTlVXN0E?oc=5",
     "reported_at": "2025-11-06T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.385777+00:00"
+    "last_updated": "2026-07-03T08:04:53.804827+00:00"
   },
   {
     "injury_id": "injury_00d771bd97ee4f7b",
@@ -2207,7 +2272,7 @@
     "source_name": "WWMT",
     "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSS1DWkFEOVdQR1ZuckNTbzNHVG9vM3lQaW5EYThfRXlMQjhReVNmQ1JrclczZHBXUGJZTTRWSlRrT3hsV3p3eWkzQV9PQlduSVViZGM3R2E5UlBCRXA5QlI0ZjJNbDhtaUlhRmswblZlMjEwcjJlVXNxOWhwTXJrU09Yby1XT1hjOTlLcGQ3T0xhVTFIUS1oYjUxY3pzX09lWGpkWGJkMm9PS1VxTzhUU0ZOanFvN3EwdHMwVU5naVRqOWV6eUF1T29B?oc=5",
     "reported_at": "2025-11-06T08:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.385799+00:00"
+    "last_updated": "2026-07-03T08:04:53.804866+00:00"
   },
   {
     "injury_id": "injury_8750f34a069fab0c",
@@ -2220,7 +2285,7 @@
     "source_name": "Badgers Wire",
     "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd1g2VjBubF90VmR3dmcycHkyWnVYQkIxRWs4TURNNFFLSUJESmdRYUM1bVZWblhZTXczTGtiZ1k5ZFVIRFdTNkpIb1VZczRiYlVXU0paMVdadjZGNlRWTHR3dEpQS0hINWU2NUtITU9MX2RoUGFjUmh0N0x5ZzdCQWxuTk1ITmdTTVRVSjVsUEYzYmF6azZoTnktbi1vVUZ6c0NmeU1HWVAwc1hSeWRvaWQtX2tVV0pmN2dR?oc=5",
     "reported_at": "2026-06-24T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.385822+00:00"
+    "last_updated": "2026-07-03T08:04:53.804895+00:00"
   },
   {
     "injury_id": "injury_da967ab99d01a093",
@@ -2233,6 +2298,6 @@
     "source_name": "Badgers Wire",
     "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObjdfMEdmMHp2QjV3VlBETWdaaVRXdlJScW44dVluZ3pHWFhBa3RpemZYUW80OVlBT0NtRXpjb1JvLVI4Qm5FYVB5bEdMemFwek9fVFJVeFZXM0JrVDNGeU5CS2ozMm8yTHpVbFNrTkFrc3dIY2lSNWZrNW5xOVBXQ2RFMnVreE42bE1QU3Zpd2RTRTIzaTNIWmdZN2tfLVhfVC1tcktrdV9zNXh2Uk1ndzdGMmFsMU5Ubk9GS0ZKYWwxY09KaUpUX3hEWGlFZThyNTNQeTlrUEE?oc=5",
     "reported_at": "2026-06-12T07:00:00+00:00",
-    "last_updated": "2026-07-03T02:39:23.385846+00:00"
+    "last_updated": "2026-07-03T08:04:53.804919+00:00"
   }
 ]
