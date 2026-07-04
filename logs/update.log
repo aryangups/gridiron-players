@@ -16383,3 +16383,4 @@
 {"timestamp": "2026-07-04T02:31:23.694582+00:00", "level": "INFO", "logger": "cfb_intel.utils.http", "message": "source has no record", "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/36/roster", "status": 404}
 {"timestamp": "2026-07-04T02:31:23.694766+00:00", "level": "WARNING", "logger": "cfb_intel.sources.espn", "message": "ESPN roster skipped", "team_id": "36", "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/36/roster"}
 {"timestamp": "2026-07-04T02:36:49.792658+00:00", "level": "INFO", "logger": "cfb_intel.pipeline.update_all", "message": "update complete", "players": 13454, "teams": 145, "stats_rows": 18062, "news_items": 1440, "injury_items": 181}
+{"timestamp": "2026-07-04T07:47:56.232843+00:00", "level": "INFO", "logger": "cfb_intel.pipeline.update_all", "message": "update complete", "players": 13554, "teams": 146, "stats_rows": 18062, "news_items": 1450, "injury_items": 175}
