@@ -1,16 +1,16 @@
 [
   {
-    "injury_id": "injury_e1cdd5670a95aab9",
+    "injury_id": "injury_e6ab633556a5f338",
     "player_id": null,
     "player_name": "Unknown",
     "team": "Georgia",
     "injury_status": "unknown",
     "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa3FWRlN4S3c3M3ZuenlJamFHakxPemFhT0NRS1VMVWhPa3JpbTJmamx0eEt4QkFkYjhiTklLRkJfbDNSdmZ2ZlN3anpnZVN0STFJVExYeHRmdDEtRU92MHlGaEotaFgxU2RqSnpZeE5BX0lONzgxY2pfWU9EWlN2QUtySWN0OUZzT3EtaW9JRmxnelpONjA1MkRNNFpteEVFOE11cHktZGh...",
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeHRtVXp2MzBMdzBoQkQtUDY2V3VRZWc4SGg3VnJuOFVQWHFSTFNHMmo5WjhuYktyM2M4V0hQUl9rYTFFUmN3NWdIb29iSVdKaU9wQlF1OENBWW5XNUlOb05zZkstWDJycHlfUndOV0hOWmtkUXlwdDd0MWhHV2kxQlNuV0pDVkJoMjZQYzBRZ0FnOENRYjN2M2o5bEs0SXM5TnphcnVvTVF...",
     "source_name": "DawgNation",
-    "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa3FWRlN4S3c3M3ZuenlJamFHakxPemFhT0NRS1VMVWhPa3JpbTJmamx0eEt4QkFkYjhiTklLRkJfbDNSdmZ2ZlN3anpnZVN0STFJVExYeHRmdDEtRU92MHlGaEotaFgxU2RqSnpZeE5BX0lONzgxY2pfWU9EWlN2QUtySWN0OUZzT3EtaW9JRmxnelpONjA1MkRNNFpteEVFOE11cHktZGhnSnVKNnM4X0JsZUNtZXpmUGk1eVE1QlJWd0pPUUlXeFZLRHl4Y2FzNW0zdG9IeDVzRUstTTdj?oc=5",
-    "reported_at": "2026-08-05T15:49:44+00:00",
-    "last_updated": "2026-08-07T06:08:57.730428+00:00"
+    "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeHRtVXp2MzBMdzBoQkQtUDY2V3VRZWc4SGg3VnJuOFVQWHFSTFNHMmo5WjhuYktyM2M4V0hQUl9rYTFFUmN3NWdIb29iSVdKaU9wQlF1OENBWW5XNUlOb05zZkstWDJycHlfUndOV0hOWmtkUXlwdDd0MWhHV2kxQlNuV0pDVkJoMjZQYzBRZ0FnOENRYjN2M2o5bEs0SXM5TnphcnVvTVFGbVkxLTRLVHdsWmV0ZVFGQzU3NjZ4WXBOVmVqVDBsVkY4VHBGSExZdG1KeWQzOElYa1JjcC1RbkszQW1GdDdLU2RwWm9NeUFVVjZ2UVg4cVln?oc=5",
+    "reported_at": "2026-08-06T10:00:01+00:00",
+    "last_updated": "2026-08-07T10:50:11.931882+00:00"
   },
   {
     "injury_id": "injury_ef02d9d2154e8eb8",
@@ -23,7 +23,20 @@
     "source_name": "247Sports",
     "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY1kxQVlmT1JRLWd6ZzBoNHhQUTlxUXRHRDlIX280OXRGSjNyRnE3WVk1bDIwa25qTmhvTmpOdXBFWjhRRkV0dHRDTjZBLWtxd0wwN0xNS0hqN2Y4QkRON3pwM1ZIUWZzS0VkRS1tVHlTMFJoNnYyOG95ZlJodE9JcV9OLWhURC1wUWhFZTV1UUFkdV9Pak92a09KU2piUHVzN1ZKMEF0T2RzckdqdllGZnc0MUhHZ2k2N3pGdml5cXdxSW15ZjBpOWo1clNBMFIzc2pXS05xZzhnQmdSTHExcDloYTdkZVgtSlpyemVYZkZ1bFRF?oc=5",
     "reported_at": "2026-08-04T13:32:00+00:00",
-    "last_updated": "2026-08-07T06:08:57.730468+00:00"
+    "last_updated": "2026-08-07T10:50:11.931920+00:00"
+  },
+  {
+    "injury_id": "injury_e1cdd5670a95aab9",
+    "player_id": null,
+    "player_name": "Unknown",
+    "team": "Georgia",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa3FWRlN4S3c3M3ZuenlJamFHakxPemFhT0NRS1VMVWhPa3JpbTJmamx0eEt4QkFkYjhiTklLRkJfbDNSdmZ2ZlN3anpnZVN0STFJVExYeHRmdDEtRU92MHlGaEotaFgxU2RqSnpZeE5BX0lONzgxY2pfWU9EWlN2QUtySWN0OUZzT3EtaW9JRmxnelpONjA1MkRNNFpteEVFOE11cHktZGh...",
+    "source_name": "DawgNation",
+    "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa3FWRlN4S3c3M3ZuenlJamFHakxPemFhT0NRS1VMVWhPa3JpbTJmamx0eEt4QkFkYjhiTklLRkJfbDNSdmZ2ZlN3anpnZVN0STFJVExYeHRmdDEtRU92MHlGaEotaFgxU2RqSnpZeE5BX0lONzgxY2pfWU9EWlN2QUtySWN0OUZzT3EtaW9JRmxnelpONjA1MkRNNFpteEVFOE11cHktZGhnSnVKNnM4X0JsZUNtZXpmUGk1eVE1QlJWd0pPUUlXeFZLRHl4Y2FzNW0zdG9IeDVzRUstTTdj?oc=5",
+    "reported_at": "2026-08-05T15:49:44+00:00",
+    "last_updated": "2026-08-07T10:50:11.931949+00:00"
   },
   {
     "injury_id": "injury_2d67869568cbb3ac",
@@ -36,32 +49,19 @@
     "source_name": "Online Athens",
     "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWUJCVlp1TjNRQWJWODE3bXRhSjNIaUwxUTlkZnl6aFl0Z1RYSlpYOU5Ta3FOZ3Z6QUZIUDRDaXRXdmdRRnQ0ei15TEpNUm93TTlZSEVpdzlqUjgtQTZFQ2FVUkxwb0l5emtBUUN2TUhJV1hHb3FzTTBrTEdKRjI3eTdqU2taYnRZQ1JTUXFlVDBPT2dCUV9wYzF3WFRBN2MwdURCZ2twZlhlRlljODY0MkVXZ1lQOHlKS0U1dFg5QU4wdkxWLVlkY3VpYUVxU2UyX0h2anhnT3h5V28?oc=5",
     "reported_at": "2026-08-06T08:04:00+00:00",
-    "last_updated": "2026-08-07T06:08:57.730496+00:00"
+    "last_updated": "2026-08-07T10:50:11.931973+00:00"
   },
   {
-    "injury_id": "injury_e6ab633556a5f338",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "Georgia",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeHRtVXp2MzBMdzBoQkQtUDY2V3VRZWc4SGg3VnJuOFVQWHFSTFNHMmo5WjhuYktyM2M4V0hQUl9rYTFFUmN3NWdIb29iSVdKaU9wQlF1OENBWW5XNUlOb05zZkstWDJycHlfUndOV0hOWmtkUXlwdDd0MWhHV2kxQlNuV0pDVkJoMjZQYzBRZ0FnOENRYjN2M2o5bEs0SXM5TnphcnVvTVF...",
-    "source_name": "DawgNation",
-    "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeHRtVXp2MzBMdzBoQkQtUDY2V3VRZWc4SGg3VnJuOFVQWHFSTFNHMmo5WjhuYktyM2M4V0hQUl9rYTFFUmN3NWdIb29iSVdKaU9wQlF1OENBWW5XNUlOb05zZkstWDJycHlfUndOV0hOWmtkUXlwdDd0MWhHV2kxQlNuV0pDVkJoMjZQYzBRZ0FnOENRYjN2M2o5bEs0SXM5TnphcnVvTVFGbVkxLTRLVHdsWmV0ZVFGQzU3NjZ4WXBOVmVqVDBsVkY4VHBGSExZdG1KeWQzOElYa1JjcC1RbkszQW1GdDdLU2RwWm9NeUFVVjZ2UVg4cVln?oc=5",
-    "reported_at": "2026-08-06T10:00:01+00:00",
-    "last_updated": "2026-08-07T06:08:57.730521+00:00"
-  },
-  {
-    "injury_id": "injury_6fbd3e8386fa24cf",
+    "injury_id": "injury_27bc1068a3e64dc8",
     "player_id": null,
     "player_name": "Unknown",
     "team": "Texas",
     "injury_status": "unknown",
     "body_part": null,
     "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR0VnOW9icURhZjByS0ExTTBBeENCaGJ3a2RUUkVBaWJWbWMxOEJTVmxoWkljc2xEOF8tdXpkanVJMVFuc0c1VEdmbUg2SHR5VHJyR0FHVXNRZlZGV3ktRVhac1Jwdlk3dzVQZndhX3diRFpSM2oyeUZnakdTWUUyRjhadjBfelo5d1hob1l6SU1Eb2RNcGpBWUhKZnQwOU42Y3FxaTVWaG9...",
-    "source_name": "KHOU",
+    "source_name": "khou.com",
     "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR0VnOW9icURhZjByS0ExTTBBeENCaGJ3a2RUUkVBaWJWbWMxOEJTVmxoWkljc2xEOF8tdXpkanVJMVFuc0c1VEdmbUg2SHR5VHJyR0FHVXNRZlZGV3ktRVhac1Jwdlk3dzVQZndhX3diRFpSM2oyeUZnakdTWUUyRjhadjBfelo5d1hob1l6SU1Eb2RNcGpBWUhKZnQwOU42Y3FxaTVWaG9TZDlrXzBWdE1TdmU5TExydkl6b2lIUTA?oc=5",
     "reported_at": "2026-08-06T21:59:00+00:00",
-    "last_updated": "2026-08-07T06:08:57.730549+00:00"
+    "last_updated": "2026-08-07T10:50:11.932000+00:00"
   }
 ]
