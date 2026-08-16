@@ -1,5 +1,21 @@
 [
   {
+    "news_id": "news_c406837199ba1aba",
+    "player_id": null,
+    "player_name": null,
+    "team": "Alabama",
+    "headline": "Reports: Alabama's AK Dear to miss 6 weeks with ankle injury - espn.com",
+    "source_name": "espn.com",
+    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV2xOVS1DcF9FaGpCWW1VT0J1OUV0M1liWl9iQ0x1VFNFeW5FWmZaLTZzandLbnpkQnBMN2xBak5xSU4zNFBmUTl3UnFqRTRJOTdEQUxyc1ZrQUF3UWd6aDBCdjk0YkFzeWU5WVJibjNtMXBhWnljd0Jmem85Znh4c2RCZ2l6aFE4RjJYa1lIVk5uOGVQSC1SNTc5Y2FLNDFqMXUwTkJ5TWdhYkxsNTRHSzlVUExWSExZT2VlTjRDQ21CaUxLMFl2MTBnY0loblh2Vmc?oc=5",
+    "published_at": "2026-08-14T23:03:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV2xOVS1DcF9FaGpCWW1VT0J1OUV0M1liWl9iQ0x1VFNFeW5FWmZaLTZzandLbnpkQnBMN2xBak5xSU4zNFBmUTl3UnFqRTRJOTdEQUxyc1ZrQUF3UWd6aDBCdjk0YkFzeWU5WVJibjNtMXBhWnljd0Jmem85Znh4c2RCZ2l6aFE4RjJYa1lIVk5uOGVQSC1SNTc5Y2FLNDFqMXUwTkJ5TWd...",
+    "tags": [
+      "injury"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-16T15:19:00.579803+00:00"
+  },
+  {
     "news_id": "news_597493a2d65a0262",
     "player_id": null,
     "player_name": null,
@@ -13,23 +29,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.378939+00:00"
-  },
-  {
-    "news_id": "news_18cbfd4a2260e5fe",
-    "player_id": null,
-    "player_name": null,
-    "team": "Alabama",
-    "headline": "Reports: Alabama's AK Dear to miss 6 weeks with ankle injury - ESPN",
-    "source_name": "ESPN",
-    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV2xOVS1DcF9FaGpCWW1VT0J1OUV0M1liWl9iQ0x1VFNFeW5FWmZaLTZzandLbnpkQnBMN2xBak5xSU4zNFBmUTl3UnFqRTRJOTdEQUxyc1ZrQUF3UWd6aDBCdjk0YkFzeWU5WVJibjNtMXBhWnljd0Jmem85Znh4c2RCZ2l6aFE4RjJYa1lIVk5uOGVQSC1SNTc5Y2FLNDFqMXUwTkJ5TWdhYkxsNTRHSzlVUExWSExZT2VlTjRDQ21CaUxLMFl2MTBnY0loblh2Vmc?oc=5",
-    "published_at": "2026-08-14T23:03:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV2xOVS1DcF9FaGpCWW1VT0J1OUV0M1liWl9iQ0x1VFNFeW5FWmZaLTZzandLbnpkQnBMN2xBak5xSU4zNFBmUTl3UnFqRTRJOTdEQUxyc1ZrQUF3UWd6aDBCdjk0YkFzeWU5WVJibjNtMXBhWnljd0Jmem85Znh4c2RCZ2l6aFE4RjJYa1lIVk5uOGVQSC1SNTc5Y2FLNDFqMXUwTkJ5TWd...",
-    "tags": [
-      "injury"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.379078+00:00"
+    "last_updated": "2026-08-16T15:19:00.579979+00:00"
   },
   {
     "news_id": "news_afe6374eca147318",
@@ -45,15 +45,15 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.379195+00:00"
+    "last_updated": "2026-08-16T15:19:00.580099+00:00"
   },
   {
-    "news_id": "news_3a118d7f8d6dd345",
+    "news_id": "news_b7135f3e26cb66d4",
     "player_id": null,
     "player_name": null,
     "team": "Alabama",
-    "headline": "Alabama Running Back Suffers Injury During First Fall Camp Scrimmage - si.com",
-    "source_name": "si.com",
+    "headline": "Alabama Running Back Suffers Injury During First Fall Camp Scrimmage - Sports Illustrated",
+    "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSGFrR2VFbDlhc3BJTzJROWpLUEFiaGwzSTlfQi1ySzlfc3M2Z25wM19aWXlaaHBYODhuV2tPQTJWUnh6RFJVaU1weDJVNnBvQ3FWcGFyNUZqU0dudFhTT0w4bjRqMDRNZ0k2OTBVWHJuV2Rha2s3b2tmLXprcEV6ZUpUdXN0UG9QLVNyNThZQndBeW51b21XUjVSdnJkNXQ1ZHByNm1ldGo3VFdUVTVhcDFR?oc=5",
     "published_at": "2026-08-13T19:32:58+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQSGFrR2VFbDlhc3BJTzJROWpLUEFiaGwzSTlfQi1ySzlfc3M2Z25wM19aWXlaaHBYODhuV2tPQTJWUnh6RFJVaU1weDJVNnBvQ3FWcGFyNUZqU0dudFhTT0w4bjRqMDRNZ0k2OTBVWHJuV2Rha2s3b2tmLXprcEV6ZUpUdXN0UG9QLVNyNThZQndBeW51b21XUjVSdnJkNXQ1ZHByNm1ldGo...",
@@ -61,7 +61,7 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.379304+00:00"
+    "last_updated": "2026-08-16T15:19:00.580207+00:00"
   },
   {
     "news_id": "news_1bcdab825121dbb0",
@@ -77,55 +77,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.379409+00:00"
-  },
-  {
-    "news_id": "news_2293fa316a90406d",
-    "player_id": null,
-    "player_name": null,
-    "team": "Alabama",
-    "headline": "Alabama football running back will reveal more than just talent | Goodbread - The Tuscaloosa News",
-    "source_name": "The Tuscaloosa News",
-    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeVBhMGRtSXZ2UXg0cXYzcHBqdXRXNmhiRVhkUVJXVl9lSUNESDRxeHBNb2M2WFlvbDkzc1ltTmhKVTJ4TzhjSEpTdmg4dERRVm5UNE9pQzhNX25nZkhrRDYtQ0ZRbnhwc0dpNjZzYy1KMFltd1gtOUlDMjdCMzl0R3g0OFhHdzVfakFFZEZCbjJjaHJ1TzJZelNQVXVyc0xSX0RrWW0zbkRfZ2xWT3FJYTkzN2VNT3hJNzZwV0h2M1dhYzAx?oc=5",
-    "published_at": "2026-08-15T17:53:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNeVBhMGRtSXZ2UXg0cXYzcHBqdXRXNmhiRVhkUVJXVl9lSUNESDRxeHBNb2M2WFlvbDkzc1ltTmhKVTJ4TzhjSEpTdmg4dERRVm5UNE9pQzhNX25nZkhrRDYtQ0ZRbnhwc0dpNjZzYy1KMFltd1gtOUlDMjdCMzl0R3g0OFhHdzVfakFFZEZCbjJjaHJ1TzJZelNQVXVyc0xSX0RrWW0zbkR...",
-    "tags": [
-      "general"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.379511+00:00"
-  },
-  {
-    "news_id": "news_d7f18de8e0250f0b",
-    "player_id": null,
-    "player_name": null,
-    "team": "Alabama",
-    "headline": "Alabama football news: AK Dear gets unfortunate injury update ahead of new season - Yahoo Sports",
-    "source_name": "Yahoo Sports",
-    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUGlaM0NZeGNtTV83WWlxOG1pYTg2dkpUbTZwVjRBZ196T3BPQzg5RzU3cGNqNzByZjNscUU4RmJkWXFabHcxaXhTN2Z6cENlMWdMaEpycE9reE9QVUlOeGFVNTZlWTFseHdydkNycXBOYzF1cko0VnVVcnJpb2pLUW1HaFc?oc=5",
-    "published_at": "2026-08-14T23:21:24+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOUGlaM0NZeGNtTV83WWlxOG1pYTg2dkpUbTZwVjRBZ196T3BPQzg5RzU3cGNqNzByZjNscUU4RmJkWXFabHcxaXhTN2Z6cENlMWdMaEpycE9reE9QVUlOeGFVNTZlWTFseHdydkNycXBOYzF1cko0VnVVcnJpb2pLUW1HaFc?oc=5\" target=\"_blank\">Alabama football news: AK...",
-    "tags": [
-      "injury"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.379608+00:00"
-  },
-  {
-    "news_id": "news_0bb771dfac1ab346",
-    "player_id": null,
-    "player_name": null,
-    "team": "Alabama",
-    "headline": "4 Alabama football players looking to make a move in Tide's first fall camp scrimmage - Bama Hammer",
-    "source_name": "Bama Hammer",
-    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzh1SFM1anY0TDE5TmVjNmZJNi11eFlFLXM4dzQ2NTNhR1BxVlplUUtFVC11b1NnbE5hVXFSNHJZRUhUNlR2ZWZkM0ZVUURNVG5LQ082S0FaQ2tCY0kyeU9qNTNfNG1NRF9ITmIwYWxrVUdMbFN0eVJHN2FNRnZidkhLajZYalRRMW0ya09oSTE1ajVVbUNLZlRNX0Y1Zlp6aGw2WmZUeTlROU5Z?oc=5",
-    "published_at": "2026-08-13T12:46:27+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzh1SFM1anY0TDE5TmVjNmZJNi11eFlFLXM4dzQ2NTNhR1BxVlplUUtFVC11b1NnbE5hVXFSNHJZRUhUNlR2ZWZkM0ZVUURNVG5LQ082S0FaQ2tCY0kyeU9qNTNfNG1NRF9ITmIwYWxrVUdMbFN0eVJHN2FNRnZidkhLajZYalRRMW0ya09oSTE1ajVVbUNLZlRNX0Y1Zlp6aGw2WmZUeTl...",
-    "tags": [
-      "general"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.379725+00:00"
+    "last_updated": "2026-08-16T15:19:00.580314+00:00"
   },
   {
     "news_id": "news_605c4cfa86123c97",
@@ -141,15 +93,63 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.379852+00:00"
+    "last_updated": "2026-08-16T15:19:00.580415+00:00"
   },
   {
-    "news_id": "news_ad180d93446d7810",
+    "news_id": "news_d7f18de8e0250f0b",
     "player_id": null,
     "player_name": null,
     "team": "Alabama",
-    "headline": "AK Dear Injury Update, Crimson Tide Running Back Set to Miss Extended Time - si.com",
-    "source_name": "si.com",
+    "headline": "Alabama football news: AK Dear gets unfortunate injury update ahead of new season - Yahoo Sports",
+    "source_name": "Yahoo Sports",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUGlaM0NZeGNtTV83WWlxOG1pYTg2dkpUbTZwVjRBZ196T3BPQzg5RzU3cGNqNzByZjNscUU4RmJkWXFabHcxaXhTN2Z6cENlMWdMaEpycE9reE9QVUlOeGFVNTZlWTFseHdydkNycXBOYzF1cko0VnVVcnJpb2pLUW1HaFc?oc=5",
+    "published_at": "2026-08-14T23:21:24+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOUGlaM0NZeGNtTV83WWlxOG1pYTg2dkpUbTZwVjRBZ196T3BPQzg5RzU3cGNqNzByZjNscUU4RmJkWXFabHcxaXhTN2Z6cENlMWdMaEpycE9reE9QVUlOeGFVNTZlWTFseHdydkNycXBOYzF1cko0VnVVcnJpb2pLUW1HaFc?oc=5\" target=\"_blank\">Alabama football news: AK...",
+    "tags": [
+      "injury"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-16T15:19:00.580522+00:00"
+  },
+  {
+    "news_id": "news_0bb771dfac1ab346",
+    "player_id": null,
+    "player_name": null,
+    "team": "Alabama",
+    "headline": "4 Alabama football players looking to make a move in Tide's first fall camp scrimmage - Bama Hammer",
+    "source_name": "Bama Hammer",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzh1SFM1anY0TDE5TmVjNmZJNi11eFlFLXM4dzQ2NTNhR1BxVlplUUtFVC11b1NnbE5hVXFSNHJZRUhUNlR2ZWZkM0ZVUURNVG5LQ082S0FaQ2tCY0kyeU9qNTNfNG1NRF9ITmIwYWxrVUdMbFN0eVJHN2FNRnZidkhLajZYalRRMW0ya09oSTE1ajVVbUNLZlRNX0Y1Zlp6aGw2WmZUeTlROU5Z?oc=5",
+    "published_at": "2026-08-13T12:46:27+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzh1SFM1anY0TDE5TmVjNmZJNi11eFlFLXM4dzQ2NTNhR1BxVlplUUtFVC11b1NnbE5hVXFSNHJZRUhUNlR2ZWZkM0ZVUURNVG5LQ082S0FaQ2tCY0kyeU9qNTNfNG1NRF9ITmIwYWxrVUdMbFN0eVJHN2FNRnZidkhLajZYalRRMW0ya09oSTE1ajVVbUNLZlRNX0Y1Zlp6aGw2WmZUeTl...",
+    "tags": [
+      "general"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-16T15:19:00.580649+00:00"
+  },
+  {
+    "news_id": "news_b7d882a4dcf84292",
+    "player_id": null,
+    "player_name": null,
+    "team": "Alabama",
+    "headline": "3 questions for Alabama football’s offense to answer before 2nd scrimmage - AL.com",
+    "source_name": "AL.com",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSnBfazVVOWFLTWc1VlNHbHpJN3haVTU0NnFLR1R6MjdrWkxhZ0xMTnF5QXA0QXJicHBhSUpRV2k1aXJraW03dUJCSFB3c042dzc3RkJ4ZlJaRzgtV2c3dVFMRXlUUWJBLUtCN1ptS2ZnTlFGNU1HUnE2MHRJdVNLcVoxSk9wc2ZEWDVfNFNhbG5YZ3VOMjhLeVhBWjZQSDZwakt2WFFodlJvN21iRzEza09qYTlCT2c1eXlRdw?oc=5",
+    "published_at": "2026-08-16T10:02:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPSnBfazVVOWFLTWc1VlNHbHpJN3haVTU0NnFLR1R6MjdrWkxhZ0xMTnF5QXA0QXJicHBhSUpRV2k1aXJraW03dUJCSFB3c042dzc3RkJ4ZlJaRzgtV2c3dVFMRXlUUWJBLUtCN1ptS2ZnTlFGNU1HUnE2MHRJdVNLcVoxSk9wc2ZEWDVfNFNhbG5YZ3VOMjhLeVhBWjZQSDZwakt2WFFodlJ...",
+    "tags": [
+      "general"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-16T15:19:00.580769+00:00"
+  },
+  {
+    "news_id": "news_cb9c7a6d356674c7",
+    "player_id": null,
+    "player_name": null,
+    "team": "Alabama",
+    "headline": "AK Dear Injury Update, Crimson Tide Running Back Set to Miss Extended Time - Sports Illustrated",
+    "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY29EaGllaGQ3NUJ0LUYzLTMyMW1VT0ZncHVsUmpXMTRsVUNuaHNNUzJmcVdyVFV3bFdZUTNUbG95TXJfM3Y2YWJla0MtVmhFZFZnNUtBcWx5QXAzWHZxa3RyZWNLR1JlZ1U0bTlLeVhmUGNxaTZvSWt5MEdCN2VBYjU2ZkNiYzdBY1cwdmJYcmhFUlNtU3d3TUtZN2JSZjI3RXd0MkZKZmhsY2pHWjM1dkpPV2I?oc=5",
     "published_at": "2026-08-14T19:50:37+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPY29EaGllaGQ3NUJ0LUYzLTMyMW1VT0ZncHVsUmpXMTRsVUNuaHNNUzJmcVdyVFV3bFdZUTNUbG95TXJfM3Y2YWJla0MtVmhFZFZnNUtBcWx5QXAzWHZxa3RyZWNLR1JlZ1U0bTlLeVhmUGNxaTZvSWt5MEdCN2VBYjU2ZkNiYzdBY1cwdmJYcmhFUlNtU3d3TUtZN2JSZjI3RXd0MkZKZmh...",
@@ -157,23 +157,23 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.379954+00:00"
+    "last_updated": "2026-08-16T15:19:00.580890+00:00"
   },
   {
-    "news_id": "news_85fc7daae38768e6",
+    "news_id": "news_627de0c262c5c05b",
     "player_id": null,
     "player_name": null,
     "team": "Georgia",
-    "headline": "Former Georgia Bulldogs linebacker signs with Los Angeles Rams - UGA Wire",
+    "headline": "Former Georgia wide receiver reveals how he spent first NFL paycheck - UGA Wire",
     "source_name": "UGA Wire",
-    "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORXVFdnJrcFcwYWJoN2lPZ2N4ai1wOFQ4cGRvMDJ5WDV2bjFSTndfbGtoanl3blA5TGNvVzRyU3pJdk13SmY2LUZhNjNyQlFVbDh4X0szcHFOYjFaZ1hrX042LTh4Qk1qOWRTeElqeGdqYUttUXBpRE5Hc2tULXluVEVUckRiSXhweldWeERDYzlfMzc0QlQzRGRXR1hNRFY0VTFVMFJGN0UxanFZZnNBWGxjWHVGVXYwUTdubXZUaVd4c2hEbW90SkR2NHdpUXRoWEJGTHhjZw?oc=5",
-    "published_at": "2026-08-16T00:46:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxORXVFdnJrcFcwYWJoN2lPZ2N4ai1wOFQ4cGRvMDJ5WDV2bjFSTndfbGtoanl3blA5TGNvVzRyU3pJdk13SmY2LUZhNjNyQlFVbDh4X0szcHFOYjFaZ1hrX042LTh4Qk1qOWRTeElqeGdqYUttUXBpRE5Hc2tULXluVEVUckRiSXhweldWeERDYzlfMzc0QlQzRGRXR1hNRFY0VTFVMFJGN0U...",
+    "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZl9ncjFmVFVjV0EwV1ZzVjR5QWNRcTlqYlgtWmVBU2pkNzNVaHpWVTByQWgybkZKTFNnT0w2YjVDMjN4UEZJRlFZcG8wSkNFTFVMc2RhWElvMHVOdUM5aktoelE5U0lmRUhlN1MyTEtmZ2hCYm5LOTZDZ2ExWmhkWGdWSG9tbjNxaDdVWE9iRFpaVUNKNXUwRDgzQTBjQ3FTcjgyT1RWYzNLaXNNWk5QNl9iQl9DV0MtdFk5WkJQQVR3OTZ0eU16MkdPdDdwcklza2VkbGdnbTlWdjNYd2tMdnp0VUE?oc=5",
+    "published_at": "2026-08-16T13:31:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZl9ncjFmVFVjV0EwV1ZzVjR5QWNRcTlqYlgtWmVBU2pkNzNVaHpWVTByQWgybkZKTFNnT0w2YjVDMjN4UEZJRlFZcG8wSkNFTFVMc2RhWElvMHVOdUM5aktoelE5U0lmRUhlN1MyTEtmZ2hCYm5LOTZDZ2ExWmhkWGdWSG9tbjNxaDdVWE9iRFpaVUNKNXUwRDgzQTBjQ3FTcjgyT1RWYzN...",
     "tags": [
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.380060+00:00"
+    "last_updated": "2026-08-16T15:19:00.580995+00:00"
   },
   {
     "news_id": "news_5f5c7e5c0a13dcd4",
@@ -189,15 +189,15 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.380156+00:00"
+    "last_updated": "2026-08-16T15:19:00.581103+00:00"
   },
   {
     "news_id": "news_7eb3a2a7f038762e",
     "player_id": null,
     "player_name": null,
     "team": "Georgia",
-    "headline": "2026 Georgia Football Media Guide available to view online - sicemdawgs.com",
-    "source_name": "sicemdawgs.com",
+    "headline": "2026 Georgia Football Media Guide available to view online - SicEmDawgs.com",
+    "source_name": "SicEmDawgs.com",
     "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX1pNelBnZi1VQlRmT2xIYWJxQVBFODhjdlhlVmg2QjF2OFl4emNLdWFzSFVyTk5hYk5GVDI2eFoycGt1ZDloaGMyREpwT0pWUnFJTTNDSUk3NktuUjJ3NlN5bWpmYU93X0M0OUFTT3kzSWk5T0ZtZjNzcC1yX1E0OTR0eUZhSjcxVTV1TjBuU0JlNHV50gGaAUFVX3lxTE1SZ0JFXy1WSDdEelNheTc0UXF2aU1rdEEwVzFhMnR0alFTWnhUdlFKaThuYlM3N2JtaHVqTktTSDRUTkc1MjNHRWkwdmx0ZGxaNk9MQlpZY0R0M2JtTXJEeXowclJOYVgxVEFLVjFLNUZXLURqbTBxN3VWTm1ET0JDS3NOZUk4cTN5RDMwRkdhaktoVzk0SC1IRVE?oc=5",
     "published_at": "2026-08-11T20:53:52+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOX1pNelBnZi1VQlRmT2xIYWJxQVBFODhjdlhlVmg2QjF2OFl4emNLdWFzSFVyTk5hYk5GVDI2eFoycGt1ZDloaGMyREpwT0pWUnFJTTNDSUk3NktuUjJ3NlN5bWpmYU93X0M0OUFTT3kzSWk5T0ZtZjNzcC1yX1E0OTR0eUZhSjcxVTV1TjBuU0JlNHV50gGaAUFVX3lxTE1SZ0JFXy1WSDd...",
@@ -205,71 +205,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.380254+00:00"
-  },
-  {
-    "news_id": "news_e3fa4033c27cba59",
-    "player_id": null,
-    "player_name": null,
-    "team": "Georgia",
-    "headline": "Why Mike Bobo told Gunner Stockton that he's 'not Josh Allen' - UGA Wire",
-    "source_name": "UGA Wire",
-    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY3VFbXZxZllXYk1FWVJFQkpWZGlLOEJDaXAtZThrekdZbXlwbUJRLWhRQ2dGcVhaVzBWNGpQblE0S1EyeHR2UkFJenZwdTV1Q1p1TWdlRUQ0czJuVUkyTHRlUmljRnV3cjZlcXpoNEJ4TzlxVFZnZDc5ak1uaTMxMXdUNVk3OFNURk5ENG5PUHlSd05Nc29KQldyblBzWU9vbXpqejRvY29fMnp2NmR0YUYtNVZ5MUVmQ3dpWGZabEdCdWNhR2xqWmlQZzhDMTdLU3JiX3cxTzRrSFMt?oc=5",
-    "published_at": "2026-08-16T10:04:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY3VFbXZxZllXYk1FWVJFQkpWZGlLOEJDaXAtZThrekdZbXlwbUJRLWhRQ2dGcVhaVzBWNGpQblE0S1EyeHR2UkFJenZwdTV1Q1p1TWdlRUQ0czJuVUkyTHRlUmljRnV3cjZlcXpoNEJ4TzlxVFZnZDc5ak1uaTMxMXdUNVk3OFNURk5ENG5PUHlSd05Nc29KQldyblBzWU9vbXpqejRvY29...",
-    "tags": [
-      "general"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.380350+00:00"
-  },
-  {
-    "news_id": "news_b9fcadaa7bd9d492",
-    "player_id": null,
-    "player_name": null,
-    "team": "Georgia",
-    "headline": "How Trinidad Chambliss helped sell Joenel Aguero on transfer from Georgia to Ole Miss - The Clarion-Ledger",
-    "source_name": "The Clarion-Ledger",
-    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTTNDUlBmSW50cTlwUGMyMjU2QUtBQWpzdl9nMnhkd2ZmSXBpdVlzSDg1Z3pQUzFIY2ZWcWd4M01HbmhFTVBoZzBFZ2swb2trbkh6b2VoRF95bjZNYTZUREJDemFvTkVxQWFJenBaQ3NHeXdETjRsOV9QTFNQMXc4cExSTlJkV0JoWnVob0plRTlSTDNNZkdidVBKem1Gc01pdDdYNU96VXZSbWhaV3pieVVPTUVjMFJLQU0tdXowMEx6cHN2MklsSFgyVUR2RDVTbWRNZzdzdnp2Zw?oc=5",
-    "published_at": "2026-08-10T10:04:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTTNDUlBmSW50cTlwUGMyMjU2QUtBQWpzdl9nMnhkd2ZmSXBpdVlzSDg1Z3pQUzFIY2ZWcWd4M01HbmhFTVBoZzBFZ2swb2trbkh6b2VoRF95bjZNYTZUREJDemFvTkVxQWFJenBaQ3NHeXdETjRsOV9QTFNQMXc4cExSTlJkV0JoWnVob0plRTlSTDNNZkdidVBKem1Gc01pdDdYNU96VXZ...",
-    "tags": [
-      "transfer"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.380447+00:00"
-  },
-  {
-    "news_id": "news_35018fe308a63506",
-    "player_id": null,
-    "player_name": null,
-    "team": "Georgia",
-    "headline": "ESPN Names the Most Important Player on Georgia's Roster for 2026 Football Season - Yahoo Sports",
-    "source_name": "Yahoo Sports",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjJnOXVnemUxVU4zMjhweHJJN1R1X3J0LTBoRWExUnVTMnhsY0g3MWpucWVUMXZjRTltZ1U2NmdmTXdLdklHZTR0MEFKX2xQeVZqWjdmRVlFdHRLOF9VR2UwNy0tNUFSSW92THhxT1lUQXZneUNZM2VBT0h2M1U1azZPbGx1WGJ0?oc=5",
-    "published_at": "2026-08-04T07:00:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjJnOXVnemUxVU4zMjhweHJJN1R1X3J0LTBoRWExUnVTMnhsY0g3MWpucWVUMXZjRTltZ1U2NmdmTXdLdklHZTR0MEFKX2xQeVZqWjdmRVlFdHRLOF9VR2UwNy0tNUFSSW92THhxT1lUQXZneUNZM2VBT0h2M1U1azZPbGx1WGJ0?oc=5\" target=\"_blank\">ESPN Names the Most...",
-    "tags": [
-      "general"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.380538+00:00"
-  },
-  {
-    "news_id": "news_130f5c0ea04e3498",
-    "player_id": null,
-    "player_name": null,
-    "team": "Georgia",
-    "headline": "Georgia football injury report entering fall camp: The latest on Kyron Jones, Dante Dowdell - dawgnation.com",
-    "source_name": "dawgnation.com",
-    "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa3FWRlN4S3c3M3ZuenlJamFHakxPemFhT0NRS1VMVWhPa3JpbTJmamx0eEt4QkFkYjhiTklLRkJfbDNSdmZ2ZlN3anpnZVN0STFJVExYeHRmdDEtRU92MHlGaEotaFgxU2RqSnpZeE5BX0lONzgxY2pfWU9EWlN2QUtySWN0OUZzT3EtaW9JRmxnelpONjA1MkRNNFpteEVFOE11cHktZGhnSnVKNnM4X0JsZUNtZXpmUGk1eVE1QlJWd0pPUUlXeFZLRHl4Y2FzNW0zdG9IeDVzRUstTTdj?oc=5",
-    "published_at": "2026-08-05T07:00:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa3FWRlN4S3c3M3ZuenlJamFHakxPemFhT0NRS1VMVWhPa3JpbTJmamx0eEt4QkFkYjhiTklLRkJfbDNSdmZ2ZlN3anpnZVN0STFJVExYeHRmdDEtRU92MHlGaEotaFgxU2RqSnpZeE5BX0lONzgxY2pfWU9EWlN2QUtySWN0OUZzT3EtaW9JRmxnelpONjA1MkRNNFpteEVFOE11cHktZGh...",
-    "tags": [
-      "injury"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.380635+00:00"
+    "last_updated": "2026-08-16T15:19:00.581205+00:00"
   },
   {
     "news_id": "news_eb1c7153339217ed",
@@ -285,15 +221,95 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.380728+00:00"
+    "last_updated": "2026-08-16T15:19:00.581299+00:00"
   },
   {
-    "news_id": "news_a30f403b7b2491e8",
+    "news_id": "news_35018fe308a63506",
     "player_id": null,
     "player_name": null,
     "team": "Georgia",
-    "headline": "Georgia Football Will Need This Player to Step Up This Season - si.com",
-    "source_name": "si.com",
+    "headline": "ESPN Names the Most Important Player on Georgia's Roster for 2026 Football Season - Yahoo Sports",
+    "source_name": "Yahoo Sports",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjJnOXVnemUxVU4zMjhweHJJN1R1X3J0LTBoRWExUnVTMnhsY0g3MWpucWVUMXZjRTltZ1U2NmdmTXdLdklHZTR0MEFKX2xQeVZqWjdmRVlFdHRLOF9VR2UwNy0tNUFSSW92THhxT1lUQXZneUNZM2VBT0h2M1U1azZPbGx1WGJ0?oc=5",
+    "published_at": "2026-08-04T07:00:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjJnOXVnemUxVU4zMjhweHJJN1R1X3J0LTBoRWExUnVTMnhsY0g3MWpucWVUMXZjRTltZ1U2NmdmTXdLdklHZTR0MEFKX2xQeVZqWjdmRVlFdHRLOF9VR2UwNy0tNUFSSW92THhxT1lUQXZneUNZM2VBT0h2M1U1azZPbGx1WGJ0?oc=5\" target=\"_blank\">ESPN Names the Most...",
+    "tags": [
+      "general"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-16T15:19:00.581391+00:00"
+  },
+  {
+    "news_id": "news_940fa5d10b415f20",
+    "player_id": null,
+    "player_name": null,
+    "team": "Georgia",
+    "headline": "Georgia football injury report entering fall camp: The latest on Kyron Jones, Dante Dowdell - DawgNation",
+    "source_name": "DawgNation",
+    "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa3FWRlN4S3c3M3ZuenlJamFHakxPemFhT0NRS1VMVWhPa3JpbTJmamx0eEt4QkFkYjhiTklLRkJfbDNSdmZ2ZlN3anpnZVN0STFJVExYeHRmdDEtRU92MHlGaEotaFgxU2RqSnpZeE5BX0lONzgxY2pfWU9EWlN2QUtySWN0OUZzT3EtaW9JRmxnelpONjA1MkRNNFpteEVFOE11cHktZGhnSnVKNnM4X0JsZUNtZXpmUGk1eVE1QlJWd0pPUUlXeFZLRHl4Y2FzNW0zdG9IeDVzRUstTTdj?oc=5",
+    "published_at": "2026-08-05T07:00:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa3FWRlN4S3c3M3ZuenlJamFHakxPemFhT0NRS1VMVWhPa3JpbTJmamx0eEt4QkFkYjhiTklLRkJfbDNSdmZ2ZlN3anpnZVN0STFJVExYeHRmdDEtRU92MHlGaEotaFgxU2RqSnpZeE5BX0lONzgxY2pfWU9EWlN2QUtySWN0OUZzT3EtaW9JRmxnelpONjA1MkRNNFpteEVFOE11cHktZGh...",
+    "tags": [
+      "injury"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-16T15:19:00.581488+00:00"
+  },
+  {
+    "news_id": "news_b9fcadaa7bd9d492",
+    "player_id": null,
+    "player_name": null,
+    "team": "Georgia",
+    "headline": "How Trinidad Chambliss helped sell Joenel Aguero on transfer from Georgia to Ole Miss - The Clarion-Ledger",
+    "source_name": "The Clarion-Ledger",
+    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTTNDUlBmSW50cTlwUGMyMjU2QUtBQWpzdl9nMnhkd2ZmSXBpdVlzSDg1Z3pQUzFIY2ZWcWd4M01HbmhFTVBoZzBFZ2swb2trbkh6b2VoRF95bjZNYTZUREJDemFvTkVxQWFJenBaQ3NHeXdETjRsOV9QTFNQMXc4cExSTlJkV0JoWnVob0plRTlSTDNNZkdidVBKem1Gc01pdDdYNU96VXZSbWhaV3pieVVPTUVjMFJLQU0tdXowMEx6cHN2MklsSFgyVUR2RDVTbWRNZzdzdnp2Zw?oc=5",
+    "published_at": "2026-08-10T10:04:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTTNDUlBmSW50cTlwUGMyMjU2QUtBQWpzdl9nMnhkd2ZmSXBpdVlzSDg1Z3pQUzFIY2ZWcWd4M01HbmhFTVBoZzBFZ2swb2trbkh6b2VoRF95bjZNYTZUREJDemFvTkVxQWFJenBaQ3NHeXdETjRsOV9QTFNQMXc4cExSTlJkV0JoWnVob0plRTlSTDNNZkdidVBKem1Gc01pdDdYNU96VXZ...",
+    "tags": [
+      "transfer"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-16T15:19:00.581585+00:00"
+  },
+  {
+    "news_id": "news_ea81800d85d4a5fe",
+    "player_id": null,
+    "player_name": null,
+    "team": "Georgia",
+    "headline": "Super 7: Best Georgia football players of all time - Southeastern Conference",
+    "source_name": "Southeastern Conference",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRGZmcjhDeHNMdGtQUU93WkljcVhiWjFaXzJqSjQ4WkdqMXNmV05fRm96ZUEyQmdPQzBPX29SUnk3NExhbXRSZTBjeXczUTNVamw0azI5SHhXdUU1Rm1CWEU4cDRzZW16dnVEbjM1UUFaWG5rZ3E3czU5QmlQcVk2UjVuUVExMjdpTklIUGFmcXJVdw?oc=5",
+    "published_at": "2026-07-07T07:00:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQRGZmcjhDeHNMdGtQUU93WkljcVhiWjFaXzJqSjQ4WkdqMXNmV05fRm96ZUEyQmdPQzBPX29SUnk3NExhbXRSZTBjeXczUTNVamw0azI5SHhXdUU1Rm1CWEU4cDRzZW16dnVEbjM1UUFaWG5rZ3E3czU5QmlQcVk2UjVuUVExMjdpTklIUGFmcXJVdw?oc=5\" target=\"_blank\">Super...",
+    "tags": [
+      "injury"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-16T15:19:00.581674+00:00"
+  },
+  {
+    "news_id": "news_85fc7daae38768e6",
+    "player_id": null,
+    "player_name": null,
+    "team": "Georgia",
+    "headline": "Former Georgia Bulldogs linebacker signs with Los Angeles Rams - UGA Wire",
+    "source_name": "UGA Wire",
+    "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORXVFdnJrcFcwYWJoN2lPZ2N4ai1wOFQ4cGRvMDJ5WDV2bjFSTndfbGtoanl3blA5TGNvVzRyU3pJdk13SmY2LUZhNjNyQlFVbDh4X0szcHFOYjFaZ1hrX042LTh4Qk1qOWRTeElqeGdqYUttUXBpRE5Hc2tULXluVEVUckRiSXhweldWeERDYzlfMzc0QlQzRGRXR1hNRFY0VTFVMFJGN0UxanFZZnNBWGxjWHVGVXYwUTdubXZUaVd4c2hEbW90SkR2NHdpUXRoWEJGTHhjZw?oc=5",
+    "published_at": "2026-08-16T00:46:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxORXVFdnJrcFcwYWJoN2lPZ2N4ai1wOFQ4cGRvMDJ5WDV2bjFSTndfbGtoanl3blA5TGNvVzRyU3pJdk13SmY2LUZhNjNyQlFVbDh4X0szcHFOYjFaZ1hrX042LTh4Qk1qOWRTeElqeGdqYUttUXBpRE5Hc2tULXluVEVUckRiSXhweldWeERDYzlfMzc0QlQzRGRXR1hNRFY0VTFVMFJGN0U...",
+    "tags": [
+      "general"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-16T15:19:00.581769+00:00"
+  },
+  {
+    "news_id": "news_b425020ea43632df",
+    "player_id": null,
+    "player_name": null,
+    "team": "Georgia",
+    "headline": "Georgia Football Will Need This Player to Step Up This Season - Sports Illustrated",
+    "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNVR3dGh0OTFaMGpFdVQ0NElGblhCTy10bHpRS3BOQ0RQUzFCQ2dKZEF5N05tTVJOTmhSQ083S2daVlFILXBBa0swMm9KeTJyaFJJTUNoVGlRX09hQUVLR1FUNlNGUXNWbkthMFVJejhXeEQ0VTdBaVgtTGJsd19aR3Zta3pPZF82c2pnU0s0cVdoQTdLUmI4QmZRcThTdEl6YlVWVGZ1VEw0dnRObGxxQkM4d2NpdjFoMmc?oc=5",
     "published_at": "2026-07-26T07:00:00+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPNVR3dGh0OTFaMGpFdVQ0NElGblhCTy10bHpRS3BOQ0RQUzFCQ2dKZEF5N05tTVJOTmhSQ083S2daVlFILXBBa0swMm9KeTJyaFJJTUNoVGlRX09hQUVLR1FUNlNGUXNWbkthMFVJejhXeEQ0VTdBaVgtTGJsd19aR3Zta3pPZF82c2pnU0s0cVdoQTdLUmI4QmZRcThTdEl6YlVWVGZ1VEw...",
@@ -301,39 +317,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.380845+00:00"
-  },
-  {
-    "news_id": "news_33e7a298ce8c8633",
-    "player_id": null,
-    "player_name": null,
-    "team": "Georgia",
-    "headline": "Latest injury update on Georgia All-SEC offensive lineman - Yahoo Sports",
-    "source_name": "Yahoo Sports",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTUtQTGlMV01FZFhCQXdSU1JGRzBoODlmSUYwa1hhM2R0VWhGODJCdl9fWTBYRF94OXVxRHpIZXdhVU82OHk5OEV2amJQYlNLSWNYQUpuaGI0VFl4QUlFbG1aSHVFbnNDaGozZnFEOXFSMHUzMkpDUndYQTlRY1N6d0NZWkFHQ2dyZ3VqUw?oc=5",
-    "published_at": "2026-07-23T07:00:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQTUtQTGlMV01FZFhCQXdSU1JGRzBoODlmSUYwa1hhM2R0VWhGODJCdl9fWTBYRF94OXVxRHpIZXdhVU82OHk5OEV2amJQYlNLSWNYQUpuaGI0VFl4QUlFbG1aSHVFbnNDaGozZnFEOXFSMHUzMkpDUndYQTlRY1N6d0NZWkFHQ2dyZ3VqUw?oc=5\" target=\"_blank\">Latest injury...",
-    "tags": [
-      "injury"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.380938+00:00"
-  },
-  {
-    "news_id": "news_1c123102c3ac87fc",
-    "player_id": null,
-    "player_name": null,
-    "team": "Ohio State",
-    "headline": "Ryan Day gives injury update on Austin Siereveld — and what it means for Ohio State's line - Cleveland.com",
-    "source_name": "Cleveland.com",
-    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWWRmakhyNktTTGVTeVBaRHhkSm1tdkltSC03Rm5faVhNVTU2RzA5STdtcXVDejQ3Qk9kdldsbnJVazhibk9UQmZhZHh1LUF5LUhjSWY0SFhWc2VlajNxSTFRMlFqdTVOYmxfRXRIeWw0STRja2hIU0dJeFJ6c2tMeW1iUHQzVEFNMGZkOUdUSVRtb0tDN1FCemI5SlFsOWJCVE9zR0oyWV9LMHZid0RyczFRenJOVUdNS2M1MjF4dktkekE?oc=5",
-    "published_at": "2026-08-15T17:25:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWWRmakhyNktTTGVTeVBaRHhkSm1tdkltSC03Rm5faVhNVTU2RzA5STdtcXVDejQ3Qk9kdldsbnJVazhibk9UQmZhZHh1LUF5LUhjSWY0SFhWc2VlajNxSTFRMlFqdTVOYmxfRXRIeWw0STRja2hIU0dJeFJ6c2tMeW1iUHQzVEFNMGZkOUdUSVRtb0tDN1FCemI5SlFsOWJCVE9zR0oyWV9...",
-    "tags": [
-      "injury"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.381049+00:00"
+    "last_updated": "2026-08-16T15:19:00.581885+00:00"
   },
   {
     "news_id": "news_84b8b2c92ecb507c",
@@ -343,29 +327,29 @@
     "headline": "Ohio State's QB depth chart just got a lot more interesting thanks to this freshman - Yahoo Sports",
     "source_name": "Yahoo Sports",
     "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekR1QUhDN0NkVlI5UDlDU1JMaDNLVjNyRHo2TzBORFlrUzZYQWNwRXNSSDhjaUlUX2E5a3VUbDY5MENhU2pLZzhNUkJaVzhoSXVsVGc1ZF9iNHd3d2JqZll5SHFoRy1FU0Z0RWVFZm1HTVJLT1pUOWxscERRODRiQw?oc=5",
-    "published_at": "2026-08-15T18:01:01+00:00",
+    "published_at": "2026-08-15T19:43:05+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOekR1QUhDN0NkVlI5UDlDU1JMaDNLVjNyRHo2TzBORFlrUzZYQWNwRXNSSDhjaUlUX2E5a3VUbDY5MENhU2pLZzhNUkJaVzhoSXVsVGc1ZF9iNHd3d2JqZll5SHFoRy1FU0Z0RWVFZm1HTVJLT1pUOWxscERRODRiQw?oc=5\" target=\"_blank\">Ohio State's QB depth chart ju...",
     "tags": [
       "depth_chart"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.381143+00:00"
+    "last_updated": "2026-08-16T15:19:00.581985+00:00"
   },
   {
-    "news_id": "news_c39155d926e3621e",
+    "news_id": "news_fb8d6a87ea2e3ede",
     "player_id": null,
     "player_name": null,
     "team": "Ohio State",
-    "headline": "Ohio State tight end makes John Mackey 2026 preseason watch list - Buckeyes Wire",
-    "source_name": "Buckeyes Wire",
-    "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSkMyS1BESktMZTVfR21XRThickRURy1OSld3Qmc1aDNfZ3daQUwtdlN0RWMyU0JQMmQ3Nk9uMTlaV19iUzlmdWJGWEtpcDZzajVrOENBenFqQzBiU19mVGhOQ1NON0d1QjA3MXpVVFJ1MFZLUjE3ekYycW1uVWxYbm5wOE16UC1mQXdMcnJyUElzNC1veDlWNXJEaDFwb09BNlVoWGxnU3lOODRUMnVzUmlpZGpZYkhaSjlWSl80ZWtuNWpmeE9EemNxVzZ1eGdGX1JTcGtTVWU1X09xb0hiMzViLTV2X0d1SkE?oc=5",
-    "published_at": "2026-08-16T03:07:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSkMyS1BESktMZTVfR21XRThickRURy1OSld3Qmc1aDNfZ3daQUwtdlN0RWMyU0JQMmQ3Nk9uMTlaV19iUzlmdWJGWEtpcDZzajVrOENBenFqQzBiU19mVGhOQ1NON0d1QjA3MXpVVFJ1MFZLUjE3ekYycW1uVWxYbm5wOE16UC1mQXdMcnJyUElzNC1veDlWNXJEaDFwb09BNlVoWGxnU3l...",
+    "headline": "Player to Watch: Jermaine Mathews Jr. is the elder statesman of Ohio State’s secondary - Land-Grant Holy Land",
+    "source_name": "Land-Grant Holy Land",
+    "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQW4yUWFtSTgxVGpiczJOTEhBU3dlRWFPSXA4RW9Ha0w5Yi0wMUhPaGNRaUlrX3VNSWJZYldOTzh5aDRjVi0wYjJ5c1pVQ0p1Nk1BN2p3QXZiZmRnclk0TDJXNkVXUExWNEl4dHFWRjAwajBfRGk0Y0ZlemE5ZmxyNFpVbmNGYUF0eGN0OFFKU0F1M2VGQlBNTFk2NzI4UnJFUVhYTXRwWlo5SzNrMDhzY29fZ3Nkc2Jxb2FudE5kWjhNQ3hSQkp5enlKU1p1YTFXQVpZUi1wMHd4ZDJrRmJQNzY2SGw4Zw?oc=5",
+    "published_at": "2026-08-16T14:01:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQW4yUWFtSTgxVGpiczJOTEhBU3dlRWFPSXA4RW9Ha0w5Yi0wMUhPaGNRaUlrX3VNSWJZYldOTzh5aDRjVi0wYjJ5c1pVQ0p1Nk1BN2p3QXZiZmRnclk0TDJXNkVXUExWNEl4dHFWRjAwajBfRGk0Y0ZlemE5ZmxyNFpVbmNGYUF0eGN0OFFKU0F1M2VGQlBNTFk2NzI4UnJFUVhYTXRwWlo...",
     "tags": [
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.381237+00:00"
+    "last_updated": "2026-08-16T15:19:00.582093+00:00"
   },
   {
     "news_id": "news_27db8cb4eb6fa150",
@@ -381,7 +365,39 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.381331+00:00"
+    "last_updated": "2026-08-16T15:19:00.582189+00:00"
+  },
+  {
+    "news_id": "news_c39155d926e3621e",
+    "player_id": null,
+    "player_name": null,
+    "team": "Ohio State",
+    "headline": "Ohio State tight end makes John Mackey 2026 preseason watch list - Buckeyes Wire",
+    "source_name": "Buckeyes Wire",
+    "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSkMyS1BESktMZTVfR21XRThickRURy1OSld3Qmc1aDNfZ3daQUwtdlN0RWMyU0JQMmQ3Nk9uMTlaV19iUzlmdWJGWEtpcDZzajVrOENBenFqQzBiU19mVGhOQ1NON0d1QjA3MXpVVFJ1MFZLUjE3ekYycW1uVWxYbm5wOE16UC1mQXdMcnJyUElzNC1veDlWNXJEaDFwb09BNlVoWGxnU3lOODRUMnVzUmlpZGpZYkhaSjlWSl80ZWtuNWpmeE9EemNxVzZ1eGdGX1JTcGtTVWU1X09xb0hiMzViLTV2X0d1SkE?oc=5",
+    "published_at": "2026-08-16T03:07:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSkMyS1BESktMZTVfR21XRThickRURy1OSld3Qmc1aDNfZ3daQUwtdlN0RWMyU0JQMmQ3Nk9uMTlaV19iUzlmdWJGWEtpcDZzajVrOENBenFqQzBiU19mVGhOQ1NON0d1QjA3MXpVVFJ1MFZLUjE3ekYycW1uVWxYbm5wOE16UC1mQXdMcnJyUElzNC1veDlWNXJEaDFwb09BNlVoWGxnU3l...",
+    "tags": [
+      "general"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-16T15:19:00.582284+00:00"
+  },
+  {
+    "news_id": "news_1c123102c3ac87fc",
+    "player_id": null,
+    "player_name": null,
+    "team": "Ohio State",
+    "headline": "Ryan Day gives injury update on Austin Siereveld — and what it means for Ohio State's line - Cleveland.com",
+    "source_name": "Cleveland.com",
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWWRmakhyNktTTGVTeVBaRHhkSm1tdkltSC03Rm5faVhNVTU2RzA5STdtcXVDejQ3Qk9kdldsbnJVazhibk9UQmZhZHh1LUF5LUhjSWY0SFhWc2VlajNxSTFRMlFqdTVOYmxfRXRIeWw0STRja2hIU0dJeFJ6c2tMeW1iUHQzVEFNMGZkOUdUSVRtb0tDN1FCemI5SlFsOWJCVE9zR0oyWV9LMHZid0RyczFRenJOVUdNS2M1MjF4dktkekE?oc=5",
+    "published_at": "2026-08-15T17:25:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWWRmakhyNktTTGVTeVBaRHhkSm1tdkltSC03Rm5faVhNVTU2RzA5STdtcXVDejQ3Qk9kdldsbnJVazhibk9UQmZhZHh1LUF5LUhjSWY0SFhWc2VlajNxSTFRMlFqdTVOYmxfRXRIeWw0STRja2hIU0dJeFJ6c2tMeW1iUHQzVEFNMGZkOUdUSVRtb0tDN1FCemI5SlFsOWJCVE9zR0oyWV9...",
+    "tags": [
+      "injury"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-16T15:19:00.582386+00:00"
   },
   {
     "news_id": "news_d82fa2285edd6b52",
@@ -398,23 +414,23 @@
       "transfer"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.381429+00:00"
+    "last_updated": "2026-08-16T15:19:00.582485+00:00"
   },
   {
-    "news_id": "news_1737a6ad4eafb597",
+    "news_id": "news_81254f0ae2100edf",
     "player_id": null,
     "player_name": null,
     "team": "Ohio State",
-    "headline": "How Matt Patricia's scheme won Qua Russaw over to transfer to Ohio State - 247Sports",
-    "source_name": "247Sports",
-    "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSTFWd2EtQ0RhakFZTGg3cDRWek0yZTJvMVNKTWJFYlBzZGlXekFpQjgxUHFZb2FXaGxtQ0MtcEV6dmZFeGVQVzhBSGQ0aUJqaEszOEZOQ3N4b29jTzZJaHFsLXJ0d0wtVWpmcTJCU0xsdzVTSi1TdTZvSXk4WXY0YmRjUkh1RnpHazdNanoxYm1YYXN0LVpCcS1VQnpkMmQza2drSllHU19Oc2pYbDh3UUlDdmVaNTcwZGFwYjhYVW01bzh6Sy1JTE5uRVJRT2FPeUxFdWhhSQ?oc=5",
-    "published_at": "2026-08-15T19:14:32+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSTFWd2EtQ0RhakFZTGg3cDRWek0yZTJvMVNKTWJFYlBzZGlXekFpQjgxUHFZb2FXaGxtQ0MtcEV6dmZFeGVQVzhBSGQ0aUJqaEszOEZOQ3N4b29jTzZJaHFsLXJ0d0wtVWpmcTJCU0xsdzVTSi1TdTZvSXk4WXY0YmRjUkh1RnpHazdNanoxYm1YYXN0LVpCcS1VQnpkMmQza2drSllHU19...",
+    "headline": "What we’re hearing after Ohio State’s first 9 practices of preseason camp - The New York Times",
+    "source_name": "The New York Times",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdzBRQmJxQlpmLXVXMjFDNFFuMlUwZkVIWENQOXQzVFc5VlN5UmJSQk5qeTZiY1RhOVZLdTFEOWxNWjNYOTB0bjlOa0tQS2pTVml4bFVzdkEtVGFjYmtmdEMxa19SSy1hYmMzMnh6RHdrZlBZYXNBQ25XM0tmdmtLbkVlMlV1SXVGRUxrMzVFQlZGRjJX?oc=5",
+    "published_at": "2026-08-15T22:10:20+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPdzBRQmJxQlpmLXVXMjFDNFFuMlUwZkVIWENQOXQzVFc5VlN5UmJSQk5qeTZiY1RhOVZLdTFEOWxNWjNYOTB0bjlOa0tQS2pTVml4bFVzdkEtVGFjYmtmdEMxa19SSy1hYmMzMnh6RHdrZlBZYXNBQ25XM0tmdmtLbkVlMlV1SXVGRUxrMzVFQlZGRjJX?oc=5\" target=\"_blank\">What...",
     "tags": [
-      "transfer"
+      "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.381524+00:00"
+    "last_updated": "2026-08-16T15:19:00.582583+00:00"
   },
   {
     "news_id": "news_a6d3b58f48553e4e",
@@ -430,7 +446,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.381630+00:00"
+    "last_updated": "2026-08-16T15:19:00.582698+00:00"
   },
   {
     "news_id": "news_a5ffabacccf80e82",
@@ -446,7 +462,7 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.381727+00:00"
+    "last_updated": "2026-08-16T15:19:00.582787+00:00"
   },
   {
     "news_id": "news_1cde948731c6b61a",
@@ -462,31 +478,15 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.381852+00:00"
+    "last_updated": "2026-08-16T15:19:00.582906+00:00"
   },
   {
-    "news_id": "news_ed02590e11288fdc",
-    "player_id": null,
-    "player_name": null,
-    "team": "Ohio State",
-    "headline": "7 Ohio State football players standing out through first week of training camp - The Columbus Dispatch",
-    "source_name": "The Columbus Dispatch",
-    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaE5pTE9VbHhIT0gyZ3ppcGQ4d0FmMkh3MjBPUm9xZnRLRVQ1ZGwtRldBaDRPaGNoLWE3cHJZSjU1eF8tNV9VcHlwQUp2R2h3RzFGRUlnODRGbWFMVGJFV1NPQ3V5NlI1ZlAxVHV1dWZnTDB3a3pVQzRCYy02ZmRtMkdQVENUYmx1UkNOR015SW9mRExnV0hCQ3E5NnZZOXZCN2xMUUx2Vl91VGVvYXRweUxsLXNXcEI3ZXdXaHY4ZTd6MWxkdjEwWXRXNU41VjUtYWc?oc=5",
-    "published_at": "2026-08-14T14:39:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaE5pTE9VbHhIT0gyZ3ppcGQ4d0FmMkh3MjBPUm9xZnRLRVQ1ZGwtRldBaDRPaGNoLWE3cHJZSjU1eF8tNV9VcHlwQUp2R2h3RzFGRUlnODRGbWFMVGJFV1NPQ3V5NlI1ZlAxVHV1dWZnTDB3a3pVQzRCYy02ZmRtMkdQVENUYmx1UkNOR015SW9mRExnV0hCQ3E5NnZZOXZCN2xMUUx2Vl9...",
-    "tags": [
-      "injury"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.381951+00:00"
-  },
-  {
-    "news_id": "news_7bc4c8afb5007fe5",
+    "news_id": "news_6f810acb312a970a",
     "player_id": null,
     "player_name": null,
     "team": "Michigan",
-    "headline": "What Michigan Football's Preseason Means for Wolverine's Transfer Portal Future - si.com",
-    "source_name": "si.com",
+    "headline": "What Michigan Football's Preseason Means for Wolverine's Transfer Portal Future - Sports Illustrated",
+    "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSnc4ZDhaOTJ1cURpWGtKR0xtX3VxcHprTVV4YWI0LTM3VXQ5c05KcEJFWWtkTDdVNWpJVGVGMkF3VldORE5peDBwbXBHdDRjQ3dYZzlPZy1xYWR0YWIwTkNSYWJTd1gzeUJUem9Mc1JCc3oyTzFBQ3NzQTJQdkpJRDFoQkRJVmVRdFRMYXI2SUtSZDZfVHR3dVpXQUpTUTFGU0VYT2ZVOGNnN1l1M2cxQ1Y5QTRrSzFRVUxhbw?oc=5",
     "published_at": "2026-08-15T19:00:01+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOSnc4ZDhaOTJ1cURpWGtKR0xtX3VxcHprTVV4YWI0LTM3VXQ5c05KcEJFWWtkTDdVNWpJVGVGMkF3VldORE5peDBwbXBHdDRjQ3dYZzlPZy1xYWR0YWIwTkNSYWJTd1gzeUJUem9Mc1JCc3oyTzFBQ3NzQTJQdkpJRDFoQkRJVmVRdFRMYXI2SUtSZDZfVHR3dVpXQUpTUTFGU0VYT2ZVOGN...",
@@ -494,7 +494,7 @@
       "transfer"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.382043+00:00"
+    "last_updated": "2026-08-16T15:19:00.583002+00:00"
   },
   {
     "news_id": "news_94f0a165d5670795",
@@ -510,7 +510,7 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.382160+00:00"
+    "last_updated": "2026-08-16T15:19:00.583116+00:00"
   },
   {
     "news_id": "news_fb2ac6647be3e29c",
@@ -526,7 +526,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.382249+00:00"
+    "last_updated": "2026-08-16T15:19:00.583207+00:00"
   },
   {
     "news_id": "news_50113dbb6902324b",
@@ -542,7 +542,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.382342+00:00"
+    "last_updated": "2026-08-16T15:19:00.583302+00:00"
   },
   {
     "news_id": "news_1d4cc349c53511f7",
@@ -558,7 +558,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.382458+00:00"
+    "last_updated": "2026-08-16T15:19:00.583421+00:00"
   },
   {
     "news_id": "news_8eb556365d2f2a36",
@@ -574,7 +574,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.382555+00:00"
+    "last_updated": "2026-08-16T15:19:00.583520+00:00"
   },
   {
     "news_id": "news_568ba2d1d731f426",
@@ -590,7 +590,7 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.382652+00:00"
+    "last_updated": "2026-08-16T15:19:00.583617+00:00"
   },
   {
     "news_id": "news_54aa79f0bddb6d99",
@@ -606,7 +606,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.382750+00:00"
+    "last_updated": "2026-08-16T15:19:00.583715+00:00"
   },
   {
     "news_id": "news_d8ad39d6339f846a",
@@ -622,7 +622,7 @@
       "transfer"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.382871+00:00"
+    "last_updated": "2026-08-16T15:19:00.583809+00:00"
   },
   {
     "news_id": "news_aee5e301d2aaccd2",
@@ -638,39 +638,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.382976+00:00"
-  },
-  {
-    "news_id": "news_dbe43a2cc0e16c82",
-    "player_id": null,
-    "player_name": null,
-    "team": "Texas",
-    "headline": "Joey McGuire not shutting door on Texas Tech football adding to roster - Lubbock Avalanche-Journal",
-    "source_name": "Lubbock Avalanche-Journal",
-    "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRDBQOGZWUGdmVUlXRFJLdVdKbVBLcmRpV3BKVXdWWXpkVThkaVRXZ0RwVTItMnpaamJjUVVXNWZUWElhdHVSaFhjMzRGaFdpTkprTzZsdHRBamZNaW9DVEpjeDQ4My1xTU1ybUJFYVN0RkZTV0U3VFl4NEpqVFZwY3U5cmF1VEc2V2lfUldDdmljNjFqb0UyVEFqUjB3SGcySDFIaDJYTnlVU1hUNU1HNDZNZThGd0dkeUJsNU1LUzVWdE9pNUhsbHlEWFJ3VnZxdmhFZDlvVGhmdXZ0Zkdz?oc=5",
-    "published_at": "2026-08-15T19:31:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRDBQOGZWUGdmVUlXRFJLdVdKbVBLcmRpV3BKVXdWWXpkVThkaVRXZ0RwVTItMnpaamJjUVVXNWZUWElhdHVSaFhjMzRGaFdpTkprTzZsdHRBamZNaW9DVEpjeDQ4My1xTU1ybUJFYVN0RkZTV0U3VFl4NEpqVFZwY3U5cmF1VEc2V2lfUldDdmljNjFqb0UyVEFqUjB3SGcySDFIaDJYTnl...",
-    "tags": [
-      "general"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.383069+00:00"
-  },
-  {
-    "news_id": "news_ea67384cb906b3dc",
-    "player_id": null,
-    "player_name": null,
-    "team": "Texas",
-    "headline": "Texas football: Longhorns battle the flu as defense wins preseason's first scrimmage - Austin American-Statesman",
-    "source_name": "Austin American-Statesman",
-    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVEFOdnZtX0VBSVl2c1RFY0NTN1JJeFFCSlVGR3N5YnJJQUY2a3ExLTVia1FCMVZfLWhjWjBCczE5eU45M2ROczA3QWd0SUY1UVhKTU41cUkzWUh5STA0R05zcjBQRnd5bFp5LUFpSGU3X0tENld1R0k5enBackRsUldfTTJpQTJwWlJYSDBseTJfZVZxN0ZJUjROd3lpZjBaSDZWYTlvZldzTTZ3djllUTdyOERKWGdkZzBEX2gyNDFLclU?oc=5",
-    "published_at": "2026-08-15T19:35:58+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVEFOdnZtX0VBSVl2c1RFY0NTN1JJeFFCSlVGR3N5YnJJQUY2a3ExLTVia1FCMVZfLWhjWjBCczE5eU45M2ROczA3QWd0SUY1UVhKTU41cUkzWUh5STA0R05zcjBQRnd5bFp5LUFpSGU3X0tENld1R0k5enBackRsUldfTTJpQTJwWlJYSDBseTJfZVZxN0ZJUjROd3lpZjBaSDZWYTlvZld...",
-    "tags": [
-      "general"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.383161+00:00"
+    "last_updated": "2026-08-16T15:19:00.583928+00:00"
   },
   {
     "news_id": "news_3172e10423bc17fc",
@@ -686,39 +654,39 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.383249+00:00"
+    "last_updated": "2026-08-16T15:19:00.584021+00:00"
   },
   {
-    "news_id": "news_7297a1277229ace3",
+    "news_id": "news_dbe43a2cc0e16c82",
     "player_id": null,
     "player_name": null,
     "team": "Texas",
-    "headline": "12 questions facing Texas football in 2026: No. 6 -- How will Brandon Baker fare moving inside to right guard - 247Sports",
-    "source_name": "247Sports",
-    "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbjBTNVhITnFxXzlUYmQ3di00SFBlRzJCelN5VktBaWtQdk5nMFFvSlVEQWRhbi1OSmhSQThOYTRXQ1JjNTctNnJpdVRLQWZidTMxS2Z3UVRzQnlTQ0gtYXFEN2tQRU0zVjJIOEI3cl9sVEN2NmtZYVRzUnhObjZHQ2hXM1BuV3A0Z3NSdm44VzRrZmMxSnJPUzM4QVkxendaQ1BFWHlkY25Vb0FTZVNmTGl4dWQ5STBkRmlHMmFVeWx3VmdJNTB3SndpTFZlNTczZWJXUDhMdG1hSG93VVM0bVpaQ1N4X19DelRxVDJJc2s?oc=5",
-    "published_at": "2026-08-15T19:26:34+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbjBTNVhITnFxXzlUYmQ3di00SFBlRzJCelN5VktBaWtQdk5nMFFvSlVEQWRhbi1OSmhSQThOYTRXQ1JjNTctNnJpdVRLQWZidTMxS2Z3UVRzQnlTQ0gtYXFEN2tQRU0zVjJIOEI3cl9sVEN2NmtZYVRzUnhObjZHQ2hXM1BuV3A0Z3NSdm44VzRrZmMxSnJPUzM4QVkxendaQ1BFWHlkY25...",
+    "headline": "Joey McGuire not shutting door on Texas Tech football adding to roster - Lubbock Avalanche-Journal",
+    "source_name": "Lubbock Avalanche-Journal",
+    "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRDBQOGZWUGdmVUlXRFJLdVdKbVBLcmRpV3BKVXdWWXpkVThkaVRXZ0RwVTItMnpaamJjUVVXNWZUWElhdHVSaFhjMzRGaFdpTkprTzZsdHRBamZNaW9DVEpjeDQ4My1xTU1ybUJFYVN0RkZTV0U3VFl4NEpqVFZwY3U5cmF1VEc2V2lfUldDdmljNjFqb0UyVEFqUjB3SGcySDFIaDJYTnlVU1hUNU1HNDZNZThGd0dkeUJsNU1LUzVWdE9pNUhsbHlEWFJ3VnZxdmhFZDlvVGhmdXZ0Zkdz?oc=5",
+    "published_at": "2026-08-15T19:31:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRDBQOGZWUGdmVUlXRFJLdVdKbVBLcmRpV3BKVXdWWXpkVThkaVRXZ0RwVTItMnpaamJjUVVXNWZUWElhdHVSaFhjMzRGaFdpTkprTzZsdHRBamZNaW9DVEpjeDQ4My1xTU1ybUJFYVN0RkZTV0U3VFl4NEpqVFZwY3U5cmF1VEc2V2lfUldDdmljNjFqb0UyVEFqUjB3SGcySDFIaDJYTnl...",
     "tags": [
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.383347+00:00"
+    "last_updated": "2026-08-16T15:19:00.584116+00:00"
   },
   {
-    "news_id": "news_faa85b3c64433368",
+    "news_id": "news_ea67384cb906b3dc",
     "player_id": null,
     "player_name": null,
     "team": "Texas",
-    "headline": "Development of Texas RB Derrek Cooper is impressing Steve Sarkisian - Burnt Orange Nation",
-    "source_name": "Burnt Orange Nation",
-    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSGVDXzZXMnZNOHUzWkVXUTl5VUQ4UlRSNTBseDdRcDJPd2Zsbl9hbXk1U1k1NkhBeFhqbk4xZHdUdmRvUkxvQWFHbUhJWXZ1MWRZcVV4R1dNWmpVdURLQXV2UmQ0YnBqUXY0cVllcG9hRVpkTFItcFQxUkZTWHdGOVVvTVM0STdwMzMyXzY0b2JhRHhhZmlqb0dDMzItY3BpSEIxamd4QTZQQ0I5VWhR?oc=5",
-    "published_at": "2026-08-15T18:15:39+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPSGVDXzZXMnZNOHUzWkVXUTl5VUQ4UlRSNTBseDdRcDJPd2Zsbl9hbXk1U1k1NkhBeFhqbk4xZHdUdmRvUkxvQWFHbUhJWXZ1MWRZcVV4R1dNWmpVdURLQXV2UmQ0YnBqUXY0cVllcG9hRVpkTFItcFQxUkZTWHdGOVVvTVM0STdwMzMyXzY0b2JhRHhhZmlqb0dDMzItY3BpSEIxamd4QTZ...",
+    "headline": "Texas football: Longhorns battle the flu as defense wins preseason's first scrimmage - Austin American-Statesman",
+    "source_name": "Austin American-Statesman",
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVEFOdnZtX0VBSVl2c1RFY0NTN1JJeFFCSlVGR3N5YnJJQUY2a3ExLTVia1FCMVZfLWhjWjBCczE5eU45M2ROczA3QWd0SUY1UVhKTU41cUkzWUh5STA0R05zcjBQRnd5bFp5LUFpSGU3X0tENld1R0k5enBackRsUldfTTJpQTJwWlJYSDBseTJfZVZxN0ZJUjROd3lpZjBaSDZWYTlvZldzTTZ3djllUTdyOERKWGdkZzBEX2gyNDFLclU?oc=5",
+    "published_at": "2026-08-15T19:35:58+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVEFOdnZtX0VBSVl2c1RFY0NTN1JJeFFCSlVGR3N5YnJJQUY2a3ExLTVia1FCMVZfLWhjWjBCczE5eU45M2ROczA3QWd0SUY1UVhKTU41cUkzWUh5STA0R05zcjBQRnd5bFp5LUFpSGU3X0tENld1R0k5enBackRsUldfTTJpQTJwWlJYSDBseTJfZVZxN0ZJUjROd3lpZjBaSDZWYTlvZld...",
     "tags": [
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.383437+00:00"
+    "last_updated": "2026-08-16T15:19:00.584211+00:00"
   },
   {
     "news_id": "news_07fd76b6b8870dd8",
@@ -734,7 +702,55 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.383526+00:00"
+    "last_updated": "2026-08-16T15:19:00.584301+00:00"
+  },
+  {
+    "news_id": "news_7297a1277229ace3",
+    "player_id": null,
+    "player_name": null,
+    "team": "Texas",
+    "headline": "12 questions facing Texas football in 2026: No. 6 -- How will Brandon Baker fare moving inside to right guard - 247Sports",
+    "source_name": "247Sports",
+    "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbjBTNVhITnFxXzlUYmQ3di00SFBlRzJCelN5VktBaWtQdk5nMFFvSlVEQWRhbi1OSmhSQThOYTRXQ1JjNTctNnJpdVRLQWZidTMxS2Z3UVRzQnlTQ0gtYXFEN2tQRU0zVjJIOEI3cl9sVEN2NmtZYVRzUnhObjZHQ2hXM1BuV3A0Z3NSdm44VzRrZmMxSnJPUzM4QVkxendaQ1BFWHlkY25Vb0FTZVNmTGl4dWQ5STBkRmlHMmFVeWx3VmdJNTB3SndpTFZlNTczZWJXUDhMdG1hSG93VVM0bVpaQ1N4X19DelRxVDJJc2s?oc=5",
+    "published_at": "2026-08-15T19:26:34+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbjBTNVhITnFxXzlUYmQ3di00SFBlRzJCelN5VktBaWtQdk5nMFFvSlVEQWRhbi1OSmhSQThOYTRXQ1JjNTctNnJpdVRLQWZidTMxS2Z3UVRzQnlTQ0gtYXFEN2tQRU0zVjJIOEI3cl9sVEN2NmtZYVRzUnhObjZHQ2hXM1BuV3A0Z3NSdm44VzRrZmMxSnJPUzM4QVkxendaQ1BFWHlkY25...",
+    "tags": [
+      "general"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-16T15:19:00.584400+00:00"
+  },
+  {
+    "news_id": "news_29fdac27688551c5",
+    "player_id": null,
+    "player_name": null,
+    "team": "Texas",
+    "headline": "40 Texas Panhandle and South Plains football players to watch in 2026 - Press Pass Sports",
+    "source_name": "Press Pass Sports",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUTlUM0pRTDRiQ3M1RmRSbzBBcjF5Z2FpdHFIWEsxMk1PeF9qdGt4UzZRTFhsV2RHSktkajZOUU1tVU50SHZSa2w4bTVsSV9SdXljYXJFNjhBZ21VbDZGZ3hLMktMeE5hT3Z0WHNMM0dzd2p4aE5fNUpxTzMtMVFid0NSNnVPNHhzazhqbGpYRzFaU1RicktMMHNxdHBwRkxyODY5enBVNmtFYUlq?oc=5",
+    "published_at": "2026-08-16T14:03:48+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNUTlUM0pRTDRiQ3M1RmRSbzBBcjF5Z2FpdHFIWEsxMk1PeF9qdGt4UzZRTFhsV2RHSktkajZOUU1tVU50SHZSa2w4bTVsSV9SdXljYXJFNjhBZ21VbDZGZ3hLMktMeE5hT3Z0WHNMM0dzd2p4aE5fNUpxTzMtMVFid0NSNnVPNHhzazhqbGpYRzFaU1RicktMMHNxdHBwRkxyODY5enBVNmt...",
+    "tags": [
+      "injury"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-16T15:19:00.584494+00:00"
+  },
+  {
+    "news_id": "news_faa85b3c64433368",
+    "player_id": null,
+    "player_name": null,
+    "team": "Texas",
+    "headline": "Development of Texas RB Derrek Cooper is impressing Steve Sarkisian - Burnt Orange Nation",
+    "source_name": "Burnt Orange Nation",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSGVDXzZXMnZNOHUzWkVXUTl5VUQ4UlRSNTBseDdRcDJPd2Zsbl9hbXk1U1k1NkhBeFhqbk4xZHdUdmRvUkxvQWFHbUhJWXZ1MWRZcVV4R1dNWmpVdURLQXV2UmQ0YnBqUXY0cVllcG9hRVpkTFItcFQxUkZTWHdGOVVvTVM0STdwMzMyXzY0b2JhRHhhZmlqb0dDMzItY3BpSEIxamd4QTZQQ0I5VWhR?oc=5",
+    "published_at": "2026-08-15T18:15:39+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPSGVDXzZXMnZNOHUzWkVXUTl5VUQ4UlRSNTBseDdRcDJPd2Zsbl9hbXk1U1k1NkhBeFhqbk4xZHdUdmRvUkxvQWFHbUhJWXZ1MWRZcVV4R1dNWmpVdURLQXV2UmQ0YnBqUXY0cVllcG9hRVpkTFItcFQxUkZTWHdGOVVvTVM0STdwMzMyXzY0b2JhRHhhZmlqb0dDMzItY3BpSEIxamd4QTZ...",
+    "tags": [
+      "general"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-16T15:19:00.584586+00:00"
   },
   {
     "news_id": "news_693c2828e3b8a9e0",
@@ -750,7 +766,7 @@
       "transfer"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.383616+00:00"
+    "last_updated": "2026-08-16T15:19:00.584676+00:00"
   },
   {
     "news_id": "news_87eb30a8a317ef72",
@@ -766,15 +782,15 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.383710+00:00"
+    "last_updated": "2026-08-16T15:19:00.584770+00:00"
   },
   {
-    "news_id": "news_f8067c3174ce7392",
+    "news_id": "news_cd8b4faa9c7f948e",
     "player_id": null,
     "player_name": null,
     "team": "Texas",
-    "headline": "Texas HS football player airlifted from practice, in critical condition - chron.com",
-    "source_name": "chron.com",
+    "headline": "Texas HS football player airlifted from practice, in critical condition - Chron",
+    "source_name": "Chron",
     "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdHBxN2otamg1bFExdWhWR19OWEdXbGl4UnBIci1QOHVaUFJvWE1RUDdkSG1XMkNCX1ExdTF6QkNNTlNGMnR6aFlEeVJvUWgwYTh6YXN5Z3A2dkgtUEtOcnkySkZBNl9LSTdwRllwRkR6clZrRm9RQVFlVFlkLVVpaGdYbWtWdGh1dTR0SkI2SldMQkpwZnZQem5NdzBDbnZPbl9z?oc=5",
     "published_at": "2026-08-11T07:30:56+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNdHBxN2otamg1bFExdWhWR19OWEdXbGl4UnBIci1QOHVaUFJvWE1RUDdkSG1XMkNCX1ExdTF6QkNNTlNGMnR6aFlEeVJvUWgwYTh6YXN5Z3A2dkgtUEtOcnkySkZBNl9LSTdwRllwRkR6clZrRm9RQVFlVFlkLVVpaGdYbWtWdGh1dTR0SkI2SldMQkpwZnZQem5NdzBDbnZPbl9z?oc=5\"...",
@@ -782,22 +798,6 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.383837+00:00"
-  },
-  {
-    "news_id": "news_75dab94f115587d8",
-    "player_id": null,
-    "player_name": null,
-    "team": "Texas",
-    "headline": "Parker Livingstone Responds to Steve Sarkisian After Leaving Texas for Oklahoma - si.com",
-    "source_name": "si.com",
-    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSE9BUk9GXzEtUVhmLVpPNFRnT21WMWZCSWxYcVdsMERQYnJBb0dfWjBTOEtaMVdnLWVUOTVnZW55NXRKRnZrYVVnX0tfLXJJQW1SZnBfNDZYUE9wUW84VGp4Z3lnZXA2eUVqQ0ZCY0JMNHJSWVBhZE1ITVpXZVJ1NlgxRlNtTlJzbHRhckN1OHJyX2Y3NkRXTTBJeS1MSkRfSGYtZ1U2bDltNW52V004UHItQmp5dzJBTWVjMmxR?oc=5",
-    "published_at": "2026-08-14T19:27:05+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNSE9BUk9GXzEtUVhmLVpPNFRnT21WMWZCSWxYcVdsMERQYnJBb0dfWjBTOEtaMVdnLWVUOTVnZW55NXRKRnZrYVVnX0tfLXJJQW1SZnBfNDZYUE9wUW84VGp4Z3lnZXA2eUVqQ0ZCY0JMNHJSWVBhZE1ITVpXZVJ1NlgxRlNtTlJzbHRhckN1OHJyX2Y3NkRXTTBJeS1MSkRfSGYtZ1U2bDl...",
-    "tags": [
-      "general"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-16T10:20:08.383933+00:00"
+    "last_updated": "2026-08-16T15:19:00.584881+00:00"
   }
 ]
