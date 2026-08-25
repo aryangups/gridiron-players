@@ -13,7 +13,7 @@
       "depth_chart"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.972566+00:00"
+    "last_updated": "2026-08-25T21:37:46.617284+00:00"
   },
   {
     "news_id": "news_c9de0056cea6cb1f",
@@ -29,7 +29,23 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.972710+00:00"
+    "last_updated": "2026-08-25T21:37:46.617403+00:00"
+  },
+  {
+    "news_id": "news_56d94ad18eeac263",
+    "player_id": null,
+    "player_name": null,
+    "team": "Alabama",
+    "headline": "Ryan Grubb on Keelon Russell winning Alabama football QB job - The Tuscaloosa News",
+    "source_name": "The Tuscaloosa News",
+    "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQnpMZTRVbnNjVlkwRG4tY2t5TUJkVFRkcTV3OU90UlR0dW10WHZEeUFxdDdMSl9iVXg4QUlMSW1GY1JQUGU3V3pnVTE3VDRGc3BtOXRFNDRGWENsUzFHczducEFLT1VvTnZRajZnQVNDa2h0ZmY5cXFLTVRURTFCXzI4dHk1RjFuLWlNaTNiMzZZQTgyZlJOcGFoNkVyLUtlNEZIVDB3V3FXazVFSnY3TWVyUmJzVUl4Y0d4QUloTXdMbk9hSXl4SWItZzlmOWQwUmdoaWxjOUo?oc=5",
+    "published_at": "2026-08-25T17:12:08+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQnpMZTRVbnNjVlkwRG4tY2t5TUJkVFRkcTV3OU90UlR0dW10WHZEeUFxdDdMSl9iVXg4QUlMSW1GY1JQUGU3V3pnVTE3VDRGc3BtOXRFNDRGWENsUzFHczducEFLT1VvTnZRajZnQVNDa2h0ZmY5cXFLTVRURTFCXzI4dHk1RjFuLWlNaTNiMzZZQTgyZlJOcGFoNkVyLUtlNEZIVDB3V3F...",
+    "tags": [
+      "general"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-25T21:37:46.617483+00:00"
   },
   {
     "news_id": "news_e309021c4d81b645",
@@ -45,23 +61,7 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.972810+00:00"
-  },
-  {
-    "news_id": "news_11270469408c45af",
-    "player_id": null,
-    "player_name": null,
-    "team": "Alabama",
-    "headline": "Where the Alabama football offensive line stands to Ryan Grubb - The Tuscaloosa News",
-    "source_name": "The Tuscaloosa News",
-    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaFV6MlRMNUozTDk0cjJDZTJBZFRHNTNoeHI0OTBIaHFTcUV4a3hkMll5ZWNDQjZ0R0V0cmhya3pRUnVxMEpnRkRCMDYzeUNueXY3dFYzd29LS2t3ZTBORzV6VlBBMGMyeVdDYURpM2VUcWNrVlNBYUgzS1psTzFYd08xRjJGcG1VMTdOazRDSGxxX0d5QkVRMndxVXFBWEozTTIyTmt1OHQyNWpFWURfRGlTVGZIU2gyNnpMTFNDalpiamJUa2gwbEZnRmh1UTA?oc=5",
-    "published_at": "2026-08-25T17:42:08+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNaFV6MlRMNUozTDk0cjJDZTJBZFRHNTNoeHI0OTBIaHFTcUV4a3hkMll5ZWNDQjZ0R0V0cmhya3pRUnVxMEpnRkRCMDYzeUNueXY3dFYzd29LS2t3ZTBORzV6VlBBMGMyeVdDYURpM2VUcWNrVlNBYUgzS1psTzFYd08xRjJGcG1VMTdOazRDSGxxX0d5QkVRMndxVXFBWEozTTIyTmt1OHQ...",
-    "tags": [
-      "general"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.972928+00:00"
+    "last_updated": "2026-08-25T21:37:46.617554+00:00"
   },
   {
     "news_id": "news_952bf768d4b44e82",
@@ -77,7 +77,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.973021+00:00"
+    "last_updated": "2026-08-25T21:37:46.617628+00:00"
   },
   {
     "news_id": "news_2e4b4ba9c0d945a3",
@@ -93,7 +93,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.973107+00:00"
+    "last_updated": "2026-08-25T21:37:46.617696+00:00"
   },
   {
     "news_id": "news_576614a24ed39add",
@@ -109,39 +109,39 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.973202+00:00"
+    "last_updated": "2026-08-25T21:37:46.617772+00:00"
   },
   {
-    "news_id": "news_c81d6fbe5bcffaee",
+    "news_id": "news_19ee7abe08116056",
     "player_id": null,
     "player_name": null,
     "team": "Alabama",
-    "headline": "Another Alabama football rising star out due to injury, needs surgery - AL.com",
+    "headline": "This Alabama WR has ‘really impressed’ Ryan Grubb during camp - AL.com",
     "source_name": "AL.com",
-    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORU5mN2YwTlpESU9UbUFoLWxVSjZMQXl5Z2s3ck1XSEFHUUNOOGd0S0tTcWs2V3pBU0pUNDAyT1BYc010d09hTEZRZjhfZ2c1S3VMQlJHMkNBOU1JbXIxUW15M0pwZUdoMHd2dDU5TS1YNUp0Q3JqNlVjQTdhclFtOUVaNktQUGw3YVdVdHhWZTZtS19JNEhUMGVhRllFZHg5QWZncW9FMURPX2MxSFhiTQ?oc=5",
-    "published_at": "2026-08-24T21:04:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxORU5mN2YwTlpESU9UbUFoLWxVSjZMQXl5Z2s3ck1XSEFHUUNOOGd0S0tTcWs2V3pBU0pUNDAyT1BYc010d09hTEZRZjhfZ2c1S3VMQlJHMkNBOU1JbXIxUW15M0pwZUdoMHd2dDU5TS1YNUp0Q3JqNlVjQTdhclFtOUVaNktQUGw3YVdVdHhWZTZtS19JNEhUMGVhRllFZHg5QWZncW9FMUR...",
-    "tags": [
-      "injury"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.973304+00:00"
-  },
-  {
-    "news_id": "news_9cfb44dd5271b278",
-    "player_id": null,
-    "player_name": null,
-    "team": "Alabama",
-    "headline": "Ryan Grubb talks Ryan Coleman-Williams Alabama football development - The Tuscaloosa News",
-    "source_name": "The Tuscaloosa News",
-    "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMHFmMGNYck02Z1VSbVJDUW0yUENLYVFuaEFIS0J6cFppcnk2QnRIa29qOVhKYXE3VFc4b2gtNEpvclVDaWFsMUpyaklTTzlWUFFSOVpSSV9lU2xzLXBRLVdmRzNWWU4zRXJnLVVZZC1LdWUyTVRhSXlmYUkxSTF0dDdhUlJVclljMDZHNGRLbWZzS2VUVWNCUG50cjFPRS15S19vbXg2aGlGOWdZMThLd3JYb0pwWEdid2dWVnhXbDRyVDltVXVIaTUxQVctSWZ6U3BHZDMxTDFBdno0Mnc?oc=5",
-    "published_at": "2026-08-25T17:42:08+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMHFmMGNYck02Z1VSbVJDUW0yUENLYVFuaEFIS0J6cFppcnk2QnRIa29qOVhKYXE3VFc4b2gtNEpvclVDaWFsMUpyaklTTzlWUFFSOVpSSV9lU2xzLXBRLVdmRzNWWU4zRXJnLVVZZC1LdWUyTVRhSXlmYUkxSTF0dDdhUlJVclljMDZHNGRLbWZzS2VUVWNCUG50cjFPRS15S19vbXg2aGl...",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3lvdVRrNndnd2tJQWpKWlhPOVphQ1d6eGJ1MF85akRfX2s1c1lybDFnREZhYXZOTDYwNVNXa0FHVFBCb05BN1llR2pIU25kTmV5d3lCN1k3SFg1Unl6eVBxcDNKejVYWENsY1Z6T18zdTVLWU54VGw0QmpOMjdNbFA0bjVLT2dwcC00S3BxNl9zRGtUUFRsaHh3OXVNdkotNW5uUHhQOEMxbGc?oc=5",
+    "published_at": "2026-08-25T19:01:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3lvdVRrNndnd2tJQWpKWlhPOVphQ1d6eGJ1MF85akRfX2s1c1lybDFnREZhYXZOTDYwNVNXa0FHVFBCb05BN1llR2pIU25kTmV5d3lCN1k3SFg1Unl6eVBxcDNKejVYWENsY1Z6T18zdTVLWU54VGw0QmpOMjdNbFA0bjVLT2dwcC00S3BxNl9zRGtUUFRsaHh3OXVNdkotNW5uUHhQOEM...",
     "tags": [
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.973391+00:00"
+    "last_updated": "2026-08-25T21:37:46.617859+00:00"
+  },
+  {
+    "news_id": "news_11270469408c45af",
+    "player_id": null,
+    "player_name": null,
+    "team": "Alabama",
+    "headline": "Where the Alabama football offensive line stands to Ryan Grubb - The Tuscaloosa News",
+    "source_name": "The Tuscaloosa News",
+    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaFV6MlRMNUozTDk0cjJDZTJBZFRHNTNoeHI0OTBIaHFTcUV4a3hkMll5ZWNDQjZ0R0V0cmhya3pRUnVxMEpnRkRCMDYzeUNueXY3dFYzd29LS2t3ZTBORzV6VlBBMGMyeVdDYURpM2VUcWNrVlNBYUgzS1psTzFYd08xRjJGcG1VMTdOazRDSGxxX0d5QkVRMndxVXFBWEozTTIyTmt1OHQyNWpFWURfRGlTVGZIU2gyNnpMTFNDalpiamJUa2gwbEZnRmh1UTA?oc=5",
+    "published_at": "2026-08-25T17:42:08+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNaFV6MlRMNUozTDk0cjJDZTJBZFRHNTNoeHI0OTBIaHFTcUV4a3hkMll5ZWNDQjZ0R0V0cmhya3pRUnVxMEpnRkRCMDYzeUNueXY3dFYzd29LS2t3ZTBORzV6VlBBMGMyeVdDYURpM2VUcWNrVlNBYUgzS1psTzFYd08xRjJGcG1VMTdOazRDSGxxX0d5QkVRMndxVXFBWEozTTIyTmt1OHQ...",
+    "tags": [
+      "general"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-25T21:37:46.617924+00:00"
   },
   {
     "news_id": "news_a875e3dc417163f4",
@@ -157,23 +157,7 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.973480+00:00"
-  },
-  {
-    "news_id": "news_418093bf24d3438e",
-    "player_id": null,
-    "player_name": null,
-    "team": "Georgia",
-    "headline": "WATCH Isiah Canion on why he wanted to transfer to Georgia football - Online Athens",
-    "source_name": "Online Athens",
-    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcml2ODgtVjVnay02WEVmRklxV1hOZWRwY3JuMlpkdWY3Q3oyNjFfUk9GZ2ExUHRyRHhtOWpaZkpCQkZpQlZNVGZEVGNTQzEyMmdic1lUOFlEb0hHdjFJMXZXS3hubXJEV0RnVkQ3dGFmVjdkbGZmcUNNWW1qTGN5UTdJUXJrWFJmUU51ZDZUNWhtbXg1RXY5bjJHRnZIVHdxZEc3cWhka0FrYVUxdDBPWnFSUUdHQmhua3Z0bUk3aUxBTktrZE85cm1YaFU?oc=5",
-    "published_at": "2026-08-25T19:54:22+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNcml2ODgtVjVnay02WEVmRklxV1hOZWRwY3JuMlpkdWY3Q3oyNjFfUk9GZ2ExUHRyRHhtOWpaZkpCQkZpQlZNVGZEVGNTQzEyMmdic1lUOFlEb0hHdjFJMXZXS3hubXJEV0RnVkQ3dGFmVjdkbGZmcUNNWW1qTGN5UTdJUXJrWFJmUU51ZDZUNWhtbXg1RXY5bjJHRnZIVHdxZEc3cWhka0F...",
-    "tags": [
-      "transfer"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.973561+00:00"
+    "last_updated": "2026-08-25T21:37:46.617991+00:00"
   },
   {
     "news_id": "news_db6ee8fdaeda963b",
@@ -189,39 +173,23 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.973639+00:00"
+    "last_updated": "2026-08-25T21:37:46.618066+00:00"
   },
   {
-    "news_id": "news_0b5de5f414e66eef",
+    "news_id": "news_418093bf24d3438e",
     "player_id": null,
     "player_name": null,
     "team": "Georgia",
-    "headline": "Kirby Smart: Georgia not looking to add NFL players to roster - 247Sports",
-    "source_name": "247Sports",
-    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSklvV1M0dXF4QV80V2ZtWGVxNngzRUpRYkVzNThhZE1rQ0hFemZZSi1QMEh3cXdOc0tzRl9TVmVueDFuT0d6ZGdWWkVsSjcza2ljZ1VEZkdtRW5BYUxHTkZQTnUwQXYxMTV5UWtieEl5Z3k0M2JLbHZLZlFrV2R5dFplQXhsMXJHR0lKbGFDbWxVM1FGVnBxMlZkTVBzWmF4b0ZEandudFVSdVRNZWRWOXlMcUJYYlBITnUxb3dOZjNMbmFMRXNvLUZPenZXcl94?oc=5",
-    "published_at": "2026-08-25T18:19:29+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSklvV1M0dXF4QV80V2ZtWGVxNngzRUpRYkVzNThhZE1rQ0hFemZZSi1QMEh3cXdOc0tzRl9TVmVueDFuT0d6ZGdWWkVsSjcza2ljZ1VEZkdtRW5BYUxHTkZQTnUwQXYxMTV5UWtieEl5Z3k0M2JLbHZLZlFrV2R5dFplQXhsMXJHR0lKbGFDbWxVM1FGVnBxMlZkTVBzWmF4b0ZEandudFV...",
-    "tags": [
-      "general"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.973718+00:00"
-  },
-  {
-    "news_id": "news_de9ffc93e5f359fc",
-    "player_id": null,
-    "player_name": null,
-    "team": "Georgia",
-    "headline": "WATCH Isiah Canion on why he wanted to transfer to Georgia football - Yahoo Sports",
-    "source_name": "Yahoo Sports",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTWNwbWU1R3ZSNklDQU41YmxxQm5fLWV4Szlrc2p3eUdlMWJNRHlGLThzWTZ3MnlmQjhlM0lIQjdJVjk0b2lFTUtQdFhfMVNVaHF5MWU4M1pSUEhBSmRPYUpwY2JyTnFVX3VHWXhoU2VqUE8xNnk5eGUwZkJYY1Q1WTVn?oc=5",
-    "published_at": "2026-08-25T19:45:25+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNTWNwbWU1R3ZSNklDQU41YmxxQm5fLWV4Szlrc2p3eUdlMWJNRHlGLThzWTZ3MnlmQjhlM0lIQjdJVjk0b2lFTUtQdFhfMVNVaHF5MWU4M1pSUEhBSmRPYUpwY2JyTnFVX3VHWXhoU2VqUE8xNnk5eGUwZkJYY1Q1WTVn?oc=5\" target=\"_blank\">WATCH Isiah Canion on why he...",
+    "headline": "WATCH Isiah Canion on why he wanted to transfer to Georgia football - Online Athens",
+    "source_name": "Online Athens",
+    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcml2ODgtVjVnay02WEVmRklxV1hOZWRwY3JuMlpkdWY3Q3oyNjFfUk9GZ2ExUHRyRHhtOWpaZkpCQkZpQlZNVGZEVGNTQzEyMmdic1lUOFlEb0hHdjFJMXZXS3hubXJEV0RnVkQ3dGFmVjdkbGZmcUNNWW1qTGN5UTdJUXJrWFJmUU51ZDZUNWhtbXg1RXY5bjJHRnZIVHdxZEc3cWhka0FrYVUxdDBPWnFSUUdHQmhua3Z0bUk3aUxBTktrZE85cm1YaFU?oc=5",
+    "published_at": "2026-08-25T19:54:22+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNcml2ODgtVjVnay02WEVmRklxV1hOZWRwY3JuMlpkdWY3Q3oyNjFfUk9GZ2ExUHRyRHhtOWpaZkpCQkZpQlZNVGZEVGNTQzEyMmdic1lUOFlEb0hHdjFJMXZXS3hubXJEV0RnVkQ3dGFmVjdkbGZmcUNNWW1qTGN5UTdJUXJrWFJmUU51ZDZUNWhtbXg1RXY5bjJHRnZIVHdxZEc3cWhka0F...",
     "tags": [
       "transfer"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.973791+00:00"
+    "last_updated": "2026-08-25T21:37:46.618129+00:00"
   },
   {
     "news_id": "news_26761c8811727123",
@@ -237,39 +205,39 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.973893+00:00"
+    "last_updated": "2026-08-25T21:37:46.618199+00:00"
   },
   {
-    "news_id": "news_975e4284e94344ff",
+    "news_id": "news_0b5de5f414e66eef",
     "player_id": null,
     "player_name": null,
     "team": "Georgia",
-    "headline": "Everything fans need to know about the Georgia Bulldogs in 2026 - Dawn of the Dawg",
-    "source_name": "Dawn of the Dawg",
-    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeWJ2cnE3NlpObWRlTzF2ZVd3SXlOeTFVYjFZX1pqM19sakpjU2N3WnluVTlObHRKXzVBakQ1VnJHaXVZaXdQTzViaGZKQlNuZHhlQU1ZNUQ1QW5xQ241SUdsb0pNTDRsRHZ3WUpYQ2pGTmlkckhjcGZXV3lwTndnMUhPTXZTa1BmRi1PM2dmUnIxWEE?oc=5",
-    "published_at": "2026-08-25T16:15:32+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOeWJ2cnE3NlpObWRlTzF2ZVd3SXlOeTFVYjFZX1pqM19sakpjU2N3WnluVTlObHRKXzVBakQ1VnJHaXVZaXdQTzViaGZKQlNuZHhlQU1ZNUQ1QW5xQ241SUdsb0pNTDRsRHZ3WUpYQ2pGTmlkckhjcGZXV3lwTndnMUhPTXZTa1BmRi1PM2dmUnIxWEE?oc=5\" target=\"_blank\">Every...",
-    "tags": [
-      "injury"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.973967+00:00"
-  },
-  {
-    "news_id": "news_dcd25a5cd0bf70c1",
-    "player_id": null,
-    "player_name": null,
-    "team": "Georgia",
-    "headline": "Kirby Smart makes it clear Georgia won’t be looking to the NFL for roster help - DawgNation",
-    "source_name": "DawgNation",
-    "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOU1dxb2ozUnA3T09mS19oMzkyU2JHSU4yRnJHOUhIOTFwUWh3MUJES1FpT0xTWEhlX1I0SDJPYUFXUGtPWFowQTI2ZVdMM2VGelpHWXRFOXQ5ZjluM25sNUt5TGpYb2hWd2I5M0h2WXF3cjVaeGRRV3pnVElBc1ZEeTJFUW9aa3d4dVdXSzZNUktVOTY5MkF0X0pfSC1XRnF2dnZyX1ZEdFFGc3Fqd0EzSlRGeVY4bDR4c0p0azZRQWxxWldtdDZaX3M4NE5hMXdHRExOLUZKcVE3eW5MdlhVeXg3ODU4QQ?oc=5",
-    "published_at": "2026-08-25T17:51:59+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOU1dxb2ozUnA3T09mS19oMzkyU2JHSU4yRnJHOUhIOTFwUWh3MUJES1FpT0xTWEhlX1I0SDJPYUFXUGtPWFowQTI2ZVdMM2VGelpHWXRFOXQ5ZjluM25sNUt5TGpYb2hWd2I5M0h2WXF3cjVaeGRRV3pnVElBc1ZEeTJFUW9aa3d4dVdXSzZNUktVOTY5MkF0X0pfSC1XRnF2dnZyX1ZEdFF...",
+    "headline": "Kirby Smart: Georgia not looking to add NFL players to roster - 247Sports",
+    "source_name": "247Sports",
+    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSklvV1M0dXF4QV80V2ZtWGVxNngzRUpRYkVzNThhZE1rQ0hFemZZSi1QMEh3cXdOc0tzRl9TVmVueDFuT0d6ZGdWWkVsSjcza2ljZ1VEZkdtRW5BYUxHTkZQTnUwQXYxMTV5UWtieEl5Z3k0M2JLbHZLZlFrV2R5dFplQXhsMXJHR0lKbGFDbWxVM1FGVnBxMlZkTVBzWmF4b0ZEandudFVSdVRNZWRWOXlMcUJYYlBITnUxb3dOZjNMbmFMRXNvLUZPenZXcl94?oc=5",
+    "published_at": "2026-08-25T18:19:29+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSklvV1M0dXF4QV80V2ZtWGVxNngzRUpRYkVzNThhZE1rQ0hFemZZSi1QMEh3cXdOc0tzRl9TVmVueDFuT0d6ZGdWWkVsSjcza2ljZ1VEZkdtRW5BYUxHTkZQTnUwQXYxMTV5UWtieEl5Z3k0M2JLbHZLZlFrV2R5dFplQXhsMXJHR0lKbGFDbWxVM1FGVnBxMlZkTVBzWmF4b0ZEandudFV...",
     "tags": [
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.974054+00:00"
+    "last_updated": "2026-08-25T21:37:46.618263+00:00"
+  },
+  {
+    "news_id": "news_de9ffc93e5f359fc",
+    "player_id": null,
+    "player_name": null,
+    "team": "Georgia",
+    "headline": "WATCH Isiah Canion on why he wanted to transfer to Georgia football - Yahoo Sports",
+    "source_name": "Yahoo Sports",
+    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTWNwbWU1R3ZSNklDQU41YmxxQm5fLWV4Szlrc2p3eUdlMWJNRHlGLThzWTZ3MnlmQjhlM0lIQjdJVjk0b2lFTUtQdFhfMVNVaHF5MWU4M1pSUEhBSmRPYUpwY2JyTnFVX3VHWXhoU2VqUE8xNnk5eGUwZkJYY1Q1WTVn?oc=5",
+    "published_at": "2026-08-25T19:45:25+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNTWNwbWU1R3ZSNklDQU41YmxxQm5fLWV4Szlrc2p3eUdlMWJNRHlGLThzWTZ3MnlmQjhlM0lIQjdJVjk0b2lFTUtQdFhfMVNVaHF5MWU4M1pSUEhBSmRPYUpwY2JyTnFVX3VHWXhoU2VqUE8xNnk5eGUwZkJYY1Q1WTVn?oc=5\" target=\"_blank\">WATCH Isiah Canion on why he...",
+    "tags": [
+      "transfer"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-25T21:37:46.618319+00:00"
   },
   {
     "news_id": "news_57053b503b1164af",
@@ -285,7 +253,39 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.974136+00:00"
+    "last_updated": "2026-08-25T21:37:46.618382+00:00"
+  },
+  {
+    "news_id": "news_975e4284e94344ff",
+    "player_id": null,
+    "player_name": null,
+    "team": "Georgia",
+    "headline": "Everything fans need to know about the Georgia Bulldogs in 2026 - Dawn of the Dawg",
+    "source_name": "Dawn of the Dawg",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeWJ2cnE3NlpObWRlTzF2ZVd3SXlOeTFVYjFZX1pqM19sakpjU2N3WnluVTlObHRKXzVBakQ1VnJHaXVZaXdQTzViaGZKQlNuZHhlQU1ZNUQ1QW5xQ241SUdsb0pNTDRsRHZ3WUpYQ2pGTmlkckhjcGZXV3lwTndnMUhPTXZTa1BmRi1PM2dmUnIxWEE?oc=5",
+    "published_at": "2026-08-25T16:15:32+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOeWJ2cnE3NlpObWRlTzF2ZVd3SXlOeTFVYjFZX1pqM19sakpjU2N3WnluVTlObHRKXzVBakQ1VnJHaXVZaXdQTzViaGZKQlNuZHhlQU1ZNUQ1QW5xQ241SUdsb0pNTDRsRHZ3WUpYQ2pGTmlkckhjcGZXV3lwTndnMUhPTXZTa1BmRi1PM2dmUnIxWEE?oc=5\" target=\"_blank\">Every...",
+    "tags": [
+      "injury"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-25T21:37:46.618435+00:00"
+  },
+  {
+    "news_id": "news_dcd25a5cd0bf70c1",
+    "player_id": null,
+    "player_name": null,
+    "team": "Georgia",
+    "headline": "Kirby Smart makes it clear Georgia won’t be looking to the NFL for roster help - DawgNation",
+    "source_name": "DawgNation",
+    "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOU1dxb2ozUnA3T09mS19oMzkyU2JHSU4yRnJHOUhIOTFwUWh3MUJES1FpT0xTWEhlX1I0SDJPYUFXUGtPWFowQTI2ZVdMM2VGelpHWXRFOXQ5ZjluM25sNUt5TGpYb2hWd2I5M0h2WXF3cjVaeGRRV3pnVElBc1ZEeTJFUW9aa3d4dVdXSzZNUktVOTY5MkF0X0pfSC1XRnF2dnZyX1ZEdFFGc3Fqd0EzSlRGeVY4bDR4c0p0azZRQWxxWldtdDZaX3M4NE5hMXdHRExOLUZKcVE3eW5MdlhVeXg3ODU4QQ?oc=5",
+    "published_at": "2026-08-25T17:51:59+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOU1dxb2ozUnA3T09mS19oMzkyU2JHSU4yRnJHOUhIOTFwUWh3MUJES1FpT0xTWEhlX1I0SDJPYUFXUGtPWFowQTI2ZVdMM2VGelpHWXRFOXQ5ZjluM25sNUt5TGpYb2hWd2I5M0h2WXF3cjVaeGRRV3pnVElBc1ZEeTJFUW9aa3d4dVdXSzZNUktVOTY5MkF0X0pfSC1XRnF2dnZyX1ZEdFF...",
+    "tags": [
+      "general"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-25T21:37:46.618502+00:00"
   },
   {
     "news_id": "news_8f5a26bf663bc0a8",
@@ -301,23 +301,23 @@
       "transfer"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.974217+00:00"
+    "last_updated": "2026-08-25T21:37:46.618563+00:00"
   },
   {
-    "news_id": "news_65cfbc78a210d49a",
+    "news_id": "news_d569fe11f92502e0",
     "player_id": null,
     "player_name": null,
     "team": "Georgia",
-    "headline": "NFL tight end, Central Georgia football star Dae'Quan Wright enters college football transfer portal - WMAZ",
-    "source_name": "WMAZ",
-    "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQZXpHa240aUlBNzZXSWw1YlVWbmk4OFk2enA5NGNzaHAyZlYyWkZoNFpBLTBMOWpuWEFyRkd4a1VHYnhtbG80TnhSMUdSMVdpUjJRYVhwN0g0bldGNHZfOUFxYkFEUXVseVdyblAyVkZQeDE2OWRtS3hfaFBSZDlhem51N3pCVXJ2TUh0ZkhiNkhacE5HdXJZSFZVd01MQmhwUDBaSWlQOVgwZXQwaWJSRU5KS3RjanRsZmxmZ2hQX2ZhRENuYlZHRTlxemNxaGUwUHliMmxOdkxiWGFUYk51Sk13NUtRYnAwblV3WDFEcE5ENHM0V3VVWUVlTnJOWUljVHdPZ2VYUklWeEt4Q0Q1RzhUU3NTdw?oc=5",
-    "published_at": "2026-08-20T22:32:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxQZXpHa240aUlBNzZXSWw1YlVWbmk4OFk2enA5NGNzaHAyZlYyWkZoNFpBLTBMOWpuWEFyRkd4a1VHYnhtbG80TnhSMUdSMVdpUjJRYVhwN0g0bldGNHZfOUFxYkFEUXVseVdyblAyVkZQeDE2OWRtS3hfaFBSZDlhem51N3pCVXJ2TUh0ZkhiNkhacE5HdXJZSFZVd01MQmhwUDBaSWlQOVg...",
+    "headline": "Georgia football coach Kirby Smart on players going from NFL back to college - Online Athens",
+    "source_name": "Online Athens",
+    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWG1TX2E5MjVsRzV6emtKTzB6anBUSXkxNjNIMFJ0eUhzY3VWYWFicVlhQnFHTC1TbzMzdmZGVWVHMWJJNTJZLUtVaW5pVU03SUM2dDdBaTF6UlY4QzRUckhnTU92bEFNeXcwUUtqOVltZ1p5dXJudzFoSkk4eE5zZ1Q2Vk5WNnZjbW55ME9WWVg3Zm9tY1d6V0Q4OUZ0RnRicThxZnQzM1JBcjlDdDQtTC1yMW9MTVoxNThYNjFHd3kxaHFCSnd6aUpad05JYkFsTmp6dkx5aWZwZw?oc=5",
+    "published_at": "2026-08-25T17:22:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWG1TX2E5MjVsRzV6emtKTzB6anBUSXkxNjNIMFJ0eUhzY3VWYWFicVlhQnFHTC1TbzMzdmZGVWVHMWJJNTJZLUtVaW5pVU03SUM2dDdBaTF6UlY4QzRUckhnTU92bEFNeXcwUUtqOVltZ1p5dXJudzFoSkk4eE5zZ1Q2Vk5WNnZjbW55ME9WWVg3Zm9tY1d6V0Q4OUZ0RnRicThxZnQzM1J...",
     "tags": [
-      "transfer"
+      "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.974300+00:00"
+    "last_updated": "2026-08-25T21:37:46.618623+00:00"
   },
   {
     "news_id": "news_d911ec58bb494d32",
@@ -333,23 +333,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.974374+00:00"
-  },
-  {
-    "news_id": "news_72dab0d4fb25eecd",
-    "player_id": null,
-    "player_name": null,
-    "team": "Ohio State",
-    "headline": "You’re Nuts: Which Ohio State player would you add to the group of 2026 team captains? - Land-Grant Holy Land",
-    "source_name": "Land-Grant Holy Land",
-    "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMHJ2ZXRyN1RodUhleXZKM2QyWkpIUjNubUtnNHJLbzRBQWFWcUdXaVU5bm8xYWxPaEFMTEVNaXJ0Mlp6T3RTSms3bVZWa3MtZ0d2MHVYbVY3ajRGLVE3QW5SNDJFSjF1cTEyZlRXQ3VJMHJJTGNxT2NkYmFWMG4zLWhoSlNBaGJDMkNQUTJ0VnM2bmVEUDVuWTN0S3pVV2xEWVlZZ0tSRkh2UVk5YWNGaEI0a1RSTmlqanozM1FrQnZfTUhnTjZtQW1tS2JxNGFELVZDazRLVQ?oc=5",
-    "published_at": "2026-08-25T17:31:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMHJ2ZXRyN1RodUhleXZKM2QyWkpIUjNubUtnNHJLbzRBQWFWcUdXaVU5bm8xYWxPaEFMTEVNaXJ0Mlp6T3RTSms3bVZWa3MtZ0d2MHVYbVY3ajRGLVE3QW5SNDJFSjF1cTEyZlRXQ3VJMHJJTGNxT2NkYmFWMG4zLWhoSlNBaGJDMkNQUTJ0VnM2bmVEUDVuWTN0S3pVV2xEWVlZZ0tSRkh...",
-    "tags": [
-      "general"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.974462+00:00"
+    "last_updated": "2026-08-25T21:37:46.618680+00:00"
   },
   {
     "news_id": "news_06b19089702e86d4",
@@ -365,7 +349,23 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.974543+00:00"
+    "last_updated": "2026-08-25T21:37:46.618743+00:00"
+  },
+  {
+    "news_id": "news_72dab0d4fb25eecd",
+    "player_id": null,
+    "player_name": null,
+    "team": "Ohio State",
+    "headline": "You’re Nuts: Which Ohio State player would you add to the group of 2026 team captains? - Land-Grant Holy Land",
+    "source_name": "Land-Grant Holy Land",
+    "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMHJ2ZXRyN1RodUhleXZKM2QyWkpIUjNubUtnNHJLbzRBQWFWcUdXaVU5bm8xYWxPaEFMTEVNaXJ0Mlp6T3RTSms3bVZWa3MtZ0d2MHVYbVY3ajRGLVE3QW5SNDJFSjF1cTEyZlRXQ3VJMHJJTGNxT2NkYmFWMG4zLWhoSlNBaGJDMkNQUTJ0VnM2bmVEUDVuWTN0S3pVV2xEWVlZZ0tSRkh2UVk5YWNGaEI0a1RSTmlqanozM1FrQnZfTUhnTjZtQW1tS2JxNGFELVZDazRLVQ?oc=5",
+    "published_at": "2026-08-25T17:31:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMHJ2ZXRyN1RodUhleXZKM2QyWkpIUjNubUtnNHJLbzRBQWFWcUdXaVU5bm8xYWxPaEFMTEVNaXJ0Mlp6T3RTSms3bVZWa3MtZ0d2MHVYbVY3ajRGLVE3QW5SNDJFSjF1cTEyZlRXQ3VJMHJJTGNxT2NkYmFWMG4zLWhoSlNBaGJDMkNQUTJ0VnM2bmVEUDVuWTN0S3pVV2xEWVlZZ0tSRkh...",
+    "tags": [
+      "general"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-25T21:37:46.618809+00:00"
   },
   {
     "news_id": "news_bba178a609f3ae17",
@@ -381,7 +381,7 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.974630+00:00"
+    "last_updated": "2026-08-25T21:37:46.618869+00:00"
   },
   {
     "news_id": "news_2cf96d498b3da5d7",
@@ -397,23 +397,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.974709+00:00"
-  },
-  {
-    "news_id": "news_b5d6fc8be8d01097",
-    "player_id": null,
-    "player_name": null,
-    "team": "Ohio State",
-    "headline": "Ohio State football's 10 most important players in 2026, ranked - The Columbus Dispatch",
-    "source_name": "The Columbus Dispatch",
-    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ2VNZkxpckFIazMybnhEYng0Q08yRUduTE9ET1RUYU9VMGhuNHNFd3BRM2h6Z1Z2TWt3VF9fY3J5UTNxNzRpcHV4R2ZDZTRXUVZKYmNxd1NOQjFFcVloUzJUU3NsV0NTMlQyZkV1UnJwcXVQQ3ZMLUhDa2pNMnZ5LTMxcUI2YXJxSmhQY2Nya3RBcTFGMUNkbmJDek9ubTlYTnZsSXk3ekVKbnBqdTJMSFJGR0FZOTNodVpPNVJscXJGTHJBWTJyanc3MmlHWHJKSGdEczBlWGVhaGFo?oc=5",
-    "published_at": "2026-08-25T14:43:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ2VNZkxpckFIazMybnhEYng0Q08yRUduTE9ET1RUYU9VMGhuNHNFd3BRM2h6Z1Z2TWt3VF9fY3J5UTNxNzRpcHV4R2ZDZTRXUVZKYmNxd1NOQjFFcVloUzJUU3NsV0NTMlQyZkV1UnJwcXVQQ3ZMLUhDa2pNMnZ5LTMxcUI2YXJxSmhQY2Nya3RBcTFGMUNkbmJDek9ubTlYTnZsSXk3ekV...",
-    "tags": [
-      "general"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.974790+00:00"
+    "last_updated": "2026-08-25T21:37:46.618925+00:00"
   },
   {
     "news_id": "news_54912a546e34a2ee",
@@ -429,7 +413,23 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.974895+00:00"
+    "last_updated": "2026-08-25T21:37:46.618986+00:00"
+  },
+  {
+    "news_id": "news_b5d6fc8be8d01097",
+    "player_id": null,
+    "player_name": null,
+    "team": "Ohio State",
+    "headline": "Ohio State football's 10 most important players in 2026, ranked - The Columbus Dispatch",
+    "source_name": "The Columbus Dispatch",
+    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ2VNZkxpckFIazMybnhEYng0Q08yRUduTE9ET1RUYU9VMGhuNHNFd3BRM2h6Z1Z2TWt3VF9fY3J5UTNxNzRpcHV4R2ZDZTRXUVZKYmNxd1NOQjFFcVloUzJUU3NsV0NTMlQyZkV1UnJwcXVQQ3ZMLUhDa2pNMnZ5LTMxcUI2YXJxSmhQY2Nya3RBcTFGMUNkbmJDek9ubTlYTnZsSXk3ekVKbnBqdTJMSFJGR0FZOTNodVpPNVJscXJGTHJBWTJyanc3MmlHWHJKSGdEczBlWGVhaGFo?oc=5",
+    "published_at": "2026-08-25T19:07:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ2VNZkxpckFIazMybnhEYng0Q08yRUduTE9ET1RUYU9VMGhuNHNFd3BRM2h6Z1Z2TWt3VF9fY3J5UTNxNzRpcHV4R2ZDZTRXUVZKYmNxd1NOQjFFcVloUzJUU3NsV0NTMlQyZkV1UnJwcXVQQ3ZMLUhDa2pNMnZ5LTMxcUI2YXJxSmhQY2Nya3RBcTFGMUNkbmJDek9ubTlYTnZsSXk3ekV...",
+    "tags": [
+      "general"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-25T21:37:46.619087+00:00"
   },
   {
     "news_id": "news_52cad0e877995e93",
@@ -445,39 +445,39 @@
       "transfer"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.974972+00:00"
+    "last_updated": "2026-08-25T21:37:46.619147+00:00"
   },
   {
-    "news_id": "news_7854884454a5e186",
+    "news_id": "news_a20c7ee9a0a2f827",
     "player_id": null,
     "player_name": null,
     "team": "Ohio State",
-    "headline": "2026 Ohio State Schedule Breakdown: Road Trips to No. 6 Indiana and No. 14 USC, Home Games vs. No. 2 Oregon and No. 16 Michigan Fill the Second-Half Slate - Eleven Warriors",
+    "headline": "Big Ten passes rule barring NFL players from returning to conference: Could this decision backfire? - CBS Sports",
+    "source_name": "CBS Sports",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLVJXM04yVFFSMk84ZlV6SlhoVzFHMXVtdFhVTWF6U1FzZUdHYW16b1FXYWRvQ2xNSXR6a2tEeVpYR2Q5VC1kdmk1dmhEc1pDYWhQNlRMaGxZZ0tfNDJFcjNYZGs2TzExZDVnNHhnY19raTZnV3JQR0hwQVFMZXQtaXZvc0tiQlE?oc=5",
+    "published_at": "2026-08-25T19:52:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPLVJXM04yVFFSMk84ZlV6SlhoVzFHMXVtdFhVTWF6U1FzZUdHYW16b1FXYWRvQ2xNSXR6a2tEeVpYR2Q5VC1kdmk1dmhEc1pDYWhQNlRMaGxZZ0tfNDJFcjNYZGs2TzExZDVnNHhnY19raTZnV3JQR0hwQVFMZXQtaXZvc0tiQlE?oc=5\" target=\"_blank\">Big Ten passes rule b...",
+    "tags": [
+      "general"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-25T21:37:46.619207+00:00"
+  },
+  {
+    "news_id": "news_10260cfd0306daa1",
+    "player_id": null,
+    "player_name": null,
+    "team": "Ohio State",
+    "headline": "2026 Black Stripe Tracker: UCF Transfer Long Snapper Dalton Riggs Sheds Black Stripe - Eleven Warriors",
     "source_name": "Eleven Warriors",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMlV2eC1HdzVVMEZydFhmdVVwSWVPRjFYZXhXcFoyMzRrV2ppQmFFWFE5U1JaQ1FJNjZOd3I4b1NrVGpjZVR6Z2Q0V0hVRWNkMndVOEZTYTk0UFh2enBZRWdGdFJiSWxaMzBBQzlISlY5X20zdVhYRGJ0b0poY2IwTlotN2FqMVNzSm83NjRNTHlJMnZQRVRQQmYtNy1QNjFDTkpxUXR0dXZEc3lkemdTaW96VGxSRkZxNHluRmNwT05VYmpjVFN0NzkxSndlSHlCWmN0REhFd1hJeGZOZEt2ektibTJ2dGw0c3A0WEV0QXUzU3F5SWJ6WXNJY0drNGk4MTBGcHlldUF1eHM?oc=5",
-    "published_at": "2026-08-25T12:35:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMlV2eC1HdzVVMEZydFhmdVVwSWVPRjFYZXhXcFoyMzRrV2ppQmFFWFE5U1JaQ1FJNjZOd3I4b1NrVGpjZVR6Z2Q0V0hVRWNkMndVOEZTYTk0UFh2enBZRWdGdFJiSWxaMzBBQzlISlY5X20zdVhYRGJ0b0poY2IwTlotN2FqMVNzSm83NjRNTHlJMnZQRVRQQmYtNy1QNjFDTkpxUXR0dXZ...",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczhEcmppejNXcURPZVRWTTRpTjhvYVpxOXI0U09Banl6Q0w2ZDIyYnRpSXk1S3l6UXRLdWtRRUZfU09oWEtMbkNLSEhhTFJwUHpoVHcteTNjMUVQNmE1WmhvNjJiNURJSDBYTEs1OE12b2pTTEp6dURuN0tOZXEyeDRSUmNtMlJRMDRieHA3Y1lmX3R4X2FrX29wWmNCZGJVOXc?oc=5",
+    "published_at": "2026-08-24T17:04:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQczhEcmppejNXcURPZVRWTTRpTjhvYVpxOXI0U09Banl6Q0w2ZDIyYnRpSXk1S3l6UXRLdWtRRUZfU09oWEtMbkNLSEhhTFJwUHpoVHcteTNjMUVQNmE1WmhvNjJiNURJSDBYTEs1OE12b2pTTEp6dURuN0tOZXEyeDRSUmNtMlJRMDRieHA3Y1lmX3R4X2FrX29wWmNCZGJVOXc?oc=5\" t...",
     "tags": [
-      "general"
+      "transfer"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.975063+00:00"
-  },
-  {
-    "news_id": "news_e762c319f343c0b3",
-    "player_id": null,
-    "player_name": null,
-    "team": "Ohio State",
-    "headline": "Ohio State football special teamer sheds black stripe - Buckeyes Wire",
-    "source_name": "Buckeyes Wire",
-    "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMjJGSVpHZDJyV3FhOGwwcW0zalloNWIzTVJ1QXdmSkZ4ZC1zZnQtaGZMalFHaXlsdDFjTWdQQmV2VXlHbGxKUTlpSzlndWdkeV9xZEw5SzhqQXVoMnZiNFdNWmdPM3FOSURFbllCUUItaXhkNzJDTWJMVzRTNHV3R2Q0RU0zNWZ4OUpBWmpoMXlLU2Jfa1h5OTVaUEppVzdRNTE1RHIxNEVtbG9YTExsLW1qWjhRNkZsSFNvTm5lQU5ZWWdwNkFwazBWR0xJR0s2YlducE9TMmtVbVVVN0FRZU93d0FRUQ?oc=5",
-    "published_at": "2026-08-24T21:15:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMjJGSVpHZDJyV3FhOGwwcW0zalloNWIzTVJ1QXdmSkZ4ZC1zZnQtaGZMalFHaXlsdDFjTWdQQmV2VXlHbGxKUTlpSzlndWdkeV9xZEw5SzhqQXVoMnZiNFdNWmdPM3FOSURFbllCUUItaXhkNzJDTWJMVzRTNHV3R2Q0RU0zNWZ4OUpBWmpoMXlLU2Jfa1h5OTVaUEppVzdRNTE1RHIxNEV...",
-    "tags": [
-      "general"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.975140+00:00"
+    "last_updated": "2026-08-25T21:37:46.619265+00:00"
   },
   {
     "news_id": "news_1b00e1526a2b5937",
@@ -493,7 +493,7 @@
       "transfer"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.975238+00:00"
+    "last_updated": "2026-08-25T21:37:46.619340+00:00"
   },
   {
     "news_id": "news_f23cba0c312f1998",
@@ -509,7 +509,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.975312+00:00"
+    "last_updated": "2026-08-25T21:37:46.619401+00:00"
   },
   {
     "news_id": "news_2f0d375dde50892f",
@@ -527,7 +527,7 @@
       "performance"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.975398+00:00"
+    "last_updated": "2026-08-25T21:37:46.619466+00:00"
   },
   {
     "news_id": "news_6d7fd2543fd2dd63",
@@ -543,7 +543,23 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.975479+00:00"
+    "last_updated": "2026-08-25T21:37:46.619537+00:00"
+  },
+  {
+    "news_id": "news_902de7f4815d29e3",
+    "player_id": null,
+    "player_name": null,
+    "team": "Michigan",
+    "headline": "Michigan Football freshman OL suffers season-ending injury in fall camp - Yahoo Sports",
+    "source_name": "Yahoo Sports",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ0lmQVZIWjFtUnRCUGxxQWY4dDRnd0VYaEdhWGpwa0Y3V2h3WGdLVXpiNFNIMDhQczhlSU81OFY5cDN3U3g0eGpFeWRzNEdlQldVV1p5MGVkbXRKZ3lzMzBaVnVTWWlQa3FIeXA1X0dpTGZfbGROWmFRUno3OTBFeWZHZEIwZVlKLWpSMVNQVQ?oc=5",
+    "published_at": "2026-08-21T18:00:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ0lmQVZIWjFtUnRCUGxxQWY4dDRnd0VYaEdhWGpwa0Y3V2h3WGdLVXpiNFNIMDhQczhlSU81OFY5cDN3U3g0eGpFeWRzNEdlQldVV1p5MGVkbXRKZ3lzMzBaVnVTWWlQa3FIeXA1X0dpTGZfbGROWmFRUno3OTBFeWZHZEIwZVlKLWpSMVNQVQ?oc=5\" target=\"_blank\">Michigan F...",
+    "tags": [
+      "injury"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-25T21:37:46.619592+00:00"
   },
   {
     "news_id": "news_fc915ed7699dcf3d",
@@ -560,23 +576,7 @@
       "transfer"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.975554+00:00"
-  },
-  {
-    "news_id": "news_902de7f4815d29e3",
-    "player_id": null,
-    "player_name": null,
-    "team": "Michigan",
-    "headline": "Michigan Football freshman OL suffers season-ending injury in fall camp - Yahoo Sports",
-    "source_name": "Yahoo Sports",
-    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ0lmQVZIWjFtUnRCUGxxQWY4dDRnd0VYaEdhWGpwa0Y3V2h3WGdLVXpiNFNIMDhQczhlSU81OFY5cDN3U3g0eGpFeWRzNEdlQldVV1p5MGVkbXRKZ3lzMzBaVnVTWWlQa3FIeXA1X0dpTGZfbGROWmFRUno3OTBFeWZHZEIwZVlKLWpSMVNQVQ?oc=5",
-    "published_at": "2026-08-21T18:00:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ0lmQVZIWjFtUnRCUGxxQWY4dDRnd0VYaEdhWGpwa0Y3V2h3WGdLVXpiNFNIMDhQczhlSU81OFY5cDN3U3g0eGpFeWRzNEdlQldVV1p5MGVkbXRKZ3lzMzBaVnVTWWlQa3FIeXA1X0dpTGZfbGROWmFRUno3OTBFeWZHZEIwZVlKLWpSMVNQVQ?oc=5\" target=\"_blank\">Michigan F...",
-    "tags": [
-      "injury"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.975625+00:00"
+    "last_updated": "2026-08-25T21:37:46.619647+00:00"
   },
   {
     "news_id": "news_2dff89873597844d",
@@ -592,7 +592,23 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.975702+00:00"
+    "last_updated": "2026-08-25T21:37:46.619707+00:00"
+  },
+  {
+    "news_id": "news_2e1142e921002ccd",
+    "player_id": null,
+    "player_name": null,
+    "team": "Michigan",
+    "headline": "New Big Ten Eligibility Ruling Changes College Football - roundtable.io",
+    "source_name": "roundtable.io",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORG5MaFBuZE9yZzJFZ1BiVEhCQnJGRFVhRXpfYVdoTk5TNzJKRTk5MURXeEN2T1NYYWJodzlWd1dXTG45ZDM3Q1lkbmtuM3BNNXZzUEZGdFZYaFdqUFQ5dUhhR2xoOFNkaWV0dEs4SFU5dXQyRlhCRmwzRWNYd25PV1g3OWZ3RzAzM2tETGd1TUhFbVg1UHl6QVZPdURudmduek1jbUFR?oc=5",
+    "published_at": "2026-08-25T20:51:26+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxORG5MaFBuZE9yZzJFZ1BiVEhCQnJGRFVhRXpfYVdoTk5TNzJKRTk5MURXeEN2T1NYYWJodzlWd1dXTG45ZDM3Q1lkbmtuM3BNNXZzUEZGdFZYaFdqUFQ5dUhhR2xoOFNkaWV0dEs4SFU5dXQyRlhCRmwzRWNYd25PV1g3OWZ3RzAzM2tETGd1TUhFbVg1UHl6QVZPdURudmduek1jbUFR?oc...",
+    "tags": [
+      "general"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-25T21:37:46.619762+00:00"
   },
   {
     "news_id": "news_9e60f42552e12e33",
@@ -608,7 +624,7 @@
       "performance"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.975773+00:00"
+    "last_updated": "2026-08-25T21:37:46.619819+00:00"
   },
   {
     "news_id": "news_37010b174e2a1247",
@@ -624,23 +640,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.975897+00:00"
-  },
-  {
-    "news_id": "news_36788fea1d0da261",
-    "player_id": null,
-    "player_name": null,
-    "team": "Michigan",
-    "headline": "CBS Sports labels Michigan football overrated entering 2026 - Wolverines Wire",
-    "source_name": "Wolverines Wire",
-    "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTm1hd2R6M2d3NjBkSjBsWDQyUmxLVGsxX3VpejVxdS11M1VhbkVGb2Q2ZjJ3dVZPemRjTjR5eW10XzZxdk5VSS0zVWNDRS1fX0JUQXBRbmdpQzNnZ2VtUi04UlpKR0dCT1dLcWd0QUIyeE5GNm9ZRnJnZWZvWVlScGRpaXJOeGdNVUx3a3Y3UlJlN240MEJsVTFDNy1KeFd1dXkzXzVKOXJ3SGlvNWZfWG5RcUh1ZnJKSmNPbmVUZy1WaTM0VDFINDZRU1RaZV9zOTZQbHpRMjlUc1VlaUlnQm9oalRhaFpMVTNWdktVaw?oc=5",
-    "published_at": "2026-08-24T22:46:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTm1hd2R6M2d3NjBkSjBsWDQyUmxLVGsxX3VpejVxdS11M1VhbkVGb2Q2ZjJ3dVZPemRjTjR5eW10XzZxdk5VSS0zVWNDRS1fX0JUQXBRbmdpQzNnZ2VtUi04UlpKR0dCT1dLcWd0QUIyeE5GNm9ZRnJnZWZvWVlScGRpaXJOeGdNVUx3a3Y3UlJlN240MEJsVTFDNy1KeFd1dXkzXzVKOXJ...",
-    "tags": [
-      "general"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.975978+00:00"
+    "last_updated": "2026-08-25T21:37:46.619898+00:00"
   },
   {
     "news_id": "news_aa701f40b0e4a222",
@@ -656,7 +656,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.976056+00:00"
+    "last_updated": "2026-08-25T21:37:46.619957+00:00"
   },
   {
     "news_id": "news_bddc75085a521063",
@@ -672,39 +672,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.976137+00:00"
-  },
-  {
-    "news_id": "news_4fbad547f059b9fc",
-    "player_id": null,
-    "player_name": null,
-    "team": "Texas",
-    "headline": "Texas adds three rushing weapons to running back roster for 2026 schedule - The Daily Texan",
-    "source_name": "The Daily Texan",
-    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOalV6MTZ5WVJBcjZEbDByM09Pc1M4WFJLUDItNHJEMzFKRVdLdFNnc0pseEw5RzRtRS1yQ0E1dDducVIyVkkwQ0MwRDQ5VDA1eGtla3BmYTZKQlc3eFZjajhOOThCcmJxcDhpZDV3SG5rMDBRRi1rb2tDenVvUTdKcFQtMWU2QXppSks0Ml9pRW5Gd211WFZVcHNwZ1Y1azZMTU9rdzNHUTlyQ2R4SzB4MQ?oc=5",
-    "published_at": "2026-08-25T02:34:05+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOalV6MTZ5WVJBcjZEbDByM09Pc1M4WFJLUDItNHJEMzFKRVdLdFNnc0pseEw5RzRtRS1yQ0E1dDducVIyVkkwQ0MwRDQ5VDA1eGtla3BmYTZKQlc3eFZjajhOOThCcmJxcDhpZDV3SG5rMDBRRi1rb2tDenVvUTdKcFQtMWU2QXppSks0Ml9pRW5Gd211WFZVcHNwZ1Y1azZMTU9rdzNHUTl...",
-    "tags": [
-      "general"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.976215+00:00"
-  },
-  {
-    "news_id": "news_0f487a06a5b78c36",
-    "player_id": null,
-    "player_name": null,
-    "team": "Texas",
-    "headline": "Texas Longhorns preseason awards watchlist tracker: It's time for trophies to come home - Hook'em Headlines",
-    "source_name": "Hook'em Headlines",
-    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVJsaVRVQjRmQnpZQjV4Vm96S0NWLUV1OFA5MklPYXFEX3Bxc3ZOWEVweTNlcHBSYVM0aVJRMlRVRDB3cmVqVHhiSnF2V0luZHRiZkVYWGxJSWY2NEMtT2VlRVFLWjVkdTJuZjZKeUozQ1lpakdWZVVhWElRZFgxZ28xSjd1UEsyelcwVno1YzZpMExvZ2E0Zk1uS2k4WU5PRVBtazZhUEhlT3VSVzdRRXA5RQ?oc=5",
-    "published_at": "2026-08-25T19:07:17+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVJsaVRVQjRmQnpZQjV4Vm96S0NWLUV1OFA5MklPYXFEX3Bxc3ZOWEVweTNlcHBSYVM0aVJRMlRVRDB3cmVqVHhiSnF2V0luZHRiZkVYWGxJSWY2NEMtT2VlRVFLWjVkdTJuZjZKeUozQ1lpakdWZVVhWElRZFgxZ28xSjd1UEsyelcwVno1YzZpMExvZ2E0Zk1uS2k4WU5PRVBtazZhUEh...",
-    "tags": [
-      "performance"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.976291+00:00"
+    "last_updated": "2026-08-25T21:37:46.620030+00:00"
   },
   {
     "news_id": "news_140445b18853e177",
@@ -720,7 +688,39 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.976373+00:00"
+    "last_updated": "2026-08-25T21:37:46.620099+00:00"
+  },
+  {
+    "news_id": "news_0f487a06a5b78c36",
+    "player_id": null,
+    "player_name": null,
+    "team": "Texas",
+    "headline": "Texas Longhorns preseason awards watchlist tracker: It's time for trophies to come home - Hook'em Headlines",
+    "source_name": "Hook'em Headlines",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVJsaVRVQjRmQnpZQjV4Vm96S0NWLUV1OFA5MklPYXFEX3Bxc3ZOWEVweTNlcHBSYVM0aVJRMlRVRDB3cmVqVHhiSnF2V0luZHRiZkVYWGxJSWY2NEMtT2VlRVFLWjVkdTJuZjZKeUozQ1lpakdWZVVhWElRZFgxZ28xSjd1UEsyelcwVno1YzZpMExvZ2E0Zk1uS2k4WU5PRVBtazZhUEhlT3VSVzdRRXA5RQ?oc=5",
+    "published_at": "2026-08-25T19:07:17+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVJsaVRVQjRmQnpZQjV4Vm96S0NWLUV1OFA5MklPYXFEX3Bxc3ZOWEVweTNlcHBSYVM0aVJRMlRVRDB3cmVqVHhiSnF2V0luZHRiZkVYWGxJSWY2NEMtT2VlRVFLWjVkdTJuZjZKeUozQ1lpakdWZVVhWElRZFgxZ28xSjd1UEsyelcwVno1YzZpMExvZ2E0Zk1uS2k4WU5PRVBtazZhUEh...",
+    "tags": [
+      "performance"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-25T21:37:46.620159+00:00"
+  },
+  {
+    "news_id": "news_4fbad547f059b9fc",
+    "player_id": null,
+    "player_name": null,
+    "team": "Texas",
+    "headline": "Texas adds three rushing weapons to running back roster for 2026 schedule - The Daily Texan",
+    "source_name": "The Daily Texan",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOalV6MTZ5WVJBcjZEbDByM09Pc1M4WFJLUDItNHJEMzFKRVdLdFNnc0pseEw5RzRtRS1yQ0E1dDducVIyVkkwQ0MwRDQ5VDA1eGtla3BmYTZKQlc3eFZjajhOOThCcmJxcDhpZDV3SG5rMDBRRi1rb2tDenVvUTdKcFQtMWU2QXppSks0Ml9pRW5Gd211WFZVcHNwZ1Y1azZMTU9rdzNHUTlyQ2R4SzB4MQ?oc=5",
+    "published_at": "2026-08-25T02:34:05+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOalV6MTZ5WVJBcjZEbDByM09Pc1M4WFJLUDItNHJEMzFKRVdLdFNnc0pseEw5RzRtRS1yQ0E1dDducVIyVkkwQ0MwRDQ5VDA1eGtla3BmYTZKQlc3eFZjajhOOThCcmJxcDhpZDV3SG5rMDBRRi1rb2tDenVvUTdKcFQtMWU2QXppSks0Ml9pRW5Gd211WFZVcHNwZ1Y1azZMTU9rdzNHUTl...",
+    "tags": [
+      "general"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-08-25T21:37:46.620216+00:00"
   },
   {
     "news_id": "news_483da572658990e4",
@@ -736,7 +736,7 @@
       "transfer"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.976453+00:00"
+    "last_updated": "2026-08-25T21:37:46.620272+00:00"
   },
   {
     "news_id": "news_fa6372640dfb2e58",
@@ -752,7 +752,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.976534+00:00"
+    "last_updated": "2026-08-25T21:37:46.620331+00:00"
   },
   {
     "news_id": "news_cadd97543e9cffa7",
@@ -768,7 +768,7 @@
       "performance"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.976624+00:00"
+    "last_updated": "2026-08-25T21:37:46.620398+00:00"
   },
   {
     "news_id": "news_c7f2c3bab05f8dba",
@@ -784,7 +784,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.976704+00:00"
+    "last_updated": "2026-08-25T21:37:46.620459+00:00"
   },
   {
     "news_id": "news_18f8f4589422bae0",
@@ -800,6 +800,6 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-08-25T20:25:00.976781+00:00"
+    "last_updated": "2026-08-25T21:37:46.620517+00:00"
   }
 ]
