@@ -13,7 +13,7 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.919808+00:00"
+    "last_updated": "2026-10-10T04:05:56.447744+00:00"
   },
   {
     "news_id": "news_3aae3118c867fe09",
@@ -29,7 +29,23 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.919939+00:00"
+    "last_updated": "2026-10-10T04:05:56.447884+00:00"
+  },
+  {
+    "news_id": "news_dd181cc9bf516b0b",
+    "player_id": null,
+    "player_name": null,
+    "team": "Alabama",
+    "headline": "Who made Alabama football's first injury list before Georgia - The Tuscaloosa News",
+    "source_name": "The Tuscaloosa News",
+    "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUTZwOUhpSVNSNVpLRlZuRW05SEFlR0tUZ3lEUTNXMHVHdmlmc0Z2ZUYzXzZESF80aFctcnFaX2RBdE02M1pSLUhkM0RoS1pRS09iQTR4VVlseERaMmtid3h5dHVYZEU4VVZrY3czQl9sTFV6dk9LVG4wYWhzZHF5WWxtcnE1dnYtZjNFNlR0TjlEQUpjZENmc3BvSTMtZGJYbWdRRnNReEdGWE5kcjMybGpZb2Jobm5oU0tLNFRTLWJpbGhiS0tKWDhGQndHajFJRTdER1lCUDhVOVlJc0J6dzRORlk0b1B6cVRFZlU0Yw?oc=5",
+    "published_at": "2026-10-08T00:20:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUTZwOUhpSVNSNVpLRlZuRW05SEFlR0tUZ3lEUTNXMHVHdmlmc0Z2ZUYzXzZESF80aFctcnFaX2RBdE02M1pSLUhkM0RoS1pRS09iQTR4VVlseERaMmtid3h5dHVYZEU4VVZrY3czQl9sTFV6dk9LVG4wYWhzZHF5WWxtcnE1dnYtZjNFNlR0TjlEQUpjZENmc3BvSTMtZGJYbWdRRnNReEd...",
+    "tags": [
+      "injury"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-10-10T04:05:56.447986+00:00"
   },
   {
     "news_id": "news_b6e3450dcd39599e",
@@ -45,39 +61,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.920033+00:00"
-  },
-  {
-    "news_id": "news_dd181cc9bf516b0b",
-    "player_id": null,
-    "player_name": null,
-    "team": "Alabama",
-    "headline": "Who made Alabama football's first injury list before Georgia - The Tuscaloosa News",
-    "source_name": "The Tuscaloosa News",
-    "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUTZwOUhpSVNSNVpLRlZuRW05SEFlR0tUZ3lEUTNXMHVHdmlmc0Z2ZUYzXzZESF80aFctcnFaX2RBdE02M1pSLUhkM0RoS1pRS09iQTR4VVlseERaMmtid3h5dHVYZEU4VVZrY3czQl9sTFV6dk9LVG4wYWhzZHF5WWxtcnE1dnYtZjNFNlR0TjlEQUpjZENmc3BvSTMtZGJYbWdRRnNReEdGWE5kcjMybGpZb2Jobm5oU0tLNFRTLWJpbGhiS0tKWDhGQndHajFJRTdER1lCUDhVOVlJc0J6dzRORlk0b1B6cVRFZlU0Yw?oc=5",
-    "published_at": "2026-10-08T00:20:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUTZwOUhpSVNSNVpLRlZuRW05SEFlR0tUZ3lEUTNXMHVHdmlmc0Z2ZUYzXzZESF80aFctcnFaX2RBdE02M1pSLUhkM0RoS1pRS09iQTR4VVlseERaMmtid3h5dHVYZEU4VVZrY3czQl9sTFV6dk9LVG4wYWhzZHF5WWxtcnE1dnYtZjNFNlR0TjlEQUpjZENmc3BvSTMtZGJYbWdRRnNReEd...",
-    "tags": [
-      "injury"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.920120+00:00"
-  },
-  {
-    "news_id": "news_5e22c5677479cb92",
-    "player_id": null,
-    "player_name": null,
-    "team": "Alabama",
-    "headline": "Jumbo Package: Initial injury report released for Alabama vs Georgia - Roll 'Bama Roll",
-    "source_name": "Roll 'Bama Roll",
-    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdU5pUC1HbXhJd2VMc2N0cTV1LVUtcUo4ZVo3eVk3a08yeG1vb1d3LXhXOWxiU0NxMnlNVzNqUTVfcVR1c2tTZjg0ZHBwVm51Nk9yenpZX3FrSFUyakZ3UHBFZmI4S3dKbHVjT29OQy1mV2VlSGtpdVJKU3Y0RlBTdHJCQmFxR1lxV000OXN2LU00dHVneDZxT1RWVWRETWJibW8tY0pHTVdlYUM3aG13Z0pQVTlmSWtXTzRlV3NvQTFxR0FrSlE?oc=5",
-    "published_at": "2026-10-08T11:53:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQdU5pUC1HbXhJd2VMc2N0cTV1LVUtcUo4ZVo3eVk3a08yeG1vb1d3LXhXOWxiU0NxMnlNVzNqUTVfcVR1c2tTZjg0ZHBwVm51Nk9yenpZX3FrSFUyakZ3UHBFZmI4S3dKbHVjT29OQy1mV2VlSGtpdVJKU3Y0RlBTdHJCQmFxR1lxV000OXN2LU00dHVneDZxT1RWVWRETWJibW8tY0pHTVd...",
-    "tags": [
-      "injury"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.920195+00:00"
+    "last_updated": "2026-10-10T04:05:56.448098+00:00"
   },
   {
     "news_id": "news_43dcb5ae937eb484",
@@ -93,39 +77,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.920269+00:00"
-  },
-  {
-    "news_id": "news_0dc9cf6fed7a1802",
-    "player_id": null,
-    "player_name": null,
-    "team": "Alabama",
-    "headline": "College football best bets Week 6: Picking a side in Georgia-Alabama - The New York Times",
-    "source_name": "The New York Times",
-    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORWZlOE1aalFFNW1hWGhSQzZTazNIYlloVEpxclU4TFZSeXA0S2haei1MYUxKWW5JZUhkYzJwNXFpN1A5M1gzOE1pSWhGWEJfMldkLW11cGkxV1RUWGpYaUQ1ZGJCWjZiR0tlZzJwb2FkUFUxbkEwdzBlQ0J0SnUtbGh4YXBKX1ZxTS14dEtDc1h2WFk?oc=5",
-    "published_at": "2026-10-09T14:47:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxORWZlOE1aalFFNW1hWGhSQzZTazNIYlloVEpxclU4TFZSeXA0S2haei1MYUxKWW5JZUhkYzJwNXFpN1A5M1gzOE1pSWhGWEJfMldkLW11cGkxV1RUWGpYaUQ1ZGJCWjZiR0tlZzJwb2FkUFUxbkEwdzBlQ0J0SnUtbGh4YXBKX1ZxTS14dEtDc1h2WFk?oc=5\" target=\"_blank\">Colle...",
-    "tags": [
-      "general"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.920341+00:00"
-  },
-  {
-    "news_id": "news_1495da3c07a99019",
-    "player_id": null,
-    "player_name": null,
-    "team": "Alabama",
-    "headline": "Georgia's Chauncey Bowens out vs. Alabama; Nate Frazier off injury report - ESPN",
-    "source_name": "ESPN",
-    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ1JnMFhpYTEyS3pDMkgtSi1WWW5XS2owOXhrS2JJbnJHNTU2MHZoNF8tTEUyRWwxQzdENTZmd013YTlSczFRcVc1YVNTRkFPWmVGNXl4NDk4TGg5ODRvQzVzaHN1a0dHTVk1cGZzRVBRMlN3MGxzRWhkazNSMFBhNlNKb0wxNWUyUURQdE1CWFJFdlpYUGlRanRTazlRaVFZNTRSOHd3WVhCQmVkYUluQTZpU1Q?oc=5",
-    "published_at": "2026-10-08T00:41:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ1JnMFhpYTEyS3pDMkgtSi1WWW5XS2owOXhrS2JJbnJHNTU2MHZoNF8tTEUyRWwxQzdENTZmd013YTlSczFRcVc1YVNTRkFPWmVGNXl4NDk4TGg5ODRvQzVzaHN1a0dHTVk1cGZzRVBRMlN3MGxzRWhkazNSMFBhNlNKb0wxNWUyUURQdE1CWFJFdlpYUGlRanRTazlRaVFZNTRSOHd3WVh...",
-    "tags": [
-      "injury"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.920431+00:00"
+    "last_updated": "2026-10-10T04:05:56.448188+00:00"
   },
   {
     "news_id": "news_39d0f9a4b425b02c",
@@ -141,7 +93,55 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.920519+00:00"
+    "last_updated": "2026-10-10T04:05:56.448275+00:00"
+  },
+  {
+    "news_id": "news_1495da3c07a99019",
+    "player_id": null,
+    "player_name": null,
+    "team": "Alabama",
+    "headline": "Georgia's Chauncey Bowens out vs. Alabama; Nate Frazier off injury report - ESPN",
+    "source_name": "ESPN",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ1JnMFhpYTEyS3pDMkgtSi1WWW5XS2owOXhrS2JJbnJHNTU2MHZoNF8tTEUyRWwxQzdENTZmd013YTlSczFRcVc1YVNTRkFPWmVGNXl4NDk4TGg5ODRvQzVzaHN1a0dHTVk1cGZzRVBRMlN3MGxzRWhkazNSMFBhNlNKb0wxNWUyUURQdE1CWFJFdlpYUGlRanRTazlRaVFZNTRSOHd3WVhCQmVkYUluQTZpU1Q?oc=5",
+    "published_at": "2026-10-08T00:41:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ1JnMFhpYTEyS3pDMkgtSi1WWW5XS2owOXhrS2JJbnJHNTU2MHZoNF8tTEUyRWwxQzdENTZmd013YTlSczFRcVc1YVNTRkFPWmVGNXl4NDk4TGg5ODRvQzVzaHN1a0dHTVk1cGZzRVBRMlN3MGxzRWhkazNSMFBhNlNKb0wxNWUyUURQdE1CWFJFdlpYUGlRanRTazlRaVFZNTRSOHd3WVh...",
+    "tags": [
+      "injury"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-10-10T04:05:56.448358+00:00"
+  },
+  {
+    "news_id": "news_0a9c640877ad6e32",
+    "player_id": null,
+    "player_name": null,
+    "team": "Alabama",
+    "headline": "Alabama RB commit suffers season-ending injury - Touchdown Alabama",
+    "source_name": "Touchdown Alabama",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNjB2bDdfb09jREtQNGE5VlBNb2V2dHJEOUY3RTNKMUpjSXBtOW1VZ0w1OV9MX0tBNnB0cEtkOXh2REIxOFl1RmNWSkRQUWtjakRsQUdqTXE0ZU5GRktSZW81bGJ0aEo2TDl4S2JwVGpmZmhHYmRTckZ5YTlrbGxpMGFmZ2ZSckhNdEg4?oc=5",
+    "published_at": "2026-10-09T21:26:40+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNjB2bDdfb09jREtQNGE5VlBNb2V2dHJEOUY3RTNKMUpjSXBtOW1VZ0w1OV9MX0tBNnB0cEtkOXh2REIxOFl1RmNWSkRQUWtjakRsQUdqTXE0ZU5GRktSZW81bGJ0aEo2TDl4S2JwVGpmZmhHYmRTckZ5YTlrbGxpMGFmZ2ZSckhNdEg4?oc=5\" target=\"_blank\">Alabama RB commi...",
+    "tags": [
+      "injury"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-10-10T04:05:56.448456+00:00"
+  },
+  {
+    "news_id": "news_0dc9cf6fed7a1802",
+    "player_id": null,
+    "player_name": null,
+    "team": "Alabama",
+    "headline": "College football best bets Week 6: Picking a side in Georgia-Alabama - The New York Times",
+    "source_name": "The New York Times",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORWZlOE1aalFFNW1hWGhSQzZTazNIYlloVEpxclU4TFZSeXA0S2haei1MYUxKWW5JZUhkYzJwNXFpN1A5M1gzOE1pSWhGWEJfMldkLW11cGkxV1RUWGpYaUQ1ZGJCWjZiR0tlZzJwb2FkUFUxbkEwdzBlQ0J0SnUtbGh4YXBKX1ZxTS14dEtDc1h2WFk?oc=5",
+    "published_at": "2026-10-09T14:47:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxORWZlOE1aalFFNW1hWGhSQzZTazNIYlloVEpxclU4TFZSeXA0S2haei1MYUxKWW5JZUhkYzJwNXFpN1A5M1gzOE1pSWhGWEJfMldkLW11cGkxV1RUWGpYaUQ1ZGJCWjZiR0tlZzJwb2FkUFUxbkEwdzBlQ0J0SnUtbGh4YXBKX1ZxTS14dEtDc1h2WFk?oc=5\" target=\"_blank\">Colle...",
+    "tags": [
+      "general"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-10-10T04:05:56.448543+00:00"
   },
   {
     "news_id": "news_b4df3dce91d8bae1",
@@ -157,7 +157,7 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.920591+00:00"
+    "last_updated": "2026-10-10T04:05:56.448624+00:00"
   },
   {
     "news_id": "news_2e31a61789e3ef31",
@@ -173,7 +173,7 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.920660+00:00"
+    "last_updated": "2026-10-10T04:05:56.448702+00:00"
   },
   {
     "news_id": "news_3aae3118c867fe09",
@@ -189,23 +189,7 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.920727+00:00"
-  },
-  {
-    "news_id": "news_c50ad4f92fbedb2c",
-    "player_id": null,
-    "player_name": null,
-    "team": "Georgia",
-    "headline": "Georgia football-Alabama Game Time, TV Channel, how to watch online, odds for Week 6 game (Oct. 10, 2026) - DawgNation",
-    "source_name": "DawgNation",
-    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQU0VTQkFPam1xMmw0U2plN1ZmUVpDdVFhRElkY2s1d1dpalF5MFgwZDM1VDFaWmdHU295RlNpMzc2V2hxdE42ekk0RkRUQmFUOW1NcjE1ajRLT180M3JlR1J6aW1HMDlfVEFzdndheDE3Y1ZFQlNRQ3RXWWtQWWxFWDVSRWNqLUtTZUhoWWdYZ3BycTczQzQyUlEyQzhsXzNOSnAtV0huM21RVkV4d0poT3hPdlVBNjEzRk4taklhbFVPRldpMU5GYXdPc1dmOEwwREVyekIyTzViUQ?oc=5",
-    "published_at": "2026-10-09T22:34:48+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQU0VTQkFPam1xMmw0U2plN1ZmUVpDdVFhRElkY2s1d1dpalF5MFgwZDM1VDFaWmdHU295RlNpMzc2V2hxdE42ekk0RkRUQmFUOW1NcjE1ajRLT180M3JlR1J6aW1HMDlfVEFzdndheDE3Y1ZFQlNRQ3RXWWtQWWxFWDVSRWNqLUtTZUhoWWdYZ3BycTczQzQyUlEyQzhsXzNOSnAtV0huM21...",
-    "tags": [
-      "general"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.920803+00:00"
+    "last_updated": "2026-10-10T04:05:56.448776+00:00"
   },
   {
     "news_id": "news_dd181cc9bf516b0b",
@@ -221,23 +205,7 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.920874+00:00"
-  },
-  {
-    "news_id": "news_0dc9cf6fed7a1802",
-    "player_id": null,
-    "player_name": null,
-    "team": "Georgia",
-    "headline": "College football best bets Week 6: Picking a side in Georgia-Alabama - The New York Times",
-    "source_name": "The New York Times",
-    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORWZlOE1aalFFNW1hWGhSQzZTazNIYlloVEpxclU4TFZSeXA0S2haei1MYUxKWW5JZUhkYzJwNXFpN1A5M1gzOE1pSWhGWEJfMldkLW11cGkxV1RUWGpYaUQ1ZGJCWjZiR0tlZzJwb2FkUFUxbkEwdzBlQ0J0SnUtbGh4YXBKX1ZxTS14dEtDc1h2WFk?oc=5",
-    "published_at": "2026-10-09T14:47:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxORWZlOE1aalFFNW1hWGhSQzZTazNIYlloVEpxclU4TFZSeXA0S2haei1MYUxKWW5JZUhkYzJwNXFpN1A5M1gzOE1pSWhGWEJfMldkLW11cGkxV1RUWGpYaUQ1ZGJCWjZiR0tlZzJwb2FkUFUxbkEwdzBlQ0J0SnUtbGh4YXBKX1ZxTS14dEtDc1h2WFk?oc=5\" target=\"_blank\">Colle...",
-    "tags": [
-      "general"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.920939+00:00"
+    "last_updated": "2026-10-10T04:05:56.448856+00:00"
   },
   {
     "news_id": "news_1495da3c07a99019",
@@ -253,7 +221,23 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.921001+00:00"
+    "last_updated": "2026-10-10T04:05:56.448929+00:00"
+  },
+  {
+    "news_id": "news_c50ad4f92fbedb2c",
+    "player_id": null,
+    "player_name": null,
+    "team": "Georgia",
+    "headline": "Georgia football-Alabama Game Time, TV Channel, how to watch online, odds for Week 6 game (Oct. 10, 2026) - DawgNation",
+    "source_name": "DawgNation",
+    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQU0VTQkFPam1xMmw0U2plN1ZmUVpDdVFhRElkY2s1d1dpalF5MFgwZDM1VDFaWmdHU295RlNpMzc2V2hxdE42ekk0RkRUQmFUOW1NcjE1ajRLT180M3JlR1J6aW1HMDlfVEFzdndheDE3Y1ZFQlNRQ3RXWWtQWWxFWDVSRWNqLUtTZUhoWWdYZ3BycTczQzQyUlEyQzhsXzNOSnAtV0huM21RVkV4d0poT3hPdlVBNjEzRk4taklhbFVPRldpMU5GYXdPc1dmOEwwREVyekIyTzViUQ?oc=5",
+    "published_at": "2026-10-09T22:30:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQU0VTQkFPam1xMmw0U2plN1ZmUVpDdVFhRElkY2s1d1dpalF5MFgwZDM1VDFaWmdHU295RlNpMzc2V2hxdE42ekk0RkRUQmFUOW1NcjE1ajRLT180M3JlR1J6aW1HMDlfVEFzdndheDE3Y1ZFQlNRQ3RXWWtQWWxFWDVSRWNqLUtTZUhoWWdYZ3BycTczQzQyUlEyQzhsXzNOSnAtV0huM21...",
+    "tags": [
+      "general"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-10-10T04:05:56.449010+00:00"
   },
   {
     "news_id": "news_c1cc3e35723b9e20",
@@ -269,7 +253,7 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.921065+00:00"
+    "last_updated": "2026-10-10T04:05:56.449098+00:00"
   },
   {
     "news_id": "news_c45bf0e67babceea",
@@ -285,24 +269,23 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.921135+00:00"
+    "last_updated": "2026-10-10T04:05:56.449179+00:00"
   },
   {
-    "news_id": "news_c6b6b13865c60fb7",
+    "news_id": "news_d21b3bcb1150ca1f",
     "player_id": null,
     "player_name": null,
     "team": "Georgia",
-    "headline": "Georgia's rushing touchdowns leader already ruled out vs. Alabama - UGA Wire",
-    "source_name": "UGA Wire",
-    "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU0lMX0ItY2xOcXdsZmtnenJTUnlwb0ZuM3B3eXV1MThMWktmdWZManNjNk9pYW56UFNEZzVlOEdYX3BxSE9tMXJTQWZaVDJpbzV1YVdrUzJyc09mOWlGNGRwdW8zSV9wNXlwQTlweXNaNXFCcGs2TlZRWG1jTkFKVWR1UnNpN1ExMFFtN2ZJbzVoQ1VXN0d1a1BVWmJkczlzYnRBUk42eFlzcmRxdnpDWHVLd3ZtLW5kcmxOQ21qTWhUZHBHRWU2eHhZZkNWc0lsWjBzekNOMldUY3g3T2RPQ1BR?oc=5",
-    "published_at": "2026-10-09T10:04:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU0lMX0ItY2xOcXdsZmtnenJTUnlwb0ZuM3B3eXV1MThMWktmdWZManNjNk9pYW56UFNEZzVlOEdYX3BxSE9tMXJTQWZaVDJpbzV1YVdrUzJyc09mOWlGNGRwdW8zSV9wNXlwQTlweXNaNXFCcGs2TlZRWG1jTkFKVWR1UnNpN1ExMFFtN2ZJbzVoQ1VXN0d1a1BVWmJkczlzYnRBUk42eFl...",
+    "headline": "Tennessee offers 2028 four-star cornerback, No. 22 player in Georgia - Vols Wire",
+    "source_name": "Vols Wire",
+    "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM1BITEVSYXpaZjc3dDlhVy1nZ0VXbk5ibGZYRHhTZnkzVkM1LTNfVTlaZTBoaUd4ZlFoU1Y5TWM3NlZleU9YRjlfM0pvcGdPUU94b2hLQmRUMFRQRU9jaEVNb1UxM0dHWC1rNm5PUHlaTXRXN19kUzhFSGU4MTFXZHNIOEtxOXVhYXAxalhMcXd0bjZEY1FQNkpMb2EzbG84TmxSUWR2aE5adnlDdXlTdS1IczBXd1NDOWVkdmNuRHE4azlBc0xMTEY4UmtOYlFRTFdwLXNKWE4wUVRwVEh3QnB2dw?oc=5",
+    "published_at": "2026-10-09T19:45:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM1BITEVSYXpaZjc3dDlhVy1nZ0VXbk5ibGZYRHhTZnkzVkM1LTNfVTlaZTBoaUd4ZlFoU1Y5TWM3NlZleU9YRjlfM0pvcGdPUU94b2hLQmRUMFRQRU9jaEVNb1UxM0dHWC1rNm5PUHlaTXRXN19kUzhFSGU4MTFXZHNIOEtxOXVhYXAxalhMcXd0bjZEY1FQNkpMb2EzbG84TmxSUWR2aE5...",
     "tags": [
-      "injury",
-      "performance"
+      "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.921201+00:00"
+    "last_updated": "2026-10-10T04:05:56.449257+00:00"
   },
   {
     "news_id": "news_d4c937ef8c393a16",
@@ -318,23 +301,55 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.921259+00:00"
+    "last_updated": "2026-10-10T04:05:56.449328+00:00"
   },
   {
-    "news_id": "news_ac6f3c0e42aad892",
+    "news_id": "news_96c99205aa546d18",
+    "player_id": null,
+    "player_name": null,
+    "team": "Georgia",
+    "headline": "Georgia Reveals Surprising Injury on Initial Report Which Could Have Huge Impact - Yahoo Sports",
+    "source_name": "Yahoo Sports",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLWlyZEE4ODBRS3h6ZDNqMzVLT04tLWM5ek93aFhBbEdmc3pBWnFCdllEWnBuWnllYUE5eFhncXJsQjNZX2J1VUg3V2lBeDhHVDhqTEpmeEpxdnBqM05UelB3Y1NGUmc3RlM1T2NIV19NV3R1bjJydXAxTjJJWkh4ckJnZGFfTFZoMlZ2RFFCZHdFd3NS?oc=5",
+    "published_at": "2026-10-08T12:24:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQLWlyZEE4ODBRS3h6ZDNqMzVLT04tLWM5ek93aFhBbEdmc3pBWnFCdllEWnBuWnllYUE5eFhncXJsQjNZX2J1VUg3V2lBeDhHVDhqTEpmeEpxdnBqM05UelB3Y1NGUmc3RlM1T2NIV19NV3R1bjJydXAxTjJJWkh4ckJnZGFfTFZoMlZ2RFFCZHdFd3NS?oc=5\" target=\"_blank\">Geor...",
+    "tags": [
+      "injury"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-10-10T04:05:56.449403+00:00"
+  },
+  {
+    "news_id": "news_fe9f7f3f1c22ae3c",
     "player_id": null,
     "player_name": null,
     "team": "Ohio State",
-    "headline": "Five Bold Predictions For Ohio State Vs. Maryland - Yahoo Sports",
+    "headline": "Ohio State could be down multiple starters for Maryland clash - Yahoo Sports",
     "source_name": "Yahoo Sports",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaTNHRHc2Q1pDVkJlME5od1BuaFVJSnV1cjhRYlNRMTZxaGhtUmZVYW9KcHNpSFgtbDBwS3g0YmRPSTlUTXJtbGZ4RWF6VzhYYzZNR1FyUGxEaGRUSkJ3T0wtUHRnVHlHMzJZQkhkOWFfVlVZa05QY1U0MlZHVnc0TkYyU184UjJi?oc=5",
-    "published_at": "2026-10-09T19:00:04+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaTNHRHc2Q1pDVkJlME5od1BuaFVJSnV1cjhRYlNRMTZxaGhtUmZVYW9KcHNpSFgtbDBwS3g0YmRPSTlUTXJtbGZ4RWF6VzhYYzZNR1FyUGxEaGRUSkJ3T0wtUHRnVHlHMzJZQkhkOWFfVlVZa05QY1U0MlZHVnc0TkYyU184UjJi?oc=5\" target=\"_blank\">Five Bold Prediction...",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa2JYS0dFOXBKeDk4LTk3UExUUmgwaE5JcUk2dElIM0VhaW9RTTBUV21NN2hiZ3F3OUpqc21DM1RXNkVpZ0N6TjhEMFFyYi03WXVpc0lfSnE4Z2FpTU1KSFhFTmZkRHlodWhfQzd4UlBGTzUzdFRVOFl1MDdUV2pmVFpKYldPQQ?oc=5",
+    "published_at": "2026-10-10T01:17:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOa2JYS0dFOXBKeDk4LTk3UExUUmgwaE5JcUk2dElIM0VhaW9RTTBUV21NN2hiZ3F3OUpqc21DM1RXNkVpZ0N6TjhEMFFyYi03WXVpc0lfSnE4Z2FpTU1KSFhFTmZkRHlodWhfQzd4UlBGTzUzdFRVOFl1MDdUV2pmVFpKYldPQQ?oc=5\" target=\"_blank\">Ohio State could be do...",
     "tags": [
-      "general"
+      "depth_chart"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.921320+00:00"
+    "last_updated": "2026-10-10T04:05:56.449475+00:00"
+  },
+  {
+    "news_id": "news_0899acd2603bf4bf",
+    "player_id": null,
+    "player_name": null,
+    "team": "Ohio State",
+    "headline": "Brandon Inniss, Phillip Daniels and Christian Alliegro Doubtful, Devin McCuin and Jay Timmons Probable vs. Maryland - Eleven Warriors",
+    "source_name": "Eleven Warriors",
+    "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOaTVncUgwbDZWV1VjWk45RVcwWlppb3RETzlBWkpLVjhwQjlORmJDT2JxYXFCaWlxdFQxV2NLWmxTOE41cTljRS0yRFhodGRhRHU0bFlYYmhraWEwYjNiQWlEcW92ZDBsZGlZS2dLM3VxX00tRUI0Qkw3N19wSGstZHp3V2huS09UR0NRZlMzbUZpdXVmLTA4WXFGM1lxekh4eXhjclFXeGF4bm90MWdMVG11SWJTSEZ6S09pLVlBc3RBcW1WSU9RRnFhS0pZOUZ6dkx2d2NtcUExWk8xYWVtc1ZHN2pzQkR0a1hja1RKeHpoXzBGNlo4V0RYNXRfcU5lN1NHaXJR?oc=5",
+    "published_at": "2026-10-10T00:12:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxOaTVncUgwbDZWV1VjWk45RVcwWlppb3RETzlBWkpLVjhwQjlORmJDT2JxYXFCaWlxdFQxV2NLWmxTOE41cTljRS0yRFhodGRhRHU0bFlYYmhraWEwYjNiQWlEcW92ZDBsZGlZS2dLM3VxX00tRUI0Qkw3N19wSGstZHp3V2huS09UR0NRZlMzbUZpdXVmLTA4WXFGM1lxekh4eXhjclFXeGF...",
+    "tags": [
+      "injury"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-10-10T04:05:56.449556+00:00"
   },
   {
     "news_id": "news_e9268853fe75f3ff",
@@ -350,7 +365,7 @@
       "transfer"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.921400+00:00"
+    "last_updated": "2026-10-10T04:05:56.449647+00:00"
   },
   {
     "news_id": "news_dc69c6dd66a4241f",
@@ -366,23 +381,23 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.921471+00:00"
+    "last_updated": "2026-10-10T04:05:56.449729+00:00"
   },
   {
-    "news_id": "news_9deb72635ba64675",
+    "news_id": "news_81e06fc14dc4129b",
     "player_id": null,
     "player_name": null,
     "team": "Ohio State",
-    "headline": "Ohio State Preaching The Program’s Standard When It Comes To Integrating Current, Future Transfer Portal Classes - Eleven Warriors",
-    "source_name": "Eleven Warriors",
-    "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVG1PbUdSSVNxUnBVYllUM0swcXY1ZHE3M3FzR3FwbldpNkltLTE0WldIYXpNREF5NHpnRE91QXZHU3ViQk9oUHJEU3pna3ZfUGE4ejk0QTJQVWJDbk5ETXl1SVVUcVg3SENWNDZTc2RXdnZoY3hQcTlYSFlHQTRBUGZmYXFSbms1SnZvT3AtUW5veUZqTXVubGVleW4zNGtEOFZQQmlSM1dENnQ2b3U4bUxRbTNBRDV3WmEzT2xQQ21rX0t6aTBtY0xqbnFpUWNJako0aGxMY0d2Nm13UzVJWkM4UUwtWmtiekE?oc=5",
-    "published_at": "2026-10-09T18:37:47+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVG1PbUdSSVNxUnBVYllUM0swcXY1ZHE3M3FzR3FwbldpNkltLTE0WldIYXpNREF5NHpnRE91QXZHU3ViQk9oUHJEU3pna3ZfUGE4ejk0QTJQVWJDbk5ETXl1SVVUcVg3SENWNDZTc2RXdnZoY3hQcTlYSFlHQTRBUGZmYXFSbms1SnZvT3AtUW5veUZqTXVubGVleW4zNGtEOFZQQmlSM1d...",
+    "headline": "Georgia might be Ohio State's biggest CFP threat — and Kirby Smart's defense is the reason why - Cleveland.com",
+    "source_name": "Cleveland.com",
+    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNkFSMDVWQ1pMNUxfWFF6b0tvRnd5N1RnTVl2V2N0SC11WUQ4QWZ1aHJFbFhJZ241SWFDX2Z5eXFrZExDWmdhSndrOUM5MU95RVJWOTYxMEEyOTE3OEdWQVYwMTFfWXRyR00tQUJqQ2pneFpabmJKMW9obkpLclBPTmRlR0FDN3pmczR1NGljU0xzbWk3d2YtU0FkU21YY3RwSzV0Um1aTVpNVTRHQ0lxLWNvMGlsd05NaFFmVHFTSnVXWTNxTldfd2RqZw?oc=5",
+    "published_at": "2026-10-09T10:00:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPNkFSMDVWQ1pMNUxfWFF6b0tvRnd5N1RnTVl2V2N0SC11WUQ4QWZ1aHJFbFhJZ241SWFDX2Z5eXFrZExDWmdhSndrOUM5MU95RVJWOTYxMEEyOTE3OEdWQVYwMTFfWXRyR00tQUJqQ2pneFpabmJKMW9obkpLclBPTmRlR0FDN3pmczR1NGljU0xzbWk3d2YtU0FkU21YY3RwSzV0Um1aTVp...",
     "tags": [
-      "transfer"
+      "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.921570+00:00"
+    "last_updated": "2026-10-10T04:05:56.449817+00:00"
   },
   {
     "news_id": "news_a9065cf3d85844be",
@@ -398,31 +413,15 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.921642+00:00"
+    "last_updated": "2026-10-10T04:05:56.449900+00:00"
   },
   {
-    "news_id": "news_0350cf72ce8df949",
+    "news_id": "news_a817fc214cdc91e0",
     "player_id": null,
     "player_name": null,
     "team": "Ohio State",
-    "headline": "Ohio State's field will look different for homecoming — here's the new midfield logo - Cleveland.com",
-    "source_name": "Cleveland.com",
-    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMWdFYWk0cHJDMEthYjg2RGdnSDN3RkxaVGNyTWxfdmdtWS00VERrdldQbjZPZ3lFZEloaGc1c194N29NcC15VGtNNjZvUzJFc2tsVUZhTENZOUtpWWp6UmVoU1V6dXAwNWtjVlBoNEZZMFQ3ZlQtb1ZlZVREUmtxck9haDBwbEJZQXotd2NDamVpMGlKa25SMWl0eE9MVmwwOC13amt1c3lEU1dRc0VmWWRodWpFQzhOR1lPWXlaTUNISTg?oc=5",
-    "published_at": "2026-10-09T20:51:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMWdFYWk0cHJDMEthYjg2RGdnSDN3RkxaVGNyTWxfdmdtWS00VERrdldQbjZPZ3lFZEloaGc1c194N29NcC15VGtNNjZvUzJFc2tsVUZhTENZOUtpWWp6UmVoU1V6dXAwNWtjVlBoNEZZMFQ3ZlQtb1ZlZVREUmtxck9haDBwbEJZQXotd2NDamVpMGlKa25SMWl0eE9MVmwwOC13amt1c3l...",
-    "tags": [
-      "injury"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.921718+00:00"
-  },
-  {
-    "news_id": "news_6597b8ea4d48c954",
-    "player_id": null,
-    "player_name": null,
-    "team": "Ohio State",
-    "headline": "Ohio State injury report: 6 players ruled out for Iowa game - 10tv.com",
-    "source_name": "10tv.com",
+    "headline": "Ohio State injury report: 6 players ruled out for Iowa game - 10TV",
+    "source_name": "10TV",
     "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZnNQNXpXMk5ZdGxLTE0xclhrYXl3ZkdHckpaSlFObzd6NkVzVWMwdWdYNEt5amtMdWIwVUFGVm1XMlN2TEVPa29ETjBldDJPeFdhYjJTTlJrT0xaeGFzZW8zaVZPRlo0aXN6cnN2M0IzVXZCSkxlR0ZrakRUOWRLOEZ1MzJEdURTcW8tdTFRWGRMT0tmaFlNQzh5T2RfMEFmLWVEQzBXbGFySEMtNWhJc3FQcUx1di00Y0JhNGFpZG5sNlBUVnRISWVwcWVjeTRP?oc=5",
     "published_at": "2026-10-03T17:30:00+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZnNQNXpXMk5ZdGxLTE0xclhrYXl3ZkdHckpaSlFObzd6NkVzVWMwdWdYNEt5amtMdWIwVUFGVm1XMlN2TEVPa29ETjBldDJPeFdhYjJTTlJrT0xaeGFzZW8zaVZPRlo0aXN6cnN2M0IzVXZCSkxlR0ZrakRUOWRLOEZ1MzJEdURTcW8tdTFRWGRMT0tmaFlNQzh5T2RfMEFmLWVEQzBXbGF...",
@@ -430,23 +429,23 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.921785+00:00"
+    "last_updated": "2026-10-10T04:05:56.449975+00:00"
   },
   {
-    "news_id": "news_d86fc442f2585f28",
+    "news_id": "news_8a5c126d68e29dca",
     "player_id": null,
     "player_name": null,
     "team": "Ohio State",
-    "headline": "How Ohio State club football players undertake busy schedules - The Lantern",
-    "source_name": "The Lantern",
-    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMzVUS19jRlhLd3pBVjc2a3V0VzE3WV9CZjFfNnV4dEQtUkdwM0hFdDJWQ19nVWNTb250MFM5ZS1SOGVObF8wdmdNQUNWelR4bnA3Vk1HYVRjdXRBRjRxTTFLVXdVdUhnSFhNZ2V2QVBIQjdYTXZXS2ttRzdFNEJGUW9aUU1OREpEUk1TUU90WTdhOHVRcGJYb2RZVnB3dw?oc=5",
-    "published_at": "2026-10-08T02:26:38+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNMzVUS19jRlhLd3pBVjc2a3V0VzE3WV9CZjFfNnV4dEQtUkdwM0hFdDJWQ19nVWNTb250MFM5ZS1SOGVObF8wdmdNQUNWelR4bnA3Vk1HYVRjdXRBRjRxTTFLVXdVdUhnSFhNZ2V2QVBIQjdYTXZXS2ttRzdFNEJGUW9aUU1OREpEUk1TUU90WTdhOHVRcGJYb2RZVnB3dw?oc=5\" target...",
+    "headline": "Ohio State vs. Maryland - October 10, 2026 | Live Scores, Updates, Odds, Injury News and Recaps - Bleacher Report",
+    "source_name": "Bleacher Report",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd1lPOEdJR2VyYlZ0Ykt3V2JFOWNyYVMtV3BiVlJJTjlfWEJjVkZnSDlGY0VUVjNpbjRUQTJhTzFLbWx3NWtobTQwTzdwWWV4NkhjdnlJS2JjV0dzaE5qQktOamFCYlpiRGRSTVduWDJKTV9fUG1tbzUzNEQ1M0h4UGoxYWJQQnZPNDhzdklYZzVlX3ZlWEN2b1Z1Q3BJa3BW?oc=5",
+    "published_at": "2026-10-10T03:00:49+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQd1lPOEdJR2VyYlZ0Ykt3V2JFOWNyYVMtV3BiVlJJTjlfWEJjVkZnSDlGY0VUVjNpbjRUQTJhTzFLbWx3NWtobTQwTzdwWWV4NkhjdnlJS2JjV0dzaE5qQktOamFCYlpiRGRSTVduWDJKTV9fUG1tbzUzNEQ1M0h4UGoxYWJQQnZPNDhzdklYZzVlX3ZlWEN2b1Z1Q3BJa3BW?oc=5\" targ...",
     "tags": [
-      "general"
+      "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.921848+00:00"
+    "last_updated": "2026-10-10T04:05:56.450063+00:00"
   },
   {
     "news_id": "news_c1cc3e35723b9e20",
@@ -462,23 +461,23 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.921910+00:00"
+    "last_updated": "2026-10-10T04:05:56.450143+00:00"
   },
   {
-    "news_id": "news_9b15c08e0844c63a",
+    "news_id": "news_01d90b4e46341abe",
     "player_id": null,
     "player_name": null,
     "team": "Ohio State",
-    "headline": "OSU injury updates: Jay Timmons, Christian Alliegro questionable vs. Maryland - Scarlet and Game",
-    "source_name": "Scarlet and Game",
-    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX0FpR1RIUFFYNGRHTGttUmM3TDBBSXVOSEMtRFdyMlVES3VvUUNQeWVFTFZld1FtR1hjYjVXenk3MGlVZ2ZxZmZrd2xZT3dOdGJ5S2RabGJPeTBjMTl5NG11VW5UeFM4b1dfVEJMQkJWcnp6dnBoNzNYVzAxTGpDU0hhbHh3dmktLWhoOFlyWWdQVExaelJvMlUtNkRRTXdiWE1B?oc=5",
-    "published_at": "2026-10-09T19:19:59+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOX0FpR1RIUFFYNGRHTGttUmM3TDBBSXVOSEMtRFdyMlVES3VvUUNQeWVFTFZld1FtR1hjYjVXenk3MGlVZ2ZxZmZrd2xZT3dOdGJ5S2RabGJPeTBjMTl5NG11VW5UeFM4b1dfVEJMQkJWcnp6dnBoNzNYVzAxTGpDU0hhbHh3dmktLWhoOFlyWWdQVExaelJvMlUtNkRRTXdiWE1B?oc=5\"...",
+    "headline": "This Nightmare Can't Become Reality in Ohio State's Week 6 Outing vs. Maryland - Yahoo Sports",
+    "source_name": "Yahoo Sports",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcnBPWS0xZEpaMEJ6XzhsSllDcmdva0lPdEVyLVZMYzNRLVlBb3Q5WVNpa0Rqc3hzY0JVQlg5bF9oSXM3STRzcHJpQlpTa3AtcnBtc3hDT29welZYQTdsQUNxQ3g4emZlTkR5bnQ0WkVNSm0zVUlEMC1lZlRpNlE5bEZyMkJYam0zd0h3?oc=5",
+    "published_at": "2026-10-09T21:00:03+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcnBPWS0xZEpaMEJ6XzhsSllDcmdva0lPdEVyLVZMYzNRLVlBb3Q5WVNpa0Rqc3hzY0JVQlg5bF9oSXM3STRzcHJpQlpTa3AtcnBtc3hDT29welZYQTdsQUNxQ3g4emZlTkR5bnQ0WkVNSm0zVUlEMC1lZlRpNlE5bEZyMkJYam0zd0h3?oc=5\" target=\"_blank\">This Nightmare C...",
     "tags": [
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.921972+00:00"
+    "last_updated": "2026-10-10T04:05:56.450217+00:00"
   },
   {
     "news_id": "news_f94e8db233fd3219",
@@ -494,23 +493,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.922037+00:00"
-  },
-  {
-    "news_id": "news_a2901068a115339f",
-    "player_id": null,
-    "player_name": null,
-    "team": "Michigan",
-    "headline": "Family, faith help Thomas Gordon, former UM football player fighting ALS, find joy - The Detroit News",
-    "source_name": "The Detroit News",
-    "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNelZSdFBESXY0NXVKWjRpQ0VMb3J6MmQwUmttYUZ2OW1TbzZGR1djRU0yUjZHUlZLSkRhRzdiWnE3SmFjVlBWOW14TERKQ1ktUFhmSUlYRThXUGtNTGZzdTFsTjhyUTlpYU13UTBTRE5nZFFXazZvazgzZzR0OTJCZ1VTMy1lc19uZ1NkNkRWbVJNNFdsMzYtbVdIZy1GMGRidDJkVVZMVEpXUTcxSE1qdHF0emlxRU1jTW0zM3Q0MEFQV0pUVmpscXBMMmhrQjFrZVowcnVrQzVGbi12MnE1cHVvTjdtS1d5SmctREFrRVJ4WVFpc3hKNUwwLXctaDdnbFE?oc=5",
-    "published_at": "2026-10-09T04:02:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxNelZSdFBESXY0NXVKWjRpQ0VMb3J6MmQwUmttYUZ2OW1TbzZGR1djRU0yUjZHUlZLSkRhRzdiWnE3SmFjVlBWOW14TERKQ1ktUFhmSUlYRThXUGtNTGZzdTFsTjhyUTlpYU13UTBTRE5nZFFXazZvazgzZzR0OTJCZ1VTMy1lc19uZ1NkNkRWbVJNNFdsMzYtbVdIZy1GMGRidDJkVVZMVEp...",
-    "tags": [
-      "general"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.922109+00:00"
+    "last_updated": "2026-10-10T04:05:56.450293+00:00"
   },
   {
     "news_id": "news_bca2a54d64aeb56f",
@@ -526,7 +509,23 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.922175+00:00"
+    "last_updated": "2026-10-10T04:05:56.450367+00:00"
+  },
+  {
+    "news_id": "news_a2901068a115339f",
+    "player_id": null,
+    "player_name": null,
+    "team": "Michigan",
+    "headline": "Family, faith help Thomas Gordon, former UM football player fighting ALS, find joy - The Detroit News",
+    "source_name": "The Detroit News",
+    "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNelZSdFBESXY0NXVKWjRpQ0VMb3J6MmQwUmttYUZ2OW1TbzZGR1djRU0yUjZHUlZLSkRhRzdiWnE3SmFjVlBWOW14TERKQ1ktUFhmSUlYRThXUGtNTGZzdTFsTjhyUTlpYU13UTBTRE5nZFFXazZvazgzZzR0OTJCZ1VTMy1lc19uZ1NkNkRWbVJNNFdsMzYtbVdIZy1GMGRidDJkVVZMVEpXUTcxSE1qdHF0emlxRU1jTW0zM3Q0MEFQV0pUVmpscXBMMmhrQjFrZVowcnVrQzVGbi12MnE1cHVvTjdtS1d5SmctREFrRVJ4WVFpc3hKNUwwLXctaDdnbFE?oc=5",
+    "published_at": "2026-10-09T04:02:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxNelZSdFBESXY0NXVKWjRpQ0VMb3J6MmQwUmttYUZ2OW1TbzZGR1djRU0yUjZHUlZLSkRhRzdiWnE3SmFjVlBWOW14TERKQ1ktUFhmSUlYRThXUGtNTGZzdTFsTjhyUTlpYU13UTBTRE5nZFFXazZvazgzZzR0OTJCZ1VTMy1lc19uZ1NkNkRWbVJNNFdsMzYtbVdIZy1GMGRidDJkVVZMVEp...",
+    "tags": [
+      "general"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-10-10T04:05:56.450447+00:00"
   },
   {
     "news_id": "news_8b923b5e8e66138b",
@@ -542,7 +541,7 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.922244+00:00"
+    "last_updated": "2026-10-10T04:05:56.450523+00:00"
   },
   {
     "news_id": "news_003e37ca72ff2cc5",
@@ -558,23 +557,23 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.922305+00:00"
+    "last_updated": "2026-10-10T04:05:56.450595+00:00"
   },
   {
-    "news_id": "news_f4fafe779cf08a33",
+    "news_id": "news_8f448e1439d76646",
     "player_id": null,
     "player_name": null,
     "team": "Michigan",
-    "headline": "Memories of the Michigan win stretch beyond Minnesota's football program - 247Sports",
+    "headline": "Michigan State football availability report: Illinois (Wednesday update) - 247Sports",
     "source_name": "247Sports",
-    "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZzNhS1BTMnNfXzF0QWxxNFNrdDZWM0sxWHBQdmRsYWI4NkRnUVJFSG5mNjBxZlJjLU9jTFNPdE4tb2pFUXJpZWRiazVHLXpTaWtyVGhrSm1lVzhRanhRTmM3ejh4dVhPTEpLbEg1N0RiUGNyV2dCRTE4TjZ6elEyNjBmQW5YTzRjdE4yMEtqenU4ZGQwMUFxakdvOVp5cXN5TnpPanVGRmZGVUNYUzZyQUJJV3lpbGttREhIdmtrNzhJekVJRXItbmpzZDE1QmRtcDh6MzdYbF81RUpYSm9BdkRTODVKbmZkX3lzaWI4QzNodw?oc=5",
-    "published_at": "2026-10-09T13:01:33+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZzNhS1BTMnNfXzF0QWxxNFNrdDZWM0sxWHBQdmRsYWI4NkRnUVJFSG5mNjBxZlJjLU9jTFNPdE4tb2pFUXJpZWRiazVHLXpTaWtyVGhrSm1lVzhRanhRTmM3ejh4dVhPTEpLbEg1N0RiUGNyV2dCRTE4TjZ6elEyNjBmQW5YTzRjdE4yMEtqenU4ZGQwMUFxakdvOVp5cXN5TnpPanVGRmZ...",
+    "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObTNFZ25CaXdiZHZ6OWVZcjBNZzdQZlN1UkpOUU91dnZBR1V5alR4ODBWSVpjMGdibEtIZTJDN2w3SFBvOUFZcFBIcElheVZ1ZkZUZmN2Ry1NelZ5aGVnUVNYOWRFbUY2X0g2N2xPTl9DTGxvMXYzQkJZMi0yMTQ3QnNOYkViYTg5SldsUV9FNm1Bbmx1UmZvTFBjVENyRjFfRHJ2OEZJcnNFQ2tnX3lPN1hzRzZXVkNqMi1pdjcyLTZ5WEJuQ1AtNVExZjB3WUFnSHE5Ti1EQUdUUEUzVzc1SVdMNVp4UWlw?oc=5",
+    "published_at": "2026-10-07T22:24:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxObTNFZ25CaXdiZHZ6OWVZcjBNZzdQZlN1UkpOUU91dnZBR1V5alR4ODBWSVpjMGdibEtIZTJDN2w3SFBvOUFZcFBIcElheVZ1ZkZUZmN2Ry1NelZ5aGVnUVNYOWRFbUY2X0g2N2xPTl9DTGxvMXYzQkJZMi0yMTQ3QnNOYkViYTg5SldsUV9FNm1Bbmx1UmZvTFBjVENyRjFfRHJ2OEZJcnN...",
     "tags": [
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.922370+00:00"
+    "last_updated": "2026-10-10T04:05:56.450671+00:00"
   },
   {
     "news_id": "news_f75a267f3c52d2a7",
@@ -590,7 +589,7 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.922434+00:00"
+    "last_updated": "2026-10-10T04:05:56.450749+00:00"
   },
   {
     "news_id": "news_6c8cc9788e93eb24",
@@ -606,7 +605,23 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.922511+00:00"
+    "last_updated": "2026-10-10T04:05:56.450822+00:00"
+  },
+  {
+    "news_id": "news_9e7b9dc8d74dcf98",
+    "player_id": null,
+    "player_name": null,
+    "team": "Michigan",
+    "headline": "Live high school football updates for Week 7 games in Michigan - MLive.com",
+    "source_name": "MLive.com",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLV91M1RfaS00WVBJQ2xFSFJzMk9zYkJUdXdUdHJnd3cwcGNjUE1lU1BpLUtKUkNBZHhVODFNNDFTLWI3cDA2NVAtT2YzMDcwVGxPaTAwcnNpZjI2NDEzWEVZeFdJMmhjVFF5QkpSNVY0blRNeG1ueFF5ZHJRcS1RRl92WjQ1YzNnTl9LSk1OeENNaHB0NWgyQTRodlpXSlpObXppVk5LaVFydGZPNzVaUEpSRnk?oc=5",
+    "published_at": "2026-10-09T22:06:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNLV91M1RfaS00WVBJQ2xFSFJzMk9zYkJUdXdUdHJnd3cwcGNjUE1lU1BpLUtKUkNBZHhVODFNNDFTLWI3cDA2NVAtT2YzMDcwVGxPaTAwcnNpZjI2NDEzWEVZeFdJMmhjVFF5QkpSNVY0blRNeG1ueFF5ZHJRcS1RRl92WjQ1YzNnTl9LSk1OeENNaHB0NWgyQTRodlpXSlpObXppVk5LaVF...",
+    "tags": [
+      "general"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-10-10T04:05:56.450896+00:00"
   },
   {
     "news_id": "news_16be4d79651214e2",
@@ -622,23 +637,39 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.922592+00:00"
+    "last_updated": "2026-10-10T04:05:56.450970+00:00"
   },
   {
-    "news_id": "news_3a3de9d3ebd23c11",
+    "news_id": "news_a00672dc24360b6f",
     "player_id": null,
     "player_name": null,
-    "team": "Michigan",
-    "headline": "College football: Predictions, how to watch Illinois vs Michigan State - Peoria Journal Star",
-    "source_name": "Peoria Journal Star",
-    "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR19MWlJrMDFIWDRoRlhjMUVHV29ZcF9iSnpkM0pxVldKRlBHd2p1Yll2enlrRVEzekQyZU8zT3pWcUc1Z21BQlhVRFNsSWM3cU5faWJvWmliODQ0YUt0NEhpQk5lWlVpTm9NaldQQzBtMXItSEZOM3FwMS1kOWd0S1RRZ0xfYUVQN1MyUHRRR2k3bm55VDFqU2JURzgteXNvSmxvZnFJRUU1RlhnRG52Z3MyT2RQeThpVFUxVUxoTEt5NVlpc04tUXNwZS1fel9kWmxzbmNpQ1JYWWx1aUE?oc=5",
-    "published_at": "2026-10-08T08:04:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR19MWlJrMDFIWDRoRlhjMUVHV29ZcF9iSnpkM0pxVldKRlBHd2p1Yll2enlrRVEzekQyZU8zT3pWcUc1Z21BQlhVRFNsSWM3cU5faWJvWmliODQ0YUt0NEhpQk5lWlVpTm9NaldQQzBtMXItSEZOM3FwMS1kOWd0S1RRZ0xfYUVQN1MyUHRRR2k3bm55VDFqU2JURzgteXNvSmxvZnFJRUU...",
+    "team": "Texas",
+    "headline": "Texas vs Oklahoma Final Injury Report Includes Major Red River Absences - Sports Illustrated",
+    "source_name": "Sports Illustrated",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTDJPMWgxZnR5d3ROUHpNbmZnTlpRMV9nWEhfU0hESWo1ZlcybldiR25tSXFPZGNRbkhSckdsZ242OGNWX0pkWGxGUFNXXzRVUTZtVTVxc09NVy1GTnlYeVBteGg2U3BQMEJ5YXgwSWdPR2UtRklBdlUwRTQyVEd4OVlrWThWS0JlcElXNzBleTFtT0tqcTFUU1Q2eGtCbHBtMFF2MjZ2U1NTNDc3U0UxNkpDOA?oc=5",
+    "published_at": "2026-10-10T00:52:35+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNTDJPMWgxZnR5d3ROUHpNbmZnTlpRMV9nWEhfU0hESWo1ZlcybldiR25tSXFPZGNRbkhSckdsZ242OGNWX0pkWGxGUFNXXzRVUTZtVTVxc09NVy1GTnlYeVBteGg2U3BQMEJ5YXgwSWdPR2UtRklBdlUwRTQyVEd4OVlrWThWS0JlcElXNzBleTFtT0tqcTFUU1Q2eGtCbHBtMFF2MjZ2U1N...",
+    "tags": [
+      "injury"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-10-10T04:05:56.451044+00:00"
+  },
+  {
+    "news_id": "news_cd4357d73eca5d30",
+    "player_id": null,
+    "player_name": null,
+    "team": "Texas",
+    "headline": "Oklahoma CB Eli Bowen added to Friday availability report - Burnt Orange Nation",
+    "source_name": "Burnt Orange Nation",
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX0FvdTM3ZDF1VWhIWHItTnFRVEltZDhLa2QyUmJHcG1SV2lDNzh0Uk5PVmJuMHBQNi1FSzVvOFYzWWJQaDZDN3BaZ21DM1lwS1ZwSEh5YkRGRkREUkVSTGdmMGZFcldQY1RzSHgtODEtX3g5NEtFMDZxRG8tX0RvMmhzWmZONTIzV3dzOGctc2hoY0ViRkRQZTRFYXhPWUp1aTJXZTFNVFVOVVBLYlVfQ1Bjbm1qM3NGQjBMRC1SNA?oc=5",
+    "published_at": "2026-10-10T02:57:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNX0FvdTM3ZDF1VWhIWHItTnFRVEltZDhLa2QyUmJHcG1SV2lDNzh0Uk5PVmJuMHBQNi1FSzVvOFYzWWJQaDZDN3BaZ21DM1lwS1ZwSEh5YkRGRkREUkVSTGdmMGZFcldQY1RzSHgtODEtX3g5NEtFMDZxRG8tX0RvMmhzWmZONTIzV3dzOGctc2hoY0ViRkRQZTRFYXhPWUp1aTJXZTFNVFV...",
     "tags": [
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.922667+00:00"
+    "last_updated": "2026-10-10T04:05:56.451130+00:00"
   },
   {
     "news_id": "news_82c167613138f516",
@@ -654,39 +685,23 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.922734+00:00"
+    "last_updated": "2026-10-10T04:05:56.451209+00:00"
   },
   {
-    "news_id": "news_84dfd3ed97abca9a",
+    "news_id": "news_6c2de4456e5b3d93",
     "player_id": null,
     "player_name": null,
     "team": "Texas",
-    "headline": "Texas Longhorns Receive Good and Bad News on First Injury Report vs. Oklahoma - Sports Illustrated",
-    "source_name": "Sports Illustrated",
-    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdkp3TktTaWhQdEdkM254SEtPbWlyMDFDVksyR0w5TTMwamVfOFJFb09qSFNwdkRobnJ0X2lNNWJUQUlOR3FfS0t1Sl9RcG54VGNaeUZWYnFwem5nMTRta0Y3TGlXNmNkb1hTaFR1dVhzeDc2YzhncFo2NWFuT0VfSjhHXzZKN3NtX0VndUJKSTZVLWNBcGkwb2dvbVpLclFOZ0YyeUlwUklCbDlJcWVuTlNzSV9vQQ?oc=5",
-    "published_at": "2026-10-08T00:28:45+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPdkp3TktTaWhQdEdkM254SEtPbWlyMDFDVksyR0w5TTMwamVfOFJFb09qSFNwdkRobnJ0X2lNNWJUQUlOR3FfS0t1Sl9RcG54VGNaeUZWYnFwem5nMTRta0Y3TGlXNmNkb1hTaFR1dVhzeDc2YzhncFo2NWFuT0VfSjhHXzZKN3NtX0VndUJKSTZVLWNBcGkwb2dvbVpLclFOZ0YyeUlwUkl...",
+    "headline": "Red River Shootout SEC Injury Report: No changes for Horns before Texas-OU on Saturday - On3",
+    "source_name": "On3",
+    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa2xFeENLN05RekhFTTVuNVk3T0NJYTVTVmFIOFlEemJ5bkYzMnRrTG41Umlqa2R1LXEteVRDdUpUSEVadUZEZGdHVWxtOHN5MGdzeGRYRWlSb0J5OWJoNWRPUHRJRk9WU3MzV1poQmU5OXVxLUNmcDVhd3VMQ3p6YXdyZ0lOemtsYWJuMVc0MW9Pa1hidzBLejVmOFFhc3BfQVBtZ0hib0JlRVY3eGxZcFBHcFZkX2s2Q085RnQ0clhXMWtOM2lTeng0MTBVQQ?oc=5",
+    "published_at": "2026-10-10T00:20:45+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQa2xFeENLN05RekhFTTVuNVk3T0NJYTVTVmFIOFlEemJ5bkYzMnRrTG41Umlqa2R1LXEteVRDdUpUSEVadUZEZGdHVWxtOHN5MGdzeGRYRWlSb0J5OWJoNWRPUHRJRk9WU3MzV1poQmU5OXVxLUNmcDVhd3VMQ3p6YXdyZ0lOemtsYWJuMVc0MW9Pa1hidzBLejVmOFFhc3BfQVBtZ0hib0J...",
     "tags": [
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.922799+00:00"
-  },
-  {
-    "news_id": "news_aa9033c9aaf7433d",
-    "player_id": null,
-    "player_name": null,
-    "team": "Texas",
-    "headline": "Friendswood’s Josh Brister Wins Week 6 Player of the Week - Texas HS Football",
-    "source_name": "Texas HS Football",
-    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd1FteVN1OWV6Y0NLdmNfLVpuUE9TLXZJZU52VWRNZ0NtT093MUhQVk0zSnFqRkZ1R2E3OU0wUDZmRVdSeDVIdXNpRDVkbF9ESTVOdTAtVFhRVzZ3cjBWSDRJT0x4MW5UcWNJLU5DUWxuUUQ3TkhMWVhFSGJzN1ZCMnkyeU80b3Bfd1lBWjhB?oc=5",
-    "published_at": "2026-10-09T19:33:07+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOd1FteVN1OWV6Y0NLdmNfLVpuUE9TLXZJZU52VWRNZ0NtT093MUhQVk0zSnFqRkZ1R2E3OU0wUDZmRVdSeDVIdXNpRDVkbF9ESTVOdTAtVFhRVzZ3cjBWSDRJT0x4MW5UcWNJLU5DUWxuUUQ3TkhMWVhFSGJzN1ZCMnkyeU80b3Bfd1lBWjhB?oc=5\" target=\"_blank\">Friendswood’...",
-    "tags": [
-      "general"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.922871+00:00"
+    "last_updated": "2026-10-10T04:05:56.451284+00:00"
   },
   {
     "news_id": "news_06c2043757a1192e",
@@ -702,23 +717,39 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.922941+00:00"
+    "last_updated": "2026-10-10T04:05:56.451362+00:00"
   },
   {
-    "news_id": "news_f673ba7134b9f075",
+    "news_id": "news_aa9033c9aaf7433d",
     "player_id": null,
     "player_name": null,
     "team": "Texas",
-    "headline": "Why Oklahoma's Parker Livingstone was 'strategic' cut for Texas to add Cam Coleman - USA Today",
-    "source_name": "USA Today",
-    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUlkyUzliajRGSkVaY0tLUkgzLXktOVVUOHc5Q3lzdE10WE1SaTJMczBwcTdPcGsyQnZ0MkowSlRVb0JjbE9tRTRkQ2I0TF9pb2xxUndJTy10MzJ1T1hwUV8yOVJuY1hacTJUUU5pYVlZTUxpb2pRYndGcUliRURPMmx6LTZVS0R3ZE0tblhXWTRmRmJvWjNTX2l3dnd3eHlJX3hIODRhZThDdGxvRkhjYVM3Y0Y1cU10SmhvZGF5OW56NmpCX2dpbklR?oc=5",
-    "published_at": "2026-10-09T09:55:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPUlkyUzliajRGSkVaY0tLUkgzLXktOVVUOHc5Q3lzdE10WE1SaTJMczBwcTdPcGsyQnZ0MkowSlRVb0JjbE9tRTRkQ2I0TF9pb2xxUndJTy10MzJ1T1hwUV8yOVJuY1hacTJUUU5pYVlZTUxpb2pRYndGcUliRURPMmx6LTZVS0R3ZE0tblhXWTRmRmJvWjNTX2l3dnd3eHlJX3hIODRhZTh...",
+    "headline": "Friendswood’s Josh Brister Wins Week 6 Player of the Week - Texas HS Football",
+    "source_name": "Texas HS Football",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd1FteVN1OWV6Y0NLdmNfLVpuUE9TLXZJZU52VWRNZ0NtT093MUhQVk0zSnFqRkZ1R2E3OU0wUDZmRVdSeDVIdXNpRDVkbF9ESTVOdTAtVFhRVzZ3cjBWSDRJT0x4MW5UcWNJLU5DUWxuUUQ3TkhMWVhFSGJzN1ZCMnkyeU80b3Bfd1lBWjhB?oc=5",
+    "published_at": "2026-10-09T19:33:07+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOd1FteVN1OWV6Y0NLdmNfLVpuUE9TLXZJZU52VWRNZ0NtT093MUhQVk0zSnFqRkZ1R2E3OU0wUDZmRVdSeDVIdXNpRDVkbF9ESTVOdTAtVFhRVzZ3cjBWSDRJT0x4MW5UcWNJLU5DUWxuUUQ3TkhMWVhFSGJzN1ZCMnkyeU80b3Bfd1lBWjhB?oc=5\" target=\"_blank\">Friendswood’...",
     "tags": [
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.923011+00:00"
+    "last_updated": "2026-10-10T04:05:56.451444+00:00"
+  },
+  {
+    "news_id": "news_04a900e7b1bcb2a3",
+    "player_id": null,
+    "player_name": null,
+    "team": "Texas",
+    "headline": "Updated Texas A&M vs. Missouri predictions, picks, odds for Week 6 - Aggies Wire",
+    "source_name": "Aggies Wire",
+    "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQR3ZfUWFTNDBhV2lTempBT1B3RTIxV2NUYzE0TFFtXzRKU3BFdGhsODBibDJBb09EN1lkRFBDb3pMVWRCbUphZm9aZF96V0RKOEhJRklxT2ZRZDI0S3VjTHJlUURfbS10VnNKT3VKZWU2ekF0aU05NHdWWlRScTdTbHJxTkotY0FkRnVnUTVtVTZwM1p4eTZlZTZtdnA1NU1zWmxWbDd6VmNmZnF6ODUxTWxLdTdmQl9EWUlXcUJZeEp0VjFGRUhuU1I4RGFBbFBYbnFsTUJGYUtfdUdPQVpfY0Npdjk0a1NERzlRcU9QVy1WZw?oc=5",
+    "published_at": "2026-10-09T15:53:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQR3ZfUWFTNDBhV2lTempBT1B3RTIxV2NUYzE0TFFtXzRKU3BFdGhsODBibDJBb09EN1lkRFBDb3pMVWRCbUphZm9aZF96V0RKOEhJRklxT2ZRZDI0S3VjTHJlUURfbS10VnNKT3VKZWU2ekF0aU05NHdWWlRScTdTbHJxTkotY0FkRnVnUTVtVTZwM1p4eTZlZTZtdnA1NU1zWmxWbDd6VmN...",
+    "tags": [
+      "general"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-10-10T04:05:56.451523+00:00"
   },
   {
     "news_id": "news_443cd54571b39e5b",
@@ -734,7 +765,23 @@
       "injury"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.923078+00:00"
+    "last_updated": "2026-10-10T04:05:56.451602+00:00"
+  },
+  {
+    "news_id": "news_0946764c7ce06e92",
+    "player_id": null,
+    "player_name": null,
+    "team": "Texas",
+    "headline": "OU vs. Texas: How to watch, kickoff time, injury report and Red River Rivalry preview - News 9",
+    "source_name": "News 9",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT2JPdjIxVVBnYUlhSUlwbk1KejcyMGpnQjVTV2FiOTNYdzRGempNNjFqOTJ4REFJTUl1b0U1UE1PRFVjSWJzZUlpWkdvcU00WVhQQVN5ZXppMGs1OXVRcWN6NndCSERrLXI2QW5KMmpiYVg3RWR3bV91eF80aVV3ZmF3WGFjSlU0dlZIR3Frc240RDVWbkdDX2RnXzl0Q0U0TUdCZ1JRTHVFc21QOVBDbA?oc=5",
+    "published_at": "2026-10-09T17:30:57+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPT2JPdjIxVVBnYUlhSUlwbk1KejcyMGpnQjVTV2FiOTNYdzRGempNNjFqOTJ4REFJTUl1b0U1UE1PRFVjSWJzZUlpWkdvcU00WVhQQVN5ZXppMGs1OXVRcWN6NndCSERrLXI2QW5KMmpiYVg3RWR3bV91eF80aVV3ZmF3WGFjSlU0dlZIR3Frc240RDVWbkdDX2RnXzl0Q0U0TUdCZ1JRTHV...",
+    "tags": [
+      "injury"
+    ],
+    "confidence_score": 0.0,
+    "last_updated": "2026-10-10T04:05:56.451681+00:00"
   },
   {
     "news_id": "news_e87f6055b05068a5",
@@ -750,54 +797,6 @@
       "general"
     ],
     "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.923144+00:00"
-  },
-  {
-    "news_id": "news_1e84688f8bedd09f",
-    "player_id": null,
-    "player_name": null,
-    "team": "Texas",
-    "headline": "Texas TE Nick Townsend removed from Thursday injury report - Burnt Orange Nation",
-    "source_name": "Burnt Orange Nation",
-    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRjlNdWpKS2VTcnVmRkFoNzB1Tm5jY3Y5UW5zUWszak1fVHRiVEJFQnZpYTZReHhxdHo3STJNR3JNN2R2ZDc4cEVUU0x4Vk5kMFRickQ1SUlwajBWbDFHTWFmVkNRTkd1YjhYbFFJREQ4QWppM2VGemxYS01NQl9rV0xRYW5Jcng4b2JPenZWa0JuVGZ0OG9nWm41b3dRZVg3dWc?oc=5",
-    "published_at": "2026-10-09T00:52:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNRjlNdWpKS2VTcnVmRkFoNzB1Tm5jY3Y5UW5zUWszak1fVHRiVEJFQnZpYTZReHhxdHo3STJNR3JNN2R2ZDc4cEVUU0x4Vk5kMFRickQ1SUlwajBWbDFHTWFmVkNRTkd1YjhYbFFJREQ4QWppM2VGemxYS01NQl9rV0xRYW5Jcng4b2JPenZWa0JuVGZ0OG9nWm41b3dRZVg3dWc?oc=5\" t...",
-    "tags": [
-      "injury"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.923204+00:00"
-  },
-  {
-    "news_id": "news_3915266672c9d389",
-    "player_id": null,
-    "player_name": null,
-    "team": "Texas",
-    "headline": "College football player dies in rollover crash; teammate accused of driving while intoxicated - KLTV.com",
-    "source_name": "KLTV.com",
-    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV3hZNzdJVGZqTElJMUQzbHVIa3ZtaVNzdWtRWF9vZDZ1WFp5d1VKaHY0cGMyQ1k5NjhMV2JvUVRGbmRRdVlMc1lTZnhvN3VuOFltTkJvN2R2X3Z6cGk1RGVkeDM4LTFWcXJKRWoxaGhhMmtMeVYwb2RUc3dCNlFNWU5naTk5S2RUdzBQVHpaWTB0TGxlS1B4aDFLaEU4UVE1RDhacEZXS180dVc1cEFWYmpwZ1Z6WWN5cFA00gHPAUFVX3lxTFBVdElPd0cwVEhmYzlnNThQRmY3Y1RTaFkyVVFJd2xFTGJCWlBMdURqOUlZelhNcHM1RklPTDdleV9BNW1PdUVpM2RIVk82X3VUc0JMZUVIMUpudlNZQjZpbFFWWXVmMHdzTFB4cUhDaDd0SzY0LWJ3UFJWWERDeXk5dTlEd2NzX2xRUmNJQm40NEtVeEUwRHh2YWxWN2hVTnJoNHV4NkIydWtoTDRNRDdzeWRSZlRrLTkzUWpLT2RpOUFLWEhUYk1iQ2RMM2R2TQ?oc=5",
-    "published_at": "2026-10-08T23:35:00+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV3hZNzdJVGZqTElJMUQzbHVIa3ZtaVNzdWtRWF9vZDZ1WFp5d1VKaHY0cGMyQ1k5NjhMV2JvUVRGbmRRdVlMc1lTZnhvN3VuOFltTkJvN2R2X3Z6cGk1RGVkeDM4LTFWcXJKRWoxaGhhMmtMeVYwb2RUc3dCNlFNWU5naTk5S2RUdzBQVHpaWTB0TGxlS1B4aDFLaEU4UVE1RDhacEZXS18...",
-    "tags": [
-      "general"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.923284+00:00"
-  },
-  {
-    "news_id": "news_f6e7352a796614c2",
-    "player_id": null,
-    "player_name": null,
-    "team": "Texas",
-    "headline": "LSU lists 10 players on roster for exhibition after months with just 4 - Reuters",
-    "source_name": "Reuters",
-    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObkRuNmZZZUlWOU5CZzFUOS1JUjJucVlDZ0tBLUt3dXRDeXA4Z0UtR19TazA3SHY2aklUY29QSWtUWTNiUFRoZGRZdnhYVkN4Sk9jT21IdkliOFAycUpydzhEQmt0THBkNUw5eUx6eUdHNHRqc29USVhkWkhhbThXTDV1aDFWekRtODI0RkVRMEk0djh5VDRYMFZmMjEyUE1TRy1Yend0NG1jOXROd2tZOA?oc=5",
-    "published_at": "2026-10-09T19:05:46+00:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxObkRuNmZZZUlWOU5CZzFUOS1JUjJucVlDZ0tBLUt3dXRDeXA4Z0UtR19TazA3SHY2aklUY29QSWtUWTNiUFRoZGRZdnhYVkN4Sk9jT21IdkliOFAycUpydzhEQmt0THBkNUw5eUx6eUdHNHRqc29USVhkWkhhbThXTDV1aDFWekRtODI0RkVRMEk0djh5VDRYMFZmMjEyUE1TRy1Yend0NG1...",
-    "tags": [
-      "general"
-    ],
-    "confidence_score": 0.0,
-    "last_updated": "2026-10-09T23:56:17.923351+00:00"
+    "last_updated": "2026-10-10T04:05:56.451756+00:00"
   }
 ]
