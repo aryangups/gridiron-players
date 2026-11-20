@@ -10,7 +10,7 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSkZpemhUMWR0VGdBMUZjaXRxQWt6b2YyWVpiOVhSUF81b1J0Tll2UGR4MjU4cGRLUXpCa3NsQ0t6bEpfallLcFg0SEFQMl9sWVhqSk1FLWV3Njg3QWxvWFZockFLdkcxdlJucVdiLTZLeFp3eEUzc3VYX0NnYXg0UDlpYkctZElCUnRjMjMxNGJjOTFKTldOY1Vn?oc=5",
     "reported_at": "2026-11-14T16:17:38+00:00",
-    "last_updated": "2026-11-19T18:50:39.144580+00:00"
+    "last_updated": "2026-11-20T01:39:25.603193+00:00"
   },
   {
     "injury_id": "injury_f23ca7cda9e9dc5a",
@@ -23,7 +23,20 @@
     "source_name": "The Tuscaloosa News",
     "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ2RyZ1lrVzY2Y01oTy14NS1Pc3o3blNub1Jnck5YU1pfQUFoMFBvYk1QM1lKeVNkZ1ZYMlVRYU1ZeHpqRS1OTWtGTEhUSFB2bTdhSEE3OEhSOWExM0JkdVB4TjJhQ1lXNWlkV0duYkhpYlJwRndnRTRUcHFFM25VLVQ4MlFKTmNLNWhUMDl6SmZiUWRfaGROWl9yZ2J6VmU0RlNzWFE3cWRDT3l1ZTRqdjBZeDdLR3dBMGYzSnFOU1VHVG1GQnp1UWNpaXM?oc=5",
     "reported_at": "2026-11-18T18:15:00+00:00",
-    "last_updated": "2026-11-19T18:50:39.144607+00:00"
+    "last_updated": "2026-11-20T01:39:25.603221+00:00"
+  },
+  {
+    "injury_id": "injury_04198fc8a4b32b09",
+    "player_id": null,
+    "player_name": "Unknown",
+    "team": "Alabama",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdGdzamx0enZtT2p0WFRlc0NFcl9EajhHSG5ncDRfS1Zqb2pPSVFEZGREVy1nZUI3RExCcDV2UkFYSV81UmdvUWZYU3NjVHg2YTlvOTItc21TUFRUdm1xWHpybURablNOUXFseHBKSWF4OV85Y21iRHpaM2RFRDBHM1BNV2Z4SEpVT2t2b0hSNlh2MmhZVHVXbWxsd0VUQ3NRZzhBVmJZYW9...",
+    "source_name": "247Sports",
+    "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdGdzamx0enZtT2p0WFRlc0NFcl9EajhHSG5ncDRfS1Zqb2pPSVFEZGREVy1nZUI3RExCcDV2UkFYSV81UmdvUWZYU3NjVHg2YTlvOTItc21TUFRUdm1xWHpybURablNOUXFseHBKSWF4OV85Y21iRHpaM2RFRDBHM1BNV2Z4SEpVT2t2b0hSNlh2MmhZVHVXbWxsd0VUQ3NRZzhBVmJZYW9uR3U3eWpid2JzQ0JMNGowZ3VReHd0aTJYTTJLaUhobmNOdnZuY1VDYXdiTkxJQTQ?oc=5",
+    "reported_at": "2026-11-18T16:16:00+00:00",
+    "last_updated": "2026-11-20T01:39:25.603237+00:00"
   },
   {
     "injury_id": "injury_ea5f1c7ac7104a63",
@@ -36,20 +49,33 @@
     "source_name": "Yahoo Sports",
     "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ0tudk5rbzhkNEFFdkpKQk5YTHVqSU1vLXE4cFJGNVpBUUJxWUZZU3pXd3pqVkF3Y0tpT1lvcXJjenZoZXQ3S1VkaGFDZW5maDA1VVFsMzFSV01ab0c5MTJoUDFhNnhXSGtlT0ZiQnlyYUc0RlI2ckpvT1YzMDg5aldSYUdRcmZKMldBS0FvTEp4X0lH?oc=5",
     "reported_at": "2026-11-12T15:14:58+00:00",
-    "last_updated": "2026-11-19T18:50:39.144624+00:00"
+    "last_updated": "2026-11-20T01:39:25.603252+00:00"
   },
   {
-    "injury_id": "injury_54ec88d05a072872",
+    "injury_id": "injury_578ba14fe572880e",
     "player_id": null,
     "player_name": "Unknown",
     "team": "Alabama",
     "injury_status": "unknown",
     "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWVxd2dkR3hOQ3VfdUs4ZUtZQ1BjdFNsYU1JNko3OVE0YVl6OVJIV1RTd25LNDNjSmo3d0s5SEFLSFZWMFN1QUMzdlBpbjhOUlFVRURMVmkxaWRkVDdqWjBYZTBucGk2SFJLZ3c5YTByRjN3THZzWnI3d3A4bE1RX1QyRzl1Z1dpY1hMQWNxQ054d055bGhGVmJn?oc=5\" target=\"_bla...",
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxORkRaTDZXZHk0MEVaSzRFMkpqZkdYc3BOVFVOQkktZWc5c3JyUHhYTWNyc0tfRnUybmtJMnhsYWdaWFV2aFk2OTRaeFgwVjlBemhpVGY2QXFIa21yQWo5TjhVREp2ZmtFT3gzV1kyMFozXzdVd0gxMlJaalhXcnBaZDl6czFMeS1tZWVvM29R?oc=5\" target=\"_blank\">DeBoer share...",
     "source_name": "Touchdown Alabama",
-    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWVxd2dkR3hOQ3VfdUs4ZUtZQ1BjdFNsYU1JNko3OVE0YVl6OVJIV1RTd25LNDNjSmo3d0s5SEFLSFZWMFN1QUMzdlBpbjhOUlFVRURMVmkxaWRkVDdqWjBYZTBucGk2SFJLZ3c5YTByRjN3THZzWnI3d3A4bE1RX1QyRzl1Z1dpY1hMQWNxQ054d055bGhGVmJn?oc=5",
-    "reported_at": "2026-11-18T23:29:48+00:00",
-    "last_updated": "2026-11-19T18:50:39.144641+00:00"
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORkRaTDZXZHk0MEVaSzRFMkpqZkdYc3BOVFVOQkktZWc5c3JyUHhYTWNyc0tfRnUybmtJMnhsYWdaWFV2aFk2OTRaeFgwVjlBemhpVGY2QXFIa21yQWo5TjhVREp2ZmtFT3gzV1kyMFozXzdVd0gxMlJaalhXcnBaZDl6czFMeS1tZWVvM29R?oc=5",
+    "reported_at": "2026-11-18T19:03:43+00:00",
+    "last_updated": "2026-11-20T01:39:25.603301+00:00"
+  },
+  {
+    "injury_id": "injury_2c9cda99e203f258",
+    "player_id": null,
+    "player_name": "Unknown",
+    "team": "Georgia",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQclRhajQ5aFE5MHo0aDJKa2picXlfZUdVb2tWemZNeHEyUlVycTNiTlZzX21jSXhZSWpYM3NOLUJJLXZ4MUUwLVA1dGRNaENoaFFsb0gyaGlra1gtZWlNZFlaelNIUmlWNFlTZF9TaHc5Z2hzaDNOQk5hUm53WmUwZGRUVXIxWFpqQlA4aFJSY3JTOVlqX2FCWFcxdDJxS3F5X0NQaE84dVN...",
+    "source_name": "DawgNation",
+    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQclRhajQ5aFE5MHo0aDJKa2picXlfZUdVb2tWemZNeHEyUlVycTNiTlZzX21jSXhZSWpYM3NOLUJJLXZ4MUUwLVA1dGRNaENoaFFsb0gyaGlra1gtZWlNZFlaelNIUmlWNFlTZF9TaHc5Z2hzaDNOQk5hUm53WmUwZGRUVXIxWFpqQlA4aFJSY3JTOVlqX2FCWFcxdDJxS3F5X0NQaE84dVNiU2dfeWNVMTA1bnpiOTZUTTE2UmJLMmczaE5kb3hUellpRFo0TURwUHFSVw?oc=5",
+    "reported_at": "2026-11-19T01:12:03+00:00",
+    "last_updated": "2026-11-20T01:39:25.603320+00:00"
   },
   {
     "injury_id": "injury_9518e9b0f94e67bb",
@@ -62,72 +88,7 @@
     "source_name": "Sports Illustrated",
     "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOblBpNnJDLXd0TzhkT2N2TWE1ckN5YXlqcEJYLUF2Mmx0eW1laWJXeDVqSy1oSHIzNTJCOUxKRzhITzZ6eHdMVl9lZFQyY3hxVXJuMEVkb1hHamhBMFFVcngtX01rY0tMOHEwWm9adVVGa3FLZUlncHZha09uVmgtSzFkUlZuc0UwZVhPbmxtdy1XMjYwSmR2d1FtT0tBUThIWjdxei13a2lPcEdQa21OV3MxQ1lkZw?oc=5",
     "reported_at": "2026-11-19T01:19:00+00:00",
-    "last_updated": "2026-11-19T18:50:39.144657+00:00"
-  },
-  {
-    "injury_id": "injury_2c9cda99e203f258",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "Georgia",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQclRhajQ5aFE5MHo0aDJKa2picXlfZUdVb2tWemZNeHEyUlVycTNiTlZzX21jSXhZSWpYM3NOLUJJLXZ4MUUwLVA1dGRNaENoaFFsb0gyaGlra1gtZWlNZFlaelNIUmlWNFlTZF9TaHc5Z2hzaDNOQk5hUm53WmUwZGRUVXIxWFpqQlA4aFJSY3JTOVlqX2FCWFcxdDJxS3F5X0NQaE84dVN...",
-    "source_name": "DawgNation",
-    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQclRhajQ5aFE5MHo0aDJKa2picXlfZUdVb2tWemZNeHEyUlVycTNiTlZzX21jSXhZSWpYM3NOLUJJLXZ4MUUwLVA1dGRNaENoaFFsb0gyaGlra1gtZWlNZFlaelNIUmlWNFlTZF9TaHc5Z2hzaDNOQk5hUm53WmUwZGRUVXIxWFpqQlA4aFJSY3JTOVlqX2FCWFcxdDJxS3F5X0NQaE84dVNiU2dfeWNVMTA1bnpiOTZUTTE2UmJLMmczaE5kb3hUellpRFo0TURwUHFSVw?oc=5",
-    "reported_at": "2026-11-18T15:30:00+00:00",
-    "last_updated": "2026-11-19T18:50:39.144673+00:00"
-  },
-  {
-    "injury_id": "injury_25f97b050f65bf45",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "Georgia",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeU5HcjEtZlhoUjBnRkkydUhkRGp1QzJ5NXZHTkNzYjc5MHUtaW9hNGpFT01STDJXNXlKUHhMb0o4NHFZSVNOM05GYWVZLTg0ZDZVZFdZVGlHeU1nSGRnd1BfeS1sN3lSbWJfbGZKOGswX25UX1ZKaHFJN0hPdmdzSWpLaTNXbFZuV0VNOWxldkV6aEx6S1BsU0ZkclZqMzE5OGVKLTV4ZFN...",
-    "source_name": "Online Athens",
-    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeU5HcjEtZlhoUjBnRkkydUhkRGp1QzJ5NXZHTkNzYjc5MHUtaW9hNGpFT01STDJXNXlKUHhMb0o4NHFZSVNOM05GYWVZLTg0ZDZVZFdZVGlHeU1nSGRnd1BfeS1sN3lSbWJfbGZKOGswX25UX1ZKaHFJN0hPdmdzSWpLaTNXbFZuV0VNOWxldkV6aEx6S1BsU0ZkclZqMzE5OGVKLTV4ZFNESVlLeDBGdzNrTUZ3UHJvd0hzRTkwSi1vb09Oc0JwNW1CYVVwX0hWUEE?oc=5",
-    "reported_at": "2026-11-19T09:02:00+00:00",
-    "last_updated": "2026-11-19T18:50:39.144688+00:00"
-  },
-  {
-    "injury_id": "injury_fd3a1bfb4dbaa04a",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "Georgia",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOYmRUYTFCdzJERHhJbGdMQ1E5b2l2Vk55aENyOFFHNUNhU09aRUFZbnJfaWN6Q1REV1BTazZJMlBpRGZxS2s0QkJRWHNoSnJCU0ZkSEwyQVEtZ3pMUEttQWhzQU5iOWtpOWgzemFSMXVuYTFiZ1cxTVM4TmhpSzQ5ZHQ4eDlQXzA2T2w5RFRBQ0hZWjYxY1VZcHgwRUJ3ZkxzdVJCRk9ELXR...",
-    "source_name": "Greenville Online",
-    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYmRUYTFCdzJERHhJbGdMQ1E5b2l2Vk55aENyOFFHNUNhU09aRUFZbnJfaWN6Q1REV1BTazZJMlBpRGZxS2s0QkJRWHNoSnJCU0ZkSEwyQVEtZ3pMUEttQWhzQU5iOWtpOWgzemFSMXVuYTFiZ1cxTVM4TmhpSzQ5ZHQ4eDlQXzA2T2w5RFRBQ0hZWjYxY1VZcHgwRUJ3ZkxzdVJCRk9ELXRiUkg5ZmRZRTBfcG9iTFNWRlBwQUdUOWZhU1BXajBJ?oc=5",
-    "reported_at": "2026-11-19T01:49:00+00:00",
-    "last_updated": "2026-11-19T18:50:39.144702+00:00"
-  },
-  {
-    "injury_id": "injury_0fd82ea669d684fe",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "Georgia",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSExNQURweWdlOUJ6WmpwSTBfTm9HRG4ycTVpelpSeGVQdlJUZjF1cWpRSWlOY3ZNal84VGpUNnlCQWgyRHpvOG9xOEpwMnBoQXVzb0dJWEJCVy1ZQUtVd2lfU1ZTZDFvWG02WnJrYzlTcS1tcjdWQ2hnWHd2WUtNaVpUT3hUWTlmNllnMFoyaG96NVhCS0tUcm8wUEVKbG9Mc0lXckZzQ3R...",
-    "source_name": "247Sports",
-    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSExNQURweWdlOUJ6WmpwSTBfTm9HRG4ycTVpelpSeGVQdlJUZjF1cWpRSWlOY3ZNal84VGpUNnlCQWgyRHpvOG9xOEpwMnBoQXVzb0dJWEJCVy1ZQUtVd2lfU1ZTZDFvWG02WnJrYzlTcS1tcjdWQ2hnWHd2WUtNaVpUT3hUWTlmNllnMFoyaG96NVhCS0tUcm8wUEVKbG9Mc0lXckZzQ3RPc3VSeGFBYUx1V3BwWEJzSE0yWDNpTmNDdw?oc=5",
-    "reported_at": "2026-11-19T01:16:53+00:00",
-    "last_updated": "2026-11-19T18:50:39.144719+00:00"
-  },
-  {
-    "injury_id": "injury_6280dd49b591ce7f",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "Georgia",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNaDhIQ2NFT05oS0RhX0RHbklZUXdMR0RFOTRXVGJ1U0pxSXNZZGdleDRwVWFsdlJ5QUgtYjFXclo5MWd1TndyeEIxdjlCLVBZV0x2TjkzZm03bVNWZUV4TmZJLU5LRElTeDFUVWZmOVBPYjVublU0TXNHUnRETTRMM0UxYmt4MUdOeUFUa2hIQjhJam9xclQ2WkJfWGxKZ1BZWUh0Ql9R0gG...",
-    "source_name": "The State",
-    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaDhIQ2NFT05oS0RhX0RHbklZUXdMR0RFOTRXVGJ1U0pxSXNZZGdleDRwVWFsdlJ5QUgtYjFXclo5MWd1TndyeEIxdjlCLVBZV0x2TjkzZm03bVNWZUV4TmZJLU5LRElTeDFUVWZmOVBPYjVublU0TXNHUnRETTRMM0UxYmt4MUdOeUFUa2hIQjhJam9xclQ2WkJfWGxKZ1BZWUh0Ql9R0gGmAUFVX3lxTFBTY0ZWTi1Yb0dUVi1BUklsSW5BMWp0Zkk3Y18tTUYtR29rUTFsTkxzYm9Jb3pNeXA4QndDWDBWMW1jUmhjUldKaU54OG9WbHZ4d1NMUXFkYkF6UUxIblA1RHd4WDNKbHlxYlczcE42dG0zVjl2X0hDV19ONFVaSW9WaVNkTmxIRGVhWVJObjRUNE4tOWVpZll4bDF1ZEFCdjBMcXJuOXc?oc=5",
-    "reported_at": "2026-11-19T12:00:00+00:00",
-    "last_updated": "2026-11-19T18:50:39.144734+00:00"
+    "last_updated": "2026-11-20T01:39:25.603334+00:00"
   },
   {
     "injury_id": "injury_c4f9a1fbea866854",
@@ -140,10 +101,101 @@
     "source_name": "Dawn of the Dawg",
     "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ0lFdXlHSW55ZURiU3p2cnV6YktiSWRsTzNydlVUSjdGdk9janY2OTN1WDhRcWNHRFJadGdZbGJZSXV2WTFoNlUyZDk0SjRXT1pxcF9SWVVEQkNGaXRNamIxZkZUbFFjVkNHallEaURaLTBYYkR0X2tFLXAyeTB5b25YcWtVU3RnY1ZMTVJjZThING9MazNxaU5xSWdsWDBENG5PNHd3?oc=5",
     "reported_at": "2026-11-19T15:15:00+00:00",
-    "last_updated": "2026-11-19T18:50:39.144747+00:00"
+    "last_updated": "2026-11-20T01:39:25.603348+00:00"
   },
   {
-    "injury_id": "injury_bce79061e9893ae0",
+    "injury_id": "injury_74ecc175c0531062",
+    "player_id": null,
+    "player_name": "Unknown",
+    "team": "Georgia",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNM3Zia3VEVENwVEN0NzlEUUtWb3FIa2Y4MkRaemhtd24xc2w5dDlRTVhSNmFmNVJLUG0tQmR3UHQ4WmVwOUpjRVVjc3RHWXhha2JwSmdXUjVVNDV5MlpxVTV3NWM0eG1sMGgzekJnU1pYX0V2VVpMWkl2X1V2b0hpOVZVRktnb2Z4ejJiNmYwRkRrTEZXUmxsdEkwUXg2TDF0VXl3VDNMZVh...",
+    "source_name": "CBS Sports",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM3Zia3VEVENwVEN0NzlEUUtWb3FIa2Y4MkRaemhtd24xc2w5dDlRTVhSNmFmNVJLUG0tQmR3UHQ4WmVwOUpjRVVjc3RHWXhha2JwSmdXUjVVNDV5MlpxVTV3NWM0eG1sMGgzekJnU1pYX0V2VVpMWkl2X1V2b0hpOVZVRktnb2Z4ejJiNmYwRkRrTEZXUmxsdEkwUXg2TDF0VXl3VDNMZVhjNnIwdW95OTZFS0dpX0hUTzVSdg?oc=5",
+    "reported_at": "2026-11-19T20:48:03+00:00",
+    "last_updated": "2026-11-20T01:39:25.603365+00:00"
+  },
+  {
+    "injury_id": "injury_87ec14d45acde882",
+    "player_id": null,
+    "player_name": "Unknown",
+    "team": "Georgia",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPWkxNZDUyalFyVk9yNVpFcldSSjJrRnNQaFJDUVRlTFZxc3VGZmRnMUMxRWZVNnlmcThkVndfUllnYUhxdXNpUE1jYlBSZnVJcENUY0h1ZkhXT1d3dFJNZ04wNDRjZVk2aHBYY1U5eVluRjVxU0tQY0x6aVBrN2Q3MXdVYTg?oc=5\" target=\"_blank\">South Carolina QB Returns...",
+    "source_name": "Yahoo Sports",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWkxNZDUyalFyVk9yNVpFcldSSjJrRnNQaFJDUVRlTFZxc3VGZmRnMUMxRWZVNnlmcThkVndfUllnYUhxdXNpUE1jYlBSZnVJcENUY0h1ZkhXT1d3dFJNZ04wNDRjZVk2aHBYY1U5eVluRjVxU0tQY0x6aVBrN2Q3MXdVYTg?oc=5",
+    "reported_at": "2026-11-19T19:36:59+00:00",
+    "last_updated": "2026-11-20T01:39:25.603379+00:00"
+  },
+  {
+    "injury_id": "injury_323134900a8dae11",
+    "player_id": null,
+    "player_name": "Unknown",
+    "team": "Georgia",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGNrZDJibVVjbU5yZmEyR2tpemhGTUdWWHd4bUx3TFBoaENsRFZiY0lfZy1XVjZSREN5TWdCcjlDd25OVmprUDcyaUtjcHBXWjU2NHVvd3ppUW1sOVpGaER4cVhLRUF2UldySGtWN09XXzRsTXJzbTQ5RmhvZ2x5Z2lQdE9JV0k?oc=5\" target=\"_blank\">How to watch Georgia...",
+    "source_name": "The Atlanta Journal-Constitution",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGNrZDJibVVjbU5yZmEyR2tpemhGTUdWWHd4bUx3TFBoaENsRFZiY0lfZy1XVjZSREN5TWdCcjlDd25OVmprUDcyaUtjcHBXWjU2NHVvd3ppUW1sOVpGaER4cVhLRUF2UldySGtWN09XXzRsTXJzbTQ5RmhvZ2x5Z2lQdE9JV0k?oc=5",
+    "reported_at": "2026-11-19T21:47:25+00:00",
+    "last_updated": "2026-11-20T01:39:25.603391+00:00"
+  },
+  {
+    "injury_id": "injury_25f97b050f65bf45",
+    "player_id": null,
+    "player_name": "Unknown",
+    "team": "Georgia",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeU5HcjEtZlhoUjBnRkkydUhkRGp1QzJ5NXZHTkNzYjc5MHUtaW9hNGpFT01STDJXNXlKUHhMb0o4NHFZSVNOM05GYWVZLTg0ZDZVZFdZVGlHeU1nSGRnd1BfeS1sN3lSbWJfbGZKOGswX25UX1ZKaHFJN0hPdmdzSWpLaTNXbFZuV0VNOWxldkV6aEx6S1BsU0ZkclZqMzE5OGVKLTV4ZFN...",
+    "source_name": "Online Athens",
+    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeU5HcjEtZlhoUjBnRkkydUhkRGp1QzJ5NXZHTkNzYjc5MHUtaW9hNGpFT01STDJXNXlKUHhMb0o4NHFZSVNOM05GYWVZLTg0ZDZVZFdZVGlHeU1nSGRnd1BfeS1sN3lSbWJfbGZKOGswX25UX1ZKaHFJN0hPdmdzSWpLaTNXbFZuV0VNOWxldkV6aEx6S1BsU0ZkclZqMzE5OGVKLTV4ZFNESVlLeDBGdzNrTUZ3UHJvd0hzRTkwSi1vb09Oc0JwNW1CYVVwX0hWUEE?oc=5",
+    "reported_at": "2026-11-19T09:02:00+00:00",
+    "last_updated": "2026-11-20T01:39:25.603406+00:00"
+  },
+  {
+    "injury_id": "injury_a8e8124b177b9872",
+    "player_id": null,
+    "player_name": "Unknown",
+    "team": "Georgia",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQWU9zY2s4V3g1cURwUXcyYXRQODZmT3R3Z0VUR1k4eTBnX0hiOHFJV0tPLUlPbk0waS1zQUUteXFja1NOY2p2R3dMRFJqVUZPM2ZQS2U4UndWb3dEQmNmZDE0M3hFSW5iYlo4OEJGZmF3VlpoXzROLVlzVWMzcE01RzhEUGxsYlV0bFBZd0FiQkFwZkp2WGNSYXI5dE5GT2NLVFM2NzlJOTg...",
+    "source_name": "On3",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWU9zY2s4V3g1cURwUXcyYXRQODZmT3R3Z0VUR1k4eTBnX0hiOHFJV0tPLUlPbk0waS1zQUUteXFja1NOY2p2R3dMRFJqVUZPM2ZQS2U4UndWb3dEQmNmZDE0M3hFSW5iYlo4OEJGZmF3VlpoXzROLVlzVWMzcE01RzhEUGxsYlV0bFBZd0FiQkFwZkp2WGNSYXI5dE5GT2NLVFM2NzlJOTg5ZVpsRDQ1cl9ONA?oc=5",
+    "reported_at": "2026-11-19T21:48:13+00:00",
+    "last_updated": "2026-11-20T01:39:25.603419+00:00"
+  },
+  {
+    "injury_id": "injury_6280dd49b591ce7f",
+    "player_id": null,
+    "player_name": "Unknown",
+    "team": "Georgia",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNaDhIQ2NFT05oS0RhX0RHbklZUXdMR0RFOTRXVGJ1U0pxSXNZZGdleDRwVWFsdlJ5QUgtYjFXclo5MWd1TndyeEIxdjlCLVBZV0x2TjkzZm03bVNWZUV4TmZJLU5LRElTeDFUVWZmOVBPYjVublU0TXNHUnRETTRMM0UxYmt4MUdOeUFUa2hIQjhJam9xclQ2WkJfWGxKZ1BZWUh0Ql9R0gG...",
+    "source_name": "The State",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaDhIQ2NFT05oS0RhX0RHbklZUXdMR0RFOTRXVGJ1U0pxSXNZZGdleDRwVWFsdlJ5QUgtYjFXclo5MWd1TndyeEIxdjlCLVBZV0x2TjkzZm03bVNWZUV4TmZJLU5LRElTeDFUVWZmOVBPYjVublU0TXNHUnRETTRMM0UxYmt4MUdOeUFUa2hIQjhJam9xclQ2WkJfWGxKZ1BZWUh0Ql9R0gGmAUFVX3lxTFBTY0ZWTi1Yb0dUVi1BUklsSW5BMWp0Zkk3Y18tTUYtR29rUTFsTkxzYm9Jb3pNeXA4QndDWDBWMW1jUmhjUldKaU54OG9WbHZ4d1NMUXFkYkF6UUxIblA1RHd4WDNKbHlxYlczcE42dG0zVjl2X0hDV19ONFVaSW9WaVNkTmxIRGVhWVJObjRUNE4tOWVpZll4bDF1ZEFCdjBMcXJuOXc?oc=5",
+    "reported_at": "2026-11-19T12:00:00+00:00",
+    "last_updated": "2026-11-20T01:39:25.603433+00:00"
+  },
+  {
+    "injury_id": "injury_e51e5574f8a1d83d",
+    "player_id": null,
+    "player_name": "Unknown",
+    "team": "Ohio State",
+    "injury_status": "unknown",
+    "body_part": null,
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXhiSHVqaDliWHdMLTFiZmVtdmZ6NnJoZ3dxaTU1QjlYdDhqbTJVbjRzU1hQeU9BN1BkLW1MYUJEXzVvRE5kazJaNXJPaXltUWlzVTY3Vmpqbno5ajNqek1HUTEwaW9tcGpOU1oteUJPVko4VTNudVZFdzUtR1BlZERFSXpyT2tXb0Nn?oc=5\" target=\"_blank\">Ohio State Gets...",
+    "source_name": "Yahoo Sports",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXhiSHVqaDliWHdMLTFiZmVtdmZ6NnJoZ3dxaTU1QjlYdDhqbTJVbjRzU1hQeU9BN1BkLW1MYUJEXzVvRE5kazJaNXJPaXltUWlzVTY3Vmpqbno5ajNqek1HUTEwaW9tcGpOU1oteUJPVko4VTNudVZFdzUtR1BlZERFSXpyT2tXb0Nn?oc=5",
+    "reported_at": "2026-11-19T20:51:27+00:00",
+    "last_updated": "2026-11-20T01:39:25.603446+00:00"
+  },
+  {
+    "injury_id": "injury_a66cd0f9f40b2403",
     "player_id": null,
     "player_name": "Unknown",
     "team": "Ohio State",
@@ -152,34 +204,21 @@
     "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxQbHlYWHh4UlAyVGo0NXBIM05aVWRwVXEwd2c3QWY2aXU1dlplaTNUREVGRVRJckE4RzZLTWVEWjAydWZNR0FVRUM3TkxZRS1TMWdSME1GZXVpMW0xc1NHQmRSTTBVR19tSzRWZFV1dUpObWpvYzQxV05tdkZzUGpKbnQ5bjZ6UEVzc3NTVXZsYk11UU5EX0gzMm1TeGJ4cTVaSncxMkU5MmV...",
     "source_name": "Eleven Warriors",
     "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQbHlYWHh4UlAyVGo0NXBIM05aVWRwVXEwd2c3QWY2aXU1dlplaTNUREVGRVRJckE4RzZLTWVEWjAydWZNR0FVRUM3TkxZRS1TMWdSME1GZXVpMW0xc1NHQmRSTTBVR19tSzRWZFV1dUpObWpvYzQxV05tdkZzUGpKbnQ5bjZ6UEVzc3NTVXZsYk11UU5EX0gzMm1TeGJ4cTVaSncxMkU5MmVET0ctd0JzajZuWFpIWkNvRHNSSGVXTVA3aVBFS1VnRHVSNEZQdkIxdmFLMkVwUmdZcjFxOVNwaTUxYnZXLWhzNk9YTEVRUWJ2UWR0SUVIenh2SGFHemFtcm8yRDRaYVZ6eThV?oc=5",
-    "reported_at": "2026-11-19T01:12:15+00:00",
-    "last_updated": "2026-11-19T18:50:39.144762+00:00"
+    "reported_at": "2026-11-20T01:05:53+00:00",
+    "last_updated": "2026-11-20T01:39:25.603459+00:00"
   },
   {
-    "injury_id": "injury_0e923bbd5d7e2d4b",
+    "injury_id": "injury_ab951125ad8726c6",
     "player_id": null,
     "player_name": "Unknown",
-    "team": "Ohio State",
+    "team": "Michigan",
     "injury_status": "unknown",
     "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGFTT1dNYzU1SkxScWNiLTJpSTVFeVVWaWJ5V0YzLTBjU0cxdXIwaTh4b1JjM3Brek12SWlQblRfd0s4emVuVjdiWmhjZ2lwaHVLSFJmMzVPTUVtLWdYRDFBWFgtYnBtbUoyRDRZZ2QxNTg4aDdUYXllYVI2OC16T1FEcEhFaW0yTXNUTlNXRks?oc=5\" target=\"_blank\">Ohio Stat...",
-    "source_name": "Yahoo Sports",
-    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGFTT1dNYzU1SkxScWNiLTJpSTVFeVVWaWJ5V0YzLTBjU0cxdXIwaTh4b1JjM3Brek12SWlQblRfd0s4emVuVjdiWmhjZ2lwaHVLSFJmMzVPTUVtLWdYRDFBWFgtYnBtbUoyRDRZZ2QxNTg4aDdUYXllYVI2OC16T1FEcEhFaW0yTXNUTlNXRks?oc=5",
-    "reported_at": "2026-11-19T06:57:00+00:00",
-    "last_updated": "2026-11-19T18:50:39.144776+00:00"
-  },
-  {
-    "injury_id": "injury_c2c124c5e14bb621",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "Ohio State",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOdXl5TTRoM2c1eUJHR2NSckUzRzVIMmtiMVBIWlZOa2pnZ0N5UUJHSnR4Q2NUUk9FbFZ6R0ZheW1aV2ZGQ0VNRlBDNkxCcmhhTzJSQ2FSYlotMURQNWhkN1lCNVJiU3BBWlZnUW1JVVRIMHpoaXNBeWJ5NjhkRDBhUzlzdXk3ckxvcE50LWpia1F4ZnBCa3h5eVJrZzF3WlVodENxRkFDN0g...",
-    "source_name": "Husker Corner",
-    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdXl5TTRoM2c1eUJHR2NSckUzRzVIMmtiMVBIWlZOa2pnZ0N5UUJHSnR4Q2NUUk9FbFZ6R0ZheW1aV2ZGQ0VNRlBDNkxCcmhhTzJSQ2FSYlotMURQNWhkN1lCNVJiU3BBWlZnUW1JVVRIMHpoaXNBeWJ5NjhkRDBhUzlzdXk3ckxvcE50LWpia1F4ZnBCa3h5eVJrZzF3WlVodENxRkFDN0g1ZU01QjEzTDNB?oc=5",
-    "reported_at": "2026-11-19T02:10:00+00:00",
-    "last_updated": "2026-11-19T18:50:39.144790+00:00"
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQR3hPSFRoOTZTSlVCeUh6ZVhZWlFYOHMyQzZMU2NOeEJsUUdkeU5DRU9fNTFQUFlNU2N3MkdIQThnUHFBcm01cmNhWm5NTm0xSHkyODd3MXNhYnNuTHJpUEpxU09IWEI3a1RWVkNlaXNwbG16T0RaRDZjSTRvOU9kZXpFT0RFVzEyckl5blV3MUIwVzZ3R1BScHJtVVZ6ek5KX2NaV3o5UQ?...",
+    "source_name": "Sports Illustrated",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR3hPSFRoOTZTSlVCeUh6ZVhZWlFYOHMyQzZMU2NOeEJsUUdkeU5DRU9fNTFQUFlNU2N3MkdIQThnUHFBcm01cmNhWm5NTm0xSHkyODd3MXNhYnNuTHJpUEpxU09IWEI3a1RWVkNlaXNwbG16T0RaRDZjSTRvOU9kZXpFT0RFVzEyckl5blV3MUIwVzZ3R1BScHJtVVZ6ek5KX2NaV3o5UQ?oc=5",
+    "reported_at": "2026-11-20T01:04:51+00:00",
+    "last_updated": "2026-11-20T01:39:25.603475+00:00"
   },
   {
     "injury_id": "injury_8cbf3c17e984636a",
@@ -192,124 +231,7 @@
     "source_name": "Detroit Free Press",
     "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ1JNc0tZMUFpZ3pLTzFlSllCc3NTazlMZW51LTQ2dTRJUzZRX0ZpWUhtQjd6Yl9iTm1YYlZoV1Aza2EyZGV0bUI5RnlOZ01TUU5CdW5tbWpKc05qcndxbU1lQmlxZTAzRTc2SUdxR0JrcjJlRXQxUVdBc0RydXo5aWJtN2RjQUZzSVVxeW90dWdjcjhpVTJ4Y1QwdXliMjhJZ2FRSnVwR25INnZHZVQyLTFvdXNaQzNqX2doclVFZVFaTmQzbk0tM0R1TXNYVGs?oc=5",
     "reported_at": "2026-11-19T02:13:00+00:00",
-    "last_updated": "2026-11-19T18:50:39.144804+00:00"
-  },
-  {
-    "injury_id": "injury_65ab2f4051a60071",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "Michigan",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNmg1NGE4M0ZWS2ZqajBBaVh5N2E2S1BnYUxZc2dBdDNMWjJneUNpbzYycXJjZml0R2hnWGQ1Ri1mVUhMQjJtcy1yYUZ6M3J2ZEVtaGNyZ3R6THIxT3VCUlo2TnNURkhodTQ3Vy13RW9NM3BnZkZCV3cyV3Vzal8taC1CU05vNGtkeUJv?oc=5\" target=\"_blank\">Michigan Rules O...",
-    "source_name": "Yahoo Sports",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNmg1NGE4M0ZWS2ZqajBBaVh5N2E2S1BnYUxZc2dBdDNMWjJneUNpbzYycXJjZml0R2hnWGQ1Ri1mVUhMQjJtcy1yYUZ6M3J2ZEVtaGNyZ3R6THIxT3VCUlo2TnNURkhodTQ3Vy13RW9NM3BnZkZCV3cyV3Vzal8taC1CU05vNGtkeUJv?oc=5",
-    "reported_at": "2026-11-19T16:35:00+00:00",
-    "last_updated": "2026-11-19T18:50:39.144817+00:00"
-  },
-  {
-    "injury_id": "injury_518e4c2b35fef794",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "Michigan",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQeGpRQnJTX0lFazNFUmNKekVLazV0d0h0UlVZUVI2ekEzRDk5aUpXUTFIbjg2dFZNaWlObkZtNklJWEJIOGlhcUZtYmVlNXBKUURJZXVvc25XOWN1QmcxYnh5T2V3Z2tXSFFXZjl4MXpHUmsyaUgyVFNsZmUweTRKLU12aU5Rdk5QUzhLZC16Zm9LRjlIQlV3THpvWXFhYXVNR0FGZ0JpS1F...",
-    "source_name": "Sports Illustrated",
-    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeGpRQnJTX0lFazNFUmNKekVLazV0d0h0UlVZUVI2ekEzRDk5aUpXUTFIbjg2dFZNaWlObkZtNklJWEJIOGlhcUZtYmVlNXBKUURJZXVvc25XOWN1QmcxYnh5T2V3Z2tXSFFXZjl4MXpHUmsyaUgyVFNsZmUweTRKLU12aU5Rdk5QUzhLZC16Zm9LRjlIQlV3THpvWXFhYXVNR0FGZ0JpS1Fyd28taVFXS1NJZzBwUQ?oc=5",
-    "reported_at": "2026-11-19T01:04:42+00:00",
-    "last_updated": "2026-11-19T18:50:39.144833+00:00"
-  },
-  {
-    "injury_id": "injury_595789ac676650aa",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "Michigan",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRFY0Vjc1Q1c2R0w1Yl9DdDlISXRpU2dlTF9nMlpFdi1OMVg4RjlkMGk4NVB2bnEyWWRZUzRkLXJXNlJTQ0l0cTV5ejNiSDcxeEFXMDNyY3VuVjdGNG8zLWxscEdnMW94X1BMbFJMZHQ3N2h6Zlp0NGhxY2VVRzlxSWZGX0ljNTJYZ1hmb205Z1FCVldwVGZ6ZlpSVHJWNE1LVmVjeTVJR1N...",
-    "source_name": "ClickOnDetroit | WDIV Local 4",
-    "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRFY0Vjc1Q1c2R0w1Yl9DdDlISXRpU2dlTF9nMlpFdi1OMVg4RjlkMGk4NVB2bnEyWWRZUzRkLXJXNlJTQ0l0cTV5ejNiSDcxeEFXMDNyY3VuVjdGNG8zLWxscEdnMW94X1BMbFJMZHQ3N2h6Zlp0NGhxY2VVRzlxSWZGX0ljNTJYZ1hmb205Z1FCVldwVGZ6ZlpSVHJWNE1LVmVjeTVJR1NXLXZjUGlJQS0yVkZiYUxjRG5nQjVRZFF4UzlzVkFaUTROVG1BXy1CUHprakx1M2k0VXhZeGFBaFFn?oc=5",
-    "reported_at": "2026-11-17T02:08:40+00:00",
-    "last_updated": "2026-11-19T18:50:39.144847+00:00"
-  },
-  {
-    "injury_id": "injury_e022c18fef822145",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "Michigan",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPS2lOZlhGbHlTUE9RQ1pjYVVGbnRJUy0yelpKczNPMXpqVjAxOWdBRnZhcUxScE5QaHAzWGlfVmItU0RVUjIyWDlyVUIwTFJyYmhCNzBWWjBlaVZlRmJnNXR4TkVMVHdGVGtDTmFOMFZxQkxBMU5raDRBLUhjWGRUdlBn?oc=5\" target=\"_blank\">Michigan football vs. UCLA i...",
-    "source_name": "AOL.com",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS2lOZlhGbHlTUE9RQ1pjYVVGbnRJUy0yelpKczNPMXpqVjAxOWdBRnZhcUxScE5QaHAzWGlfVmItU0RVUjIyWDlyVUIwTFJyYmhCNzBWWjBlaVZlRmJnNXR4TkVMVHdGVGtDTmFOMFZxQkxBMU5raDRBLUhjWGRUdlBn?oc=5",
-    "reported_at": "2026-11-19T15:31:06+00:00",
-    "last_updated": "2026-11-19T18:50:39.144861+00:00"
-  },
-  {
-    "injury_id": "injury_145ae4bc6bb37313",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "Michigan",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTFlESU4yTU9UYWZaWHRvZDRkbFFQRFp6eWtTbEhnR2JhR3B4V1pmSVY5Q3NJWUxDMWNUOTJSbVMza2hId0U1d1VGVVh1TlpLZjg3R003eTkwTm1OT3hham12NmwzMzM0bWludGdGSnZXTFBMZXlFRkRra3M4ZW1ITVBGQ1l1U2NLc0prNXZmekxydGdMeXg3Mi14SnNRS2tJc3Fxb2k2YlN...",
-    "source_name": "247Sports",
-    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTFlESU4yTU9UYWZaWHRvZDRkbFFQRFp6eWtTbEhnR2JhR3B4V1pmSVY5Q3NJWUxDMWNUOTJSbVMza2hId0U1d1VGVVh1TlpLZjg3R003eTkwTm1OT3hham12NmwzMzM0bWludGdGSnZXTFBMZXlFRkRra3M4ZW1ITVBGQ1l1U2NLc0prNXZmekxydGdMeXg3Mi14SnNRS2tJc3Fxb2k2YlNkMFRpTHlUdHZaZEFNVzgyS0toWHlpX2hyQ18tVU9rQ0s5U0htT2ZPSlNFUjZyRWU3QQ?oc=5",
-    "reported_at": "2026-11-19T01:21:23+00:00",
-    "last_updated": "2026-11-19T18:50:39.144877+00:00"
-  },
-  {
-    "injury_id": "injury_6b5c40dc768052bd",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "Michigan",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPanVacmI5a2RmZXBrTjVWR3pKVW81cUk1MzlpRnVHLW5aeUkwUjN3TXp6WFVTTll4cXA5bWpYd2VfVHVJTWUxempwd3ZhTy1iT0N5Mm1Ma3JtYkpuUDUwYmpMNC1JN1Z4THlsMFlfTTJhdTMydXZHMWZUdGQ1VnNDcmVxLWJmTFNPSEIyekhCRzBUU0RscXo5UXdJaVREU1ktb0MtdDlsMVR...",
-    "source_name": "The Register-Guard",
-    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPanVacmI5a2RmZXBrTjVWR3pKVW81cUk1MzlpRnVHLW5aeUkwUjN3TXp6WFVTTll4cXA5bWpYd2VfVHVJTWUxempwd3ZhTy1iT0N5Mm1Ma3JtYkpuUDUwYmpMNC1JN1Z4THlsMFlfTTJhdTMydXZHMWZUdGQ1VnNDcmVxLWJmTFNPSEIyekhCRzBUU0RscXo5UXdJaVREU1ktb0MtdDlsMVRJbFVxbVBqNWdFeTZVemRpUFFFZnFxNGtUQUxxTThpdm1UR1I0QzQ?oc=5",
-    "reported_at": "2026-11-18T01:41:39+00:00",
-    "last_updated": "2026-11-19T18:50:39.144904+00:00"
-  },
-  {
-    "injury_id": "injury_46536b0bc1bfc264",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "Michigan",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZEg1eEllRlc0TTFPUkVjV2NnTHg2LVVwOUtpeGZSOEdiVXIyVkFRd3JxT044ZmY5Z1Z6Rkl4M0pCWjNkNXFGY09LeWVIM21RRzJsMk00dlRGbVJ6M0JjUnBxN0JMR0hkRFBmRXRjT3dqdUZlNGQ4Q2QwQVZwdjh1TzJnMEdpRFBnUThCNEFiVUgtX2l1X3lHZXVCUk9NZ1RQMXpkQlpSd0t...",
-    "source_name": "Wolverines Wire",
-    "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZEg1eEllRlc0TTFPUkVjV2NnTHg2LVVwOUtpeGZSOEdiVXIyVkFRd3JxT044ZmY5Z1Z6Rkl4M0pCWjNkNXFGY09LeWVIM21RRzJsMk00dlRGbVJ6M0JjUnBxN0JMR0hkRFBmRXRjT3dqdUZlNGQ4Q2QwQVZwdjh1TzJnMEdpRFBnUThCNEFiVUgtX2l1X3lHZXVCUk9NZ1RQMXpkQlpSd0t0LVlheTRUWXc4bW5sclowZlFFQjYwbXFTdnQxekdiVVRoVGhraEdRenJkQ3JLb2JiUzZtSVc4dktfRU12WlNQNjZXOTdDT09qdw?oc=5",
-    "reported_at": "2026-11-16T17:21:00+00:00",
-    "last_updated": "2026-11-19T18:50:39.144921+00:00"
-  },
-  {
-    "injury_id": "injury_e96e5abaacda0fdf",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "Michigan",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPeGlOMFpucU5EMjRCSFhJR0h4MEpDSjI3SzRVeWN1aTlvd0ZUMHpZTk9Mc09LWmJaWGJNODdxcnhPakFSR3l5TkJremRvTmRqM2h2cDlPX3paOUtDOEZfS0IzNlQzM2R1R19CbVlhc0c3Z2YxY3diQ0xIU1lRMjg5OEo0bHNjMGNMV09pUG15YnZuSXNLT3djR0hMQzV4LTFpeHAxMG1pM1M...",
-    "source_name": "On3",
-    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeGlOMFpucU5EMjRCSFhJR0h4MEpDSjI3SzRVeWN1aTlvd0ZUMHpZTk9Mc09LWmJaWGJNODdxcnhPakFSR3l5TkJremRvTmRqM2h2cDlPX3paOUtDOEZfS0IzNlQzM2R1R19CbVlhc0c3Z2YxY3diQ0xIU1lRMjg5OEo0bHNjMGNMV09pUG15YnZuSXNLT3djR0hMQzV4LTFpeHAxMG1pM1MtNjZzbEcwMUlzOG5sVnZUSDBCQURtVGNzOHA5?oc=5",
-    "reported_at": "2026-11-19T01:09:07+00:00",
-    "last_updated": "2026-11-19T18:50:39.144935+00:00"
-  },
-  {
-    "injury_id": "injury_46cac8b093394a55",
-    "player_id": null,
-    "player_name": "Unknown",
-    "team": "Texas",
-    "injury_status": "unknown",
-    "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXBIMEVzRDdvZlNqYTJTQnI2ZnBPVDFKMWQ2NUJMczdidGNBYjRWV2Z1Tjg4M2dSbVYza203bWd4eDROS2w2eDJ1QnhBSDV4VngxYmRkUGtNb2hGczFzV3lQZGVOVGp3bFZmU0xRYTNfZkdQRk4wdkxVU21aeHVzcnJwdXN6ZmluSG9Dd1ROcVdNdTlXeDgxLVc2YVJTZXc?oc=5\" targe...",
-    "source_name": "Burnt Orange Nation",
-    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXBIMEVzRDdvZlNqYTJTQnI2ZnBPVDFKMWQ2NUJMczdidGNBYjRWV2Z1Tjg4M2dSbVYza203bWd4eDROS2w2eDJ1QnhBSDV4VngxYmRkUGtNb2hGczFzV3lQZGVOVGp3bFZmU0xRYTNfZkdQRk4wdkxVU21aeHVzcnJwdXN6ZmluSG9Dd1ROcVdNdTlXeDgxLVc2YVJTZXc?oc=5",
-    "reported_at": "2026-11-19T01:33:06+00:00",
-    "last_updated": "2026-11-19T18:50:39.144949+00:00"
+    "last_updated": "2026-11-20T01:39:25.603488+00:00"
   },
   {
     "injury_id": "injury_ad951f49ddb05303",
@@ -322,7 +244,7 @@
     "source_name": "Yahoo Sports",
     "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWhqeFkxX1d3dTJKRWhBQUx4cnNPOU9jeTVtLUE0Q0xFTzlIMnhhNTN1SzJlbzk1U0FnSF9IMGw2M2tHRXNPcWpkcXlqSnh4ckx3OVdJTTgteHB1NkZYV2N3QVk2X1E4VXhGQ1ExdjdMbUF5WkVWdTB3OU9BeElTWFhlZTJLODRZMHNz?oc=5",
     "reported_at": "2026-11-19T03:49:00+00:00",
-    "last_updated": "2026-11-19T18:50:39.144969+00:00"
+    "last_updated": "2026-11-20T01:39:25.603507+00:00"
   },
   {
     "injury_id": "injury_008af576c1b55bff",
@@ -335,20 +257,20 @@
     "source_name": "On3",
     "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWjZPdE1aOUtPdTJrRENhbU92b3lfTjRvcW8zazNGNjNWTDQ3ZWRGOHRoT1hEbXBJOTdiMWxpZndiT1l6aTZ0Nk9fLXZIbjIwTFI5TWtYZm1xM1Btdl9oMGoxakNJb1Zva3dXSjlsWlZFSm5vUzM3ejZZMi02RXRlNUd3UDhpRFRzR1E4MUtlV2xHQnU1bjZVUE1xQzBCU3IyOFp0Uk9oMFFrTG90OE5OQzVBakJhaEhmVE5ZRDFZay1jMExZeFJmSjVB?oc=5",
     "reported_at": "2026-11-19T04:30:56+00:00",
-    "last_updated": "2026-11-19T18:50:39.144985+00:00"
+    "last_updated": "2026-11-20T01:39:25.603520+00:00"
   },
   {
-    "injury_id": "injury_1a85d62c87f865fd",
+    "injury_id": "injury_6cd8a06610dc4be0",
     "player_id": null,
     "player_name": "Unknown",
     "team": "Texas",
     "injury_status": "unknown",
     "body_part": null,
-    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa05BUjFTQV80c0ZIYVIzMWdQM2RLYUhrR3A1bWlmbERyT3RSWDlrdkhPellwM1BfdnA1NzhuZlB4U1o5UDVYRXZWS3JtQlpVZzV6em1uLUVieG5KRWYyLUJWLUZQSElub0JhM01qaEd6aDZOT3FYMXBKWERHR0ctSkhrQ3QtZFFnOG5hdi13a3JJcnJMYjlBRkYtN2w2UUY2WDFPbWZyZW9...",
-    "source_name": "Whole Hog Sports",
-    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa05BUjFTQV80c0ZIYVIzMWdQM2RLYUhrR3A1bWlmbERyT3RSWDlrdkhPellwM1BfdnA1NzhuZlB4U1o5UDVYRXZWS3JtQlpVZzV6em1uLUVieG5KRWYyLUJWLUZQSElub0JhM01qaEd6aDZOT3FYMXBKWERHR0ctSkhrQ3QtZFFnOG5hdi13a3JJcnJMYjlBRkYtN2w2UUY2WDFPbWZyZW9rZEwwN1d3OEdhb3Q0STRRRU9YYW8tQTBKRUtxQm43LV9jV2RIY0I3ekZtdVgtM0x5dw?oc=5",
-    "reported_at": "2026-11-19T01:23:00+00:00",
-    "last_updated": "2026-11-19T18:50:39.145000+00:00"
+    "report_text_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPRkwydWNKWHpZOVM0VmFRMmRHTlRNTG1kZHUxQmdYTlhydGpCX01zMjh5djZVQWlGYlVsMGNwMjFOeWhuekVpeVZCNFJtejJQN2FmdFFvSC1RTWdxQXVZd1JEbmpkRllRMUhIZmt6TC1nU3gtQlN1ajMtVWVnTEcxRHZpZFRyUGk1UTZ5UHhLWVlGSlhkREJOQjdFYUJ1eGhEdFNmMENSTGZ...",
+    "source_name": "Sports Illustrated",
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRkwydWNKWHpZOVM0VmFRMmRHTlRNTG1kZHUxQmdYTlhydGpCX01zMjh5djZVQWlGYlVsMGNwMjFOeWhuekVpeVZCNFJtejJQN2FmdFFvSC1RTWdxQXVZd1JEbmpkRllRMUhIZmt6TC1nU3gtQlN1ajMtVWVnTEcxRHZpZFRyUGk1UTZ5UHhLWVlGSlhkREJOQjdFYUJ1eGhEdFNmMENSTGZRbzdYV0l4OWNYSE5kbGxsV3Mxa2lR?oc=5",
+    "reported_at": "2026-11-18T14:30:00+00:00",
+    "last_updated": "2026-11-20T01:39:25.603533+00:00"
   },
   {
     "injury_id": "injury_47dac3d90feceafd",
@@ -361,6 +283,6 @@
     "source_name": "Sooners Wire",
     "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbGVVR0o1RXZrUjBmMWVQRXNHalhOVnE0aTMtMUhaNVlPTHg3WTRNZ0hIT3BmTWlTU04tcHpablhqd3pwX0VHMFFmeDR2dVUtYWlMbThNZkVEUVVZN0FtV3MzUDgzWG9CNE1yRWRvUWJtVkVSclhjUGNrakw4bU4tZ1pQWTFaekQxYXFlQlhVRm9FOHdUaElWc19Ob3RLSWh6ODRwZVFuZkpTNVN6amZvbENxODJYTjJaaG4zTlJMemZybjlIdWZlbk9IUjFRWVdWcnAxdmsybTFvSHRBanRkME9jb1A?oc=5",
     "reported_at": "2026-11-19T03:49:00+00:00",
-    "last_updated": "2026-11-19T18:50:39.145014+00:00"
+    "last_updated": "2026-11-20T01:39:25.603548+00:00"
   }
 ]
